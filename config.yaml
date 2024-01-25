@@ -36,7 +36,7 @@ keywords:
     # "NeRF":
     #     filters: ["NeRF"] 
     "Open-Vocabulary":
-        filters: ["Open-Vocabulary", "Zero-shot"]
+        filters: ["Open-Vocabulary", "Zero-shot", "Open Vocabulary"]
     "Open-Vocabulary Segmentation":
         filters: ["Open-Vocabulary Segmentation", "Open-Vocabulary Semantic Segmentation", "Zero-Shot Open-Vocabulary Segmentation", "SAM"]
     "Semantic Segmentation":
