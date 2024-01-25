@@ -107,8 +107,6 @@
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 
 <p align=right>(<a href=#updated-on-20240125>back to top</a>)</p>
-<<<<<<< HEAD
-=======
 
 ## Open-Vocabulary
 
@@ -126,7 +124,6 @@
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
 <p align=right>(<a href=#updated-on-20240125>back to top</a>)</p>
->>>>>>> 884f6a7 (upd)
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
