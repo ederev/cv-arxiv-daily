@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-24**|**Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation**|Saiyang Na et.al.|[2401.13220](http://arxiv.org/abs/2401.13220)|null|
 |**2024-01-24**|**Boundary and Relation Distillation for Semantic Segmentation**|Dong Zhang et.al.|[2401.13174](http://arxiv.org/abs/2401.13174)|null|
 |**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820](http://arxiv.org/abs/2401.12820)|null|
@@ -41,14 +42,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|null|
+|**2024-01-25**|**Rethinking Patch Dependence for Masked Autoencoders**|Letian Fu et.al.|[2401.14391](http://arxiv.org/abs/2401.14391)|null|
+|**2024-01-25**|**On generalisability of segment anything model for nuclear instance segmentation in histology images**|Kesi Xu et.al.|[2401.14248](http://arxiv.org/abs/2401.14248)|null|
+|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|**[link](https://github.com/hithqd/unim-ov3d)**|
 |**2024-01-19**|**One Step Learning, One Step Review**|Xiaolong Huang et.al.|[2401.10962](http://arxiv.org/abs/2401.10962)|**[link](https://github.com/rainbow-xiao/olor-aaai-2024)**|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-19**|**Skeleton-Guided Instance Separation for Fine-Grained Segmentation in Microscopy**|Jun Wang et.al.|[2401.09895](http://arxiv.org/abs/2401.09895)|null|
 |**2024-01-18**|**SEINE: Structure Encoding and Interaction Network for Nuclei Instance Segmentation**|Ye Zhang et.al.|[2401.09773](http://arxiv.org/abs/2401.09773)|null|
 |**2024-01-18**|**Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation**|Zesen Cheng et.al.|[2401.09732](http://arxiv.org/abs/2401.09732)|**[link](https://github.com/sennnnn/openvis)**|
 |**2024-01-18**|**P2Seg: Pointly-supervised Segmentation via Mutual Distillation**|Zipeng Wang et.al.|[2401.09709](http://arxiv.org/abs/2401.09709)|null|
-|**2024-01-17**|**SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI**|Jiasong Chen et.al.|[2401.09627](http://arxiv.org/abs/2401.09627)|**[link](https://github.com/jiasongchen/symtc)**|
+|**2024-01-25**|**SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI**|Jiasong Chen et.al.|[2401.09627](http://arxiv.org/abs/2401.09627)|**[link](https://github.com/jiasongchen/symtc)**|
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
@@ -58,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761](http://arxiv.org/abs/2401.12761)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-18**|**OMG-Seg: Is One Model Good Enough For All Segmentation?**|Xiangtai Li et.al.|[2401.10229](http://arxiv.org/abs/2401.10229)|**[link](https://github.com/lxtgh/omg-seg)**|
@@ -75,6 +79,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
+|**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314](http://arxiv.org/abs/2401.14314)|null|
+|**2024-01-25**|**Knowledge Graph Driven UAV Cognitive Semantic Communication Systems for Efficient Object Detection**|Xi Song et.al.|[2401.13995](http://arxiv.org/abs/2401.13995)|null|
 |**2024-01-24**|**PLATE: A perception-latency aware estimator,**|Rodrigo Aldana-López et.al.|[2401.13596](http://arxiv.org/abs/2401.13596)|null|
 |**2024-01-24**|**Deep Learning for Improved Polyp Detection from Synthetic Narrow-Band Imaging**|Mathias Ramm Haugland et.al.|[2401.13315](http://arxiv.org/abs/2401.13315)|null|
 |**2024-01-24**|**AMANet: Advancing SAR Ship Detection with Adaptive Multi-Hierarchical Attention Network**|Xiaolin Ma et.al.|[2401.13214](http://arxiv.org/abs/2401.13214)|null|
@@ -112,10 +119,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|null|
+|**2024-01-25**|**True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning**|Weihao Tan et.al.|[2401.14151](http://arxiv.org/abs/2401.14151)|**[link](https://github.com/weihaotan/twosome)**|
 |**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|null|
 |**2024-01-22**|**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**|Peiqi Liu et.al.|[2401.12202](http://arxiv.org/abs/2401.12202)|null|
 |**2024-01-22**|**HomeRobot Open Vocabulary Mobile Manipulation Challenge 2023 Participant Report (Team KuzHum)**|Volodymyr Kuzma et.al.|[2401.12048](http://arxiv.org/abs/2401.12048)|null|
-|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|null|
+|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|**[link](https://github.com/hithqd/unim-ov3d)**|
 |**2024-01-18**|**OMG-Seg: Is One Model Good Enough For All Segmentation?**|Xiangtai Li et.al.|[2401.10229](http://arxiv.org/abs/2401.10229)|**[link](https://github.com/lxtgh/omg-seg)**|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-18**|**Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation**|Zesen Cheng et.al.|[2401.09732](http://arxiv.org/abs/2401.09732)|**[link](https://github.com/sennnnn/openvis)**|
