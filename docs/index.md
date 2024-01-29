@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**SSR: SAM is a Strong Regularizer for domain adaptive semantic segmentation**|Yanqi Ge et.al.|[2401.14686](http://arxiv.org/abs/2401.14686)|null|
+|**2024-01-25**|**CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds**|Muhammad Ahmed Chaudhry et.al.|[2401.14486](http://arxiv.org/abs/2401.14486)|null|
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-24**|**Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation**|Saiyang Na et.al.|[2401.13220](http://arxiv.org/abs/2401.13220)|null|
 |**2024-01-24**|**Boundary and Relation Distillation for Semantic Segmentation**|Dong Zhang et.al.|[2401.13174](http://arxiv.org/abs/2401.13174)|null|
@@ -21,7 +23,7 @@ layout: default
 |**2024-01-23**|**Self-Supervised Vision Transformers Are Efficient Segmentation Learners for Imperfect Labels**|Seungho Lee et.al.|[2401.12535](http://arxiv.org/abs/2401.12535)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge**|Yao Lu et.al.|[2401.12350](http://arxiv.org/abs/2401.12350)|null|
-|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|null|
+|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|**[link](https://github.com/zlai0/s-seg)**|
 |**2024-01-22**|**Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**|Will LeVine et.al.|[2401.12129](http://arxiv.org/abs/2401.12129)|**[link](https://github.com/anonymousoodauthor/abet)**|
 |**2024-01-22**|**HomeRobot Open Vocabulary Mobile Manipulation Challenge 2023 Participant Report (Team KuzHum)**|Volodymyr Kuzma et.al.|[2401.12048](http://arxiv.org/abs/2401.12048)|null|
 |**2024-01-22**|**SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation**|Ci-Siang Lin et.al.|[2401.11791](http://arxiv.org/abs/2401.11791)|null|
@@ -32,6 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds**|Muhammad Ahmed Chaudhry et.al.|[2401.14486](http://arxiv.org/abs/2401.14486)|null|
 |**2024-01-25**|**Rethinking Patch Dependence for Masked Autoencoders**|Letian Fu et.al.|[2401.14391](http://arxiv.org/abs/2401.14391)|null|
 |**2024-01-25**|**On generalisability of segment anything model for nuclear instance segmentation in histology images**|Kesi Xu et.al.|[2401.14248](http://arxiv.org/abs/2401.14248)|null|
 |**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|**[link](https://github.com/hithqd/unim-ov3d)**|
@@ -65,6 +68,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**pLitterStreet: Street Level Plastic Litter Detection and Mapping**|Sriram Reddy Mandhati et.al.|[2401.14719](http://arxiv.org/abs/2401.14719)|null|
+|**2024-01-26**|**From Blurry to Brilliant Detection: YOLOv5-Based Aerial Object Detection with Super Resolution**|Ragib Amin Nihal et.al.|[2401.14661](http://arxiv.org/abs/2401.14661)|null|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
 |**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314](http://arxiv.org/abs/2401.14314)|null|
 |**2024-01-25**|**Knowledge Graph Driven UAV Cognitive Semantic Communication Systems for Efficient Object Detection**|Xi Song et.al.|[2401.13995](http://arxiv.org/abs/2401.13995)|null|
@@ -103,7 +108,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-25**|**True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning**|Weihao Tan et.al.|[2401.14151](http://arxiv.org/abs/2401.14151)|**[link](https://github.com/weihaotan/twosome)**|
-|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|null|
+|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|**[link](https://github.com/zlai0/s-seg)**|
 |**2024-01-22**|**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**|Peiqi Liu et.al.|[2401.12202](http://arxiv.org/abs/2401.12202)|null|
 |**2024-01-22**|**HomeRobot Open Vocabulary Mobile Manipulation Challenge 2023 Participant Report (Team KuzHum)**|Volodymyr Kuzma et.al.|[2401.12048](http://arxiv.org/abs/2401.12048)|null|
 |**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|**[link](https://github.com/hithqd/unim-ov3d)**|
