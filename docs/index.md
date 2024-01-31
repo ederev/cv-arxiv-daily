@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013](http://arxiv.org/abs/2401.17013)|null|
+|**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886](http://arxiv.org/abs/2401.16886)|null|
+|**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-28**|**SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks**|Serdar Erisen et.al.|[2401.15741](http://arxiv.org/abs/2401.15741)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
 |**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261](http://arxiv.org/abs/2401.15261)|null|
@@ -39,8 +42,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
+|**2024-01-29**|**SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design**|Seokju Yun et.al.|[2401.16456](http://arxiv.org/abs/2401.16456)|null|
 |**2024-01-28**|**SegmentAnyTree: A sensor and platform agnostic deep learning model for tree segmentation using laser scanning data**|Maciej Wielgosz et.al.|[2401.15739](http://arxiv.org/abs/2401.15739)|null|
-|**2024-01-27**|**SAM-based instance segmentation models for the automation of masonry crack detection**|Zehao Ye et.al.|[2401.15266](http://arxiv.org/abs/2401.15266)|null|
+|**2024-01-30**|**SAM-based instance segmentation models for the automation of structural damage detection**|Zehao Ye et.al.|[2401.15266](http://arxiv.org/abs/2401.15266)|null|
 |**2024-01-25**|**CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds**|Muhammad Ahmed Chaudhry et.al.|[2401.14486](http://arxiv.org/abs/2401.14486)|null|
 |**2024-01-25**|**Rethinking Patch Dependence for Masked Autoencoders**|Letian Fu et.al.|[2401.14391](http://arxiv.org/abs/2401.14391)|null|
 |**2024-01-25**|**On generalisability of segment anything model for nuclear instance segmentation in histology images**|Kesi Xu et.al.|[2401.14248](http://arxiv.org/abs/2401.14248)|null|
@@ -75,6 +80,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
+|**2024-01-30**|**A Bearing-Angle Approach for Unknown Target Motion Analysis Based on Visual Measurements**|Zian Ning et.al.|[2401.17117](http://arxiv.org/abs/2401.17117)|null|
+|**2024-01-30**|**LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras**|Fei Teng et.al.|[2401.16712](http://arxiv.org/abs/2401.16712)|null|
+|**2024-01-30**|**Characterization of Magnetic Labyrinthine Structures through Junctions and Terminals Detection using Template Matching and CNN**|Vinícius Yu Okubo et.al.|[2401.16688](http://arxiv.org/abs/2401.16688)|null|
+|**2024-01-30**|**The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**|Ross Greer et.al.|[2401.16634](http://arxiv.org/abs/2401.16634)|null|
+|**2024-01-29**|**SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design**|Seokju Yun et.al.|[2401.16456](http://arxiv.org/abs/2401.16456)|null|
 |**2024-01-29**|**Computer Vision for Primate Behavior Analysis in the Wild**|Richard Vogg et.al.|[2401.16424](http://arxiv.org/abs/2401.16424)|null|
 |**2024-01-29**|**MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection**|Yuxue Yang et.al.|[2401.16305](http://arxiv.org/abs/2401.16305)|null|
 |**2024-01-29**|**Towards Scenario Generalization for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2401.16110](http://arxiv.org/abs/2401.16110)|null|
@@ -123,6 +134,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
+|**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
 |**2024-01-29**|**LCVO: An Efficient Pretraining-Free Framework for Visual Question Answering Grounding**|Yuhan Chen et.al.|[2401.15842](http://arxiv.org/abs/2401.15842)|null|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
