@@ -14,9 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-31**|**Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**|Zihan Zhong et.al.|[2401.17868](http://arxiv.org/abs/2401.17868)|null|
+|**2024-02-01**|**We're Not Using Videos Effectively: An Updated Domain Adaptive Video Segmentation Baseline**|Simar Kareer et.al.|[2402.00868](http://arxiv.org/abs/2402.00868)|**[link](https://github.com/simarkareer/unifiedvideoda)**|
+|**2024-02-01**|**Automatic Segmentation of the Spinal Cord Nerve Rootlets**|Jan Valosek et.al.|[2402.00724](http://arxiv.org/abs/2402.00724)|null|
+|**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
+|**2024-01-31**|**Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**|Zihan Zhong et.al.|[2401.17868](http://arxiv.org/abs/2401.17868)|**[link](https://github.com/autogluon/autogluon)**|
 |**2024-01-31**|**Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation**|Rozhan Ahmadi et.al.|[2401.17828](http://arxiv.org/abs/2401.17828)|null|
-|**2024-01-31**|**Tiered approach for rapid damage characterisation of infrastructure enabled by remote sensing and deep learning technologies**|Nadiia Kopiika et.al.|[2401.17759](http://arxiv.org/abs/2401.17759)|null|
+|**2024-02-01**|**Tiered approach for rapid damage characterisation of infrastructure enabled by remote sensing and deep learning technologies**|Nadiia Kopiika et.al.|[2401.17759](http://arxiv.org/abs/2401.17759)|null|
 |**2024-01-31**|**Towards Image Semantics and Syntax Sequence Learning**|Chun Tao et.al.|[2401.17515](http://arxiv.org/abs/2401.17515)|null|
 |**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013](http://arxiv.org/abs/2401.17013)|null|
 |**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886](http://arxiv.org/abs/2401.16886)|null|
@@ -46,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**A Manifold Representation of the Key in Vision Transformers**|Li Meng et.al.|[2402.00534](http://arxiv.org/abs/2402.00534)|null|
 |**2024-01-31**|**Shrub of a thousand faces: an individual segmentation from satellite images using deep learning**|Rohaifa Khaldi et.al.|[2401.17985](http://arxiv.org/abs/2401.17985)|null|
 |**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
 |**2024-01-29**|**SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design**|Seokju Yun et.al.|[2401.16456](http://arxiv.org/abs/2401.16456)|null|
@@ -85,6 +89,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Vehicle Perception from Satellite**|Bin Zhao et.al.|[2402.00703](http://arxiv.org/abs/2402.00703)|**[link](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos)**|
+|**2024-02-01**|**A Manifold Representation of the Key in Vision Transformers**|Li Meng et.al.|[2402.00534](http://arxiv.org/abs/2402.00534)|null|
+|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330](http://arxiv.org/abs/2402.00330)|null|
+|**2024-02-01**|**FineBio: A Fine-Grained Video Dataset of Biological Experiments with Hierarchical Annotation**|Takuma Yagi et.al.|[2402.00293](http://arxiv.org/abs/2402.00293)|null|
+|**2024-01-31**|**Capacity Constraint Analysis Using Object Detection for Smart Manufacturing**|Hafiz Mughees Ahmad et.al.|[2402.00243](http://arxiv.org/abs/2402.00243)|null|
+|**2024-01-31**|**Improving Object Detection Quality in Football Through Super-Resolution Techniques**|Karolina Seweryn et.al.|[2402.00163](http://arxiv.org/abs/2402.00163)|null|
+|**2024-01-31**|**Real-time Traffic Object Detection for Autonomous Driving**|Abdul Hannan Khan et.al.|[2402.00128](http://arxiv.org/abs/2402.00128)|null|
 |**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981](http://arxiv.org/abs/2401.17981)|null|
 |**2024-01-31**|**MelNet: A Real-Time Deep Learning Algorithm for Object Detection**|Yashar Azadvatan et.al.|[2401.17972](http://arxiv.org/abs/2401.17972)|null|
 |**2024-01-31**|**Source-free Domain Adaptive Object Detection in Remote Sensing Images**|Weixing Liu et.al.|[2401.17916](http://arxiv.org/abs/2401.17916)|null|
