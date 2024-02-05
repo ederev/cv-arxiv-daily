@@ -113,13 +113,13 @@
 |**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981](http://arxiv.org/abs/2401.17981)|null|
 |**2024-01-31**|**MelNet: A Real-Time Deep Learning Algorithm for Object Detection**|Yashar Azadvatan et.al.|[2401.17972](http://arxiv.org/abs/2401.17972)|null|
 |**2024-01-31**|**Source-free Domain Adaptive Object Detection in Remote Sensing Images**|Weixing Liu et.al.|[2401.17916](http://arxiv.org/abs/2401.17916)|null|
-|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907](http://arxiv.org/abs/2401.17907)|null|
+|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907](http://arxiv.org/abs/2401.17907)|**[link](https://github.com/remaro-network/subpipe-dataset)**|
 |**2024-01-31**|**Do Object Detection Localization Errors Affect Human Performance and Trust?**|Sven de Witte et.al.|[2401.17821](http://arxiv.org/abs/2401.17821)|null|
 |**2024-01-31**|**Haris: an Advanced Autonomous Mobile Robot for Smart Parking Assistance**|Layth Hamad et.al.|[2401.17741](http://arxiv.org/abs/2401.17741)|null|
 |**2024-01-30**|**AdvGPS: Adversarial GPS for Multi-Agent Perception Attack**|Jinlong Li et.al.|[2401.17499](http://arxiv.org/abs/2401.17499)|null|
 |**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
 |**2024-01-30**|**A Bearing-Angle Approach for Unknown Target Motion Analysis Based on Visual Measurements**|Zian Ning et.al.|[2401.17117](http://arxiv.org/abs/2401.17117)|null|
-|**2024-01-30**|**LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras**|Fei Teng et.al.|[2401.16712](http://arxiv.org/abs/2401.16712)|null|
+|**2024-01-30**|**LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras**|Fei Teng et.al.|[2401.16712](http://arxiv.org/abs/2401.16712)|**[link](https://github.com/feibryantkit/lf-tracy)**|
 |**2024-01-30**|**Characterization of Magnetic Labyrinthine Structures through Junctions and Terminals Detection using Template Matching and CNN**|Vinícius Yu Okubo et.al.|[2401.16688](http://arxiv.org/abs/2401.16688)|null|
 |**2024-01-30**|**The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**|Ross Greer et.al.|[2401.16634](http://arxiv.org/abs/2401.16634)|null|
 |**2024-01-29**|**SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design**|Seokju Yun et.al.|[2401.16456](http://arxiv.org/abs/2401.16456)|null|
@@ -127,7 +127,7 @@
 |**2024-01-29**|**MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection**|Yuxue Yang et.al.|[2401.16305](http://arxiv.org/abs/2401.16305)|**[link](https://github.com/bravegroup/pointsam-for-mixsup)**|
 |**2024-01-29**|**Towards Scenario Generalization for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2401.16110](http://arxiv.org/abs/2401.16110)|**[link](https://github.com/yanglei18/sgv3d)**|
 |**2024-01-29**|**Rectify the Regression Bias in Long-Tailed Object Detection**|Ke Zhu et.al.|[2401.15885](http://arxiv.org/abs/2401.15885)|null|
-|**2024-01-29**|**LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection**|Sifan Zhou et.al.|[2401.15865](http://arxiv.org/abs/2401.15865)|null|
+|**2024-01-29**|**LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection**|Sifan Zhou et.al.|[2401.15865](http://arxiv.org/abs/2401.15865)|**[link](https://github.com/stiphyjay/lidar-ptq)**|
 |**2024-01-29**|**LCVO: An Efficient Pretraining-Free Framework for Visual Question Answering Grounding**|Yuhan Chen et.al.|[2401.15842](http://arxiv.org/abs/2401.15842)|null|
 |**2024-01-28**|**Real-time object detection and robotic manipulation for agriculture using a YOLO-based learning approach**|Hongyu Zhao et.al.|[2401.15785](http://arxiv.org/abs/2401.15785)|null|
 |**2024-01-27**|**New Foggy Object Detecting Model**|Rahul Banavathu et.al.|[2401.15455](http://arxiv.org/abs/2401.15455)|null|
