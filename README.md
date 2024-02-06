@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
+|**2024-02-05**|**RRWNet: Recursive Refinement Network for Effective Retinal Artery/Vein Segmentation and Classification**|José Morano et.al.|[2402.03166](http://arxiv.org/abs/2402.03166)|null|
+|**2024-02-05**|**Unsupervised semantic segmentation of high-resolution UAV imagery for road scene parsing**|Zihan Ma et.al.|[2402.02985](http://arxiv.org/abs/2402.02985)|null|
+|**2024-02-04**|**M $^3$ Face: A Unified Multi-Modal Multilingual Framework for Human Face Generation and Editing**|Mohammadreza Mofayezi et.al.|[2402.02369](http://arxiv.org/abs/2402.02369)|null|
+|**2024-02-04**|**Exploring Intrinsic Properties of Medical Images for Self-Supervised Binary Semantic Segmentation**|Pranav Singh et.al.|[2402.02367](http://arxiv.org/abs/2402.02367)|null|
+|**2024-02-04**|**Region-Based Representations Revisited**|Michal Shlapentokh-Rothman et.al.|[2402.02352](http://arxiv.org/abs/2402.02352)|null|
+|**2024-02-03**|**Multi-Level Feature Aggregation and Recursive Alignment Network for Real-Time Semantic Segmentation**|Yanhua Zhang et.al.|[2402.02286](http://arxiv.org/abs/2402.02286)|**[link](https://github.com/yanhua-zhang/mfaranet)**|
+|**2024-02-03**|**Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets**|Lei Xu et.al.|[2402.02245](http://arxiv.org/abs/2402.02245)|null|
+|**2024-02-03**|**Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**|Pankaj Deoli et.al.|[2402.02154](http://arxiv.org/abs/2402.02154)|null|
+|**2024-02-03**|**Decomposition-based and Interference Perception for Infrared and Visible Image Fusion in Complex Scenes**|Xilai Li et.al.|[2402.02096](http://arxiv.org/abs/2402.02096)|null|
 |**2024-02-02**|**Convolution kernel adaptation to calibrated fisheye**|Bruno Berenguel-Baeta et.al.|[2402.01456](http://arxiv.org/abs/2402.01456)|**[link](https://github.com/sbrunoberenguel/calibratedconvolutions)**|
 |**2024-02-02**|**Delving into Decision-based Black-box Attacks on Semantic Segmentation**|Zhaoyu Chen et.al.|[2402.01220](http://arxiv.org/abs/2402.01220)|null|
 |**2024-02-02**|**Scale Equalization for Multi-Level Feature Fusion**|Bum Jun Kim et.al.|[2402.01149](http://arxiv.org/abs/2402.01149)|null|
@@ -62,6 +72,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|null|
+|**2024-02-05**|**Instance Segmentation XXL-CT Challenge of a Historic Airplane**|Roland Gruber et.al.|[2402.02928](http://arxiv.org/abs/2402.02928)|null|
+|**2024-02-04**|**Spatio-temporal Prompting Network for Robust Video Feature Extraction**|Guanxiong Sun et.al.|[2402.02574](http://arxiv.org/abs/2402.02574)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
+|**2024-02-04**|**Deep Spectral Improvement for Unsupervised Image Instance Segmentation**|Farnoosh Arefi et.al.|[2402.02474](http://arxiv.org/abs/2402.02474)|**[link](https://github.com/farnooshar/specuniis)**|
 |**2024-02-01**|**A Manifold Representation of the Key in Vision Transformers**|Li Meng et.al.|[2402.00534](http://arxiv.org/abs/2402.00534)|null|
 |**2024-01-31**|**Shrub of a thousand faces: an individual segmentation from satellite images using deep learning**|Rohaifa Khaldi et.al.|[2401.17985](http://arxiv.org/abs/2401.17985)|null|
 |**2024-02-02**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
@@ -88,6 +102,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-04**|**Generalizable Entity Grounding via Assistance of Large Language Model**|Lu Qi et.al.|[2402.02555](http://arxiv.org/abs/2402.02555)|null|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761](http://arxiv.org/abs/2401.12761)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
@@ -106,6 +121,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**|Shengcao Cao et.al.|[2402.03311](http://arxiv.org/abs/2402.03311)|null|
+|**2024-02-05**|**ActiveAnno3D -- An Active Learning Framework for Multi-Modal 3D Object Detection**|Ahmed Ghita et.al.|[2402.03235](http://arxiv.org/abs/2402.03235)|null|
+|**2024-02-05**|**Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector**|Yuqian Fu et.al.|[2402.03094](http://arxiv.org/abs/2402.03094)|null|
+|**2024-02-05**|**Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**|Yihao Huang et.al.|[2402.02738](http://arxiv.org/abs/2402.02738)|null|
+|**2024-02-04**|**Spatio-temporal Prompting Network for Robust Video Feature Extraction**|Guanxiong Sun et.al.|[2402.02574](http://arxiv.org/abs/2402.02574)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
+|**2024-02-04**|**Gazebo Plants: Simulating Plant-Robot Interaction with Cosserat Rods**|Junchen Deng et.al.|[2402.02570](http://arxiv.org/abs/2402.02570)|null|
+|**2024-02-04**|**DeSparsify: Adversarial Attack Against Token Sparsification Mechanisms in Vision Transformers**|Oryan Yehezkel et.al.|[2402.02554](http://arxiv.org/abs/2402.02554)|null|
+|**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
+|**2024-02-03**|**CoFiNet: Unveiling Camouflaged Objects with Multi-Scale Finesse**|Cunhan Guo et.al.|[2402.02217](http://arxiv.org/abs/2402.02217)|null|
+|**2024-02-03**|**Decomposition-based and Interference Perception for Infrared and Visible Image Fusion in Complex Scenes**|Xilai Li et.al.|[2402.02096](http://arxiv.org/abs/2402.02096)|null|
 |**2024-02-02**|**Dynamic Occupancy Grids for Object Detection: A Radar-Centric Approach**|Max Peter Ronecker et.al.|[2402.01488](http://arxiv.org/abs/2402.01488)|null|
 |**2024-02-02**|**Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection**|Hao Li et.al.|[2402.01304](http://arxiv.org/abs/2402.01304)|null|
 |**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287](http://arxiv.org/abs/2402.01287)|null|
@@ -184,6 +209,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition**|Xiaohu Huang et.al.|[2402.03241](http://arxiv.org/abs/2402.03241)|null|
+|**2024-02-05**|**Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector**|Yuqian Fu et.al.|[2402.03094](http://arxiv.org/abs/2402.03094)|null|
 |**2024-02-02**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
