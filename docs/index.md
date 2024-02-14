@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Adaptive Hierarchical Certification for Segmentation using Randomized Smoothing**|Alaa Anani et.al.|[2402.08400](http://arxiv.org/abs/2402.08400)|null|
+|**2024-02-13**|**Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss**|Kei Iino et.al.|[2402.08267](http://arxiv.org/abs/2402.08267)|null|
+|**2024-02-12**|**Semantic segmentation for recognition of epileptiform patterns recorded via Microelectrode Arrays in vitro**|Gabriel Galeote-Checa et.al.|[2402.08099](http://arxiv.org/abs/2402.08099)|null|
 |**2024-02-11**|**Data Quality Aware Approaches for Addressing Model Drift of Semantic Segmentation Models**|Samiha Mirza et.al.|[2402.07258](http://arxiv.org/abs/2402.07258)|null|
 |**2024-02-09**|**More than the Sum of Its Parts: Ensembling Backbone Networks for Few-Shot Segmentation**|Nico Catalano et.al.|[2402.06581](http://arxiv.org/abs/2402.06581)|null|
 |**2024-02-09**|**Hybridnet for depth estimation and semantic segmentation**|Dalila Sánchez-Escobedo et.al.|[2402.06539](http://arxiv.org/abs/2402.06539)|null|
@@ -124,6 +127,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427](http://arxiv.org/abs/2402.08427)|null|
+|**2024-02-13**|**Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss**|Kei Iino et.al.|[2402.08267](http://arxiv.org/abs/2402.08267)|null|
+|**2024-02-13**|**Object Detection in Thermal Images Using Deep Learning for Unmanned Aerial Vehicles**|Minh Dang Tu et.al.|[2402.08251](http://arxiv.org/abs/2402.08251)|null|
 |**2024-02-12**|**MODIPHY: Multimodal Obscured Detection for IoT using PHantom Convolution-Enabled Faster YOLO**|Shubhabrata Mukherjee et.al.|[2402.07894](http://arxiv.org/abs/2402.07894)|**[link](https://github.com/shubha07m/On-device-computer-vision-experiments-with-IoT)**|
 |**2024-02-12**|**Evaluation of a Smart Mobile Robotic System for Industrial Plant Inspection and Supervision**|Georg K. J. Fischer et.al.|[2402.07691](http://arxiv.org/abs/2402.07691)|null|
 |**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[2402.07680](http://arxiv.org/abs/2402.07680)|**[link](https://github.com/sanjay-810/aydiv2)**|
