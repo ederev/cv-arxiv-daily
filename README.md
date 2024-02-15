@@ -85,6 +85,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge**|Jiancheng Yang et.al.|[2402.09372](http://arxiv.org/abs/2402.09372)|null|
+|**2024-02-14**|**TDViT: Temporal Dilated Video Transformer for Dense Video Tasks**|Guanxiong Sun et.al.|[2402.09257](http://arxiv.org/abs/2402.09257)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
 |**2024-02-12**|**Complete Instances Mining for Weakly Supervised Instance Segmentation**|Zecheng Li et.al.|[2402.07633](http://arxiv.org/abs/2402.07633)|**[link](https://github.com/ZechengLi19/CIM)**|
 |**2024-02-11**|**Improving Pallet Detection Using Synthetic Data**|Henry Gann et.al.|[2402.07098](http://arxiv.org/abs/2402.07098)|null|
 |**2024-02-07**|**Boundary-aware Contrastive Learning for Semi-supervised Nuclei Instance Segmentation**|Ye Zhang et.al.|[2402.04756](http://arxiv.org/abs/2402.04756)|null|
@@ -141,6 +143,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Few-Shot Object Detection with Sparse Context Transformers**|Jie Mei et.al.|[2402.09315](http://arxiv.org/abs/2402.09315)|null|
+|**2024-02-14**|**TDViT: Temporal Dilated Video Transformer for Dense Video Tasks**|Guanxiong Sun et.al.|[2402.09257](http://arxiv.org/abs/2402.09257)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
+|**2024-02-14**|**Efficient One-stage Video Object Detection by Exploiting Temporal Consistency**|Guanxiong Sun et.al.|[2402.09241](http://arxiv.org/abs/2402.09241)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
+|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240](http://arxiv.org/abs/2402.09240)|null|
 |**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427](http://arxiv.org/abs/2402.08427)|null|
 |**2024-02-13**|**Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss**|Kei Iino et.al.|[2402.08267](http://arxiv.org/abs/2402.08267)|null|
 |**2024-02-13**|**Object Detection in Thermal Images Using Deep Learning for Unmanned Aerial Vehicles**|Minh Dang Tu et.al.|[2402.08251](http://arxiv.org/abs/2402.08251)|null|
@@ -261,6 +267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision**|Zhaoqing Wang et.al.|[2402.08960](http://arxiv.org/abs/2402.08960)|**[link](https://github.com/derrickwang005/uni-ovseg.pytorch)**|
 |**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
 |**2024-02-07**|**Open-Vocabulary Calibration for Vision-Language Models**|Shuoyuan Wang et.al.|[2402.04655](http://arxiv.org/abs/2402.04655)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
