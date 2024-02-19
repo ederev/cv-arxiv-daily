@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -88,7 +88,7 @@ layout: default
 |**2024-02-11**|**Improving Pallet Detection Using Synthetic Data**|Henry Gann et.al.|[2402.07098](http://arxiv.org/abs/2402.07098)|null|
 |**2024-02-07**|**Boundary-aware Contrastive Learning for Semi-supervised Nuclei Instance Segmentation**|Ye Zhang et.al.|[2402.04756](http://arxiv.org/abs/2402.04756)|null|
 |**2024-02-07**|**FM-Fusion: Instance-aware Semantic Mapping Boosted by Vision-Language Foundation Models**|Chuhao Liu et.al.|[2402.04555](http://arxiv.org/abs/2402.04555)|null|
-|**2024-02-07**|**M2fNet: Multi-modal Forest Monitoring Network on Large-scale Virtual Dataset**|Yawen Lu et.al.|[2402.04534](http://arxiv.org/abs/2402.04534)|null|
+|**2024-02-15**|**M2fNet: Multi-modal Forest Monitoring Network on Large-scale Virtual Dataset**|Yawen Lu et.al.|[2402.04534](http://arxiv.org/abs/2402.04534)|null|
 |**2024-02-06**|**Multi-class Road Defect Detection and Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing**|Jongmin Yu et.al.|[2402.04064](http://arxiv.org/abs/2402.04064)|null|
 |**2024-02-06**|**SISP: A Benchmark Dataset for Fine-grained Ship Instance Segmentation in Panchromatic Satellite Images**|Pengming Feng et.al.|[2402.03708](http://arxiv.org/abs/2402.03708)|**[link](https://github.com/justlovesmile/sisp)**|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|**[link](https://github.com/frank-xwang/InstanceDiffusion)**|
