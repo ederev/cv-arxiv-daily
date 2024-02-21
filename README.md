@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Cross-Domain Transfer Learning with CoRTe: Consistent and Reliable Transfer from Black-Box to Lightweight Segmentation Model**|Claudia Cuttano et.al.|[2402.13122](http://arxiv.org/abs/2402.13122)|null|
+|**2024-02-19**|**LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**|Truong Thanh Hung Nguyen et.al.|[2402.12525](http://arxiv.org/abs/2402.12525)|null|
 |**2024-02-19**|**Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization**|Abhishek Kuriyal et.al.|[2402.12098](http://arxiv.org/abs/2402.12098)|**[link](https://github.com/geoai4cities/pgs-cam)**|
 |**2024-02-19**|**ISCUTE: Instance Segmentation of Cables Using Text Embedding**|Shir Kozlovsky et.al.|[2402.11996](http://arxiv.org/abs/2402.11996)|null|
 |**2024-02-18**|**Key Patch Proposer: Key Patches Contain Rich Information**|Jing Xu et.al.|[2402.11458](http://arxiv.org/abs/2402.11458)|**[link](https://github.com/ca-tt-ac/key-patch-proposer)**|
@@ -162,6 +164,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**GOOD: Towards Domain Generalized Orientated Object Detection**|Qi Bi et.al.|[2402.12765](http://arxiv.org/abs/2402.12765)|null|
+|**2024-02-20**|**CST: Calibration Side-Tuning for Parameter and Memory Efficient Transfer Learning**|Feng Chen et.al.|[2402.12736](http://arxiv.org/abs/2402.12736)|null|
+|**2024-02-20**|**YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection**|Xiaoyu Tang et.al.|[2402.12641](http://arxiv.org/abs/2402.12641)|**[link](https://github.com/scnu-rislab/yolo-ant)**|
+|**2024-02-20**|**Efficient Parameter Mining and Freezing for Continual Object Detection**|Angelo G. Menezes et.al.|[2402.12624](http://arxiv.org/abs/2402.12624)|null|
+|**2024-02-19**|**LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**|Truong Thanh Hung Nguyen et.al.|[2402.12525](http://arxiv.org/abs/2402.12525)|null|
 |**2024-02-19**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al.|[2402.12303](http://arxiv.org/abs/2402.12303)|null|
 |**2024-02-19**|**Weakly Supervised Object Detection in Chest X-Rays with Differentiable ROI Proposal Networks and Soft ROI Pooling**|Philip Müller et.al.|[2402.11985](http://arxiv.org/abs/2402.11985)|**[link](https://github.com/philip-mueller/wsrpn)**|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
@@ -283,6 +290,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
 |**2024-02-18**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
@@ -302,11 +310,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232](http://arxiv.org/abs/2402.13232)|null|
 |**2024-02-19**|**Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships**|Sebastian Koch et.al.|[2402.12259](http://arxiv.org/abs/2402.12259)|null|
 |**2024-02-18**|**Verifiably Following Complex Robot Instructions with Foundation Models**|Benedict Quartey et.al.|[2402.11498](http://arxiv.org/abs/2402.11498)|null|
 |**2024-02-15**|**Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment**|Angelos Zavras et.al.|[2402.09816](http://arxiv.org/abs/2402.09816)|null|
 |**2024-02-14**|**Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision**|Zhaoqing Wang et.al.|[2402.08960](http://arxiv.org/abs/2402.08960)|**[link](https://github.com/derrickwang005/uni-ovseg.pytorch)**|
-|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
+|**2024-02-20**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
 |**2024-02-15**|**Open-Vocabulary Calibration for Vision-Language Models**|Shuoyuan Wang et.al.|[2402.04655](http://arxiv.org/abs/2402.04655)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
 |**2024-02-07**|**LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors**|Sheng Jin et.al.|[2402.04630](http://arxiv.org/abs/2402.04630)|null|
