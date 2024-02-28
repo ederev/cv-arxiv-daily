@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[2402.17653](http://arxiv.org/abs/2402.17653)|null|
+|**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
+|**2024-02-27**|**A Large-scale Evaluation of Pretraining Paradigms for the Detection of Defects in Electroluminescence Solar Cell Images**|David Torpey et.al.|[2402.17611](http://arxiv.org/abs/2402.17611)|null|
+|**2024-02-27**|**Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label**|Xinliang Zhang et.al.|[2402.17555](http://arxiv.org/abs/2402.17555)|**[link](https://github.com/zxl19990529/class-driven-scribble-promotion-network)**|
+|**2024-02-26**|**ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer**|Bowen Dong et.al.|[2402.16674](http://arxiv.org/abs/2402.16674)|null|
+|**2024-02-26**|**UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images**|Zhen Chen et.al.|[2402.16663](http://arxiv.org/abs/2402.16663)|**[link](https://github.com/cuhk-aim-group/un-sam)**|
 |**2024-02-26**|**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**|Pau de Jorge et.al.|[2402.16392](http://arxiv.org/abs/2402.16392)|**[link](https://github.com/naver/poc)**|
 |**2024-02-26**|**BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM**|Li Zhang et.al.|[2402.16338](http://arxiv.org/abs/2402.16338)|null|
 |**2024-02-23**|**Modified CycleGAN for the synthesization of samples for wheat head segmentation**|Jaden Myers et.al.|[2402.15135](http://arxiv.org/abs/2402.15135)|null|
@@ -99,10 +105,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](http://arxiv.org/abs/2402.17319)|null|
+|**2024-02-27**|**Few-shot adaptation for morphology-independent cell instance segmentation**|Ram J. Zaveri et.al.|[2402.17165](http://arxiv.org/abs/2402.17165)|null|
 |**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
 |**2024-02-26**|**SPINEPS -- Automatic Whole Spine Segmentation of T2-weighted MR images using a Two-Phase Approach to Multi-class Semantic and Instance Segmentation**|Hendrik Möller et.al.|[2402.16368](http://arxiv.org/abs/2402.16368)|**[link](https://github.com/hendrik-code/spineps)**|
 |**2024-02-26**|**Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation**|Yu Ming et.al.|[2402.16280](http://arxiv.org/abs/2402.16280)|null|
-|**2024-02-19**|**ISCUTE: Instance Segmentation of Cables Using Text Embedding**|Shir Kozlovsky et.al.|[2402.11996](http://arxiv.org/abs/2402.11996)|null|
+|**2024-02-27**|**ISCUTE: Instance Segmentation of Cables Using Text Embedding**|Shir Kozlovsky et.al.|[2402.11996](http://arxiv.org/abs/2402.11996)|null|
 |**2024-02-19**|**Real-time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision**|K. Nguyen et.al.|[2402.11872](http://arxiv.org/abs/2402.11872)|**[link](https://github.com/mkhangg/semantic_scene_perception)**|
 |**2024-02-17**|**ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition**|Anxhelo Diko et.al.|[2402.11301](http://arxiv.org/abs/2402.11301)|**[link](https://github.com/adiko1997/revit)**|
 |**2024-02-15**|**Robust semi-automatic vessel tracing in the human retinal image by an instance segmentation neural network**|Siyi Chen et.al.|[2402.10055](http://arxiv.org/abs/2402.10055)|null|
@@ -164,6 +172,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection**|Junsu Kim et.al.|[2402.17323](http://arxiv.org/abs/2402.17323)|null|
+|**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](http://arxiv.org/abs/2402.17319)|null|
+|**2024-02-27**|**Probing Multimodal Large Language Models for Global and Local Semantic Representation**|Mingxu Tao et.al.|[2402.17304](http://arxiv.org/abs/2402.17304)|null|
+|**2024-02-27**|**Deployment Prior Injection for Run-time Calibratable Object Detection**|Mo Zhou et.al.|[2402.17207](http://arxiv.org/abs/2402.17207)|null|
+|**2024-02-26**|**A NIRCam-dark galaxy detected with the MIRI/F1000W filter in the MIDIS/JADES Hubble Ultra Deep Field**|Pablo G. Pérez-González et.al.|[2402.16942](http://arxiv.org/abs/2402.16942)|null|
 |**2024-02-26**|**DEYO: DETR with YOLO for End-to-End Object Detection**|Haodong Ouyang et.al.|[2402.16370](http://arxiv.org/abs/2402.16370)|null|
 |**2024-02-26**|**mAPm: multi-scale Attention Pyramid module for Enhanced scale-variation in RLD detection**|Yunusa Haruna et.al.|[2402.16291](http://arxiv.org/abs/2402.16291)|null|
 |**2024-02-26**|**Real-Time Vehicle Detection and Urban Traffic Behavior Analysis Based on UAV Traffic Videos on Mobile Devices**|Yuan Zhu et.al.|[2402.16246](http://arxiv.org/abs/2402.16246)|null|
@@ -324,6 +337,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**CARTE: pretraining and transfer for tabular learning**|Myung Jun Kim et.al.|[2402.16785](http://arxiv.org/abs/2402.16785)|null|
 |**2024-02-23**|**OpenSUN3D: 1st Workshop Challenge on Open-Vocabulary 3D Scene Understanding**|Francis Engelmann et.al.|[2402.15321](http://arxiv.org/abs/2402.15321)|null|
 |**2024-02-21**|**Real-time 3D-aware Portrait Editing from a Single Image**|Qingyan Bai et.al.|[2402.14000](http://arxiv.org/abs/2402.14000)|null|
 |**2024-02-21**|**Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation**|Jialei Chen et.al.|[2402.13697](http://arxiv.org/abs/2402.13697)|null|
