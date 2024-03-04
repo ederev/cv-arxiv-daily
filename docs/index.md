@@ -162,7 +162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-29**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422](http://arxiv.org/abs/2402.19422)|**[link](https://github.com/niccolocavagnero/pem)**|
+|**2024-03-01**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422](http://arxiv.org/abs/2402.19422)|**[link](https://github.com/niccolocavagnero/pem)**|
 |**2024-02-23**|**Benchmarking the Robustness of Panoptic Segmentation for Automated Driving**|Yiting Wang et.al.|[2402.15469](http://arxiv.org/abs/2402.15469)|null|
 |**2024-02-21**|**Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation**|Jialei Chen et.al.|[2402.13697](http://arxiv.org/abs/2402.13697)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|**[link](https://github.com/abourki/sota-semantically-aware-nerfs)**|
