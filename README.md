@@ -22,6 +22,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Benchmarking Segmentation Models with Mask-Preserved Attribute Editing**|Zijin Yin et.al.|[2403.01231](http://arxiv.org/abs/2403.01231)|**[link](https://github.com/pris-cv/pascal-ea)**|
+|**2024-03-02**|**Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation**|Lian Xu et.al.|[2403.01156](http://arxiv.org/abs/2403.01156)|null|
+|**2024-03-01**|**Rethinking Few-shot 3D Point Cloud Semantic Segmentation**|Zhaochong An et.al.|[2403.00592](http://arxiv.org/abs/2403.00592)|**[link](https://github.com/Na-Z/attMPTI)**|
+|**2024-03-01**|**Small, Versatile and Mighty: A Range-View Perception Framework**|Qiang Meng et.al.|[2403.00325](http://arxiv.org/abs/2403.00325)|null|
+|**2024-03-01**|**YOLO-MED : Multi-Task Interaction Network for Biomedical Images**|Suizhi Huang et.al.|[2403.00245](http://arxiv.org/abs/2403.00245)|null|
+|**2024-02-29**|**FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything**|Safouane El Ghazouali et.al.|[2403.00175](http://arxiv.org/abs/2403.00175)|**[link](https://github.com/safouaneelg/FusionVision)**|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004](http://arxiv.org/abs/2402.19004)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
 |**2024-02-29**|**Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation**|Zhiwei Yang et.al.|[2402.18467](http://arxiv.org/abs/2402.18467)|**[link](https://github.com/zwyang6/seco)**|
@@ -124,6 +130,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Boosting Box-supervised Instance Segmentation with Pseudo Depth**|Xinyi Yu et.al.|[2403.01214](http://arxiv.org/abs/2403.01214)|null|
+|**2024-02-29**|**FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything**|Safouane El Ghazouali et.al.|[2403.00175](http://arxiv.org/abs/2403.00175)|**[link](https://github.com/safouaneelg/FusionVision)**|
 |**2024-02-28**|**Feature Denoising For Low-Light Instance Segmentation Using Weighted Non-Local Blocks**|Joanne Lin et.al.|[2402.18307](http://arxiv.org/abs/2402.18307)|null|
 |**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](http://arxiv.org/abs/2402.17319)|null|
 |**2024-02-27**|**Few-shot adaptation for morphology-independent cell instance segmentation**|Ram J. Zaveri et.al.|[2402.17165](http://arxiv.org/abs/2402.17165)|null|
@@ -174,6 +182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Small, Versatile and Mighty: A Range-View Perception Framework**|Qiang Meng et.al.|[2403.00325](http://arxiv.org/abs/2403.00325)|null|
 |**2024-03-01**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422](http://arxiv.org/abs/2402.19422)|**[link](https://github.com/niccolocavagnero/pem)**|
 |**2024-02-23**|**Benchmarking the Robustness of Panoptic Segmentation for Automated Driving**|Yiting Wang et.al.|[2402.15469](http://arxiv.org/abs/2402.15469)|null|
 |**2024-02-21**|**Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation**|Jialei Chen et.al.|[2402.13697](http://arxiv.org/abs/2402.13697)|null|
@@ -197,6 +206,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316](http://arxiv.org/abs/2403.01316)|null|
+|**2024-03-02**|**Run-time Introspection of 2D Object Detection in Automated Driving Systems Using Learning Representations**|Hakan Yekta Yatbaz et.al.|[2403.01172](http://arxiv.org/abs/2403.01172)|null|
+|**2024-03-02**|**ELA: Efficient Local Attention for Deep Convolutional Neural Networks**|Wei Xu et.al.|[2403.01123](http://arxiv.org/abs/2403.01123)|null|
+|**2024-03-02**|**Beyond Night Visibility: Adaptive Multi-Scale Fusion of Infrared and Visible Images**|Shufan Pei et.al.|[2403.01083](http://arxiv.org/abs/2403.01083)|null|
+|**2024-03-01**|**Learning Causal Features for Incremental Object Detection**|Zhenwei He et.al.|[2403.00591](http://arxiv.org/abs/2403.00591)|null|
+|**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/abs/2403.00436)|null|
+|**2024-03-04**|**DAMS-DETR: Dynamic Adaptive Multispectral Detection Transformer with Competitive Query Selection and Adaptive Feature Fusion**|Junjie Guo et.al.|[2403.00326](http://arxiv.org/abs/2403.00326)|null|
+|**2024-03-01**|**YOLO-MED : Multi-Task Interaction Network for Biomedical Images**|Suizhi Huang et.al.|[2403.00245](http://arxiv.org/abs/2403.00245)|null|
+|**2024-02-29**|**FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything**|Safouane El Ghazouali et.al.|[2403.00175](http://arxiv.org/abs/2403.00175)|**[link](https://github.com/safouaneelg/FusionVision)**|
+|**2024-02-29**|**LLMs in Political Science: Heralding a New Era of Visual Analysis**|Yu Wang et.al.|[2403.00154](http://arxiv.org/abs/2403.00154)|null|
 |**2024-02-29**|**SeMoLi: What Moves Together Belongs Together**|Jenny Seidenschwarz et.al.|[2402.19463](http://arxiv.org/abs/2402.19463)|null|
 |**2024-02-29**|**Genie: Smart ROS-based Caching for Connected Autonomous Robots**|Zexin Li et.al.|[2402.19410](http://arxiv.org/abs/2402.19410)|null|
 |**2024-02-29**|**ProtoP-OD: Explainable Object Detection with Prototypical Parts**|Pavlos Rath-Manakidis et.al.|[2402.19142](http://arxiv.org/abs/2402.19142)|null|
@@ -363,7 +382,7 @@
 |---|---|---|---|---|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
-|**2024-02-26**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
+|**2024-03-04**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
 |**2024-02-25**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
@@ -383,6 +402,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Benchmarking Segmentation Models with Mask-Preserved Attribute Editing**|Zijin Yin et.al.|[2403.01231](http://arxiv.org/abs/2403.01231)|**[link](https://github.com/pris-cv/pascal-ea)**|
+|**2024-03-01**|**Multi-modal Attribute Prompting for Vision-Language Models**|Xin Liu et.al.|[2403.00219](http://arxiv.org/abs/2403.00219)|null|
 |**2024-02-29**|**DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments**|Ji Ma et.al.|[2402.19007](http://arxiv.org/abs/2402.19007)|null|
 |**2024-02-29**|**MOSAIC: A Modular System for Assistive and Interactive Cooking**|Huaxiaoyue Wang et.al.|[2402.18796](http://arxiv.org/abs/2402.18796)|null|
 |**2024-02-26**|**CARTE: pretraining and transfer for tabular learning**|Myung Jun Kim et.al.|[2402.16785](http://arxiv.org/abs/2402.16785)|null|
