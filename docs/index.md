@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111](http://arxiv.org/abs/2403.03111)|null|
+|**2024-03-05**|**ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving**|Han Lu et.al.|[2403.02877](http://arxiv.org/abs/2403.02877)|null|
+|**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
+|**2024-03-05**|**Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels**|Zhuohong Li et.al.|[2403.02746](http://arxiv.org/abs/2403.02746)|null|
+|**2024-03-05**|**FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**|Jiawei Hou et.al.|[2403.02710](http://arxiv.org/abs/2403.02710)|null|
+|**2024-03-05**|**Deep Common Feature Mining for Efficient Video Semantic Segmentation**|Yaoyan Zheng et.al.|[2403.02689](http://arxiv.org/abs/2403.02689)|null|
+|**2024-03-04**|**Self-Supervised Facial Representation Learning with Facial Region Awareness**|Zheng Gao et.al.|[2403.02138](http://arxiv.org/abs/2403.02138)|null|
+|**2024-03-04**|**Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey**|Lingyan Ran et.al.|[2403.01909](http://arxiv.org/abs/2403.01909)|null|
+|**2024-03-04**|**Map-aided annotation for pole base detection**|Benjamin Missaoui et.al.|[2403.01868](http://arxiv.org/abs/2403.01868)|null|
+|**2024-03-04**|**AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation**|Haonan Wang et.al.|[2403.01818](http://arxiv.org/abs/2403.01818)|**[link](https://github.com/xmed-lab/AllSpark)**|
 |**2024-03-02**|**Benchmarking Segmentation Models with Mask-Preserved Attribute Editing**|Zijin Yin et.al.|[2403.01231](http://arxiv.org/abs/2403.01231)|**[link](https://github.com/pris-cv/pascal-ea)**|
 |**2024-03-02**|**Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation**|Lian Xu et.al.|[2403.01156](http://arxiv.org/abs/2403.01156)|null|
 |**2024-03-01**|**Rethinking Few-shot 3D Point Cloud Semantic Segmentation**|Zhaochong An et.al.|[2403.00592](http://arxiv.org/abs/2403.00592)|**[link](https://github.com/Na-Z/attMPTI)**|
@@ -120,6 +130,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**RISeg: Robot Interactive Object Segmentation via Body Frame-Invariant Features**|Howard H. Qian et.al.|[2403.01731](http://arxiv.org/abs/2403.01731)|null|
+|**2024-03-04**|**MCA: Moment Channel Attention Networks**|Yangbo Jiang et.al.|[2403.01713](http://arxiv.org/abs/2403.01713)|null|
+|**2024-03-03**|**Self-Supervised Representation Learning with Meta Comprehensive Regularization**|Huijie Guo et.al.|[2403.01549](http://arxiv.org/abs/2403.01549)|null|
+|**2024-03-03**|**End-to-End Human Instance Matting**|Qinglin Liu et.al.|[2403.01510](http://arxiv.org/abs/2403.01510)|**[link](https://github.com/qlyoo/e2e-him)**|
 |**2024-03-02**|**Boosting Box-supervised Instance Segmentation with Pseudo Depth**|Xinyi Yu et.al.|[2403.01214](http://arxiv.org/abs/2403.01214)|null|
 |**2024-02-29**|**FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything**|Safouane El Ghazouali et.al.|[2403.00175](http://arxiv.org/abs/2403.00175)|**[link](https://github.com/safouaneelg/FusionVision)**|
 |**2024-02-28**|**Feature Denoising For Low-Light Instance Segmentation Using Weighted Non-Local Blocks**|Joanne Lin et.al.|[2402.18307](http://arxiv.org/abs/2402.18307)|null|
@@ -192,6 +206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Detecting Concrete Visual Tokens for Multimodal Machine Translation**|Braeden Bowen et.al.|[2403.03075](http://arxiv.org/abs/2403.03075)|null|
+|**2024-03-05**|**Loss Design for Single-carrier Joint Communication and Neural Network-based Sensing**|Charlotte Muth et.al.|[2403.02929](http://arxiv.org/abs/2403.02929)|null|
+|**2024-03-05**|**Are Dense Labels Always Necessary for 3D Object Detection from Point Cloud?**|Chenqiang Gao et.al.|[2403.02818](http://arxiv.org/abs/2403.02818)|null|
+|**2024-03-05**|**Bootstrapping Rare Object Detection in High-Resolution Satellite Imagery**|Akram Zaytar et.al.|[2403.02736](http://arxiv.org/abs/2403.02736)|null|
+|**2024-03-05**|**FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**|Jiawei Hou et.al.|[2403.02710](http://arxiv.org/abs/2403.02710)|null|
+|**2024-03-05**|**False Positive Sampling-based Data Augmentation for Enhanced 3D Object Detection Accuracy**|Jiyong Oh et.al.|[2403.02639](http://arxiv.org/abs/2403.02639)|null|
+|**2024-03-05**|**BSDP: Brain-inspired Streaming Dual-level Perturbations for Online Open World Object Detection**|Yu Chen et.al.|[2403.02637](http://arxiv.org/abs/2403.02637)|null|
+|**2024-03-04**|**NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function**|Abdullah Nazhat Abdullah et.al.|[2403.02411](http://arxiv.org/abs/2403.02411)|**[link](https://github.com/Abdullah-88/NiNformer)**|
+|**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329](http://arxiv.org/abs/2403.02329)|null|
+|**2024-03-04**|**Scalable Vision-Based 3D Object Detection and Monocular Depth Estimation for Autonomous Driving**|Yuxuan Liu et.al.|[2403.02037](http://arxiv.org/abs/2403.02037)|**[link](https://github.com/owen-liuyuxuan/visionfactory)**|
 |**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316](http://arxiv.org/abs/2403.01316)|null|
 |**2024-03-02**|**Run-time Introspection of 2D Object Detection in Automated Driving Systems Using Learning Representations**|Hakan Yekta Yatbaz et.al.|[2403.01172](http://arxiv.org/abs/2403.01172)|null|
 |**2024-03-02**|**ELA: Efficient Local Attention for Deep Convolutional Neural Networks**|Wei Xu et.al.|[2403.01123](http://arxiv.org/abs/2403.01123)|null|
@@ -364,9 +388,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
-|**2024-03-04**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
+|**2024-03-05**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
 |**2024-02-25**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
@@ -384,6 +409,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
+|**2024-03-03**|**Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition**|Kun-Yu Lin et.al.|[2403.01560](http://arxiv.org/abs/2403.01560)|**[link](https://github.com/kunyulin/xov-action)**|
 |**2024-03-02**|**Benchmarking Segmentation Models with Mask-Preserved Attribute Editing**|Zijin Yin et.al.|[2403.01231](http://arxiv.org/abs/2403.01231)|**[link](https://github.com/pris-cv/pascal-ea)**|
 |**2024-03-01**|**Multi-modal Attribute Prompting for Vision-Language Models**|Xin Liu et.al.|[2403.00219](http://arxiv.org/abs/2403.00219)|null|
 |**2024-02-29**|**DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments**|Ji Ma et.al.|[2402.19007](http://arxiv.org/abs/2402.19007)|null|
