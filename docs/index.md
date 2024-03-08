@@ -135,6 +135,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**SAM-PD: How Far Can SAM Take Us in Tracking and Segmenting Anything in Videos by Prompt Denoising**|Tao Zhou et.al.|[2403.04194](http://arxiv.org/abs/2403.04194)|**[link](https://github.com/infzhou/sam-pd)**|
 |**2024-03-05**|**CenterDisks: Real-time instance segmentation with disk covering**|Katia Jodogne-Del Litto et.al.|[2403.03296](http://arxiv.org/abs/2403.03296)|**[link](https://github.com/katiajdl/centerdisks)**|
 |**2024-03-04**|**RISeg: Robot Interactive Object Segmentation via Body Frame-Invariant Features**|Howard H. Qian et.al.|[2403.01731](http://arxiv.org/abs/2403.01731)|null|
 |**2024-03-04**|**MCA: Moment Channel Attention Networks**|Yangbo Jiang et.al.|[2403.01713](http://arxiv.org/abs/2403.01713)|null|
@@ -212,7 +213,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-06**|**CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection**|Gyusam Chang et.al.|[2403.03721](http://arxiv.org/abs/2403.03721)|null|
+|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
+|**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306](http://arxiv.org/abs/2403.04306)|null|
+|**2024-03-07**|**ACC-ViT : Atrous Convolution's Comeback in Vision Transformers**|Nabil Ibtehaz et.al.|[2403.04200](http://arxiv.org/abs/2403.04200)|null|
+|**2024-03-07**|**CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoors Object Detection from Multi-view Images**|Guanlin Shen et.al.|[2403.04198](http://arxiv.org/abs/2403.04198)|null|
+|**2024-03-07**|**Scalable and Robust Transformer Decoders for Interpretable Image Classification with Foundation Models**|Evelyn Mannix et.al.|[2403.04125](http://arxiv.org/abs/2403.04125)|null|
+|**2024-03-07**|**CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection**|Gyusam Chang et.al.|[2403.03721](http://arxiv.org/abs/2403.03721)|null|
 |**2024-03-06**|**Adversarial Infrared Geometry: Using Geometry to Perform Adversarial Attack against Infrared Pedestrian Detectors**|Kalibinuer Tiliwalidi et.al.|[2403.03674](http://arxiv.org/abs/2403.03674)|null|
 |**2024-03-06**|**Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**|Wonhyeok Choi et.al.|[2403.03468](http://arxiv.org/abs/2403.03468)|null|
 |**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|null|
