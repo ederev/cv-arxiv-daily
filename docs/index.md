@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**|Yun Xin Teoh et.al.|[2403.08761](http://arxiv.org/abs/2403.08761)|null|
+|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748](http://arxiv.org/abs/2403.08748)|null|
+|**2024-03-13**|**Semantic Segmentation of Solar Radio Spikes at Low Frequencies**|Pearse C. Murphy et.al.|[2403.08546](http://arxiv.org/abs/2403.08546)|null|
+|**2024-03-13**|**Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation**|Zicheng Zhang et.al.|[2403.08426](http://arxiv.org/abs/2403.08426)|null|
+|**2024-03-13**|**LIX: Implicitly Infusing Spatial Geometric Prior Knowledge into Visual Semantic Segmentation for Autonomous Driving**|Sicen Guo et.al.|[2403.08215](http://arxiv.org/abs/2403.08215)|null|
+|**2024-03-13**|**Multiscale Low-Frequency Memory Network for Improved Feature Extraction in Convolutional Neural Networks**|Fuzhi Wu et.al.|[2403.08157](http://arxiv.org/abs/2403.08157)|**[link](https://github.com/alphawuseu/mlfm)**|
+|**2024-03-12**|**Mitigating the Impact of Attribute Editing on Face Recognition**|Sudipta Banerjee et.al.|[2403.08092](http://arxiv.org/abs/2403.08092)|null|
 |**2024-03-12**|**Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation**|Feilong Tang et.al.|[2403.07630](http://arxiv.org/abs/2403.07630)|**[link](https://github.com/barrett-python/cpal)**|
 |**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589](http://arxiv.org/abs/2403.07589)|null|
 |**2024-03-12**|**Open-World Semantic Segmentation Including Class Similarity**|Matteo Sodano et.al.|[2403.07532](http://arxiv.org/abs/2403.07532)|null|
@@ -231,6 +238,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760](http://arxiv.org/abs/2403.08760)|**[link](https://github.com/hustvl/mim4d)**|
+|**2024-03-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586](http://arxiv.org/abs/2403.08586)|null|
+|**2024-03-13**|**A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**|Ao Xiang et.al.|[2403.08511](http://arxiv.org/abs/2403.08511)|null|
+|**2024-03-13**|**Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks**|Zongqing Qi et.al.|[2403.08499](http://arxiv.org/abs/2403.08499)|null|
+|**2024-03-13**|**IAMCV Multi-Scenario Vehicle Interaction Dataset**|Novel Certad et.al.|[2403.08455](http://arxiv.org/abs/2403.08455)|null|
+|**2024-03-13**|**Advancing Security in AI Systems: A Novel Approach to Detecting Backdoors in Deep Neural Networks**|Khondoker Murad Hossain et.al.|[2403.08208](http://arxiv.org/abs/2403.08208)|null|
+|**2024-03-12**|**TaskCLIP: Extend Large Vision-Language Model for Task Oriented Object Detection**|Hanning Chen et.al.|[2403.08108](http://arxiv.org/abs/2403.08108)|null|
+|**2024-03-12**|**Aedes aegypti Egg Counting with Neural Networks for Object Detection**|Micheli Nayara de Oliveira Vicente et.al.|[2403.08016](http://arxiv.org/abs/2403.08016)|null|
 |**2024-03-12**|**Mondrian: On-Device High-Performance Video Analytics with Compressive Packed Inference**|Changmin Jeon et.al.|[2403.07598](http://arxiv.org/abs/2403.07598)|null|
 |**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589](http://arxiv.org/abs/2403.07589)|null|
 |**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[2403.07542](http://arxiv.org/abs/2403.07542)|null|
@@ -471,6 +486,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation**|Daniel Honerkamp et.al.|[2403.08605](http://arxiv.org/abs/2403.08605)|null|
 |**2024-03-12**|**Learning Generalizable Feature Fields for Mobile Manipulation**|Ri-Zhao Qiu et.al.|[2403.07563](http://arxiv.org/abs/2403.07563)|null|
 |**2024-03-12**|**Open-Vocabulary Scene Text Recognition via Pseudo-Image Labeling and Margin Loss**|Xuhua Ren et.al.|[2403.07518](http://arxiv.org/abs/2403.07518)|null|
 |**2024-03-11**|**Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head**|Tiancheng Zhao et.al.|[2403.06892](http://arxiv.org/abs/2403.06892)|null|
