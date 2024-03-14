@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -20,7 +20,7 @@ layout: default
 |**2024-03-11**|**Average Calibration Error: A Differentiable Loss for Improved Reliability in Image Segmentation**|Theodore Barfoot et.al.|[2403.06759](http://arxiv.org/abs/2403.06759)|**[link](https://github.com/cai4cai/ace-dliris)**|
 |**2024-03-11**|**Forest Inspection Dataset for Aerial Semantic Segmentation and Depth Estimation**|Bianca-Cerasela-Zelia Blaga et.al.|[2403.06621](http://arxiv.org/abs/2403.06621)|**[link](https://github.com/hrflr/wuav)**|
 |**2024-03-11**|**OMH: Structured Sparsity via Optimally Matched Hierarchy for Unsupervised Semantic Segmentation**|Baran Ozaydin et.al.|[2403.06546](http://arxiv.org/abs/2403.06546)|null|
-|**2024-03-11**|**3D Semantic Segmentation-Driven Representations for 3D Object Detection**|Hayeon O et.al.|[2403.06501](http://arxiv.org/abs/2403.06501)|null|
+|**2024-03-11**|**3D Semantic Segmentation-Driven Representations for 3D Object Detection**|Hayeon O et.al.|[2403.06501](http://arxiv.org/abs/2403.06501)|**[link](https://github.com/hama-dl-dev/sesame)**|
 |**2024-03-11**|**Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**|Jiuming Liu et.al.|[2403.06467](http://arxiv.org/abs/2403.06467)|**[link](https://github.com/irmvlab/point-mamba)**|
 |**2024-03-11**|**Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation**|Xiaoyang Wang et.al.|[2403.06462](http://arxiv.org/abs/2403.06462)|null|
 |**2024-03-11**|**Refining Segmentation On-the-Fly: An Interactive Framework for Point Cloud Semantic Segmentation**|Peng Zhang et.al.|[2403.06401](http://arxiv.org/abs/2403.06401)|null|
