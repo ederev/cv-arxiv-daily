@@ -22,6 +22,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity**|Qiyuan Wang et.al.|[2403.09551](http://arxiv.org/abs/2403.09551)|null|
+|**2024-03-14**|**Annotation Free Semantic Segmentation with Vision Foundation Models**|Soroush Seifi et.al.|[2403.09307](http://arxiv.org/abs/2403.09307)|null|
+|**2024-03-14**|**When Semantic Segmentation Meets Frequency Aliasing**|Linwei Chen et.al.|[2403.09065](http://arxiv.org/abs/2403.09065)|**[link](https://github.com/linwei-chen/seg-aliasing)**|
+|**2024-03-13**|**CART: Caltech Aerial RGB-Thermal Dataset in the Wild**|Connor Lee et.al.|[2403.08997](http://arxiv.org/abs/2403.08997)|**[link](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)**|
+|**2024-03-13**|**SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion using a 3D Recurrent U-Net**|Helin Cao et.al.|[2403.08885](http://arxiv.org/abs/2403.08885)|null|
 |**2024-03-13**|**Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**|Yun Xin Teoh et.al.|[2403.08761](http://arxiv.org/abs/2403.08761)|null|
 |**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748](http://arxiv.org/abs/2403.08748)|null|
 |**2024-03-13**|**Semantic Segmentation of Solar Radio Spikes at Low Frequencies**|Pearse C. Murphy et.al.|[2403.08546](http://arxiv.org/abs/2403.08546)|null|
@@ -169,6 +174,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity**|Qiyuan Wang et.al.|[2403.09551](http://arxiv.org/abs/2403.09551)|null|
+|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|null|
+|**2024-03-14**|**Customizing Segmentation Foundation Model via Prompt Learning for Instance Segmentation**|Hyung-Il Kim et.al.|[2403.09199](http://arxiv.org/abs/2403.09199)|null|
+|**2024-03-14**|**When Semantic Segmentation Meets Frequency Aliasing**|Linwei Chen et.al.|[2403.09065](http://arxiv.org/abs/2403.09065)|**[link](https://github.com/linwei-chen/seg-aliasing)**|
 |**2024-03-09**|**Segmentation Guided Sparse Transformer for Under-Display Camera Image Restoration**|Jingyun Xue et.al.|[2403.05906](http://arxiv.org/abs/2403.05906)|null|
 |**2024-03-07**|**SAM-PD: How Far Can SAM Take Us in Tracking and Segmenting Anything in Videos by Prompt Denoising**|Tao Zhou et.al.|[2403.04194](http://arxiv.org/abs/2403.04194)|**[link](https://github.com/infzhou/sam-pd)**|
 |**2024-03-05**|**CenterDisks: Real-time instance segmentation with disk covering**|Katia Jodogne-Del Litto et.al.|[2403.03296](http://arxiv.org/abs/2403.03296)|**[link](https://github.com/katiajdl/centerdisks)**|
@@ -228,6 +237,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**PosSAM: Panoptic Open-vocabulary Segment Anything**|Vibashan VS et.al.|[2403.09620](http://arxiv.org/abs/2403.09620)|null|
 |**2024-03-01**|**Small, Versatile and Mighty: A Range-View Perception Framework**|Qiang Meng et.al.|[2403.00325](http://arxiv.org/abs/2403.00325)|null|
 |**2024-03-01**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422](http://arxiv.org/abs/2402.19422)|**[link](https://github.com/niccolocavagnero/pem)**|
 |**2024-02-23**|**Benchmarking the Robustness of Panoptic Segmentation for Automated Driving**|Yiting Wang et.al.|[2402.15469](http://arxiv.org/abs/2402.15469)|null|
@@ -252,6 +262,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization**|Zhao Wang et.al.|[2403.09433](http://arxiv.org/abs/2403.09433)|null|
+|**2024-03-14**|**D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection**|Dinh Phat Do et.al.|[2403.09359](http://arxiv.org/abs/2403.09359)|**[link](https://github.com/edwarddo69/d3t)**|
+|**2024-03-14**|**Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring**|Yufei Zhan et.al.|[2403.09333](http://arxiv.org/abs/2403.09333)|**[link](https://github.com/jefferyzhan/griffon)**|
+|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|null|
+|**2024-03-14**|**Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2403.09313](http://arxiv.org/abs/2403.09313)|**[link](https://github.com/remaro-network/kd-yolox-vit)**|
+|**2024-03-14**|**MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion**|Arul Selvam Periyasamy et.al.|[2403.09309](http://arxiv.org/abs/2403.09309)|null|
+|**2024-03-14**|**CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification**|Yiming Ma et.al.|[2403.09281](http://arxiv.org/abs/2403.09281)|null|
+|**2024-03-14**|**D-YOLO a robust framework for object detection in adverse weather conditions**|Zihan Chu et.al.|[2403.09233](http://arxiv.org/abs/2403.09233)|null|
+|**2024-03-14**|**Improving Distant 3D Object Detection Using 2D Box Supervision**|Zetong Yang et.al.|[2403.09230](http://arxiv.org/abs/2403.09230)|null|
+|**2024-03-14**|**PoIFusion: Multi-Modal 3D Object Detection via Fusion at Points of Interest**|Jiajun Deng et.al.|[2403.09212](http://arxiv.org/abs/2403.09212)|null|
 |**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760](http://arxiv.org/abs/2403.08760)|**[link](https://github.com/hustvl/mim4d)**|
 |**2024-03-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586](http://arxiv.org/abs/2403.08586)|null|
 |**2024-03-13**|**A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**|Ao Xiang et.al.|[2403.08511](http://arxiv.org/abs/2403.08511)|null|
@@ -504,6 +524,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
+|**2024-03-14**|**PosSAM: Panoptic Open-vocabulary Segment Anything**|Vibashan VS et.al.|[2403.09620](http://arxiv.org/abs/2403.09620)|null|
+|**2024-03-14**|**Renovating Names in Open-Vocabulary Segmentation Benchmarks**|Haiwen Huang et.al.|[2403.09593](http://arxiv.org/abs/2403.09593)|null|
+|**2024-03-14**|**Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization**|Zhao Wang et.al.|[2403.09433](http://arxiv.org/abs/2403.09433)|null|
+|**2024-03-14**|**OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments**|Yinan Deng et.al.|[2403.09412](http://arxiv.org/abs/2403.09412)|**[link](https://github.com/bit-dyn/opengraph)**|
 |**2024-03-14**|**Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation**|Daniel Honerkamp et.al.|[2403.08605](http://arxiv.org/abs/2403.08605)|null|
 |**2024-03-12**|**Learning Generalizable Feature Fields for Mobile Manipulation**|Ri-Zhao Qiu et.al.|[2403.07563](http://arxiv.org/abs/2403.07563)|null|
 |**2024-03-12**|**Open-Vocabulary Scene Text Recognition via Pseudo-Image Labeling and Margin Loss**|Xuhua Ren et.al.|[2403.07518](http://arxiv.org/abs/2403.07518)|null|
