@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
+|**2024-03-15**|**Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**|Hongyuan Yu et.al.|[2403.10413](http://arxiv.org/abs/2403.10413)|**[link](https://github.com/marvinyu1995/hyctas)**|
+|**2024-03-15**|**Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning**|Meixuan Li et.al.|[2403.10252](http://arxiv.org/abs/2403.10252)|null|
+|**2024-03-15**|**Exploring Optical Flow Inclusion into nnU-Net Framework for Surgical Instrument Segmentation**|Marcos Fernández-Rodríguez et.al.|[2403.10216](http://arxiv.org/abs/2403.10216)|null|
+|**2024-03-15**|**TransLandSeg: A Transfer Learning Approach for Landslide Semantic Segmentation Based on Vision Foundation Model**|Changhong Hou et.al.|[2403.10127](http://arxiv.org/abs/2403.10127)|null|
+|**2024-03-15**|**Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Jingyi Xu et.al.|[2403.10001](http://arxiv.org/abs/2403.10001)|**[link](https://github.com/etrontech/vfmseg)**|
 |**2024-03-14**|**WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity**|Qiyuan Wang et.al.|[2403.09551](http://arxiv.org/abs/2403.09551)|null|
 |**2024-03-14**|**Annotation Free Semantic Segmentation with Vision Foundation Models**|Soroush Seifi et.al.|[2403.09307](http://arxiv.org/abs/2403.09307)|null|
 |**2024-03-14**|**When Semantic Segmentation Meets Frequency Aliasing**|Linwei Chen et.al.|[2403.09065](http://arxiv.org/abs/2403.09065)|**[link](https://github.com/linwei-chen/seg-aliasing)**|
@@ -164,6 +170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects**|Malte Mosbach et.al.|[2403.10187](http://arxiv.org/abs/2403.10187)|null|
 |**2024-03-14**|**WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity**|Qiyuan Wang et.al.|[2403.09551](http://arxiv.org/abs/2403.09551)|null|
 |**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|**[link](https://github.com/r-j96/stainfuser)**|
 |**2024-03-14**|**Customizing Segmentation Foundation Model via Prompt Learning for Instance Segmentation**|Hyung-Il Kim et.al.|[2403.09199](http://arxiv.org/abs/2403.09199)|null|
@@ -248,6 +255,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353](http://arxiv.org/abs/2403.10353)|null|
+|**2024-03-15**|**Generative Region-Language Pretraining for Open-Ended Object Detection**|Chuang Lin et.al.|[2403.10191](http://arxiv.org/abs/2403.10191)|**[link](https://github.com/foundationvision/generateu)**|
+|**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
+|**2024-03-15**|**CSDNet: Detect Salient Object in Depth-Thermal via A Lightweight Cross Shallow and Deep Perception Network**|Xiaotong Yu et.al.|[2403.10104](http://arxiv.org/abs/2403.10104)|null|
+|**2024-03-15**|**SparseFusion: Efficient Sparse Multi-Modal Fusion Framework for Long-Range 3D Perception**|Yiheng Li et.al.|[2403.10036](http://arxiv.org/abs/2403.10036)|null|
+|**2024-03-14**|**Attention-based Class-Conditioned Alignment for Multi-Source Domain Adaptive Object Detection**|Atif Belal et.al.|[2403.09918](http://arxiv.org/abs/2403.09918)|null|
 |**2024-03-14**|**Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization**|Zhao Wang et.al.|[2403.09433](http://arxiv.org/abs/2403.09433)|null|
 |**2024-03-14**|**D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection**|Dinh Phat Do et.al.|[2403.09359](http://arxiv.org/abs/2403.09359)|**[link](https://github.com/edwarddo69/d3t)**|
 |**2024-03-14**|**Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring**|Yufei Zhan et.al.|[2403.09333](http://arxiv.org/abs/2403.09333)|**[link](https://github.com/jefferyzhan/griffon)**|
@@ -506,6 +519,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Generative Region-Language Pretraining for Open-Ended Object Detection**|Chuang Lin et.al.|[2403.10191](http://arxiv.org/abs/2403.10191)|**[link](https://github.com/foundationvision/generateu)**|
+|**2024-03-15**|**Do Visual-Language Maps Capture Latent Semantics?**|Matti Pekkanen et.al.|[2403.10117](http://arxiv.org/abs/2403.10117)|null|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
 |**2024-03-14**|**PosSAM: Panoptic Open-vocabulary Segment Anything**|Vibashan VS et.al.|[2403.09620](http://arxiv.org/abs/2403.09620)|null|
 |**2024-03-14**|**Renovating Names in Open-Vocabulary Segmentation Benchmarks**|Haiwen Huang et.al.|[2403.09593](http://arxiv.org/abs/2403.09593)|null|
