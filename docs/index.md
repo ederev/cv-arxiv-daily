@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693](http://arxiv.org/abs/2403.12693)|null|
+|**2024-03-19**|**PCT: Perspective Cue Training Framework for Multi-Camera BEV Segmentation**|Haruya Ishikawa et.al.|[2403.12530](http://arxiv.org/abs/2403.12530)|null|
+|**2024-03-19**|**Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation**|Xu Zheng et.al.|[2403.12505](http://arxiv.org/abs/2403.12505)|null|
+|**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|null|
+|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|null|
 |**2024-03-18**|**TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models**|Lisa Weijler et.al.|[2403.11691](http://arxiv.org/abs/2403.11691)|null|
 |**2024-03-18**|**OurDB: Ouroboric Domain Bridging for Multi-Target Domain Adaptive Semantic Segmentation**|Seungbeom Woo et.al.|[2403.11582](http://arxiv.org/abs/2403.11582)|null|
 |**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496](http://arxiv.org/abs/2403.11496)|null|
@@ -180,6 +185,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation**|Wenqi Zhu et.al.|[2403.12455](http://arxiv.org/abs/2403.12455)|**[link](https://github.com/zwq456/clip-vis)**|
+|**2024-03-19**|**Multi-Object RANSAC: Efficient Plane Clustering Method in a Clutter**|Seunghyeon Lim et.al.|[2403.12449](http://arxiv.org/abs/2403.12449)|null|
+|**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317](http://arxiv.org/abs/2403.12317)|null|
+|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812](http://arxiv.org/abs/2403.11812)|null|
 |**2024-03-18**|**Better (pseudo-)labels for semi-supervised instance segmentation**|François Porcher et.al.|[2403.11675](http://arxiv.org/abs/2403.11675)|null|
 |**2024-03-18**|**Synthesizing multi-log grasp poses**|Arvid Fälldin et.al.|[2403.11623](http://arxiv.org/abs/2403.11623)|null|
 |**2024-03-18**|**MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**|Chih-Chung Hsu et.al.|[2403.11576](http://arxiv.org/abs/2403.11576)|null|
@@ -272,6 +281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Wildfire danger prediction optimization with transfer learning**|Spiros Maggioros et.al.|[2403.12871](http://arxiv.org/abs/2403.12871)|**[link](https://github.com/spirosmaggioros/ForestFires)**|
+|**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693](http://arxiv.org/abs/2403.12693)|null|
+|**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
+|**2024-03-19**|**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**|Yixuan Wu et.al.|[2403.12488](http://arxiv.org/abs/2403.12488)|null|
+|**2024-03-19**|**TransformMix: Learning Transformation and Mixing Strategies from Data**|Tsz-Him Cheung et.al.|[2403.12429](http://arxiv.org/abs/2403.12429)|null|
+|**2024-03-19**|**VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**|Hao Wang et.al.|[2403.12415](http://arxiv.org/abs/2403.12415)|null|
+|**2024-03-19**|**Entity6K: A Large Open-Domain Evaluation Dataset for Real-World Entity Recognition**|Jielin Qiu et.al.|[2403.12339](http://arxiv.org/abs/2403.12339)|null|
+|**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317](http://arxiv.org/abs/2403.12317)|null|
+|**2024-03-18**|**Prototipo de un Contador Bidireccional Automático de Personas basado en sensores de visión 3D**|Benjamín Ojeda-Magaña et.al.|[2403.12310](http://arxiv.org/abs/2403.12310)|null|
+|**2024-03-18**|**Align and Distill: Unifying and Improving Domain Adaptive Object Detection**|Justin Kay et.al.|[2403.12029](http://arxiv.org/abs/2403.12029)|**[link](https://github.com/justinkay/aldi)**|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
 |**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
 |**2024-03-18**|**R2SNet: Scalable Domain Adaptation for Object Detection in Cloud-Based Robots Ecosystems via Proposal Refinement**|Michele Antonazzi et.al.|[2403.11567](http://arxiv.org/abs/2403.11567)|null|
@@ -547,6 +566,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents**|Jieming Cui et.al.|[2403.12835](http://arxiv.org/abs/2403.12835)|null|
+|**2024-03-19**|**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**|Yixuan Wu et.al.|[2403.12488](http://arxiv.org/abs/2403.12488)|null|
+|**2024-03-19**|**CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation**|Wenqi Zhu et.al.|[2403.12455](http://arxiv.org/abs/2403.12455)|**[link](https://github.com/zwq456/clip-vis)**|
+|**2024-03-19**|**VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**|Hao Wang et.al.|[2403.12415](http://arxiv.org/abs/2403.12415)|null|
+|**2024-03-19**|**OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation**|Junhao Cai et.al.|[2403.12396](http://arxiv.org/abs/2403.12396)|null|
+|**2024-03-18**|**OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation**|Haochen Jiang et.al.|[2403.11796](http://arxiv.org/abs/2403.11796)|null|
 |**2024-03-17**|**TAG: Guidance-free Open-Vocabulary Semantic Segmentation**|Yasufumi Kawano et.al.|[2403.11197](http://arxiv.org/abs/2403.11197)|**[link](https://github.com/valkyrja3607/tag)**|
 |**2024-03-17**|**MaskDiffusion: Exploiting Pre-trained Diffusion Models for Semantic Segmentation**|Yasufumi Kawano et.al.|[2403.11194](http://arxiv.org/abs/2403.11194)|**[link](https://github.com/valkyrja3607/maskdiffusion)**|
 |**2024-03-16**|**N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields**|Yash Bhalgat et.al.|[2403.10997](http://arxiv.org/abs/2403.10997)|null|
