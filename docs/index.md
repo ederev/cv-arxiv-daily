@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models**|Lisa Weijler et.al.|[2403.11691](http://arxiv.org/abs/2403.11691)|null|
+|**2024-03-18**|**OurDB: Ouroboric Domain Bridging for Multi-Target Domain Adaptive Semantic Segmentation**|Seungbeom Woo et.al.|[2403.11582](http://arxiv.org/abs/2403.11582)|null|
+|**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496](http://arxiv.org/abs/2403.11496)|null|
+|**2024-03-18**|**Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting**|Mingkui Tan et.al.|[2403.11491](http://arxiv.org/abs/2403.11491)|null|
+|**2024-03-17**|**TAG: Guidance-free Open-Vocabulary Semantic Segmentation**|Yasufumi Kawano et.al.|[2403.11197](http://arxiv.org/abs/2403.11197)|**[link](https://github.com/valkyrja3607/tag)**|
+|**2024-03-17**|**MaskDiffusion: Exploiting Pre-trained Diffusion Models for Semantic Segmentation**|Yasufumi Kawano et.al.|[2403.11194](http://arxiv.org/abs/2403.11194)|**[link](https://github.com/valkyrja3607/maskdiffusion)**|
+|**2024-03-17**|**DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation**|Yuanchen Wu et.al.|[2403.11184](http://arxiv.org/abs/2403.11184)|**[link](https://github.com/wu0409/dupl)**|
+|**2024-03-17**|**LERENet: Eliminating Intra-class Differences for Metal Surface Defect Few-shot Semantic Segmentation**|Hanze Ding et.al.|[2403.11122](http://arxiv.org/abs/2403.11122)|null|
+|**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|null|
+|**2024-03-17**|**Intelligent Railroad Grade Crossing: Leveraging Semantic Segmentation and Object Detection for Enhanced Safety**|Al Amin et.al.|[2403.11060](http://arxiv.org/abs/2403.11060)|null|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
 |**2024-03-15**|**Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**|Hongyuan Yu et.al.|[2403.10413](http://arxiv.org/abs/2403.10413)|**[link](https://github.com/marvinyu1995/hyctas)**|
 |**2024-03-15**|**Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning**|Meixuan Li et.al.|[2403.10252](http://arxiv.org/abs/2403.10252)|null|
@@ -170,6 +180,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Better (pseudo-)labels for semi-supervised instance segmentation**|François Porcher et.al.|[2403.11675](http://arxiv.org/abs/2403.11675)|null|
+|**2024-03-18**|**Synthesizing multi-log grasp poses**|Arvid Fälldin et.al.|[2403.11623](http://arxiv.org/abs/2403.11623)|null|
+|**2024-03-18**|**MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**|Chih-Chung Hsu et.al.|[2403.11576](http://arxiv.org/abs/2403.11576)|null|
+|**2024-03-18**|**Augment Before Copy-Paste: Data and Memory Efficiency-Oriented Instance Segmentation Framework for Sport-scenes**|Chih-Chung Hsu et.al.|[2403.11572](http://arxiv.org/abs/2403.11572)|null|
+|**2024-03-18**|**Circle Representation for Medical Instance Object Segmentation**|Juming Xiong et.al.|[2403.11507](http://arxiv.org/abs/2403.11507)|**[link](https://github.com/hrlblab/circlesnake)**|
+|**2024-03-18**|**ShapeFormer: Shape Prior Visible-to-Amodal Transformer-based Amodal Instance Segmentation**|Minh Tran et.al.|[2403.11376](http://arxiv.org/abs/2403.11376)|null|
+|**2024-03-16**|**Segment Any Object Model (SAOM): Real-to-Simulation Fine-Tuning Strategy for Multi-Class Multi-Instance Segmentation**|Mariia Khan et.al.|[2403.10780](http://arxiv.org/abs/2403.10780)|null|
 |**2024-03-15**|**Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects**|Malte Mosbach et.al.|[2403.10187](http://arxiv.org/abs/2403.10187)|null|
 |**2024-03-14**|**WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity**|Qiyuan Wang et.al.|[2403.09551](http://arxiv.org/abs/2403.09551)|null|
 |**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|**[link](https://github.com/r-j96/stainfuser)**|
@@ -255,6 +272,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
+|**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
+|**2024-03-18**|**R2SNet: Scalable Domain Adaptation for Object Detection in Cloud-Based Robots Ecosystems via Proposal Refinement**|Michele Antonazzi et.al.|[2403.11567](http://arxiv.org/abs/2403.11567)|null|
+|**2024-03-18**|**Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2403.11530](http://arxiv.org/abs/2403.11530)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
+|**2024-03-17**|**V2X-DGW: Domain Generalization for Multi-agent Perception under Adverse Weather Conditions**|Baolu Li et.al.|[2403.11371](http://arxiv.org/abs/2403.11371)|null|
+|**2024-03-17**|**Advanced Knowledge Extraction of Physical Design Drawings, Translation and conversion to CAD formats using Deep Learning**|Jesher Joshua M et.al.|[2403.11291](http://arxiv.org/abs/2403.11291)|null|
+|**2024-03-17**|**ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models**|Siyuan Huang et.al.|[2403.11289](http://arxiv.org/abs/2403.11289)|null|
+|**2024-03-19**|**CPA-Enhancer: Chain-of-Thought Prompted Adaptive Enhancer for Object Detection under Unknown Degradations**|Yuwei Zhang et.al.|[2403.11220](http://arxiv.org/abs/2403.11220)|**[link](https://github.com/zyw-stu/CPA-Enhancer)**|
+|**2024-03-19**|**GRA: Detecting Oriented Objects through Group-wise Rotating and Attention**|Jiangshan Wang et.al.|[2403.11127](http://arxiv.org/abs/2403.11127)|null|
+|**2024-03-17**|**Self-supervised co-salient object detection via feature correspondence at multiple scales**|Souradeep Chakraborty et.al.|[2403.11107](http://arxiv.org/abs/2403.11107)|**[link](https://github.com/sourachakra/scosparc)**|
 |**2024-03-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353](http://arxiv.org/abs/2403.10353)|null|
 |**2024-03-15**|**Generative Region-Language Pretraining for Open-Ended Object Detection**|Chuang Lin et.al.|[2403.10191](http://arxiv.org/abs/2403.10191)|**[link](https://github.com/foundationvision/generateu)**|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
@@ -498,6 +525,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
@@ -519,6 +547,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**TAG: Guidance-free Open-Vocabulary Semantic Segmentation**|Yasufumi Kawano et.al.|[2403.11197](http://arxiv.org/abs/2403.11197)|**[link](https://github.com/valkyrja3607/tag)**|
+|**2024-03-17**|**MaskDiffusion: Exploiting Pre-trained Diffusion Models for Semantic Segmentation**|Yasufumi Kawano et.al.|[2403.11194](http://arxiv.org/abs/2403.11194)|**[link](https://github.com/valkyrja3607/maskdiffusion)**|
+|**2024-03-16**|**N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields**|Yash Bhalgat et.al.|[2403.10997](http://arxiv.org/abs/2403.10997)|null|
+|**2024-03-16**|**Unsupervised Collaborative Metric Learning with Mixed-Scale Groups for General Object Retrieval**|Shichao Kan et.al.|[2403.10798](http://arxiv.org/abs/2403.10798)|**[link](https://github.com/dengyuhai/ms-ugcml)**|
 |**2024-03-15**|**Generative Region-Language Pretraining for Open-Ended Object Detection**|Chuang Lin et.al.|[2403.10191](http://arxiv.org/abs/2403.10191)|**[link](https://github.com/foundationvision/generateu)**|
 |**2024-03-15**|**Do Visual-Language Maps Capture Latent Semantics?**|Matti Pekkanen et.al.|[2403.10117](http://arxiv.org/abs/2403.10117)|null|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
