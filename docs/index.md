@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Learning to Project for Cross-Task Knowledge Distillation**|Dylan Auty et.al.|[2403.14494](http://arxiv.org/abs/2403.14494)|null|
+|**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|null|
+|**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
+|**2024-03-21**|**OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation**|Kwanyoung Kim et.al.|[2403.14183](http://arxiv.org/abs/2403.14183)|null|
+|**2024-03-21**|**Evidential Semantic Mapping in Off-road Environments with Uncertainty-aware Bayesian Kernel Inference**|Junyoung Kim et.al.|[2403.14138](http://arxiv.org/abs/2403.14138)|null|
+|**2024-03-21**|**Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling**|Yong He et.al.|[2403.14124](http://arxiv.org/abs/2403.14124)|null|
+|**2024-03-21**|**Semantics from Space: Satellite-Guided Thermal Semantic Segmentation Annotation for Aerial Field Robots**|Connor Lee et.al.|[2403.14056](http://arxiv.org/abs/2403.14056)|null|
 |**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762](http://arxiv.org/abs/2403.13762)|null|
 |**2024-03-20**|**Next day fire prediction via semantic segmentation**|Konstantinos Alexis et.al.|[2403.13545](http://arxiv.org/abs/2403.13545)|null|
 |**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430](http://arxiv.org/abs/2403.13430)|**[link](https://github.com/vitae-transformer/mtp)**|
@@ -265,6 +272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**|Zheng Zhang et.al.|[2403.14598](http://arxiv.org/abs/2403.14598)|**[link](https://github.com/zamling/psalm)**|
 |**2024-03-14**|**PosSAM: Panoptic Open-vocabulary Segment Anything**|Vibashan VS et.al.|[2403.09620](http://arxiv.org/abs/2403.09620)|**[link](https://github.com/Vibashan/PosSAM)**|
 |**2024-03-01**|**Small, Versatile and Mighty: A Range-View Perception Framework**|Qiang Meng et.al.|[2403.00325](http://arxiv.org/abs/2403.00325)|null|
 |**2024-03-01**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422](http://arxiv.org/abs/2402.19422)|**[link](https://github.com/niccolocavagnero/pem)**|
@@ -288,6 +296,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy**|Qing Jiang et.al.|[2403.14610](http://arxiv.org/abs/2403.14610)|**[link](https://github.com/idea-research/t-rex)**|
+|**2024-03-21**|**UAV-Assisted Maritime Search and Rescue: A Holistic Approach**|Martin Messmer et.al.|[2403.14281](http://arxiv.org/abs/2403.14281)|null|
+|**2024-03-21**|**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**|Tim Salzmann et.al.|[2403.14270](http://arxiv.org/abs/2403.14270)|null|
+|**2024-03-21**|**3D Object Detection from Point Cloud via Voting Step Diffusion**|Haoran Hou et.al.|[2403.14133](http://arxiv.org/abs/2403.14133)|null|
+|**2024-03-20**|**EcoSense: Energy-Efficient Intelligent Sensing for In-Shore Ship Detection through Edge-Cloud Collaboration**|Wenjun Huang et.al.|[2403.14027](http://arxiv.org/abs/2403.14027)|null|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805](http://arxiv.org/abs/2403.13805)|null|
 |**2024-03-20**|**Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments**|Yang Yang et.al.|[2403.13803](http://arxiv.org/abs/2403.13803)|null|
 |**2024-03-20**|**Fostc3net:A Lightweight YOLOv5 Based On the Network Structure Optimization**|Danqing Ma et.al.|[2403.13703](http://arxiv.org/abs/2403.13703)|null|
@@ -582,6 +595,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**|Zheng Zhang et.al.|[2403.14598](http://arxiv.org/abs/2403.14598)|**[link](https://github.com/zamling/psalm)**|
+|**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320](http://arxiv.org/abs/2403.14320)|null|
+|**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
+|**2024-03-21**|**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**|Tim Salzmann et.al.|[2403.14270](http://arxiv.org/abs/2403.14270)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
 |**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777](http://arxiv.org/abs/2403.13777)|null|
 |**2024-03-20**|**Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments**|Djamahl Etchegaray et.al.|[2403.13556](http://arxiv.org/abs/2403.13556)|null|
