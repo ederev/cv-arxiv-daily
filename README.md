@@ -22,6 +22,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|null|
+|**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|null|
+|**2024-03-22**|**Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion**|Sofia Casarin et.al.|[2403.15194](http://arxiv.org/abs/2403.15194)|null|
+|**2024-03-22**|**Improve Cross-domain Mixed Sampling with Guidance Training for Adaptive Segmentation**|Wenlve Zhou et.al.|[2403.14995](http://arxiv.org/abs/2403.14995)|null|
+|**2024-03-21**|**WeatherProof: Leveraging Language Guidance for Semantic Segmentation in Adverse Weather**|Blake Gella et.al.|[2403.14874](http://arxiv.org/abs/2403.14874)|null|
 |**2024-03-21**|**Learning to Project for Cross-Task Knowledge Distillation**|Dylan Auty et.al.|[2403.14494](http://arxiv.org/abs/2403.14494)|null|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
@@ -208,6 +213,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**BSNet: Box-Supervised Simulation-assisted Mean Teacher for 3D Instance Segmentation**|Jiahao Lu et.al.|[2403.15019](http://arxiv.org/abs/2403.15019)|null|
 |**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430](http://arxiv.org/abs/2403.13430)|**[link](https://github.com/vitae-transformer/mtp)**|
 |**2024-03-19**|**CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation**|Wenqi Zhu et.al.|[2403.12455](http://arxiv.org/abs/2403.12455)|**[link](https://github.com/zwq456/clip-vis)**|
 |**2024-03-19**|**Multi-Object RANSAC: Efficient Plane Clustering Method in a Clutter**|Seunghyeon Lim et.al.|[2403.12449](http://arxiv.org/abs/2403.12449)|null|
@@ -310,6 +316,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection**|Hongzhi Gao et.al.|[2403.15317](http://arxiv.org/abs/2403.15317)|null|
+|**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313](http://arxiv.org/abs/2403.15313)|null|
+|**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241](http://arxiv.org/abs/2403.15241)|null|
+|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192](http://arxiv.org/abs/2403.15192)|**[link](https://github.com/yimeng-fan/SFOD)**|
+|**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183](http://arxiv.org/abs/2403.15183)|null|
+|**2024-03-22**|**An In-Depth Analysis of Data Reduction Methods for Sustainable Deep Learning**|Víctor Toscano-Durán et.al.|[2403.15150](http://arxiv.org/abs/2403.15150)|null|
+|**2024-03-22**|**Gradient-based Sampling for Class Imbalanced Semi-supervised Object Detection**|Jiaming Li et.al.|[2403.15127](http://arxiv.org/abs/2403.15127)|**[link](https://github.com/nightkeepers/ci-ssod)**|
+|**2024-03-22**|**VRSO: Visual-Centric Reconstruction for Static Object Annotation**|Chenyao Yu et.al.|[2403.15026](http://arxiv.org/abs/2403.15026)|null|
+|**2024-03-21**|**Deep Active Learning: A Reality Check**|Edrina Gashi et.al.|[2403.14800](http://arxiv.org/abs/2403.14800)|null|
+|**2024-03-21**|**Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering**|Bowen Jiang et.al.|[2403.14783](http://arxiv.org/abs/2403.14783)|**[link](https://github.com/bowen-upenn/Multi-Agent-VQA)**|
 |**2024-03-21**|**T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy**|Qing Jiang et.al.|[2403.14610](http://arxiv.org/abs/2403.14610)|**[link](https://github.com/idea-research/t-rex)**|
 |**2024-03-21**|**UAV-Assisted Maritime Search and Rescue: A Holistic Approach**|Martin Messmer et.al.|[2403.14281](http://arxiv.org/abs/2403.14281)|null|
 |**2024-03-21**|**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**|Tim Salzmann et.al.|[2403.14270](http://arxiv.org/abs/2403.14270)|null|
