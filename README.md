@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**I2CKD : Intra- and Inter-Class Knowledge Distillation for Semantic Segmentation**|Ayoub Karine et.al.|[2403.18490](http://arxiv.org/abs/2403.18490)|null|
+|**2024-03-27**|**ViTAR: Vision Transformer with Any Resolution**|Qihang Fan et.al.|[2403.18361](http://arxiv.org/abs/2403.18361)|null|
+|**2024-03-27**|**Generating Diverse Agricultural Data for Vision-Based Farming Applications**|Mikolaj Cieslak et.al.|[2403.18351](http://arxiv.org/abs/2403.18351)|null|
+|**2024-03-27**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al.|[2403.18207](http://arxiv.org/abs/2403.18207)|null|
 |**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921](http://arxiv.org/abs/2403.17921)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
 |**2024-03-26**|**Compressed Multi-task embeddings for Data-Efficient Downstream training and inference in Earth Observation**|Carlos Gomes et.al.|[2403.17886](http://arxiv.org/abs/2403.17886)|null|
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695](http://arxiv.org/abs/2403.17695)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
@@ -229,6 +233,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Annolid: Annotate, Segment, and Track Anything You Need**|Chen Yang et.al.|[2403.18690](http://arxiv.org/abs/2403.18690)|null|
+|**2024-03-26**|**Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer**|Badri N. Patro et.al.|[2403.18063](http://arxiv.org/abs/2403.18063)|**[link](https://github.com/badripatro/sct)**|
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695](http://arxiv.org/abs/2403.17695)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
 |**2024-03-25**|**GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation**|Weiming Zhang et.al.|[2403.16370](http://arxiv.org/abs/2403.16370)|null|
 |**2024-03-24**|**AutoInst: Automatic Instance-Based Segmentation of LiDAR 3D Scans**|Cedric Perauer et.al.|[2403.16318](http://arxiv.org/abs/2403.16318)|null|
@@ -336,6 +342,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819](http://arxiv.org/abs/2403.18819)|null|
+|**2024-03-27**|**PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations**|Ehsan Latif et.al.|[2403.18721](http://arxiv.org/abs/2403.18721)|null|
+|**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554](http://arxiv.org/abs/2403.18554)|null|
+|**2024-03-27**|**BAM: Box Abstraction Monitors for Real-time OoD Detection in Object Detection**|Changshun Wu et.al.|[2403.18373](http://arxiv.org/abs/2403.18373)|null|
+|**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370](http://arxiv.org/abs/2403.18370)|**[link](https://github.com/luigisigillo/shipinsight)**|
+|**2024-03-27**|**DODA: Diffusion for Object-detection Domain Adaptation in Agriculture**|Shuai Xiang et.al.|[2403.18334](http://arxiv.org/abs/2403.18334)|null|
+|**2024-03-27**|**Tracking-Assisted Object Detection with Event Cameras**|Ting-Kang Yen et.al.|[2403.18330](http://arxiv.org/abs/2403.18330)|null|
+|**2024-03-27**|**SGDM: Static-Guided Dynamic Module Make Stronger Visual Models**|Wenjie Xing et.al.|[2403.18282](http://arxiv.org/abs/2403.18282)|null|
+|**2024-03-27**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al.|[2403.18207](http://arxiv.org/abs/2403.18207)|null|
+|**2024-03-26**|**State of the art applications of deep learning within tracking and detecting marine debris: A survey**|Zoe Moorton et.al.|[2403.18067](http://arxiv.org/abs/2403.18067)|null|
 |**2024-03-26**|**The Solution for the CVPR 2023 1st foundation model challenge-Track2**|Haonan Xu et.al.|[2403.17702](http://arxiv.org/abs/2403.17702)|null|
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695](http://arxiv.org/abs/2403.17695)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
 |**2024-03-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633](http://arxiv.org/abs/2403.17633)|null|
@@ -641,6 +657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|**[link](https://github.com/yuyangpoi/fe-detr)**|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
