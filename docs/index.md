@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation**|Hui Xiao et.al.|[2404.02065](http://arxiv.org/abs/2404.02065)|null|
+|**2024-04-02**|**Synthetic Data for Robust Stroke Segmentation**|Liam Chalcroft et.al.|[2404.01946](http://arxiv.org/abs/2404.01946)|**[link](https://github.com/liamchalcroft/synthstroke)**|
+|**2024-04-02**|**Improving Bird's Eye View Semantic Segmentation by Task Decomposition**|Tianhao Zhao et.al.|[2404.01925](http://arxiv.org/abs/2404.01925)|null|
+|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705](http://arxiv.org/abs/2404.01705)|null|
+|**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692](http://arxiv.org/abs/2404.01692)|null|
+|**2024-04-01**|**PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation**|Jinfeng Xu et.al.|[2404.00979](http://arxiv.org/abs/2404.00979)|**[link](https://github.com/jinfengx/pointcloudpdf)**|
+|**2024-04-01**|**GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields**|Yunsong Wang et.al.|[2404.00931](http://arxiv.org/abs/2404.00931)|**[link](https://github.com/wangys16/gov-nesf)**|
+|**2024-04-02**|**Rethinking Saliency-Guided Weakly-Supervised Semantic Segmentation**|Beomyoung Kim et.al.|[2404.00918](http://arxiv.org/abs/2404.00918)|null|
+|**2024-03-31**|**Training-Free Semantic Segmentation via LLM-Supervision**|Wenfang Sun et.al.|[2404.00701](http://arxiv.org/abs/2404.00701)|null|
+|**2024-03-31**|**LAESI: Leaf Area Estimation with Synthetic Imagery**|Jacek Kałużny et.al.|[2404.00593](http://arxiv.org/abs/2404.00593)|null|
 |**2024-03-29**|**Modeling Weather Uncertainty for Multi-weather Co-Presence Estimation**|Qi Bi et.al.|[2403.20092](http://arxiv.org/abs/2403.20092)|null|
 |**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888](http://arxiv.org/abs/2403.19888)|null|
 |**2024-03-28**|**Segmentation Re-thinking Uncertainty Estimation Metrics for Semantic Segmentation**|Qitian Ma et.al.|[2403.19826](http://arxiv.org/abs/2403.19826)|null|
@@ -231,6 +241,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
+|**2024-04-01**|**What is Point Supervision Worth in Video Instance Segmentation?**|Shuaiyi Huang et.al.|[2404.01990](http://arxiv.org/abs/2404.01990)|null|
+|**2024-04-01**|**SUGAR: Pre-training 3D Visual Representations for Robotics**|Shizhe Chen et.al.|[2404.01491](http://arxiv.org/abs/2404.01491)|null|
+|**2024-04-01**|**Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge**|Bo Zou et.al.|[2404.01013](http://arxiv.org/abs/2404.01013)|null|
+|**2024-04-01**|**Instance-Aware Group Quantization for Vision Transformers**|Jaehyeon Moon et.al.|[2404.00928](http://arxiv.org/abs/2404.00928)|null|
+|**2024-03-29**|**Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels**|Hannah Kerner et.al.|[2404.00179](http://arxiv.org/abs/2404.00179)|null|
+|**2024-03-29**|**FISBe: A real-world benchmark dataset for instance segmentation of long-range thin filamentous structures**|Lisa Mais et.al.|[2404.00130](http://arxiv.org/abs/2404.00130)|null|
 |**2024-03-29**|**ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning**|Beomyoung Kim et.al.|[2403.20126](http://arxiv.org/abs/2403.20126)|**[link](https://github.com/clovaai/ECLIPSE)**|
 |**2024-04-01**|**Efficient 3D Instance Mapping and Localization with Neural Fields**|George Tang et.al.|[2403.19797](http://arxiv.org/abs/2403.19797)|null|
 |**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|**[link](https://github.com/naver-ai/rdnet)**|
@@ -315,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments**|Duy-Tho Le et.al.|[2404.01686](http://arxiv.org/abs/2404.01686)|null|
 |**2024-03-29**|**ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning**|Beomyoung Kim et.al.|[2403.20126](http://arxiv.org/abs/2403.20126)|**[link](https://github.com/clovaai/ECLIPSE)**|
 |**2024-03-29**|**Using Images as Covariates: Measuring Curb Appeal with Deep Learning**|Ardyn Nordstrom et.al.|[2403.19915](http://arxiv.org/abs/2403.19915)|null|
 |**2024-03-21**|**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**|Zheng Zhang et.al.|[2403.14598](http://arxiv.org/abs/2403.14598)|**[link](https://github.com/zamling/psalm)**|
@@ -341,6 +359,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**EGTR: Extracting Graph from Transformer for Scene Graph Generation**|Jinbae Im et.al.|[2404.02072](http://arxiv.org/abs/2404.02072)|**[link](https://github.com/naver-ai/egtr)**|
+|**2024-04-02**|**Cooperative Students: Navigating Unsupervised Domain Adaptation in Nighttime Object Detection**|Jicheng Yuan et.al.|[2404.01988](http://arxiv.org/abs/2404.01988)|**[link](https://github.com/jichengyuan/cooperitive_students)**|
+|**2024-04-02**|**Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method**|Jyun-An Lin et.al.|[2404.01929](http://arxiv.org/abs/2404.01929)|null|
+|**2024-04-02**|**Scene Adaptive Sparse Transformer for Event-based Object Detection**|Yansong Peng et.al.|[2404.01882](http://arxiv.org/abs/2404.01882)|**[link](https://github.com/peterande/sast)**|
+|**2024-04-02**|**Semi-Supervised Domain Adaptation for Wildfire Detection**|JooYoung Jang et.al.|[2404.01842](http://arxiv.org/abs/2404.01842)|null|
+|**2024-04-02**|**Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection**|Tahira Shehzadi et.al.|[2404.01819](http://arxiv.org/abs/2404.01819)|null|
+|**2024-04-02**|**Analyzing the Single Event Upset Vulnerability of Binarized Neural Networks on SRAM FPGAs**|Ioanna Souvatzoglou et.al.|[2404.01757](http://arxiv.org/abs/2404.01757)|null|
+|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|null|
+|**2024-04-02**|**Task Integration Distillation for Object Detectors**|Hai Su et.al.|[2404.01699](http://arxiv.org/abs/2404.01699)|null|
+|**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692](http://arxiv.org/abs/2404.01692)|null|
 |**2024-03-29**|**PLoc: A New Evaluation Criterion Based on Physical Location for Autonomous Driving Datasets**|Ruining Yang et.al.|[2403.19893](http://arxiv.org/abs/2403.19893)|null|
 |**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888](http://arxiv.org/abs/2403.19888)|null|
 |**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|**[link](https://github.com/naver-ai/rdnet)**|
@@ -689,6 +717,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
+|**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
+|**2024-04-01**|**OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation**|Xiongwei Wu et.al.|[2404.01409](http://arxiv.org/abs/2404.01409)|null|
+|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|null|
+|**2024-04-01**|**GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields**|Yunsong Wang et.al.|[2404.00931](http://arxiv.org/abs/2404.00931)|**[link](https://github.com/wangys16/gov-nesf)**|
+|**2024-04-01**|**From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models**|Rongjie Li et.al.|[2404.00906](http://arxiv.org/abs/2404.00906)|null|
+|**2024-03-31**|**Training-Free Semantic Segmentation via LLM-Supervision**|Wenfang Sun et.al.|[2404.00701](http://arxiv.org/abs/2404.00701)|null|
+|**2024-03-30**|**Do Vision-Language Models Understand Compound Nouns?**|Sonal Kumar et.al.|[2404.00419](http://arxiv.org/abs/2404.00419)|null|
+|**2024-03-30**|**Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation**|Yuan Wang et.al.|[2404.00262](http://arxiv.org/abs/2404.00262)|null|
 |**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105](http://arxiv.org/abs/2403.20105)|null|
 |**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922](http://arxiv.org/abs/2403.18922)|null|
