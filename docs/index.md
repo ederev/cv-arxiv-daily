@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segmentation**|Izumi Fujimori et.al.|[2404.03394](http://arxiv.org/abs/2404.03394)|null|
 |**2024-04-03**|**GPU-Accelerated RSF Level Set Evolution for Large-Scale Microvascular Segmentation**|Meher Niger et.al.|[2404.02813](http://arxiv.org/abs/2404.02813)|null|
 |**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
 |**2024-04-03**|**A Satellite Band Selection Framework for Amazon Forest Deforestation Detection Task**|Eduardo Neto et.al.|[2404.02659](http://arxiv.org/abs/2404.02659)|null|
@@ -250,6 +251,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657](http://arxiv.org/abs/2404.03657)|null|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191](http://arxiv.org/abs/2404.03191)|null|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
 |**2024-04-01**|**What is Point Supervision Worth in Video Instance Segmentation?**|Shuaiyi Huang et.al.|[2404.01990](http://arxiv.org/abs/2404.01990)|null|
 |**2024-04-01**|**SUGAR: Pre-training 3D Visual Representations for Robotics**|Shizhe Chen et.al.|[2404.01491](http://arxiv.org/abs/2404.01491)|null|
@@ -368,6 +371,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539](http://arxiv.org/abs/2404.03539)|**[link](https://github.com/lorebianchi98/fg-clip)**|
+|**2024-04-04**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|null|
+|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
+|**2024-04-04**|**MonoCD: Monocular 3D Object Detection with Complementary Depths**|Longfei Yan et.al.|[2404.03181](http://arxiv.org/abs/2404.03181)|**[link](https://github.com/elvintanhust/monocd)**|
+|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015](http://arxiv.org/abs/2404.03015)|null|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|null|
 |**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517](http://arxiv.org/abs/2404.02517)|**[link](https://github.com/vdigpku/henet)**|
@@ -730,6 +738,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539](http://arxiv.org/abs/2404.03539)|**[link](https://github.com/lorebianchi98/fg-clip)**|
+|**2024-04-04**|**Learning Transferable Negative Prompts for Out-of-Distribution Detection**|Tianqi Li et.al.|[2404.03248](http://arxiv.org/abs/2404.03248)|**[link](https://github.com/mala-lab/negprompt)**|
+|**2024-04-04**|**LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity**|Walid Bousselham et.al.|[2404.03214](http://arxiv.org/abs/2404.03214)|null|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**Low-resource neural machine translation with morphological modeling**|Antoine Nzeyimana et.al.|[2404.02392](http://arxiv.org/abs/2404.02392)|**[link](https://github.com/anzeyimana/kinmt_naacl2024)**|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
