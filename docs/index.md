@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -779,7 +779,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-09**|**Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**|Ting Lei et.al.|[2404.06194](http://arxiv.org/abs/2404.06194)|**[link](https://github.com/ltttpku/cmd-se-release)**|
+|**2024-04-10**|**Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**|Ting Lei et.al.|[2404.06194](http://arxiv.org/abs/2404.06194)|**[link](https://github.com/ltttpku/cmd-se-release)**|
 |**2024-04-08**|**Retrieval-Augmented Open-Vocabulary Object Detection**|Jooyeon Kim et.al.|[2404.05687](http://arxiv.org/abs/2404.05687)|**[link](https://github.com/mlvlab/RALF)**|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
 |**2024-04-07**|**Hyperbolic Learning with Synthetic Captions for Open-World Detection**|Fanjie Kong et.al.|[2404.05016](http://arxiv.org/abs/2404.05016)|null|
