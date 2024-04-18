@@ -51,3 +51,5 @@ keywords:
         filters: ["Object Detection"]
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
+    "Image Captioning":
+        filters: ["Image Captioning"]
