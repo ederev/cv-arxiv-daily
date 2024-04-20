@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 |**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330](http://arxiv.org/abs/2404.12330)|null|
 |**2024-04-18**|**Deep Gaussian mixture model for unsupervised image segmentation**|Matthias Schwab et.al.|[2404.12252](http://arxiv.org/abs/2404.12252)|null|
-|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|null|
+|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|**[link](https://github.com/wangsr126/mae-lite)**|
 |**2024-04-18**|**How to Benchmark Vision Foundation Models for Semantic Segmentation?**|Tommie Kerssies et.al.|[2404.12172](http://arxiv.org/abs/2404.12172)|null|
 |**2024-04-18**|**Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation**|Chongjie Si et.al.|[2404.11981](http://arxiv.org/abs/2404.11981)|null|
 |**2024-04-18**|**Group-On: Boosting One-Shot Segmentation with Supportive Query**|Hanjing Zhou et.al.|[2404.11871](http://arxiv.org/abs/2404.11871)|null|
@@ -321,7 +321,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285](http://arxiv.org/abs/2404.12285)|null|
-|**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144](http://arxiv.org/abs/2404.12144)|null|
+|**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144](http://arxiv.org/abs/2404.12144)|**[link](https://github.com/georgeretsi/mushroom-pose)**|
 |**2024-04-18**|**The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models**|Cheng Shi et.al.|[2404.11957](http://arxiv.org/abs/2404.11957)|**[link](https://github.com/chengshiest/zip-your-clip)**|
 |**2024-04-17**|**Criteria for Uncertainty-based Corner Cases Detection in Instance Segmentation**|Florian Heidecker et.al.|[2404.11266](http://arxiv.org/abs/2404.11266)|null|
 |**2024-04-12**|**SEVD: Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception**|Manideep Reddy Aliminati et.al.|[2404.10540](http://arxiv.org/abs/2404.10540)|null|
