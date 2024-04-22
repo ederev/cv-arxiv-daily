@@ -23,6 +23,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861](http://arxiv.org/abs/2404.12861)|null|
+|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832](http://arxiv.org/abs/2404.12832)|**[link](https://github.com/dmytro-shvetsov/counterfactual-search)**|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
+|**2024-04-19**|**Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework**|Zhuohong Li et.al.|[2404.12721](http://arxiv.org/abs/2404.12721)|**[link](https://github.com/lizhuohong/segland)**|
+|**2024-04-19**|**Improving Prediction Accuracy of Semantic Segmentation Methods Using Convolutional Autoencoder Based Pre-processing Layers**|Hisashi Shimodaira et.al.|[2404.12718](http://arxiv.org/abs/2404.12718)|null|
+|**2024-04-19**|**Show and Grasp: Few-shot Semantic Segmentation for Robot Grasping through Zero-shot Foundation Models**|Leonardo Barcellona et.al.|[2404.12717](http://arxiv.org/abs/2404.12717)|null|
 |**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330](http://arxiv.org/abs/2404.12330)|null|
 |**2024-04-18**|**Deep Gaussian mixture model for unsupervised image segmentation**|Matthias Schwab et.al.|[2404.12252](http://arxiv.org/abs/2404.12252)|null|
 |**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|**[link](https://github.com/wangsr126/mae-lite)**|
@@ -320,6 +326,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Nuclei Instance Segmentation of Cryosectioned H&E Stained Histological Images using Triple U-Net Architecture**|Zarif Ahmed et.al.|[2404.12986](http://arxiv.org/abs/2404.12986)|null|
+|**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/abs/2404.12867)|null|
+|**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440](http://arxiv.org/abs/2404.12440)|null|
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285](http://arxiv.org/abs/2404.12285)|null|
 |**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144](http://arxiv.org/abs/2404.12144)|**[link](https://github.com/georgeretsi/mushroom-pose)**|
 |**2024-04-18**|**The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models**|Cheng Shi et.al.|[2404.11957](http://arxiv.org/abs/2404.11957)|**[link](https://github.com/chengshiest/zip-your-clip)**|
@@ -462,6 +471,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**A comparison between single-stage and two-stage 3D tracking algorithms for greenhouse robotics**|David Rapado-Rincon et.al.|[2404.12963](http://arxiv.org/abs/2404.12963)|null|
+|**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[2404.12856](http://arxiv.org/abs/2404.12856)|null|
+|**2024-04-19**|**ECOR: Explainable CLIP for Object Recognition**|Ali Rasekh et.al.|[2404.12839](http://arxiv.org/abs/2404.12839)|null|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
+|**2024-04-19**|**ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation**|Yu-Hsuan Ho et.al.|[2404.12606](http://arxiv.org/abs/2404.12606)|null|
 |**2024-04-18**|**The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models**|Cheng Shi et.al.|[2404.11957](http://arxiv.org/abs/2404.11957)|**[link](https://github.com/chengshiest/zip-your-clip)**|
 |**2024-04-18**|**Simultaneous Detection and Interaction Reasoning for Object-Centric Action Recognition**|Xunsong Li et.al.|[2404.11903](http://arxiv.org/abs/2404.11903)|null|
 |**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803](http://arxiv.org/abs/2404.11803)|null|
@@ -870,6 +884,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985](http://arxiv.org/abs/2404.10985)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
@@ -898,6 +913,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**ECOR: Explainable CLIP for Object Recognition**|Ali Rasekh et.al.|[2404.12839](http://arxiv.org/abs/2404.12839)|null|
+|**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440](http://arxiv.org/abs/2404.12440)|null|
 |**2024-04-18**|**The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models**|Cheng Shi et.al.|[2404.11957](http://arxiv.org/abs/2404.11957)|**[link](https://github.com/chengshiest/zip-your-clip)**|
 |**2024-04-17**|**OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding**|Edmond Tong et.al.|[2404.11000](http://arxiv.org/abs/2404.11000)|null|
 |**2024-04-16**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
@@ -1018,6 +1035,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
+|**2024-04-19**|**MM-PhyRLHF: Reinforcement Learning Framework for Multimodal Physics Question-Answering**|Avinash Anand et.al.|[2404.12926](http://arxiv.org/abs/2404.12926)|null|
+|**2024-04-19**|**The Solution for the CVPR2024 NICE Image Captioning Challenge**|Longfei Huang et.al.|[2404.12739](http://arxiv.org/abs/2404.12739)|null|
 |**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763](http://arxiv.org/abs/2404.10763)|**[link](https://github.com/wangyuchi369/ladic)**|
 |**2024-04-15**|**ANCHOR: LLM-driven News Subject Conditioning for Text-to-Image Synthesis**|Aashish Anantha Ramakrishnan et.al.|[2404.10141](http://arxiv.org/abs/2404.10141)|**[link](https://github.com/aashish2000/anchor)**|
 |**2024-04-15**|**Bridging Vision and Language Spaces with Assignment Prediction**|Jungin Park et.al.|[2404.09632](http://arxiv.org/abs/2404.09632)|**[link](https://github.com/park-jungin/vlap)**|
