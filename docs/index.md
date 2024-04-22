@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.21
+## Updated on 2024.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -18,7 +18,7 @@ layout: default
 |**2024-04-18**|**Deep Gaussian mixture model for unsupervised image segmentation**|Matthias Schwab et.al.|[2404.12252](http://arxiv.org/abs/2404.12252)|null|
 |**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|**[link](https://github.com/wangsr126/mae-lite)**|
 |**2024-04-18**|**How to Benchmark Vision Foundation Models for Semantic Segmentation?**|Tommie Kerssies et.al.|[2404.12172](http://arxiv.org/abs/2404.12172)|null|
-|**2024-04-18**|**Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation**|Chongjie Si et.al.|[2404.11981](http://arxiv.org/abs/2404.11981)|null|
+|**2024-04-19**|**Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation**|Chongjie Si et.al.|[2404.11981](http://arxiv.org/abs/2404.11981)|null|
 |**2024-04-18**|**Group-On: Boosting One-Shot Segmentation with Supportive Query**|Hanjing Zhou et.al.|[2404.11871](http://arxiv.org/abs/2404.11871)|null|
 |**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
@@ -456,7 +456,7 @@ layout: default
 |**2024-04-17**|**EcoMLS: A Self-Adaptation Approach for Architecting Green ML-Enabled Systems**|Meghana Tedla et.al.|[2404.11411](http://arxiv.org/abs/2404.11411)|null|
 |**2024-04-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al.|[2404.11357](http://arxiv.org/abs/2404.11357)|null|
 |**2024-04-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al.|[2404.11226](http://arxiv.org/abs/2404.11226)|null|
-|**2024-04-17**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al.|[2404.11214](http://arxiv.org/abs/2404.11214)|null|
+|**2024-04-19**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al.|[2404.11214](http://arxiv.org/abs/2404.11214)|null|
 |**2024-04-17**|**GhostNetV3: Exploring the Training Strategies for Compact Models**|Zhenhua Liu et.al.|[2404.11202](http://arxiv.org/abs/2404.11202)|null|
 |**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam et.al.|[2404.10992](http://arxiv.org/abs/2404.10992)|null|
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
