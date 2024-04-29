@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.28
+## Updated on 2024.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-25**|**Boosting Unsupervised Semantic Segmentation with Principal Mask Proposals**|Oliver Hahn et.al.|[2404.16818](http://arxiv.org/abs/2404.16818)|**[link](https://github.com/visinf/primaps)**|
-|**2024-04-25**|**Multi-Scale Representations by Varying Window Attention for Semantic Segmentation**|Haotian Yan et.al.|[2404.16573](http://arxiv.org/abs/2404.16573)|**[link](https://github.com/yan-hao-tian/vw)**|
+|**2024-04-26**|**Multi-Scale Representations by Varying Window Attention for Semantic Segmentation**|Haotian Yan et.al.|[2404.16573](http://arxiv.org/abs/2404.16573)|**[link](https://github.com/yan-hao-tian/vw)**|
 |**2024-04-25**|**360SFUDA++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes**|Xu Zheng et.al.|[2404.16501](http://arxiv.org/abs/2404.16501)|null|
 |**2024-04-25**|**Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**|Hedda Cohen Indelman et.al.|[2404.16325](http://arxiv.org/abs/2404.16325)|null|
 |**2024-04-25**|**Style Adaptation for Domain-adaptive Semantic Segmentation**|Ting Li et.al.|[2404.16301](http://arxiv.org/abs/2404.16301)|null|
@@ -484,7 +484,7 @@ layout: default
 |**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-24**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|
 |**2024-04-24**|**Observational parameters of Blue Large-Amplitude Pulsators**|P. Pietrukowicz et.al.|[2404.16089](http://arxiv.org/abs/2404.16089)|null|
-|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
+|**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881](http://arxiv.org/abs/2404.15881)|null|
 |**2024-04-24**|**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**|Michael Kösel et.al.|[2404.15879](http://arxiv.org/abs/2404.15879)|**[link](https://github.com/uulm-mrm/mmood3d)**|
 |**2024-04-23**|**CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection**|Hongyi Cai et.al.|[2404.15451](http://arxiv.org/abs/2404.15451)|null|
