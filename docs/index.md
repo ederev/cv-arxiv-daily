@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924](http://arxiv.org/abs/2404.18924)|null|
+|**2024-04-29**|**IPixMatch: Boost Semi-supervised Semantic Segmentation with Inter-Pixel Relation**|Kebin Wu et.al.|[2404.18891](http://arxiv.org/abs/2404.18891)|null|
+|**2024-04-29**|**Towards Long-term Robotics in the Wild**|Stephen Hausler et.al.|[2404.18477](http://arxiv.org/abs/2404.18477)|null|
+|**2024-04-27**|**Multi-Stream Cellular Test-Time Adaptation of Real-Time Models Evolving in Dynamic Environments**|Benoît Gérin et.al.|[2404.17930](http://arxiv.org/abs/2404.17930)|**[link](https://github.com/uliege-driving/dade)**|
+|**2024-04-27**|**GLIMS: Attention-Guided Lightweight Multi-Scale Hybrid Network for Volumetric Semantic Segmentation**|Ziya Ata Yazıcı et.al.|[2404.17854](http://arxiv.org/abs/2404.17854)|**[link](https://github.com/yaziciz/GLIMS)**|
+|**2024-04-27**|**CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving**|Junyi Gu et.al.|[2404.17793](http://arxiv.org/abs/2404.17793)|**[link](https://github.com/claud1234/fcn_transformer_object_segmentation)**|
 |**2024-04-26**|**Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment**|Kazi Shahriar Sanjid et.al.|[2404.17235](http://arxiv.org/abs/2404.17235)|null|
 |**2024-04-25**|**Calculation of Femur Caput Collum Diaphyseal angle for X-Rays images using Semantic Segmentation**|Deepak Bhatia et.al.|[2404.17083](http://arxiv.org/abs/2404.17083)|null|
 |**2024-04-25**|**Boosting Unsupervised Semantic Segmentation with Principal Mask Proposals**|Oliver Hahn et.al.|[2404.16818](http://arxiv.org/abs/2404.16818)|**[link](https://github.com/visinf/primaps)**|
@@ -333,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**From Density to Geometry: YOLOv8 Instance Segmentation for Reverse Engineering of Optimized Structures**|Thomas Rochefort-Beaudoin et.al.|[2404.18763](http://arxiv.org/abs/2404.18763)|null|
+|**2024-04-28**|**Garbage Segmentation and Attribute Analysis by Robotic Dogs**|Nuo Xu et.al.|[2404.18112](http://arxiv.org/abs/2404.18112)|null|
 |**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
 |**2024-04-23**|**Unknown Object Grasping for Assistive Robotics**|Elle Miller et.al.|[2404.15001](http://arxiv.org/abs/2404.15001)|null|
 |**2024-04-22**|**Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery**|Yuyang Sheng et.al.|[2404.14040](http://arxiv.org/abs/2404.14040)|**[link](https://github.com/yuyangsheng/surgical-desam)**|
@@ -448,6 +456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**Panoptic Segmentation and Labelling of Lumbar Spine Vertebrae using Modified Attention Unet**|Rikathi Pal et.al.|[2404.18291](http://arxiv.org/abs/2404.18291)|null|
 |**2024-04-15**|**The revenge of BiSeNet: Efficient Multi-Task Image Segmentation**|Gabriele Rosi et.al.|[2404.09570](http://arxiv.org/abs/2404.09570)|null|
 |**2024-04-15**|**kNN-CLIP: Retrieval Enables Training-Free Segmentation on Continually Expanding Large Vocabularies**|Zhongrui Gui et.al.|[2404.09447](http://arxiv.org/abs/2404.09447)|null|
 |**2024-04-12**|**COCONut: Modernizing COCO Segmentation**|Xueqing Deng et.al.|[2404.08639](http://arxiv.org/abs/2404.08639)|null|
@@ -479,6 +488,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849](http://arxiv.org/abs/2404.18849)|null|
+|**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665](http://arxiv.org/abs/2404.18665)|null|
+|**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617](http://arxiv.org/abs/2404.18617)|null|
+|**2024-04-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al.|[2404.18426](http://arxiv.org/abs/2404.18426)|null|
+|**2024-04-29**|**Multi-modal Perception Dataset of In-water Objects for Autonomous Surface Vehicles**|Mingi Jeong et.al.|[2404.18411](http://arxiv.org/abs/2404.18411)|null|
+|**2024-04-28**|**FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method**|Yanbing Bai et.al.|[2404.18245](http://arxiv.org/abs/2404.18245)|null|
+|**2024-04-28**|**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**|Oded Bialer et.al.|[2404.18150](http://arxiv.org/abs/2404.18150)|null|
+|**2024-04-27**|**Reliable Student: Addressing Noise in Semi-Supervised 3D Object Detection**|Farzad Nozarian et.al.|[2404.17910](http://arxiv.org/abs/2404.17910)|**[link](https://github.com/fnozarian/ReliableStudent)**|
+|**2024-04-27**|**A Hybrid Approach for Document Layout Analysis in Document images**|Tahira Shehzadi et.al.|[2404.17888](http://arxiv.org/abs/2404.17888)|null|
+|**2024-04-27**|**BoostRad: Enhancing Object Detection by Boosting Radar Reflections**|Yuval Haitman et.al.|[2404.17861](http://arxiv.org/abs/2404.17861)|null|
 |**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503](http://arxiv.org/abs/2404.17503)|null|
 |**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/abs/2404.17427)|null|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|null|
@@ -949,6 +968,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**Garbage Segmentation and Attribute Analysis by Robotic Dogs**|Nuo Xu et.al.|[2404.18112](http://arxiv.org/abs/2404.18112)|null|
 |**2024-04-29**|**MER 2024: Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**|Zheng Lian et.al.|[2404.17113](http://arxiv.org/abs/2404.17113)|**[link](https://github.com/zeroqiaoba/mertools)**|
 |**2024-04-23**|**DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition**|Haozhe Cheng et.al.|[2404.14890](http://arxiv.org/abs/2404.14890)|null|
 |**2024-04-19**|**ECOR: Explainable CLIP for Object Recognition**|Ali Rasekh et.al.|[2404.12839](http://arxiv.org/abs/2404.12839)|null|
@@ -1071,6 +1091,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
+|**2024-04-28**|**Semi-supervised Text-based Person Search**|Daming Gao et.al.|[2404.18106](http://arxiv.org/abs/2404.18106)|null|
+|**2024-04-28**|**Compressed Image Captioning using CNN-based Encoder-Decoder Framework**|Md Alif Rahman Ridoy et.al.|[2404.18062](http://arxiv.org/abs/2404.18062)|null|
 |**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498](http://arxiv.org/abs/2404.17498)|null|
 |**2024-04-25**|**OmniSearchSage: Multi-Task Multi-Entity Embeddings for Pinterest Search**|Prabhat Agarwal et.al.|[2404.16260](http://arxiv.org/abs/2404.16260)|**[link](https://github.com/pinterest/atg-research)**|
 |**2024-04-24**|**FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication**|Eric Slyman et.al.|[2404.16123](http://arxiv.org/abs/2404.16123)|null|
