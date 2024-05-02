@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|null|
 |**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654](http://arxiv.org/abs/2404.19654)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
 |**2024-04-30**|**DELINE8K: A Synthetic Data Pipeline for the Semantic Segmentation of Historical Documents**|Taylor Archibald et.al.|[2404.19259](http://arxiv.org/abs/2404.19259)|null|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924](http://arxiv.org/abs/2404.18924)|null|
@@ -506,6 +507,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Object detection under the linear subspace model with application to cryo-EM images**|Amitay Eldar et.al.|[2405.00364](http://arxiv.org/abs/2405.00364)|null|
 |**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
 |**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748](http://arxiv.org/abs/2404.19748)|null|
 |**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654](http://arxiv.org/abs/2404.19654)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
@@ -997,7 +999,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542](http://arxiv.org/abs/2404.19542)|null|
+|**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542](http://arxiv.org/abs/2404.19542)|**[link](https://github.com/thanhhff/HOTAD)**|
 |**2024-04-30**|**MoST: Multi-modality Scene Tokenization for Motion Prediction**|Norman Mu et.al.|[2404.19531](http://arxiv.org/abs/2404.19531)|null|
 |**2024-04-28**|**Garbage Segmentation and Attribute Analysis by Robotic Dogs**|Nuo Xu et.al.|[2404.18112](http://arxiv.org/abs/2404.18112)|null|
 |**2024-04-29**|**MER 2024: Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**|Zheng Lian et.al.|[2404.17113](http://arxiv.org/abs/2404.17113)|**[link](https://github.com/zeroqiaoba/mertools)**|
@@ -1124,6 +1126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**The Pyramid of Captions**|Delong Chen et.al.|[2405.00485](http://arxiv.org/abs/2405.00485)|null|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
 |**2024-04-28**|**Semi-supervised Text-based Person Search**|Daming Gao et.al.|[2404.18106](http://arxiv.org/abs/2404.18106)|null|
 |**2024-04-28**|**Compressed Image Captioning using CNN-based Encoder-Decoder Framework**|Md Alif Rahman Ridoy et.al.|[2404.18062](http://arxiv.org/abs/2404.18062)|null|
