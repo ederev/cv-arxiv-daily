@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -352,7 +352,7 @@ layout: default
 |**2024-04-29**|**From Density to Geometry: YOLOv8 Instance Segmentation for Reverse Engineering of Optimized Structures**|Thomas Rochefort-Beaudoin et.al.|[2404.18763](http://arxiv.org/abs/2404.18763)|null|
 |**2024-04-28**|**Garbage Segmentation and Attribute Analysis by Robotic Dogs**|Nuo Xu et.al.|[2404.18112](http://arxiv.org/abs/2404.18112)|null|
 |**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
-|**2024-04-23**|**Unknown Object Grasping for Assistive Robotics**|Elle Miller et.al.|[2404.15001](http://arxiv.org/abs/2404.15001)|null|
+|**2024-05-04**|**Unknown Object Grasping for Assistive Robotics**|Elle Miller et.al.|[2404.15001](http://arxiv.org/abs/2404.15001)|null|
 |**2024-04-22**|**Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery**|Yuyang Sheng et.al.|[2404.14040](http://arxiv.org/abs/2404.14040)|**[link](https://github.com/yuyangsheng/surgical-desam)**|
 |**2024-04-22**|**PM-VIS: High-Performance Box-Supervised Video Instance Segmentation**|Zhangjing Yang et.al.|[2404.13863](http://arxiv.org/abs/2404.13863)|null|
 |**2024-04-27**|**FisheyeDetNet: 360° Surround view Fisheye Camera based Object Detection System for Autonomous Driving**|Ganesh Sistu et.al.|[2404.13443](http://arxiv.org/abs/2404.13443)|null|
@@ -502,7 +502,7 @@ layout: default
 |**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
-|**2024-05-02**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
+|**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
 |**2024-05-02**|**Overcoming LLM Challenges using RAG-Driven Precision in Coffee Leaf Disease Remediation**|Dr. Selva Kumar S et.al.|[2405.01310](http://arxiv.org/abs/2405.01310)|null|
 |**2024-05-02**|**Towards Consistent Object Detection via LiDAR-Camera Synergy**|Kai Luo et.al.|[2405.01258](http://arxiv.org/abs/2405.01258)|**[link](https://github.com/xifen523/cod)**|
 |**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108](http://arxiv.org/abs/2405.01108)|null|
