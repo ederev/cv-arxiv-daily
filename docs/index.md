@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-04**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Vishal Nedungadi et.al.|[2405.02771](http://arxiv.org/abs/2405.02771)|null|
+|**2024-05-04**|**Few-Shot Fruit Segmentation via Transfer Learning**|Jordan A. James et.al.|[2405.02556](http://arxiv.org/abs/2405.02556)|null|
 |**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
 |**2024-05-02**|**Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey**|Rokas Gipiškis et.al.|[2405.01636](http://arxiv.org/abs/2405.01636)|null|
@@ -347,9 +350,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
 |**2024-05-03**|**Towards general deep-learning-based tree instance segmentation models**|Jonathan Henrich et.al.|[2405.02061](http://arxiv.org/abs/2405.02061)|null|
 |**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401](http://arxiv.org/abs/2404.19401)|null|
-|**2024-04-29**|**From Density to Geometry: YOLOv8 Instance Segmentation for Reverse Engineering of Optimized Structures**|Thomas Rochefort-Beaudoin et.al.|[2404.18763](http://arxiv.org/abs/2404.18763)|null|
+|**2024-04-29**|**From Density to Geometry: YOLOv8 Instance Segmentation for Reverse Engineering of Optimized Structures**|Thomas Rochefort-Beaudoin et.al.|[2404.18763](http://arxiv.org/abs/2404.18763)|**[link](https://github.com/cosim-lab/yolov8-to)**|
 |**2024-04-28**|**Garbage Segmentation and Attribute Analysis by Robotic Dogs**|Nuo Xu et.al.|[2404.18112](http://arxiv.org/abs/2404.18112)|null|
 |**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
 |**2024-05-04**|**Unknown Object Grasping for Assistive Robotics**|Elle Miller et.al.|[2404.15001](http://arxiv.org/abs/2404.15001)|null|
@@ -499,6 +503,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection**|Thennarasi Balakrishnan et.al.|[2405.03541](http://arxiv.org/abs/2405.03541)|**[link](https://github.com/thensib/repvgg-gelan)**|
+|**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
+|**2024-05-06**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039](http://arxiv.org/abs/2405.03039)|**[link](https://github.com/dongchen06/scooterdet)**|
+|**2024-05-05**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al.|[2405.02906](http://arxiv.org/abs/2405.02906)|null|
+|**2024-05-05**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824](http://arxiv.org/abs/2405.02824)|null|
+|**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811](http://arxiv.org/abs/2405.02811)|null|
+|**2024-05-05**|**Fused attention mechanism-based ore sorting network**|Junjiang Zhen et.al.|[2405.02785](http://arxiv.org/abs/2405.02785)|null|
 |**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
@@ -1121,6 +1135,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model**|Yulin Luo et.al.|[2405.02363](http://arxiv.org/abs/2405.02363)|null|
 |**2024-05-02**|**Technical Report of NICE Challenge at CVPR 2024: Caption Re-ranking Evaluation Using Ensembled CLIP and Consensus Scores**|Kiyoon Jeong et.al.|[2405.01028](http://arxiv.org/abs/2405.01028)|**[link](https://github.com/DSBA-Lab/ECO)**|
 |**2024-05-01**|**Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis**|Prateek Verma et.al.|[2405.00876](http://arxiv.org/abs/2405.00876)|null|
 |**2024-05-01**|**The Pyramid of Captions**|Delong Chen et.al.|[2405.00485](http://arxiv.org/abs/2405.00485)|null|
