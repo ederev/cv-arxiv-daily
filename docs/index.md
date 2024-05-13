@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586](http://arxiv.org/abs/2405.06586)|null|
+|**2024-05-10**|**Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation**|Xiaowen Ma et.al.|[2405.06525](http://arxiv.org/abs/2405.06525)|**[link](https://github.com/xwmaxwma/ssa)**|
+|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|null|
+|**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413](http://arxiv.org/abs/2405.06413)|null|
+|**2024-05-10**|**Context-Guided Spatial Feature Reconstruction for Efficient Semantic Segmentation**|Zhenliang Ni et.al.|[2405.06228](http://arxiv.org/abs/2405.06228)|**[link](https://github.com/nizhenliang/cgrseg)**|
+|**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185](http://arxiv.org/abs/2405.06185)|null|
+|**2024-05-10**|**Prior-guided Diffusion Model for Cell Segmentation in Quantitative Phase Imaging**|Zhuchen Shao et.al.|[2405.06175](http://arxiv.org/abs/2405.06175)|null|
 |**2024-05-09**|**Mask-TS Net: Mask Temperature Scaling Uncertainty Calibration for Polyp Segmentation**|Yudian Zhang et.al.|[2405.05830](http://arxiv.org/abs/2405.05830)|null|
 |**2024-05-08**|**OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies**|Lingdong Kong et.al.|[2405.05259](http://arxiv.org/abs/2405.05259)|**[link](https://github.com/ldkong1205/openess)**|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
@@ -514,6 +521,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383](http://arxiv.org/abs/2405.06383)|null|
+|**2024-05-10**|**Precise Apple Detection and Localization in Orchards using YOLOv5 for Robotic Harvesting Systems**|Jiang Ziyue et.al.|[2405.06260](http://arxiv.org/abs/2405.06260)|null|
 |**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
 |**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614](http://arxiv.org/abs/2405.05614)|null|
 |**2024-05-09**|**The object detection model uses combined extraction with KNN and RF classification**|Florentina Tatrin Kurniati et.al.|[2405.05551](http://arxiv.org/abs/2405.05551)|null|
@@ -1031,6 +1040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Are EEG-to-Text Models Working?**|Hyejeong Jo et.al.|[2405.06459](http://arxiv.org/abs/2405.06459)|null|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
 |**2024-05-09**|**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**|Sourav Garg et.al.|[2405.05792](http://arxiv.org/abs/2405.05792)|null|
@@ -1038,7 +1048,7 @@ layout: default
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788](http://arxiv.org/abs/2405.04788)|**[link](https://github.com/likyoo/diffmatch)**|
 |**2024-05-07**|**$\textbf{Splat-MOVER}$ : Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
-|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|**[link](https://github.com/dreamscene4d/dreamscene4d)**|
 |**2024-05-03**|**EEG2TEXT: Open Vocabulary EEG-to-Text Decoding with EEG Pre-Training and Multi-View Transformer**|Hanwen Liu et.al.|[2405.02165](http://arxiv.org/abs/2405.02165)|null|
 |**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542](http://arxiv.org/abs/2404.19542)|**[link](https://github.com/thanhhff/HOTAD)**|
 |**2024-04-30**|**MoST: Multi-modality Scene Tokenization for Motion Prediction**|Norman Mu et.al.|[2404.19531](http://arxiv.org/abs/2404.19531)|null|
