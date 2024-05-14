@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916](http://arxiv.org/abs/2405.07916)|null|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
 |**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586](http://arxiv.org/abs/2405.06586)|null|
 |**2024-05-10**|**Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation**|Xiaowen Ma et.al.|[2405.06525](http://arxiv.org/abs/2405.06525)|**[link](https://github.com/xwmaxwma/ssa)**|
 |**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|null|
@@ -376,6 +379,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**PLUTO: Pathology-Universal Transformer**|Dinkar Juyal et.al.|[2405.07905](http://arxiv.org/abs/2405.07905)|null|
+|**2024-05-12**|**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**|Mohammad Shafiul Alam et.al.|[2405.07332](http://arxiv.org/abs/2405.07332)|null|
+|**2024-05-11**|**Global Motion Understanding in Large-Scale Video Object Segmentation**|Volodymyr Fedynyak et.al.|[2405.07031](http://arxiv.org/abs/2405.07031)|null|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
 |**2024-05-13**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick Nikzad et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650](http://arxiv.org/abs/2405.04650)|null|
 |**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442](http://arxiv.org/abs/2405.04442)|null|
@@ -501,6 +508,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
 |**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177](http://arxiv.org/abs/2405.02177)|**[link](https://github.com/iit-dlslab/panoptic-slam)**|
 |**2024-04-28**|**Panoptic Segmentation and Labelling of Lumbar Spine Vertebrae using Modified Attention Unet**|Rikathi Pal et.al.|[2404.18291](http://arxiv.org/abs/2404.18291)|null|
 |**2024-04-15**|**The revenge of BiSeNet: Efficient Multi-Task Image Segmentation**|Gabriele Rosi et.al.|[2404.09570](http://arxiv.org/abs/2404.09570)|null|
@@ -536,6 +544,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
+|**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
+|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|null|
+|**2024-05-13**|**Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying**|Thomas Pöllabauer et.al.|[2405.07653](http://arxiv.org/abs/2405.07653)|null|
+|**2024-05-13**|**Integrity Monitoring of 3D Object Detection in Automated Driving Systems using Raw Activation Patterns and Spatial Filtering**|Hakan Yekta Yatbaz et.al.|[2405.07600](http://arxiv.org/abs/2405.07600)|null|
+|**2024-05-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al.|[2405.07595](http://arxiv.org/abs/2405.07595)|null|
+|**2024-05-13**|**Enhancing 3D Object Detection by Using Neural Network with Self-adaptive Thresholding**|Houze Liu et.al.|[2405.07479](http://arxiv.org/abs/2405.07479)|null|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
+|**2024-05-12**|**Differentiable Model Scaling using Differentiable Topk**|Kai Liu et.al.|[2405.07194](http://arxiv.org/abs/2405.07194)|null|
+|**2024-05-12**|**Resource Efficient Perception for Vision Systems**|A V Subramanyam et.al.|[2405.07166](http://arxiv.org/abs/2405.07166)|null|
 |**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383](http://arxiv.org/abs/2405.06383)|null|
 |**2024-05-10**|**Precise Apple Detection and Localization in Orchards using YOLOv5 for Robotic Harvesting Systems**|Jiang Ziyue et.al.|[2405.06260](http://arxiv.org/abs/2405.06260)|null|
 |**2024-05-13**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick Nikzad et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
@@ -1026,6 +1044,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
 |**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650](http://arxiv.org/abs/2405.04650)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
@@ -1059,6 +1078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM**|Xiaoyu Chen et.al.|[2405.07840](http://arxiv.org/abs/2405.07840)|null|
+|**2024-05-13**|**Constructing a BPE Tokenization DFA**|Martin Berglund et.al.|[2405.07671](http://arxiv.org/abs/2405.07671)|null|
 |**2024-05-10**|**Are EEG-to-Text Models Working?**|Hyejeong Jo et.al.|[2405.06459](http://arxiv.org/abs/2405.06459)|null|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
@@ -1196,6 +1217,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Boostlet.js: Image processing plugins for the web via JavaScript injection**|Edward Gaibor et.al.|[2405.07868](http://arxiv.org/abs/2405.07868)|null|
 |**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
 |**2024-05-03**|**LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model**|Yulin Luo et.al.|[2405.02363](http://arxiv.org/abs/2405.02363)|null|
 |**2024-05-02**|**Technical Report of NICE Challenge at CVPR 2024: Caption Re-ranking Evaluation Using Ensembled CLIP and Consensus Scores**|Kiyoon Jeong et.al.|[2405.01028](http://arxiv.org/abs/2405.01028)|**[link](https://github.com/DSBA-Lab/ECO)**|
