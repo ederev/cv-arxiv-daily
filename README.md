@@ -23,11 +23,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
+|**2024-05-16**|**A Preprocessing and Postprocessing Voxel-based Method for LiDAR Semantic Segmentation Improvement in Long Distance**|Andrea Matteazzi et.al.|[2405.10046](http://arxiv.org/abs/2405.10046)|null|
+|**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
+|**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 |**2024-05-14**|**Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**|Qinfeng Zhu et.al.|[2405.08493](http://arxiv.org/abs/2405.08493)|null|
 |**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[2405.08429](http://arxiv.org/abs/2405.08429)|**[link](https://github.com/martin-bayon/tednet)**|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916](http://arxiv.org/abs/2405.07916)|null|
-|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|**[link](https://github.com/chenhaomingbob/csc)**|
 |**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|**[link](https://github.com/SLDGroup/GreedyViG)**|
 |**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586](http://arxiv.org/abs/2405.06586)|null|
 |**2024-05-10**|**Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation**|Xiaowen Ma et.al.|[2405.06525](http://arxiv.org/abs/2405.06525)|**[link](https://github.com/xwmaxwma/ssa)**|
@@ -382,6 +386,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data**|Chengxiang Fan et.al.|[2405.10185](http://arxiv.org/abs/2405.10185)|**[link](https://github.com/aim-uofa/DiverGen)**|
+|**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 |**2024-05-13**|**PLUTO: Pathology-Universal Transformer**|Dinkar Juyal et.al.|[2405.07905](http://arxiv.org/abs/2405.07905)|null|
 |**2024-05-12**|**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**|Mohammad Shafiul Alam et.al.|[2405.07332](http://arxiv.org/abs/2405.07332)|**[link](https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes)**|
 |**2024-05-11**|**Global Motion Understanding in Large-Scale Video Object Segmentation**|Volodymyr Fedynyak et.al.|[2405.07031](http://arxiv.org/abs/2405.07031)|null|
@@ -511,7 +517,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
+|**2024-05-16**|**An Integrated Framework for Multi-Granular Explanation of Video Summarization**|Konstantinos Tsigos et.al.|[2405.10082](http://arxiv.org/abs/2405.10082)|null|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|**[link](https://github.com/chenhaomingbob/csc)**|
 |**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177](http://arxiv.org/abs/2405.02177)|**[link](https://github.com/iit-dlslab/panoptic-slam)**|
 |**2024-04-28**|**Panoptic Segmentation and Labelling of Lumbar Spine Vertebrae using Modified Attention Unet**|Rikathi Pal et.al.|[2404.18291](http://arxiv.org/abs/2404.18291)|null|
 |**2024-04-15**|**The revenge of BiSeNet: Efficient Multi-Task Image Segmentation**|Gabriele Rosi et.al.|[2404.09570](http://arxiv.org/abs/2404.09570)|null|
@@ -547,6 +555,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300](http://arxiv.org/abs/2405.10300)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
+|**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
+|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|null|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|null|
+|**2024-05-16**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al.|[2405.09942](http://arxiv.org/abs/2405.09942)|null|
+|**2024-05-16**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
+|**2024-05-16**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
+|**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 |**2024-05-15**|**Dynamic Loss Decay based Robust Oriented Object Detection on Remote Sensing Images with Noisy Labels**|Guozhang Liu et.al.|[2405.09024](http://arxiv.org/abs/2405.09024)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 |**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
@@ -1088,6 +1104,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|null|
 |**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
 |**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
 |**2024-05-13**|**Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM**|Xiaoyu Chen et.al.|[2405.07840](http://arxiv.org/abs/2405.07840)|null|
@@ -1229,6 +1247,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
+|**2024-05-16**|**ROCOv2: Radiology Objects in COntext Version 2, an Updated Multimodal Image Dataset**|Johannes Rückert et.al.|[2405.10004](http://arxiv.org/abs/2405.10004)|**[link](https://gitlab.com/saviola/rocov2-code)**|
+|**2024-05-16**|**Chameleon: Mixed-Modal Early-Fusion Foundation Models**|Chameleon Team et.al.|[2405.09818](http://arxiv.org/abs/2405.09818)|null|
 |**2024-05-14**|**Contextual Emotion Recognition using Large Vision Language Models**|Yasaman Etesam et.al.|[2405.08992](http://arxiv.org/abs/2405.08992)|null|
 |**2024-05-13**|**Boostlet.js: Image processing plugins for the web via JavaScript injection**|Edward Gaibor et.al.|[2405.07868](http://arxiv.org/abs/2405.07868)|**[link](https://github.com/mpsych/boostlet)**|
 |**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
