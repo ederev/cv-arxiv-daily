@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -549,7 +549,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
-|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|**[link](https://github.com/bipin-saha/bnvd)**|
 |**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
@@ -1109,7 +1109,7 @@ layout: default
 |**2024-05-19**|**Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement**|Igor Morawski et.al.|[2405.11478](http://arxiv.org/abs/2405.11478)|null|
 |**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832](http://arxiv.org/abs/2405.10832)|null|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
-|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|null|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|**[link](https://github.com/naver/shine)**|
 |**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
 |**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
 |**2024-05-13**|**Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM**|Xiaoyu Chen et.al.|[2405.07840](http://arxiv.org/abs/2405.07840)|null|
