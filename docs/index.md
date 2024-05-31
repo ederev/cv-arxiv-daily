@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1353,7 +1353,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333](http://arxiv.org/abs/2405.19333)|null|
 |**2024-05-29**|**MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification**|Laura Fieback et.al.|[2405.19186](http://arxiv.org/abs/2405.19186)|null|
-|**2024-05-29**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
+|**2024-05-30**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
 |**2024-05-28**|**Text-only Synthesis for Image Captioning**|Qing Zhou et.al.|[2405.18258](http://arxiv.org/abs/2405.18258)|null|
 |**2024-05-24**|**How Culturally Aware are Vision-Language Models?**|Olena Burda-Lassen et.al.|[2405.17475](http://arxiv.org/abs/2405.17475)|null|
 |**2024-05-25**|**Semantic Importance-Aware Communications with Semantic Correction Using Large Language Models**|Shuaishuai Guo et.al.|[2405.16011](http://arxiv.org/abs/2405.16011)|null|
