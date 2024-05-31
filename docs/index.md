@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**|Chaoyang Wang et.al.|[2405.20282](http://arxiv.org/abs/2405.20282)|**[link](https://github.com/wang-chaoyang/semflow)**|
+|**2024-05-30**|**MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**|Angel Villar-Corrales et.al.|[2405.19921](http://arxiv.org/abs/2405.19921)|**[link](https://github.com/angelvillar96/MCDS-VSS)**|
+|**2024-05-30**|**Open-Set Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2405.19899](http://arxiv.org/abs/2405.19899)|**[link](https://github.com/khu-agi/bus)**|
+|**2024-05-30**|**DenseSeg: Joint Learning for Semantic Segmentation and Landmark Detection Using Dense Image-to-Shape Representation**|Ron Keuth et.al.|[2405.19746](http://arxiv.org/abs/2405.19746)|null|
+|**2024-05-30**|**Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes**|Yong-Qiang Mao et.al.|[2405.19735](http://arxiv.org/abs/2405.19735)|null|
+|**2024-05-30**|**CRIS: Collaborative Refinement Integrated with Segmentation for Polyp Segmentation**|Ankush Gajanan Arudkar et.al.|[2405.19672](http://arxiv.org/abs/2405.19672)|null|
+|**2024-05-29**|**Organizing Background to Explore Latent Classes for Incremental Few-shot Semantic Segmentation**|Lianlei Shan et.al.|[2405.19568](http://arxiv.org/abs/2405.19568)|null|
+|**2024-05-29**|**Enabling Visual Recognition at Radio Frequency**|Haowen Lai et.al.|[2405.19516](http://arxiv.org/abs/2405.19516)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-05-29**|**A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**|Niclas Vödisch et.al.|[2405.19035](http://arxiv.org/abs/2405.19035)|**[link](https://github.com/robot-learning-freiburg/PASTEL)**|
 |**2024-05-29**|**Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation**|Zelin Peng et.al.|[2405.18840](http://arxiv.org/abs/2405.18840)|null|
@@ -592,6 +600,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854](http://arxiv.org/abs/2405.19854)|null|
+|**2024-05-30**|**Improving Object Detector Training on Synthetic Data by Starting With a Strong Baseline Methodology**|Frank A. Ruis et.al.|[2405.19822](http://arxiv.org/abs/2405.19822)|null|
+|**2024-05-30**|**Fully Test-Time Adaptation for Monocular 3D Object Detection**|Hongbin Lin et.al.|[2405.19682](http://arxiv.org/abs/2405.19682)|null|
+|**2024-05-30**|**YotoR-You Only Transform One Representation**|José Ignacio Díaz Villa et.al.|[2405.19629](http://arxiv.org/abs/2405.19629)|null|
+|**2024-05-29**|**Enabling Visual Recognition at Radio Frequency**|Haowen Lai et.al.|[2405.19516](http://arxiv.org/abs/2405.19516)|null|
 |**2024-05-29**|**Model Agnostic Defense against Adversarial Patch Attacks on Object Detection in Unmanned Aerial Vehicles**|Saurabh Pathak et.al.|[2405.19179](http://arxiv.org/abs/2405.19179)|null|
 |**2024-05-29**|**RGB-T Object Detection via Group Shuffled Multi-receptive Attention and Multi-modal Supervision**|Jinzhong Wang et.al.|[2405.18955](http://arxiv.org/abs/2405.18955)|null|
 |**2024-05-29**|**SSGA-Net: Stepwise Spatial Global-local Aggregation Networks for for Autonomous Driving**|Yiming Cui et.al.|[2405.18857](http://arxiv.org/abs/2405.18857)|null|
@@ -1196,6 +1209,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141](http://arxiv.org/abs/2405.20141)|null|
+|**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854](http://arxiv.org/abs/2405.19854)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-05-29**|**Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation**|Zelin Peng et.al.|[2405.18840](http://arxiv.org/abs/2405.18840)|null|
 |**2024-05-28**|**OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision**|Junjie Wang et.al.|[2405.17913](http://arxiv.org/abs/2405.17913)|**[link](https://github.com/xiaomoguhz/ov-dquo)**|
@@ -1351,6 +1366,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141](http://arxiv.org/abs/2405.20141)|null|
+|**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854](http://arxiv.org/abs/2405.19854)|null|
 |**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333](http://arxiv.org/abs/2405.19333)|null|
 |**2024-05-29**|**MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification**|Laura Fieback et.al.|[2405.19186](http://arxiv.org/abs/2405.19186)|null|
 |**2024-05-30**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
