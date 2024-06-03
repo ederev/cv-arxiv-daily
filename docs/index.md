@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
+|**2024-05-31**|**Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation**|Wooseok Shin et.al.|[2405.20610](http://arxiv.org/abs/2405.20610)|**[link](https://github.com/wooseok-shin/PrevMatch)**|
+|**2024-05-30**|**P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation**|Qi Zhang et.al.|[2405.20443](http://arxiv.org/abs/2405.20443)|null|
 |**2024-05-30**|**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**|Chaoyang Wang et.al.|[2405.20282](http://arxiv.org/abs/2405.20282)|**[link](https://github.com/wang-chaoyang/semflow)**|
 |**2024-05-30**|**MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**|Angel Villar-Corrales et.al.|[2405.19921](http://arxiv.org/abs/2405.19921)|**[link](https://github.com/angelvillar96/MCDS-VSS)**|
 |**2024-05-30**|**Open-Set Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2405.19899](http://arxiv.org/abs/2405.19899)|**[link](https://github.com/khu-agi/bus)**|
@@ -419,6 +422,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Extreme Point Supervised Instance Segmentation**|Hyeonjun Lee et.al.|[2405.20729](http://arxiv.org/abs/2405.20729)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-05-28**|**Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation**|Yangxiao Lu et.al.|[2405.17859](http://arxiv.org/abs/2405.17859)|**[link](https://github.com/youngsean/nids-net)**|
 |**2024-05-26**|**Understanding the Effect of using Semantically Meaningful Tokens for Visual Representation Learning**|Neha Kalibhat et.al.|[2405.16401](http://arxiv.org/abs/2405.16401)|null|
@@ -600,6 +604,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Power of Cooperative Supervision: Multiple Teachers Framework for Enhanced 3D Semi-Supervised Object Detection**|Jin-Hee Lee et.al.|[2405.20720](http://arxiv.org/abs/2405.20720)|**[link](https://github.com/jh-research/multipleteachers)**|
+|**2024-05-30**|**On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines**|Selim Kuzucu et.al.|[2405.20459](http://arxiv.org/abs/2405.20459)|null|
 |**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854](http://arxiv.org/abs/2405.19854)|null|
 |**2024-05-30**|**Improving Object Detector Training on Synthetic Data by Starting With a Strong Baseline Methodology**|Frank A. Ruis et.al.|[2405.19822](http://arxiv.org/abs/2405.19822)|null|
 |**2024-05-30**|**Fully Test-Time Adaptation for Monocular 3D Object Detection**|Hongbin Lin et.al.|[2405.19682](http://arxiv.org/abs/2405.19682)|null|
