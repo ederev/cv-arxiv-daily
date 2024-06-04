@@ -1220,7 +1220,7 @@ layout: default
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-05-29**|**Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation**|Zelin Peng et.al.|[2405.18840](http://arxiv.org/abs/2405.18840)|null|
 |**2024-05-28**|**OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision**|Junjie Wang et.al.|[2405.17913](http://arxiv.org/abs/2405.17913)|**[link](https://github.com/xiaomoguhz/ov-dquo)**|
-|**2024-05-28**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719](http://arxiv.org/abs/2405.17719)|**[link](https://github.com/xuboshen/egoncepp)**|
+|**2024-06-03**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719](http://arxiv.org/abs/2405.17719)|**[link](https://github.com/xuboshen/egoncepp)**|
 |**2024-05-27**|**GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane**|Yansong Qu et.al.|[2405.17596](http://arxiv.org/abs/2405.17596)|null|
 |**2024-05-26**|**Map-based Modular Approach for Zero-shot Embodied Question Answering**|Koya Sakamoto et.al.|[2405.16559](http://arxiv.org/abs/2405.16559)|null|
 |**2024-05-26**|**CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection**|Lin Zhu et.al.|[2405.16417](http://arxiv.org/abs/2405.16417)|**[link](https://github.com/linllll/croft)**|
