@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1419,7 +1419,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-04**|**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**|Wenyan Li et.al.|[2406.02265](http://arxiv.org/abs/2406.02265)|**[link](https://github.com/lyan62/RobustCap)**|
+|**2024-06-06**|**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**|Wenyan Li et.al.|[2406.02265](http://arxiv.org/abs/2406.02265)|**[link](https://github.com/lyan62/RobustCap)**|
 |**2024-06-03**|**Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language Model**|Kezhen Chen et.al.|[2406.00977](http://arxiv.org/abs/2406.00977)|null|
 |**2024-06-01**|**DS@BioMed at ImageCLEFmedical Caption 2024: Enhanced Attention Mechanisms in Medical Caption Generation through Concept Detection Integration**|Nhi Ngoc-Yen Nguyen et.al.|[2406.00391](http://arxiv.org/abs/2406.00391)|null|
 |**2024-06-01**|**Image Captioning via Dynamic Path Customization**|Yiwei Ma et.al.|[2406.00334](http://arxiv.org/abs/2406.00334)|**[link](https://github.com/xmu-xiaoma666/DTNet)**|
