@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -15,13 +15,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
-|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|null|
+|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
 |**2024-06-06**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799](http://arxiv.org/abs/2406.03799)|**[link](https://github.com/kaneigi/weatherproofchallenge)**|
 |**2024-06-06**|**DSNet: A Novel Way to Use Atrous Convolutions in Semantic Segmentation**|Zilu Guo et.al.|[2406.03702](http://arxiv.org/abs/2406.03702)|**[link](https://github.com/takaniwa/dsnet)**|
 |**2024-06-05**|**Comparative Benchmarking of Failure Detection Methods in Medical Image Segmentation: Unveiling the Role of Confidence Aggregation**|Maximilian Zenk et.al.|[2406.03323](http://arxiv.org/abs/2406.03323)|null|
 |**2024-06-05**|**Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy**|Yunho Kim et.al.|[2406.02989](http://arxiv.org/abs/2406.02989)|null|
-|**2024-06-04**|**W-RIZZ: A Weakly-Supervised Framework for Relative Traversability Estimation in Mobile Robotics**|Andre Schreiber et.al.|[2406.02822](http://arxiv.org/abs/2406.02822)|null|
-|**2024-06-04**|**Window to Wall Ratio Detection using SegFormer**|Zoe De Simone et.al.|[2406.02706](http://arxiv.org/abs/2406.02706)|null|
+|**2024-06-04**|**W-RIZZ: A Weakly-Supervised Framework for Relative Traversability Estimation in Mobile Robotics**|Andre Schreiber et.al.|[2406.02822](http://arxiv.org/abs/2406.02822)|**[link](https://github.com/andreschreiber/w-rizz)**|
+|**2024-06-04**|**Window to Wall Ratio Detection using SegFormer**|Zoe De Simone et.al.|[2406.02706](http://arxiv.org/abs/2406.02706)|**[link](https://github.com/zoedesimone/wwr-semantic-segmentation)**|
 |**2024-06-04**|**Detecting Endangered Marine Species in Autonomous Underwater Vehicle Imagery Using Point Annotations and Few-Shot Learning**|Heather Doig et.al.|[2406.01932](http://arxiv.org/abs/2406.01932)|null|
 |**2024-06-03**|**EAGLE: Efficient Adaptive Geometry-based Learning in Cross-view Understanding**|Thanh-Dat Truong et.al.|[2406.01429](http://arxiv.org/abs/2406.01429)|null|
 |**2024-06-03**|**TE-NeXt: A LiDAR-Based 3D Sparse Convolutional Network for Traversability Estimation**|Antonio Santo et.al.|[2406.01395](http://arxiv.org/abs/2406.01395)|**[link](https://github.com/ARVCUMH/te-next)**|
@@ -634,7 +634,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330](http://arxiv.org/abs/2406.04330)|**[link](https://github.com/opengvlab/piip)**|
 |**2024-06-06**|**Semmeldetector: Application of Machine Learning in Commercial Bakeries**|Thomas H. Schmitt et.al.|[2406.04050](http://arxiv.org/abs/2406.04050)|null|
-|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|null|
+|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
 |**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459](http://arxiv.org/abs/2406.03459)|**[link](https://github.com/atten4vis/lw-detr)**|
@@ -1431,7 +1431,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**|Wenyan Li et.al.|[2406.02265](http://arxiv.org/abs/2406.02265)|**[link](https://github.com/lyan62/RobustCap)**|
-|**2024-06-03**|**Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language Model**|Kezhen Chen et.al.|[2406.00977](http://arxiv.org/abs/2406.00977)|null|
+|**2024-06-03**|**Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language Model**|Kezhen Chen et.al.|[2406.00977](http://arxiv.org/abs/2406.00977)|**[link](https://github.com/togethercomputer/dragonfly)**|
 |**2024-06-01**|**DS@BioMed at ImageCLEFmedical Caption 2024: Enhanced Attention Mechanisms in Medical Caption Generation through Concept Detection Integration**|Nhi Ngoc-Yen Nguyen et.al.|[2406.00391](http://arxiv.org/abs/2406.00391)|null|
 |**2024-06-01**|**Image Captioning via Dynamic Path Customization**|Yiwei Ma et.al.|[2406.00334](http://arxiv.org/abs/2406.00334)|**[link](https://github.com/xmu-xiaoma666/DTNet)**|
 |**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141](http://arxiv.org/abs/2405.20141)|null|
