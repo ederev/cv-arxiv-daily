@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Semantic Segmentation on VSPW Dataset through Masked Video Consistency**|Chen Liang et.al.|[2406.04979](http://arxiv.org/abs/2406.04979)|null|
+|**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
 |**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
 |**2024-06-07**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799](http://arxiv.org/abs/2406.03799)|**[link](https://github.com/kaneigi/weatherproofchallenge)**|
@@ -451,6 +453,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-04**|**Generative Active Learning for Long-tailed Instance Segmentation**|Muzhi Zhu et.al.|[2406.02435](http://arxiv.org/abs/2406.02435)|**[link](https://github.com/aim-uofa/DiverGen)**|
@@ -647,6 +650,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
+|**2024-06-07**|**EGOR: Efficient Generated Objects Replay for incremental object detection**|Zijia An et.al.|[2406.04829](http://arxiv.org/abs/2406.04829)|null|
+|**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648](http://arxiv.org/abs/2406.04648)|null|
+|**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647](http://arxiv.org/abs/2406.04647)|null|
+|**2024-06-06**|**CORU: Comprehensive Post-OCR Parsing and Receipt Understanding Dataset**|Abdelrahman Abdallah et.al.|[2406.04493](http://arxiv.org/abs/2406.04493)|**[link](https://github.com/update-for-integrated-business-ai/coru)**|
+|**2024-06-06**|**DeTra: A Unified Model for Object Detection and Trajectory Forecasting**|Sergio Casas et.al.|[2406.04426](http://arxiv.org/abs/2406.04426)|null|
 |**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330](http://arxiv.org/abs/2406.04330)|**[link](https://github.com/opengvlab/piip)**|
 |**2024-06-06**|**Semmeldetector: Application of Machine Learning in Commercial Bakeries**|Thomas H. Schmitt et.al.|[2406.04050](http://arxiv.org/abs/2406.04050)|null|
 |**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
@@ -1283,6 +1292,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**OVMR: Open-Vocabulary Recognition with Multi-Modal References**|Zehong Ma et.al.|[2406.04675](http://arxiv.org/abs/2406.04675)|**[link](https://github.com/zehong-ma/ovmr)**|
 |**2024-06-07**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280](http://arxiv.org/abs/2406.03280)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-04**|**OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding**|Yanmin Wu et.al.|[2406.02058](http://arxiv.org/abs/2406.02058)|null|
@@ -1451,6 +1461,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Interpretable Multimodal Out-of-context Detection with Soft Logic Regularization**|Huanhuan Ma et.al.|[2406.04756](http://arxiv.org/abs/2406.04756)|null|
 |**2024-06-06**|**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**|Wenyan Li et.al.|[2406.02265](http://arxiv.org/abs/2406.02265)|**[link](https://github.com/lyan62/RobustCap)**|
 |**2024-06-03**|**Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language Model**|Kezhen Chen et.al.|[2406.00977](http://arxiv.org/abs/2406.00977)|**[link](https://github.com/togethercomputer/dragonfly)**|
 |**2024-06-01**|**DS@BioMed at ImageCLEFmedical Caption 2024: Enhanced Attention Mechanisms in Medical Caption Generation through Concept Detection Integration**|Nhi Ngoc-Yen Nguyen et.al.|[2406.00391](http://arxiv.org/abs/2406.00391)|null|
