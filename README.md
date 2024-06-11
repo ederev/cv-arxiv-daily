@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
+|**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370](http://arxiv.org/abs/2406.06370)|null|
+|**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
+|**2024-06-09**|**Solution for CVPR 2024 UG2+ Challenge Track on All Weather Semantic Segmentation**|Jun Yu et.al.|[2406.05837](http://arxiv.org/abs/2406.05837)|null|
+|**2024-06-09**|**Convolution and Attention-Free Mamba-based Cardiac Image Segmentation**|Abbas Khan et.al.|[2406.05786](http://arxiv.org/abs/2406.05786)|null|
+|**2024-06-09**|**Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding of Sound and Language**|Mark Hamilton et.al.|[2406.05629](http://arxiv.org/abs/2406.05629)|**[link](https://github.com/mhamilton723/DenseAV)**|
+|**2024-06-08**|**A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+**|Jianzhao Wang et.al.|[2406.05513](http://arxiv.org/abs/2406.05513)|null|
+|**2024-06-08**|**Layered Image Vectorization via Semantic Simplification**|Zhenyu Wang et.al.|[2406.05404](http://arxiv.org/abs/2406.05404)|null|
+|**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352](http://arxiv.org/abs/2406.05352)|null|
+|**2024-06-07**|**USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation**|Xiaoqi Wang et.al.|[2406.05271](http://arxiv.org/abs/2406.05271)|null|
 |**2024-06-07**|**Semantic Segmentation on VSPW Dataset through Masked Video Consistency**|Chen Liang et.al.|[2406.04979](http://arxiv.org/abs/2406.04979)|null|
 |**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
@@ -453,6 +463,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset**|Shijie Lian et.al.|[2406.06039](http://arxiv.org/abs/2406.06039)|**[link](https://github.com/liamlian0727/usis10k)**|
+|**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
+|**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352](http://arxiv.org/abs/2406.05352)|null|
 |**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
@@ -608,6 +621,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352](http://arxiv.org/abs/2406.05352)|null|
 |**2024-06-07**|**3rd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Ruipu Wu et.al.|[2406.04002](http://arxiv.org/abs/2406.04002)|null|
 |**2024-06-01**|**2nd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Biao Wu et.al.|[2406.00500](http://arxiv.org/abs/2406.00500)|null|
 |**2024-05-29**|**A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**|Niclas Vödisch et.al.|[2405.19035](http://arxiv.org/abs/2405.19035)|**[link](https://github.com/robot-learning-freiburg/PASTEL)**|
@@ -650,6 +664,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**UnSupDLA: Towards Unsupervised Document Layout Analysis**|Talha Uddin Sheikh et.al.|[2406.06236](http://arxiv.org/abs/2406.06236)|null|
+|**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230](http://arxiv.org/abs/2406.06230)|**[link](https://github.com/1e12leon/uemm-air)**|
+|**2024-06-10**|**ReCon1M:A Large-scale Benchmark Dataset for Relation Comprehension in Remote Sensing Imagery**|Xian Sun et.al.|[2406.06028](http://arxiv.org/abs/2406.06028)|null|
+|**2024-06-10**|**Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024**|Jinwoo Ahn et.al.|[2406.05963](http://arxiv.org/abs/2406.05963)|null|
+|**2024-06-10**|**Open-Vocabulary Part-Based Grasping**|Tjeard van Oort et.al.|[2406.05951](http://arxiv.org/abs/2406.05951)|null|
+|**2024-06-09**|**Stealthy Targeted Backdoor Attacks against Image Captioning**|Wenshu Fan et.al.|[2406.05874](http://arxiv.org/abs/2406.05874)|null|
+|**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
+|**2024-06-09**|**Mamba YOLO: SSMs-Based YOLO For Object Detection**|Zeyu Wang et.al.|[2406.05835](http://arxiv.org/abs/2406.05835)|**[link](https://github.com/hzai-zjnu/mamba-yolo)**|
+|**2024-06-09**|**ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05810](http://arxiv.org/abs/2406.05810)|null|
+|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
 |**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-07**|**EGOR: Efficient Generated Objects Replay for incremental object detection**|Zijia An et.al.|[2406.04829](http://arxiv.org/abs/2406.04829)|null|
 |**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648](http://arxiv.org/abs/2406.04648)|null|
@@ -1292,6 +1316,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Open-Vocabulary Part-Based Grasping**|Tjeard van Oort et.al.|[2406.05951](http://arxiv.org/abs/2406.05951)|null|
+|**2024-06-07**|**USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation**|Xiaoqi Wang et.al.|[2406.05271](http://arxiv.org/abs/2406.05271)|null|
 |**2024-06-07**|**OVMR: Open-Vocabulary Recognition with Multi-Modal References**|Zehong Ma et.al.|[2406.04675](http://arxiv.org/abs/2406.04675)|**[link](https://github.com/zehong-ma/ovmr)**|
 |**2024-06-07**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280](http://arxiv.org/abs/2406.03280)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
@@ -1461,6 +1487,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|null|
+|**2024-06-10**|**FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model**|Yebin Lee et.al.|[2406.06004](http://arxiv.org/abs/2406.06004)|**[link](https://github.com/yebin46/fleur)**|
+|**2024-06-09**|**Stealthy Targeted Backdoor Attacks against Image Captioning**|Wenshu Fan et.al.|[2406.05874](http://arxiv.org/abs/2406.05874)|null|
 |**2024-06-07**|**Interpretable Multimodal Out-of-context Detection with Soft Logic Regularization**|Huanhuan Ma et.al.|[2406.04756](http://arxiv.org/abs/2406.04756)|null|
 |**2024-06-06**|**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**|Wenyan Li et.al.|[2406.02265](http://arxiv.org/abs/2406.02265)|**[link](https://github.com/lyan62/RobustCap)**|
 |**2024-06-03**|**Dragonfly: Multi-Resolution Zoom Supercharges Large Visual-Language Model**|Kezhen Chen et.al.|[2406.00977](http://arxiv.org/abs/2406.00977)|**[link](https://github.com/togethercomputer/dragonfly)**|
