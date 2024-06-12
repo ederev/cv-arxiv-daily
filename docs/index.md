@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113](http://arxiv.org/abs/2406.07113)|null|
+|**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037](http://arxiv.org/abs/2406.07037)|null|
+|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-10**|**Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation**|Dong Zhao et.al.|[2406.06813](http://arxiv.org/abs/2406.06813)|null|
+|**2024-06-09**|**Transforming Heart Chamber Imaging: Self-Supervised Learning for Whole Heart Reconstruction and Segmentation**|Abdul Qayyum et.al.|[2406.06643](http://arxiv.org/abs/2406.06643)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
 |**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370](http://arxiv.org/abs/2406.06370)|null|
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
@@ -452,6 +457,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037](http://arxiv.org/abs/2406.07037)|null|
+|**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
+|**2024-06-11**|**Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples**|Kailas Dayanandan et.al.|[2406.06967](http://arxiv.org/abs/2406.06967)|**[link](https://github.com/kailasdayanandan/dual_thinking)**|
+|**2024-06-11**|**UVIS: Unsupervised Video Instance Segmentation**|Shuaiyi Huang et.al.|[2406.06908](http://arxiv.org/abs/2406.06908)|null|
 |**2024-06-10**|**Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset**|Shijie Lian et.al.|[2406.06039](http://arxiv.org/abs/2406.06039)|**[link](https://github.com/liamlian0727/usis10k)**|
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
 |**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352](http://arxiv.org/abs/2406.05352)|null|
@@ -608,6 +617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037](http://arxiv.org/abs/2406.07037)|null|
 |**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352](http://arxiv.org/abs/2406.05352)|null|
 |**2024-06-07**|**3rd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Ruipu Wu et.al.|[2406.04002](http://arxiv.org/abs/2406.04002)|null|
 |**2024-06-01**|**2nd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Biao Wu et.al.|[2406.00500](http://arxiv.org/abs/2406.00500)|null|
@@ -649,6 +659,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538](http://arxiv.org/abs/2406.07538)|null|
+|**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506](http://arxiv.org/abs/2406.07506)|**[link](https://github.com/visual-words/visual-words)**|
+|**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
+|**2024-06-11**|**Unsupervised Object Detection with Theoretical Guarantees**|Marian Longa et.al.|[2406.07284](http://arxiv.org/abs/2406.07284)|null|
+|**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|null|
+|**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
+|**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
+|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-11**|**Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection**|Junfei Yi et.al.|[2406.06999](http://arxiv.org/abs/2406.06999)|null|
 |**2024-06-10**|**UnSupDLA: Towards Unsupervised Document Layout Analysis**|Talha Uddin Sheikh et.al.|[2406.06236](http://arxiv.org/abs/2406.06236)|null|
 |**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230](http://arxiv.org/abs/2406.06230)|**[link](https://github.com/1e12leon/uemm-air)**|
 |**2024-06-10**|**ReCon1M:A Large-scale Benchmark Dataset for Relation Comprehension in Remote Sensing Imagery**|Xian Sun et.al.|[2406.06028](http://arxiv.org/abs/2406.06028)|null|
@@ -1297,6 +1316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113](http://arxiv.org/abs/2406.07113)|null|
 |**2024-06-10**|**Open-Vocabulary Part-Based Grasping**|Tjeard van Oort et.al.|[2406.05951](http://arxiv.org/abs/2406.05951)|null|
 |**2024-06-07**|**USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation**|Xiaoqi Wang et.al.|[2406.05271](http://arxiv.org/abs/2406.05271)|null|
 |**2024-06-07**|**OVMR: Open-Vocabulary Recognition with Multi-Modal References**|Zehong Ma et.al.|[2406.04675](http://arxiv.org/abs/2406.04675)|**[link](https://github.com/zehong-ma/ovmr)**|
@@ -1466,6 +1486,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Translating speech with just images**|Dan Oneata et.al.|[2406.07133](http://arxiv.org/abs/2406.07133)|null|
+|**2024-06-11**|**UVIS: Unsupervised Video Instance Segmentation**|Shuaiyi Huang et.al.|[2406.06908](http://arxiv.org/abs/2406.06908)|null|
+|**2024-06-10**|**TRINS: Towards Multimodal Language Models that Can Read**|Ruiyi Zhang et.al.|[2406.06730](http://arxiv.org/abs/2406.06730)|null|
 |**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|**[link](https://github.com/tianyu-z/vcr)**|
 |**2024-06-10**|**FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model**|Yebin Lee et.al.|[2406.06004](http://arxiv.org/abs/2406.06004)|**[link](https://github.com/yebin46/fleur)**|
 |**2024-06-09**|**Stealthy Targeted Backdoor Attacks against Image Captioning**|Wenshu Fan et.al.|[2406.05874](http://arxiv.org/abs/2406.05874)|null|
