@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -658,7 +658,7 @@ layout: default
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
 |**2024-06-09**|**Mamba YOLO: SSMs-Based YOLO For Object Detection**|Zeyu Wang et.al.|[2406.05835](http://arxiv.org/abs/2406.05835)|**[link](https://github.com/hzai-zjnu/mamba-yolo)**|
 |**2024-06-09**|**ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05810](http://arxiv.org/abs/2406.05810)|null|
-|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
+|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|**[link](https://github.com/spidernitt/sam-pm)**|
 |**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-07**|**EGOR: Efficient Generated Objects Replay for incremental object detection**|Zijia An et.al.|[2406.04829](http://arxiv.org/abs/2406.04829)|null|
 |**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648](http://arxiv.org/abs/2406.04648)|null|
@@ -1466,7 +1466,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|**[link](https://github.com/tianyu-z/vcr)**|
 |**2024-06-10**|**FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model**|Yebin Lee et.al.|[2406.06004](http://arxiv.org/abs/2406.06004)|**[link](https://github.com/yebin46/fleur)**|
 |**2024-06-09**|**Stealthy Targeted Backdoor Attacks against Image Captioning**|Wenshu Fan et.al.|[2406.05874](http://arxiv.org/abs/2406.05874)|null|
 |**2024-06-07**|**Interpretable Multimodal Out-of-context Detection with Soft Logic Regularization**|Huanhuan Ma et.al.|[2406.04756](http://arxiv.org/abs/2406.04756)|null|
