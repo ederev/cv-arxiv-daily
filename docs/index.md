@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio**|Weizhao He et.al.|[2406.08372](http://arxiv.org/abs/2406.08372)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|null|
+|**2024-06-12**|**A $^{2}$ -MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079](http://arxiv.org/abs/2406.08079)|null|
+|**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
+|**2024-06-12**|**SimSAM: Simple Siamese Representations Based Semantic Affinity Matrix for Unsupervised Image Segmentation**|Chanda Grover Kamra et.al.|[2406.07986](http://arxiv.org/abs/2406.07986)|**[link](https://github.com/chandagrover/simsam)**|
+|**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876](http://arxiv.org/abs/2406.07876)|null|
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113](http://arxiv.org/abs/2406.07113)|null|
 |**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037](http://arxiv.org/abs/2406.07037)|null|
 |**2024-06-12**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
@@ -457,6 +463,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**2nd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation**|Zhensong Xu et.al.|[2406.08192](http://arxiv.org/abs/2406.08192)|null|
 |**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037](http://arxiv.org/abs/2406.07037)|null|
 |**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
 |**2024-06-11**|**Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples**|Kailas Dayanandan et.al.|[2406.06967](http://arxiv.org/abs/2406.06967)|**[link](https://github.com/kailasdayanandan/dual_thinking)**|
@@ -659,6 +666,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443](http://arxiv.org/abs/2406.08443)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|null|
+|**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
+|**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152](http://arxiv.org/abs/2406.08152)|null|
+|**2024-06-12**|**MWIRSTD: A MWIR Small Target Detection Dataset**|Nikhil Kumar et.al.|[2406.08063](http://arxiv.org/abs/2406.08063)|null|
+|**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833](http://arxiv.org/abs/2406.07833)|null|
+|**2024-06-11**|**A Deep Learning Approach to Detect Complete Safety Equipment For Construction Workers Based On YOLOv7**|Md. Shariful Islam et.al.|[2406.07707](http://arxiv.org/abs/2406.07707)|null|
 |**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538](http://arxiv.org/abs/2406.07538)|null|
 |**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506](http://arxiv.org/abs/2406.07506)|**[link](https://github.com/visual-words/visual-words)**|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
@@ -1316,6 +1330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
+|**2024-06-12**|**CTC-aligned Audio-Text Embedding for Streaming Open-vocabulary Keyword Spotting**|Sichen Jin et.al.|[2406.07923](http://arxiv.org/abs/2406.07923)|null|
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113](http://arxiv.org/abs/2406.07113)|null|
 |**2024-06-10**|**Open-Vocabulary Part-Based Grasping**|Tjeard van Oort et.al.|[2406.05951](http://arxiv.org/abs/2406.05951)|null|
 |**2024-06-07**|**USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation**|Xiaoqi Wang et.al.|[2406.05271](http://arxiv.org/abs/2406.05271)|null|
