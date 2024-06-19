@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**|Guoyu Yang et.al.|[2406.12496](http://arxiv.org/abs/2406.12496)|null|
+|**2024-06-18**|**Agriculture-Vision Challenge 2024 -- The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble**|Wang Liu et.al.|[2406.12271](http://arxiv.org/abs/2406.12271)|null|
 |**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835](http://arxiv.org/abs/2406.11835)|**[link](https://github.com/kumuji/ugains)**|
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
 |**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|**[link](https://github.com/Sylva-Lin/SWCF-Net)**|
@@ -488,6 +490,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
 |**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835](http://arxiv.org/abs/2406.11835)|**[link](https://github.com/kumuji/ugains)**|
 |**2024-06-18**|**Benchmarking Label Noise in Instance Segmentation: Spatial Noise Matters**|Eden Grad et.al.|[2406.10891](http://arxiv.org/abs/2406.10891)|**[link](https://github.com/eden500/Noisy-Labels-Instance-Segmentation)**|
 |**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
@@ -700,6 +703,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
+|**2024-06-18**|**Online Anchor-based Training for Image Classification Tasks**|Maria Tzelepi et.al.|[2406.12662](http://arxiv.org/abs/2406.12662)|null|
+|**2024-06-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536](http://arxiv.org/abs/2406.12536)|**[link](https://github.com/jhl-det/rgbd_video_sod)**|
+|**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
+|**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
+|**2024-06-18**|**Certified ML Object Detection for Surveillance Missions**|Mohammed Belcaid et.al.|[2406.12362](http://arxiv.org/abs/2406.12362)|null|
+|**2024-06-18**|**DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**|Haodong Li et.al.|[2406.12285](http://arxiv.org/abs/2406.12285)|null|
+|**2024-06-18**|**The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge**|Hongpeng Pan et.al.|[2406.12225](http://arxiv.org/abs/2406.12225)|null|
+|**2024-06-17**|**Multi-Dimensional Pruning: Joint Channel, Layer and Block Pruning with Latency Constraint**|Xinglong Sun et.al.|[2406.12079](http://arxiv.org/abs/2406.12079)|null|
 |**2024-06-17**|**V3Det Challenge 2024 on Vast Vocabulary and Open Vocabulary Object Detection: Methods and Results**|Jiaqi Wang et.al.|[2406.11739](http://arxiv.org/abs/2406.11739)|null|
 |**2024-06-17**|**YOLO-FEDER FusionNet: A Novel Deep Learning Architecture for Drone Detection**|Tamara R. Lenhard et.al.|[2406.11641](http://arxiv.org/abs/2406.11641)|null|
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319](http://arxiv.org/abs/2406.11319)|null|
@@ -1573,6 +1585,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?**|Mingqian Feng et.al.|[2406.12663](http://arxiv.org/abs/2406.12663)|null|
+|**2024-06-18**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Xiang Li et.al.|[2406.12384](http://arxiv.org/abs/2406.12384)|**[link](https://github.com/lx709/vrsbench)**|
 |**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820](http://arxiv.org/abs/2406.11820)|null|
 |**2024-06-17**|**LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning**|Dantong Niu et.al.|[2406.11815](http://arxiv.org/abs/2406.11815)|null|
 |**2024-06-17**|**MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models**|Shengkang Wang et.al.|[2406.11288](http://arxiv.org/abs/2406.11288)|null|
