@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776](http://arxiv.org/abs/2406.16776)|**[link](https://github.com/w1zheng/insteacher3d)**|
+|**2024-06-24**|**μ-Net: A Deep Learning-Based Architecture for μ-CT Segmentation**|Pierangela Bruno et.al.|[2406.16724](http://arxiv.org/abs/2406.16724)|null|
+|**2024-06-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al.|[2406.16625](http://arxiv.org/abs/2406.16625)|null|
+|**2024-06-24**|**LOGCAN++: Local-global class-aware network for semantic segmentation of remote sensing images**|Xiaowen Ma et.al.|[2406.16502](http://arxiv.org/abs/2406.16502)|**[link](https://github.com/xwmaxwma/rssegmentation)**|
+|**2024-06-24**|**Cascade Reward Sampling for Efficient Decoding-Time Alignment**|Bolian Li et.al.|[2406.16306](http://arxiv.org/abs/2406.16306)|null|
+|**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/abs/2406.16279)|**[link](https://github.com/nubot-nudt/segnet4d)**|
+|**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129](http://arxiv.org/abs/2406.16129)|null|
+|**2024-06-22**|**Fine-grained Background Representation for Weakly Supervised Semantic Segmentation**|Xu Yin et.al.|[2406.15755](http://arxiv.org/abs/2406.15755)|null|
 |**2024-06-20**|**Evaluation of Deep Learning Semantic Segmentation for Land Cover Mapping on Multispectral, Hyperspectral and High Spatial Aerial Imagery**|Ilham Adi Panuntun et.al.|[2406.14220](http://arxiv.org/abs/2406.14220)|null|
 |**2024-06-20**|**Trusting Semantic Segmentation Networks**|Samik Some et.al.|[2406.14201](http://arxiv.org/abs/2406.14201)|null|
 |**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178](http://arxiv.org/abs/2406.14178)|null|
@@ -485,6 +493,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776](http://arxiv.org/abs/2406.16776)|**[link](https://github.com/w1zheng/insteacher3d)**|
+|**2024-06-23**|**CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery**|Oluwatosin Alabi et.al.|[2406.16039](http://arxiv.org/abs/2406.16039)|null|
+|**2024-06-22**|**Fine-grained Background Representation for Weakly Supervised Semantic Segmentation**|Xu Yin et.al.|[2406.15755](http://arxiv.org/abs/2406.15755)|null|
 |**2024-06-21**|**TraceNet: Segment one thing efficiently**|Mingyuan Wu et.al.|[2406.14874](http://arxiv.org/abs/2406.14874)|null|
 |**2024-06-19**|**3D Instance Segmentation Using Deep Learning on RGB-D Indoor Data**|Siddiqui Muhammad Yasir et.al.|[2406.14581](http://arxiv.org/abs/2406.14581)|null|
 |**2024-06-20**|**2nd Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation**|Bin Cao et.al.|[2406.13939](http://arxiv.org/abs/2406.13939)|null|
@@ -697,6 +708,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments**|Shilei Cao et.al.|[2406.16439](http://arxiv.org/abs/2406.16439)|null|
+|**2024-06-23**|**Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain**|Maged Badawi et.al.|[2406.16143](http://arxiv.org/abs/2406.16143)|null|
+|**2024-06-22**|**Smart Feature is What You Need**|Zhaoxin Hu et.al.|[2406.15805](http://arxiv.org/abs/2406.15805)|**[link](https://github.com/hzx-9894/mma)**|
+|**2024-06-22**|**MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception**|Guanqun Wang et.al.|[2406.15768](http://arxiv.org/abs/2406.15768)|null|
 |**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|null|
 |**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878](http://arxiv.org/abs/2406.14878)|null|
 |**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/xinyiying24/rgbt-tiny)**|
@@ -1366,6 +1381,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
@@ -1404,6 +1420,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384](http://arxiv.org/abs/2406.16384)|null|
+|**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085](http://arxiv.org/abs/2406.16085)|null|
+|**2024-06-21**|**Open-vocabulary Pick and Place via Patch-level Semantic Maps**|Mingxi Jia et.al.|[2406.15677](http://arxiv.org/abs/2406.15677)|null|
+|**2024-06-21**|**Open-Vocabulary Temporal Action Localization using Multimodal Guidance**|Akshita Gupta et.al.|[2406.15556](http://arxiv.org/abs/2406.15556)|null|
 |**2024-06-19**|**StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images**|Rushikesh Zawar et.al.|[2406.13735](http://arxiv.org/abs/2406.13735)|null|
 |**2024-06-17**|**V3Det Challenge 2024 on Vast Vocabulary and Open Vocabulary Object Detection: Methods and Results**|Jiaqi Wang et.al.|[2406.11739](http://arxiv.org/abs/2406.11739)|null|
 |**2024-06-17**|**Understanding Multi-Granularity for Open-Vocabulary Part Segmentation**|Jiho Choi et.al.|[2406.11384](http://arxiv.org/abs/2406.11384)|**[link](https://github.com/kaist-cvml-lab/part-clipseg)**|
@@ -1586,6 +1606,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085](http://arxiv.org/abs/2406.16085)|null|
+|**2024-06-22**|**Reading Is Believing: Revisiting Language Bottleneck Models for Image Classification**|Honori Udo et.al.|[2406.15816](http://arxiv.org/abs/2406.15816)|null|
 |**2024-06-20**|**Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?**|Gregor Geigle et.al.|[2406.14492](http://arxiv.org/abs/2406.14492)|null|
 |**2024-06-20**|**From Descriptive Richness to Bias: Unveiling the Dark Side of Generative Image Caption Enrichment**|Yusuke Hirota et.al.|[2406.13912](http://arxiv.org/abs/2406.13912)|null|
 |**2024-06-19**|**Reinforcing Pre-trained Models Using Counterfactual Images**|Xiang Li et.al.|[2406.13316](http://arxiv.org/abs/2406.13316)|null|
