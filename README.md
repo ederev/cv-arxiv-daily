@@ -23,6 +23,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
+|**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591](http://arxiv.org/abs/2406.17591)|**[link](https://github.com/ahmad-shirazi/docparsenet)**|
+|**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541](http://arxiv.org/abs/2406.17541)|null|
+|**2024-06-25**|**Investigating Self-Supervised Methods for Label-Efficient Learning**|Srinivasa Rao Nandam et.al.|[2406.17460](http://arxiv.org/abs/2406.17460)|null|
+|**2024-06-25**|**Pseudo Labelling for Enhanced Masked Autoencoders**|Srinivasa Rao Nandam et.al.|[2406.17450](http://arxiv.org/abs/2406.17450)|null|
+|**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
+|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|null|
 |**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776](http://arxiv.org/abs/2406.16776)|**[link](https://github.com/w1zheng/insteacher3d)**|
 |**2024-06-24**|**μ-Net: A Deep Learning-Based Architecture for μ-CT Segmentation**|Pierangela Bruno et.al.|[2406.16724](http://arxiv.org/abs/2406.16724)|null|
 |**2024-06-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al.|[2406.16625](http://arxiv.org/abs/2406.16625)|null|
@@ -504,6 +511,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Depth-Guided Semi-Supervised Instance Segmentation**|Xin Chen et.al.|[2406.17413](http://arxiv.org/abs/2406.17413)|null|
+|**2024-06-25**|**XAMI -- A Benchmark Dataset for Artefact Detection in XMM-Newton Optical Images**|Elisabeta-Iulia Dima et.al.|[2406.17323](http://arxiv.org/abs/2406.17323)|**[link](https://github.com/esa-datalabs/xami-model)**|
+|**2024-06-24**|**GMT: Guided Mask Transformer for Leaf Instance Segmentation**|Feng Chen et.al.|[2406.17109](http://arxiv.org/abs/2406.17109)|null|
 |**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776](http://arxiv.org/abs/2406.16776)|**[link](https://github.com/w1zheng/insteacher3d)**|
 |**2024-06-23**|**CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery**|Oluwatosin Alabi et.al.|[2406.16039](http://arxiv.org/abs/2406.16039)|null|
 |**2024-06-22**|**Fine-grained Background Representation for Weakly Supervised Semantic Segmentation**|Xu Yin et.al.|[2406.15755](http://arxiv.org/abs/2406.15755)|null|
@@ -723,6 +733,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
+|**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
+|**2024-06-25**|**Towards Open-set Camera 3D Object Detection**|Zhuolin He et.al.|[2406.17297](http://arxiv.org/abs/2406.17297)|null|
 |**2024-06-25**|**Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments**|Shilei Cao et.al.|[2406.16439](http://arxiv.org/abs/2406.16439)|null|
 |**2024-06-23**|**Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain**|Maged Badawi et.al.|[2406.16143](http://arxiv.org/abs/2406.16143)|null|
 |**2024-06-22**|**Smart Feature is What You Need**|Zhaoxin Hu et.al.|[2406.15805](http://arxiv.org/abs/2406.15805)|**[link](https://github.com/hzx-9894/mma)**|
@@ -1627,6 +1640,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Enhancing Scientific Figure Captioning Through Cross-modal Learning**|Mateo Alejandro Rojas et.al.|[2406.17047](http://arxiv.org/abs/2406.17047)|null|
 |**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085](http://arxiv.org/abs/2406.16085)|null|
 |**2024-06-22**|**Reading Is Believing: Revisiting Language Bottleneck Models for Image Classification**|Honori Udo et.al.|[2406.15816](http://arxiv.org/abs/2406.15816)|null|
 |**2024-06-20**|**Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?**|Gregor Geigle et.al.|[2406.14492](http://arxiv.org/abs/2406.14492)|null|
