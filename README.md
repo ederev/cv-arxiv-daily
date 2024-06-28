@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
+|**2024-06-27**|**ProtoGMM: Multi-prototype Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2406.19225](http://arxiv.org/abs/2406.19225)|null|
+|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057](http://arxiv.org/abs/2406.19057)|null|
+|**2024-06-27**|**Divide, Ensemble and Conquer: The Last Mile on Unsupervised Domain Adaptation for On-Board Semantic Segmentation**|Tao Lian et.al.|[2406.18809](http://arxiv.org/abs/2406.18809)|null|
 |**2024-06-26**|**CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**|Nikolaos Dionelis et.al.|[2406.18279](http://arxiv.org/abs/2406.18279)|null|
 |**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113](http://arxiv.org/abs/2406.18113)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
 |**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074](http://arxiv.org/abs/2406.18074)|**[link](https://github.com/tntek/dspnet)**|
@@ -514,6 +518,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/abs/2406.18742)|null|
 |**2024-06-26**|**CoDA: Interactive Segmentation and Morphological Analysis of Dendroid Structures Exemplified on Stony Cold-Water Corals**|Kira Schmitt et.al.|[2406.18236](http://arxiv.org/abs/2406.18236)|**[link](https://github.com/zibamira/CTCoral_hxcoda)**|
 |**2024-06-25**|**Semi-supervised classification of dental conditions in panoramic radiographs using large language model and instance segmentation: A real-world dataset evaluation**|Bernardo Silva et.al.|[2406.17915](http://arxiv.org/abs/2406.17915)|null|
 |**2024-06-25**|**Depth-Guided Semi-Supervised Instance Segmentation**|Xin Chen et.al.|[2406.17413](http://arxiv.org/abs/2406.17413)|null|
@@ -738,6 +743,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**|Liujuan Cao et.al.|[2406.19394](http://arxiv.org/abs/2406.19394)|**[link](https://github.com/shenyunhang/huwsod)**|
+|**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang et.al.|[2406.19362](http://arxiv.org/abs/2406.19362)|null|
+|**2024-06-27**|**Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data**|Lukas Malte Kemeter et.al.|[2406.19175](http://arxiv.org/abs/2406.19175)|null|
+|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057](http://arxiv.org/abs/2406.19057)|null|
+|**2024-06-27**|**BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**|Yang Song et.al.|[2406.19048](http://arxiv.org/abs/2406.19048)|null|
+|**2024-06-27**|**A Universal Railway Obstacle Detection System based on Semi-supervised Segmentation And Optical Flow**|Qiushi Guo et.al.|[2406.18908](http://arxiv.org/abs/2406.18908)|null|
+|**2024-06-26**|**SpY: A Context-Based Approach to Spacecraft Component Detection**|Trupti Mahendrakar et.al.|[2406.18709](http://arxiv.org/abs/2406.18709)|null|
 |**2024-06-26**|**Unveiling the Unknown: Conditional Evidence Decoupling for Unknown Rejection**|Zhaowei Wu et.al.|[2406.18443](http://arxiv.org/abs/2406.18443)|**[link](https://github.com/zjzwzw/ced-food)**|
 |**2024-06-26**|**CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection**|Meiying Zhang et.al.|[2406.18129](http://arxiv.org/abs/2406.18129)|null|
 |**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113](http://arxiv.org/abs/2406.18113)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
@@ -1461,6 +1473,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/abs/2406.18742)|null|
 |**2024-06-26**|**Open-vocabulary Mobile Manipulation in Unseen Dynamic Environments with 3D Semantic Maps**|Dicong Qiu et.al.|[2406.18115](http://arxiv.org/abs/2406.18115)|null|
 |**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384](http://arxiv.org/abs/2406.16384)|null|
 |**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085](http://arxiv.org/abs/2406.16085)|null|
@@ -1650,6 +1663,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150](http://arxiv.org/abs/2406.19150)|null|
+|**2024-06-27**|**Revisiting Backdoor Attacks against Large Vision-Language Models**|Siyuan Liang et.al.|[2406.18844](http://arxiv.org/abs/2406.18844)|null|
+|**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
 |**2024-06-24**|**Enhancing Scientific Figure Captioning Through Cross-modal Learning**|Mateo Alejandro Rojas et.al.|[2406.17047](http://arxiv.org/abs/2406.17047)|null|
 |**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085](http://arxiv.org/abs/2406.16085)|null|
 |**2024-06-22**|**Reading Is Believing: Revisiting Language Bottleneck Models for Image Classification**|Honori Udo et.al.|[2406.15816](http://arxiv.org/abs/2406.15816)|null|
