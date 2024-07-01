@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1643,7 +1643,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150](http://arxiv.org/abs/2406.19150)|null|
-|**2024-06-27**|**Revisiting Backdoor Attacks against Large Vision-Language Models**|Siyuan Liang et.al.|[2406.18844](http://arxiv.org/abs/2406.18844)|null|
+|**2024-06-28**|**Revisiting Backdoor Attacks against Large Vision-Language Models**|Siyuan Liang et.al.|[2406.18844](http://arxiv.org/abs/2406.18844)|null|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
 |**2024-06-24**|**Enhancing Scientific Figure Captioning Through Cross-modal Learning**|Mateo Alejandro Rojas et.al.|[2406.17047](http://arxiv.org/abs/2406.17047)|null|
 |**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085](http://arxiv.org/abs/2406.16085)|null|
