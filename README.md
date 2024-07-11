@@ -23,6 +23,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift**|Elliot Vincent et.al.|[2407.07616](http://arxiv.org/abs/2407.07616)|**[link](https://github.com/elliotvincent/sitsscd)**|
+|**2024-07-10**|**H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**|Ryan Banks et.al.|[2407.07604](http://arxiv.org/abs/2407.07604)|**[link](https://github.com/banksylel/h-fcbformer)**|
+|**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564](http://arxiv.org/abs/2407.07564)|null|
+|**2024-07-10**|**Deformable-Heatmap-Segmentation for Automobile Visual Perception**|Hongyu Jin et.al.|[2407.07493](http://arxiv.org/abs/2407.07493)|null|
+|**2024-07-10**|**Exploring the Untouched Sweeps for Conflict-Aware 3D Segmentation Pretraining**|Tianfang Sun et.al.|[2407.07465](http://arxiv.org/abs/2407.07465)|null|
+|**2024-07-10**|**HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation**|Guoan Xu et.al.|[2407.07441](http://arxiv.org/abs/2407.07441)|null|
+|**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171](http://arxiv.org/abs/2407.07171)|**[link](https://github.com/yyliu01/it2)**|
 |**2024-07-08**|**Training-free CryoET Tomogram Segmentation**|Yizhou Zhao et.al.|[2407.06833](http://arxiv.org/abs/2407.06833)|**[link](https://github.com/xulabs/aitom)**|
 |**2024-07-09**|**CycleSAM: One-Shot Surgical Scene Segmentation using Cycle-Consistent Feature Matching to Prompt SAM**|Aditya Murali et.al.|[2407.06795](http://arxiv.org/abs/2407.06795)|null|
 |**2024-07-09**|**LuSNAR:A Lunar Segmentation, Navigation and Reconstruction Dataset based on Muti-sensor for Autonomous Exploration**|Jiayi Liu et.al.|[2407.06512](http://arxiv.org/abs/2407.06512)|**[link](https://github.com/autumn999999/lusnar-dataset)**|
@@ -553,6 +560,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation**|Hao Fang et.al.|[2407.07427](http://arxiv.org/abs/2407.07427)|**[link](https://github.com/fanghaook/ovformer)**|
 |**2024-07-09**|**Improved Block Merging for 3D Point Cloud Instance Segmentation**|Leon Denis et.al.|[2407.06991](http://arxiv.org/abs/2407.06991)|null|
 |**2024-07-09**|**Joint prototype and coefficient prediction for 3D instance segmentation**|Remco Royen et.al.|[2407.06958](http://arxiv.org/abs/2407.06958)|null|
 |**2024-07-08**|**Training-free CryoET Tomogram Segmentation**|Yizhou Zhao et.al.|[2407.06833](http://arxiv.org/abs/2407.06833)|**[link](https://github.com/xulabs/aitom)**|
@@ -746,6 +754,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Panoptic Segmentation of Galactic Structures in LSB Images**|Felix Richards et.al.|[2407.07494](http://arxiv.org/abs/2407.07494)|null|
 |**2024-07-03**|**Context-Aware Video Instance Segmentation**|Seunghun Lee et.al.|[2407.03010](http://arxiv.org/abs/2407.03010)|**[link](https://github.com/Seung-Hun-Lee/CAVIS)**|
 |**2024-07-01**|**PanopticRecon: Leverage Open-vocabulary Instance Segmentation for Zero-shot Panoptic Reconstruction**|Xuan Yu et.al.|[2407.01349](http://arxiv.org/abs/2407.01349)|null|
 |**2024-07-01**|**Gradient-based Class Weighting for Unsupervised Domain Adaptation in Dense Prediction Visual Tasks**|Roberto Alcover-Couso et.al.|[2407.01327](http://arxiv.org/abs/2407.01327)|null|
@@ -794,6 +803,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Cross Domain Object Detection via Multi-Granularity Confidence Alignment based Mean Teacher**|Jiangming Chen et.al.|[2407.07780](http://arxiv.org/abs/2407.07780)|null|
+|**2024-07-10**|**LSM: A Comprehensive Metric for Assessing the Safety of Lane Detection Systems in Autonomous Driving**|Jörg Gamerdinger et.al.|[2407.07740](http://arxiv.org/abs/2407.07740)|null|
+|**2024-07-10**|**Few-Shot Domain Adaptive Object Detection for Microscopic Images**|Sumayya Inayat et.al.|[2407.07633](http://arxiv.org/abs/2407.07633)|null|
+|**2024-07-10**|**Simplifying Source-Free Domain Adaptation for Object Detection: Effective Self-Training Strategies and Performance Insights**|Yan Hao et.al.|[2407.07586](http://arxiv.org/abs/2407.07586)|**[link](https://github.com/epfl-imos/simple-sfod)**|
+|**2024-07-09**|**Exploring Camera Encoder Designs for Autonomous Driving Perception**|Barath Lakshmanan et.al.|[2407.07276](http://arxiv.org/abs/2407.07276)|null|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
 |**2024-07-09**|**Cue Point Estimation using Object Detection**|Giulia Argüello et.al.|[2407.06823](http://arxiv.org/abs/2407.06823)|**[link](https://github.com/eth-disco/cue-detr)**|
 |**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780](http://arxiv.org/abs/2407.06780)|**[link](https://github.com/ssecv/CoLA)**|
@@ -1580,6 +1594,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion**|Hao Wang et.al.|[2407.07844](http://arxiv.org/abs/2407.07844)|**[link](https://github.com/wanghao9610/ov-dino)**|
+|**2024-07-10**|**Scaling Law in Neural Data: Non-Invasive Speech Decoding with 175 Hours of EEG Data**|Motoshige Sato et.al.|[2407.07595](http://arxiv.org/abs/2407.07595)|null|
+|**2024-07-10**|**Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation**|Hao Fang et.al.|[2407.07427](http://arxiv.org/abs/2407.07427)|**[link](https://github.com/fanghaook/ovformer)**|
 |**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
 |**2024-07-09**|**Towards Open-World Mobile Manipulation in Homes: Lessons from the Neurips 2023 HomeRobot Open Vocabulary Mobile Manipulation Challenge**|Sriram Yenamandra et.al.|[2407.06939](http://arxiv.org/abs/2407.06939)|null|
 |**2024-07-09**|**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**|Yu-Guan Hsieh et.al.|[2407.06723](http://arxiv.org/abs/2407.06723)|null|
@@ -1783,6 +1800,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation**|Seonghoon Yu et.al.|[2407.07412](http://arxiv.org/abs/2407.07412)|**[link](https://github.com/seonghoon-yu/pseudo-ris)**|
 |**2024-07-08**|**Leveraging image captions for selective whole slide image annotation**|Jingna Qiu et.al.|[2407.06363](http://arxiv.org/abs/2407.06363)|null|
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
 |**2024-07-08**|**Negative Results of Image Processing for Identifying Duplicate Questions on Stack Overflow**|Faiz Ahmed et.al.|[2407.05523](http://arxiv.org/abs/2407.05523)|null|
