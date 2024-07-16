@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1814,7 +1814,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-12**|**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**|Jeongho Kim et.al.|[2407.09012](http://arxiv.org/abs/2407.09012)|null|
 |**2024-07-12**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
-|**2024-07-10**|**Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation**|Seonghoon Yu et.al.|[2407.07412](http://arxiv.org/abs/2407.07412)|**[link](https://github.com/seonghoon-yu/pseudo-ris)**|
+|**2024-07-15**|**Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation**|Seonghoon Yu et.al.|[2407.07412](http://arxiv.org/abs/2407.07412)|**[link](https://github.com/seonghoon-yu/pseudo-ris)**|
 |**2024-07-08**|**Leveraging image captions for selective whole slide image annotation**|Jingna Qiu et.al.|[2407.06363](http://arxiv.org/abs/2407.06363)|**[link](https://github.com/deepmicroscopy/prototype-sampling)**|
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
 |**2024-07-08**|**Negative Results of Image Processing for Identifying Duplicate Questions on Stack Overflow**|Faiz Ahmed et.al.|[2407.05523](http://arxiv.org/abs/2407.05523)|null|
