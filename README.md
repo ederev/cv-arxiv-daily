@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
+|**2024-07-19**|**Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation**|Zhengyuan Xie et.al.|[2407.14142](http://arxiv.org/abs/2407.14142)|**[link](https://github.com/zhengyuan-xie/eccv24_nest)**|
+|**2024-07-19**|**GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation**|Florian Chabot et.al.|[2407.14108](http://arxiv.org/abs/2407.14108)|null|
+|**2024-07-18**|**Many Perception Tasks are Highly Redundant Functions of their Input Data**|Rahul Ramesh et.al.|[2407.13841](http://arxiv.org/abs/2407.13841)|null|
 |**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|**[link](https://github.com/Amshaker/GroupMamba)**|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
 |**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675](http://arxiv.org/abs/2407.13675)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
@@ -607,6 +611,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
+|**2024-07-19**|**Scale Disparity of Instances in Interactive Point Cloud Segmentation**|Chenrui Han et.al.|[2407.14009](http://arxiv.org/abs/2407.14009)|null|
 |**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|**[link](https://github.com/Amshaker/GroupMamba)**|
 |**2024-07-17**|**AdaLog: Post-Training Quantization for Vision Transformers with Adaptive Logarithm Quantizer**|Zhuguanyu Wu et.al.|[2407.12951](http://arxiv.org/abs/2407.12951)|**[link](https://github.com/GoatWu/AdaLog)**|
 |**2024-07-17**|**Close the Sim2real Gap via Physically-based Structured Light Synthetic Data Simulation**|Kaixin Bai et.al.|[2407.12449](http://arxiv.org/abs/2407.12449)|null|
@@ -813,6 +819,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
+|**2024-07-19**|**MC-PanDA: Mask Confidence for Panoptic Domain Adaptation**|Ivan Martinović et.al.|[2407.14110](http://arxiv.org/abs/2407.14110)|**[link](https://github.com/helen1c/mc-panda)**|
 |**2024-07-15**|**OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**|Zijian Zhou et.al.|[2407.11213](http://arxiv.org/abs/2407.11213)|null|
 |**2024-07-12**|**A Fair Ranking and New Model for Panoptic Scene Graph Generation**|Julian Lorenz et.al.|[2407.09216](http://arxiv.org/abs/2407.09216)|null|
 |**2024-07-12**|**From Easy to Hard: Learning Curricular Shape-aware Features for Robust Panoptic Scene Graph Generation**|Hanrong Shi et.al.|[2407.09191](http://arxiv.org/abs/2407.09191)|null|
@@ -865,6 +873,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
+|**2024-07-19**|**EmoCAM: Toward Understanding What Drives CNN-based Emotion Recognition**|Youssef Doulfoukar et.al.|[2407.14314](http://arxiv.org/abs/2407.14314)|null|
+|**2024-07-19**|**Bucketed Ranking-based Losses for Efficient Training of Object Detectors**|Feyza Yavuz et.al.|[2407.14204](http://arxiv.org/abs/2407.14204)|**[link](https://github.com/blisgard/bucketedrankingbasedlosses)**|
 |**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|**[link](https://github.com/Amshaker/GroupMamba)**|
 |**2024-07-18**|**General Geometry-aware Weakly Supervised 3D Object Detection**|Guowen Zhang et.al.|[2407.13748](http://arxiv.org/abs/2407.13748)|**[link](https://github.com/gwenzhang/GGA)**|
 |**2024-07-18**|**Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation**|Ilhoon Yoon et.al.|[2407.13524](http://arxiv.org/abs/2407.13524)|**[link](https://github.com/junia3/lpld)**|
@@ -1706,6 +1718,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Which objects help me to act effectively? Reasoning about physically-grounded affordances**|Anne Kemmeren et.al.|[2407.13811](http://arxiv.org/abs/2407.13811)|null|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
 |**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
 |**2024-07-18**|**Open Vocabulary 3D Scene Understanding via Geometry Guided Self-Distillation**|Pengfei Wang et.al.|[2407.13362](http://arxiv.org/abs/2407.13362)|null|
@@ -1713,7 +1726,7 @@
 |**2024-07-17**|**CerberusDet: Unified Multi-Task Object Detection**|Irina Tolstykh et.al.|[2407.12632](http://arxiv.org/abs/2407.12632)|**[link](https://github.com/ai-forever/cerberusdet)**|
 |**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
 |**2024-07-17**|**VEON: Vocabulary-Enhanced Occupancy Prediction**|Jilai Zheng et.al.|[2407.12294](http://arxiv.org/abs/2407.12294)|null|
-|**2024-07-18**|**LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction**|Penghui Du et.al.|[2407.11335](http://arxiv.org/abs/2407.11335)|null|
+|**2024-07-18**|**LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction**|Penghui Du et.al.|[2407.11335](http://arxiv.org/abs/2407.11335)|**[link](https://github.com/eternaldolphin/lami-detr)**|
 |**2024-07-17**|**Unconstrained Open Vocabulary Image Classification: Zero-Shot Transfer from Text to Image via CLIP Inversion**|Philipp Allgeuer et.al.|[2407.11211](http://arxiv.org/abs/2407.11211)|null|
 |**2024-07-15**|**OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer**|Yu Wang et.al.|[2407.10655](http://arxiv.org/abs/2407.10655)|**[link](https://github.com/atten4vis/lw-detr)**|
 |**2024-07-15**|**Evaluating Model Bias Requires Characterizing its Mistakes**|Isabela Albuquerque et.al.|[2407.10633](http://arxiv.org/abs/2407.10633)|null|
@@ -1931,6 +1944,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**On Pre-training of Multimodal Language Models Customized for Chart Understanding**|Wan-Cyuan Fan et.al.|[2407.14506](http://arxiv.org/abs/2407.14506)|null|
+|**2024-07-19**|**EVLM: An Efficient Vision-Language Model for Visual Understanding**|Kaibing Chen et.al.|[2407.14177](http://arxiv.org/abs/2407.14177)|null|
 |**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
 |**2024-07-16**|**Controllable Contextualized Image Captioning: Directing the Visual Narrative through User-Defined Highlights**|Shunqi Mao et.al.|[2407.11449](http://arxiv.org/abs/2407.11449)|**[link](https://github.com/shunqim/ctrl-cic)**|
