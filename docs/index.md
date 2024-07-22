@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -601,7 +601,7 @@ layout: default
 |**2024-07-17**|**Close the Sim2real Gap via Physically-based Structured Light Synthetic Data Simulation**|Kaixin Bai et.al.|[2407.12449](http://arxiv.org/abs/2407.12449)|null|
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
 |**2024-07-16**|**SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation**|Lei Yao et.al.|[2407.11564](http://arxiv.org/abs/2407.11564)|null|
-|**2024-07-16**|**Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes**|Zhi Cai et.al.|[2407.11464](http://arxiv.org/abs/2407.11464)|**[link](https://github.com/felixcaae/crowdsam)**|
+|**2024-07-19**|**Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes**|Zhi Cai et.al.|[2407.11464](http://arxiv.org/abs/2407.11464)|**[link](https://github.com/felixcaae/crowdsam)**|
 |**2024-07-16**|**Generative AI Driven Task-Oriented Adaptive Semantic Communications**|Yuzhou Fu et.al.|[2407.11354](http://arxiv.org/abs/2407.11354)|null|
 |**2024-07-15**|**M18K: A Comprehensive RGB-D Dataset and Benchmark for Mushroom Detection and Instance Segmentation**|Abdollah Zakeri et.al.|[2407.11275](http://arxiv.org/abs/2407.11275)|**[link](https://github.com/abdollahzakeri/m18k)**|
 |**2024-07-14**|**Part2Object: Hierarchical Unsupervised 3D Instance Segmentation**|Cheng Shi et.al.|[2407.10084](http://arxiv.org/abs/2407.10084)|**[link](https://github.com/chengshiest/part2object)**|
