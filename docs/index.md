@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**|Julia Hindel et.al.|[2407.18145](http://arxiv.org/abs/2407.18145)|null|
+|**2024-07-25**|**TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework**|Guanfeng Tang et.al.|[2407.18038](http://arxiv.org/abs/2407.18038)|null|
+|**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026](http://arxiv.org/abs/2407.18026)|null|
 |**2024-07-24**|**Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation**|Hyunwoo Yu et.al.|[2407.17261](http://arxiv.org/abs/2407.17261)|**[link](https://github.com/hyunwoo137/edaformer)**|
 |**2024-07-24**|**Trans2Unet: Neural fusion for Nuclei Semantic Segmentation**|Dinh-Phu Tran et.al.|[2407.17181](http://arxiv.org/abs/2407.17181)|null|
 |**2024-07-24**|**PiPa++: Towards Unification of Domain Adaptive Semantic Segmentation via Self-supervised Learning**|Mu Chen et.al.|[2407.17101](http://arxiv.org/abs/2407.17101)|null|
@@ -615,6 +618,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**LKCell: Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels**|Ziwei Cui et.al.|[2407.18054](http://arxiv.org/abs/2407.18054)|**[link](https://github.com/hustvl/lkcell)**|
+|**2024-07-24**|**Quality Assured: Rethinking Annotation Strategies in Imaging AI**|Tim Rädsch et.al.|[2407.17596](http://arxiv.org/abs/2407.17596)|null|
 |**2024-07-24**|**McGAN: Generating Manufacturable Designs by Embedding Manufacturing Rules into Conditional Generative Adversarial Network**|Zhichao Wang et.al.|[2407.16943](http://arxiv.org/abs/2407.16943)|null|
 |**2024-07-22**|**Enhancing Cell Instance Segmentation in Scanning Electron Microscopy Images via a Deep Contour Closing Operator**|Florian Robert et.al.|[2407.15817](http://arxiv.org/abs/2407.15817)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
@@ -877,6 +882,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
+|**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
+|**2024-07-25**|**SaccadeDet: A Novel Dual-Stage Architecture for Rapid and Accurate Detection in Gigapixel Images**|Wenxi Li et.al.|[2407.17956](http://arxiv.org/abs/2407.17956)|null|
+|**2024-07-25**|**A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment**|Yongjiang He et.al.|[2407.17942](http://arxiv.org/abs/2407.17942)|null|
+|**2024-07-25**|**Hierarchical Object Detection and Recognition Framework for Practical Plant Disease Diagnosis**|Kohei Iwano et.al.|[2407.17906](http://arxiv.org/abs/2407.17906)|null|
+|**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877](http://arxiv.org/abs/2407.17877)|null|
+|**2024-07-25**|**Enhancing Fine-grained Object Detection in Aerial Images via Orthogonal Mapping**|Haoran Zhu et.al.|[2407.17738](http://arxiv.org/abs/2407.17738)|**[link](https://github.com/zhuhaoraneis/orthogonal-fgod)**|
+|**2024-07-24**|**Unsqueeze [CLS] Bottleneck to Learn Rich Representations**|Qing Su et.al.|[2407.17671](http://arxiv.org/abs/2407.17671)|null|
+|**2024-07-24**|**SDLNet: Statistical Deep Learning Network for Co-Occurring Object Detection and Identification**|Binay Kumar Singh et.al.|[2407.17664](http://arxiv.org/abs/2407.17664)|null|
+|**2024-07-24**|**PEEKABOO: Hiding parts of an image for unsupervised object localization**|Hasib Zunair et.al.|[2407.17628](http://arxiv.org/abs/2407.17628)|**[link](https://github.com/hasibzunair/peekaboo)**|
 |**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/abs/2407.17197)|null|
 |**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955](http://arxiv.org/abs/2407.16955)|**[link](https://github.com/dop0/dvpe)**|
 |**2024-07-23**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789](http://arxiv.org/abs/2407.16789)|**[link](https://github.com/benjaminrwilson/range-view-3d-detection)**|
@@ -1697,6 +1712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
