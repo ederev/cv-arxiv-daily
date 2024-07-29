@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-25**|**Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**|Julia Hindel et.al.|[2407.18145](http://arxiv.org/abs/2407.18145)|null|
 |**2024-07-25**|**TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework**|Guanfeng Tang et.al.|[2407.18038](http://arxiv.org/abs/2407.18038)|null|
-|**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026](http://arxiv.org/abs/2407.18026)|null|
+|**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026](http://arxiv.org/abs/2407.18026)|**[link](https://github.com/nikolasmorshuis/sgr)**|
 |**2024-07-24**|**Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation**|Hyunwoo Yu et.al.|[2407.17261](http://arxiv.org/abs/2407.17261)|**[link](https://github.com/hyunwoo137/edaformer)**|
 |**2024-07-24**|**Trans2Unet: Neural fusion for Nuclei Semantic Segmentation**|Dinh-Phu Tran et.al.|[2407.17181](http://arxiv.org/abs/2407.17181)|null|
 |**2024-07-24**|**PiPa++: Towards Unification of Domain Adaptive Semantic Segmentation via Self-supervised Learning**|Mu Chen et.al.|[2407.17101](http://arxiv.org/abs/2407.17101)|null|
@@ -619,7 +619,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-25**|**LKCell: Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels**|Ziwei Cui et.al.|[2407.18054](http://arxiv.org/abs/2407.18054)|**[link](https://github.com/hustvl/lkcell)**|
-|**2024-07-24**|**Quality Assured: Rethinking Annotation Strategies in Imaging AI**|Tim Rädsch et.al.|[2407.17596](http://arxiv.org/abs/2407.17596)|null|
+|**2024-07-26**|**Quality Assured: Rethinking Annotation Strategies in Imaging AI**|Tim Rädsch et.al.|[2407.17596](http://arxiv.org/abs/2407.17596)|null|
 |**2024-07-24**|**McGAN: Generating Manufacturable Designs by Embedding Manufacturing Rules into Conditional Generative Adversarial Network**|Zhichao Wang et.al.|[2407.16943](http://arxiv.org/abs/2407.16943)|null|
 |**2024-07-22**|**Enhancing Cell Instance Segmentation in Scanning Electron Microscopy Images via a Deep Contour Closing Operator**|Florian Robert et.al.|[2407.15817](http://arxiv.org/abs/2407.15817)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
@@ -889,7 +889,7 @@ layout: default
 |**2024-07-25**|**Hierarchical Object Detection and Recognition Framework for Practical Plant Disease Diagnosis**|Kohei Iwano et.al.|[2407.17906](http://arxiv.org/abs/2407.17906)|null|
 |**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877](http://arxiv.org/abs/2407.17877)|null|
 |**2024-07-25**|**Enhancing Fine-grained Object Detection in Aerial Images via Orthogonal Mapping**|Haoran Zhu et.al.|[2407.17738](http://arxiv.org/abs/2407.17738)|**[link](https://github.com/zhuhaoraneis/orthogonal-fgod)**|
-|**2024-07-24**|**Unsqueeze [CLS] Bottleneck to Learn Rich Representations**|Qing Su et.al.|[2407.17671](http://arxiv.org/abs/2407.17671)|null|
+|**2024-07-26**|**Unsqueeze [CLS] Bottleneck to Learn Rich Representations**|Qing Su et.al.|[2407.17671](http://arxiv.org/abs/2407.17671)|null|
 |**2024-07-24**|**SDLNet: Statistical Deep Learning Network for Co-Occurring Object Detection and Identification**|Binay Kumar Singh et.al.|[2407.17664](http://arxiv.org/abs/2407.17664)|null|
 |**2024-07-24**|**PEEKABOO: Hiding parts of an image for unsupervised object localization**|Hasib Zunair et.al.|[2407.17628](http://arxiv.org/abs/2407.17628)|**[link](https://github.com/hasibzunair/peekaboo)**|
 |**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/abs/2407.17197)|null|
@@ -1990,7 +1990,7 @@ layout: default
 |**2024-07-23**|**VisMin: Visual Minimal-Change Understanding**|Rabiul Awal et.al.|[2407.16772](http://arxiv.org/abs/2407.16772)|null|
 |**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526](http://arxiv.org/abs/2407.16526)|null|
 |**2024-07-23**|**Harmonizing Visual Text Comprehension and Generation**|Zhen Zhao et.al.|[2407.16364](http://arxiv.org/abs/2407.16364)|null|
-|**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
+|**2024-07-26**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|**[link](https://github.com/thinwayliu/multimodal-unlearnable-examples)**|
 |**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488](http://arxiv.org/abs/2407.15488)|**[link](https://github.com/zeyuwang-zju/diffx)**|
 |**2024-07-21**|**VideoGameBunny: Towards vision assistants for video games**|Mohammad Reza Taesiri et.al.|[2407.15295](http://arxiv.org/abs/2407.15295)|null|
 |**2024-07-20**|**Downstream-Pretext Domain Knowledge Traceback for Active Learning**|Beichen Zhang et.al.|[2407.14720](http://arxiv.org/abs/2407.14720)|null|
