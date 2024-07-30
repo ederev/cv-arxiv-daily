@@ -23,6 +23,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229](http://arxiv.org/abs/2407.20229)|null|
+|**2024-07-29**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Yimian Dai et.al.|[2407.20078](http://arxiv.org/abs/2407.20078)|**[link](https://github.com/grokcv/bafe-net)**|
+|**2024-07-29**|**Language-driven Grasp Detection with Mask-guided Attention**|Tuan Van Vo et.al.|[2407.19877](http://arxiv.org/abs/2407.19877)|null|
+|**2024-07-29**|**Rethinking RGB-D Fusion for Semantic Segmentation in Surgical Datasets**|Muhammad Abdullah Jamal et.al.|[2407.19714](http://arxiv.org/abs/2407.19714)|null|
+|**2024-07-29**|**ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement**|Ezequiel Perez-Zarate et.al.|[2407.19708](http://arxiv.org/abs/2407.19708)|**[link](https://github.com/xingyumex/alen)**|
+|**2024-07-28**|**ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding**|Zhen Chen et.al.|[2407.19435](http://arxiv.org/abs/2407.19435)|**[link](https://github.com/zonmgin-zhang/asi-seg)**|
+|**2024-07-27**|**Ensembling convolutional neural networks for human skin segmentation**|Patryk Kuban et.al.|[2407.19310](http://arxiv.org/abs/2407.19310)|null|
+|**2024-07-27**|**Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network**|Gang Pan et.al.|[2407.19271](http://arxiv.org/abs/2407.19271)|null|
+|**2024-07-26**|**Sparse Refinement for Efficient High-Resolution Semantic Segmentation**|Zhijian Liu et.al.|[2407.19014](http://arxiv.org/abs/2407.19014)|null|
 |**2024-07-29**|**Learning Spectral-Decomposed Tokens for Domain Generalized Semantic Segmentation**|Jingjun Yi et.al.|[2407.18568](http://arxiv.org/abs/2407.18568)|null|
 |**2024-07-25**|**Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**|Julia Hindel et.al.|[2407.18145](http://arxiv.org/abs/2407.18145)|null|
 |**2024-07-25**|**TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework**|Guanfeng Tang et.al.|[2407.18038](http://arxiv.org/abs/2407.18038)|null|
@@ -630,6 +639,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-28**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
 |**2024-07-26**|**A Survey on Cell Nuclei Instance Segmentation and Classification: Leveraging Context and Attention**|João D. Nunes et.al.|[2407.18673](http://arxiv.org/abs/2407.18673)|null|
 |**2024-07-25**|**LKCell: Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels**|Ziwei Cui et.al.|[2407.18054](http://arxiv.org/abs/2407.18054)|**[link](https://github.com/hustvl/lkcell)**|
 |**2024-07-26**|**Quality Assured: Rethinking Annotation Strategies in Imaging AI**|Tim Rädsch et.al.|[2407.17596](http://arxiv.org/abs/2407.17596)|null|
@@ -899,6 +909,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124](http://arxiv.org/abs/2407.20124)|**[link](https://github.com/zeyuzhangzyz/axiomvision)**|
+|**2024-07-29**|**Octave-YOLO: Cross frequency detection network with octave convolution**|Sangjune Shin et.al.|[2407.19746](http://arxiv.org/abs/2407.19746)|null|
+|**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
+|**2024-07-29**|**Practical Video Object Detection via Feature Selection and Aggregation**|Yuheng Shi et.al.|[2407.19650](http://arxiv.org/abs/2407.19650)|**[link](https://github.com/yuhengsss/yolov)**|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|null|
+|**2024-07-28**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
+|**2024-07-27**|**Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network**|Gang Pan et.al.|[2407.19271](http://arxiv.org/abs/2407.19271)|null|
+|**2024-07-27**|**Enhancing Tree Type Detection in Forest Fire Risk Assessment: Multi-Stage Approach and Color Encoding with Forest Fire Risk Evaluation Framework for UAV Imagery**|Jinda Zhang et.al.|[2407.19184](http://arxiv.org/abs/2407.19184)|null|
+|**2024-07-27**|**Reducing Spurious Correlation for Federated Domain Generalization**|Shuran Ma et.al.|[2407.19174](http://arxiv.org/abs/2407.19174)|null|
+|**2024-07-27**|**Robust Multimodal 3D Object Detection via Modality-Agnostic Decoding and Proximity-based Modality Ensemble**|Juhan Cha et.al.|[2407.19156](http://arxiv.org/abs/2407.19156)|**[link](https://github.com/hanchaa/meformer)**|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
 |**2024-07-25**|**SaccadeDet: A Novel Dual-Stage Architecture for Rapid and Accurate Detection in Gigapixel Images**|Wenxi Li et.al.|[2407.17956](http://arxiv.org/abs/2407.17956)|null|
@@ -1780,6 +1800,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034](http://arxiv.org/abs/2407.20034)|null|
 |**2024-07-24**|**DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation**|Qian Feng et.al.|[2407.17348](http://arxiv.org/abs/2407.17348)|null|
 |**2024-07-25**|**LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering**|Simon Boeder et.al.|[2407.17310](http://arxiv.org/abs/2407.17310)|null|
 |**2024-07-24**|**OVR: A Dataset for Open Vocabulary Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2407.17085](http://arxiv.org/abs/2407.17085)|null|
@@ -2011,6 +2032,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks**|Juhwan Choi et.al.|[2407.19795](http://arxiv.org/abs/2407.19795)|null|
+|**2024-07-26**|**SWIFT: Semantic Watermarking for Image Forgery Thwarting**|Gautier Evennou et.al.|[2407.18995](http://arxiv.org/abs/2407.18995)|null|
 |**2024-07-26**|**HICEScore: A Hierarchical Metric for Image Captioning Evaluation**|Zequn Zeng et.al.|[2407.18589](http://arxiv.org/abs/2407.18589)|null|
 |**2024-07-26**|**SPOLRE: Semantic Preserving Object Layout Reconstruction for Image Captioning System Testing**|Yi Liu et.al.|[2407.18512](http://arxiv.org/abs/2407.18512)|null|
 |**2024-07-23**|**VisMin: Visual Minimal-Change Understanding**|Rabiul Awal et.al.|[2407.16772](http://arxiv.org/abs/2407.16772)|null|
