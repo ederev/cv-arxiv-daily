@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -636,7 +636,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**MaskUno: Switch-Split Block For Enhancing Instance Segmentation**|Jawad Haidar et.al.|[2407.21498](http://arxiv.org/abs/2407.21498)|null|
-|**2024-07-28**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
+|**2024-08-01**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
 |**2024-07-26**|**A Survey on Cell Nuclei Instance Segmentation and Classification: Leveraging Context and Attention**|João D. Nunes et.al.|[2407.18673](http://arxiv.org/abs/2407.18673)|null|
 |**2024-07-25**|**LKCell: Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels**|Ziwei Cui et.al.|[2407.18054](http://arxiv.org/abs/2407.18054)|**[link](https://github.com/hustvl/lkcell)**|
 |**2024-07-26**|**Quality Assured: Rethinking Annotation Strategies in Imaging AI**|Tim Rädsch et.al.|[2407.17596](http://arxiv.org/abs/2407.17596)|null|
