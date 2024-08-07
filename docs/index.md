@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|null|
 |**2024-08-05**|**Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation**|Sai Prasanna et.al.|[2408.02297](http://arxiv.org/abs/2408.02297)|null|
 |**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
 |**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245](http://arxiv.org/abs/2408.02245)|null|
@@ -650,6 +651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924](http://arxiv.org/abs/2408.02924)|null|
 |**2024-08-03**|**NuLite -- Lightweight and Fast Model for Nuclei Instance Segmentation and Classification**|Cristian Tommasino et.al.|[2408.01797](http://arxiv.org/abs/2408.01797)|null|
 |**2024-08-02**|**Amodal Segmentation for Laparoscopic Surgery Video Instruments**|Ruohua Shi et.al.|[2408.01067](http://arxiv.org/abs/2408.01067)|null|
 |**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749](http://arxiv.org/abs/2408.00749)|null|
@@ -922,6 +924,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Diverse Generation while Maintaining Semantic Coordination: A Diffusion-Based Data Augmentation Method for Object Detection**|Sen Nie et.al.|[2408.02891](http://arxiv.org/abs/2408.02891)|null|
 |**2024-08-05**|**HQOD: Harmonious Quantization for Object Detection**|Long Huang et.al.|[2408.02561](http://arxiv.org/abs/2408.02561)|null|
 |**2024-08-05**|**Tensorial template matching for fast cross-correlation with rotations and its application for tomography**|Antonio Martinez-Sanchez et.al.|[2408.02398](http://arxiv.org/abs/2408.02398)|null|
 |**2024-08-05**|**AssemAI: Interpretable Image-Based Anomaly Detection for Manufacturing Pipelines**|Renjith Prasad et.al.|[2408.02181](http://arxiv.org/abs/2408.02181)|null|
@@ -2080,6 +2083,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Multitask and Multimodal Neural Tuning for Large Models**|Hao Sun et.al.|[2408.03001](http://arxiv.org/abs/2408.03001)|null|
 |**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595](http://arxiv.org/abs/2408.02595)|null|
 |**2024-08-04**|**Dataset Scale and Societal Consistency Mediate Facial Impression Bias in Vision-Language AI**|Robert Wolfe et.al.|[2408.01959](http://arxiv.org/abs/2408.01959)|null|
 |**2024-08-03**|**A Novel Evaluation Framework for Image2Text Generation**|Jia-Hong Huang et.al.|[2408.01723](http://arxiv.org/abs/2408.01723)|null|
