@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
+|**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
+|**2024-08-06**|**Post-Mortem Human Iris Segmentation Analysis with Deep Learning**|Afzal Hossain et.al.|[2408.03448](http://arxiv.org/abs/2408.03448)|null|
 |**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|**[link](https://github.com/cranken/cpd)**|
 |**2024-08-05**|**Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation**|Sai Prasanna et.al.|[2408.02297](http://arxiv.org/abs/2408.02297)|null|
 |**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
@@ -651,6 +654,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
+|**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
 |**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924](http://arxiv.org/abs/2408.02924)|**[link](https://github.com/liamlian0727/underwatersam2eval)**|
 |**2024-08-03**|**NuLite -- Lightweight and Fast Model for Nuclei Instance Segmentation and Classification**|Cristian Tommasino et.al.|[2408.01797](http://arxiv.org/abs/2408.01797)|null|
 |**2024-08-02**|**Amodal Segmentation for Laparoscopic Surgery Video Instruments**|Ruohua Shi et.al.|[2408.01067](http://arxiv.org/abs/2408.01067)|null|
@@ -924,6 +929,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**|Christian Fruhwirth-Reisinger et.al.|[2408.03790](http://arxiv.org/abs/2408.03790)|null|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
+|**2024-08-07**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/abs/2408.03677)|null|
+|**2024-08-07**|**Designing Extremely Memory-Efficient CNNs for On-device Vision Tasks**|Jaewook Lee et.al.|[2408.03663](http://arxiv.org/abs/2408.03663)|null|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
+|**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
+|**2024-08-06**|**AI Foundation Models in Remote Sensing: A Survey**|Siqi Lu et.al.|[2408.03464](http://arxiv.org/abs/2408.03464)|null|
+|**2024-08-06**|**Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods**|Fazli Wahid et.al.|[2408.03393](http://arxiv.org/abs/2408.03393)|null|
 |**2024-08-06**|**Diverse Generation while Maintaining Semantic Coordination: A Diffusion-Based Data Augmentation Method for Object Detection**|Sen Nie et.al.|[2408.02891](http://arxiv.org/abs/2408.02891)|null|
 |**2024-08-05**|**HQOD: Harmonious Quantization for Object Detection**|Long Huang et.al.|[2408.02561](http://arxiv.org/abs/2408.02561)|null|
 |**2024-08-05**|**Tensorial template matching for fast cross-correlation with rotations and its application for tomography**|Antonio Martinez-Sanchez et.al.|[2408.02398](http://arxiv.org/abs/2408.02398)|null|
@@ -1849,6 +1863,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
 |**2024-08-05**|**Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts**|Andong Tan et.al.|[2408.02265](http://arxiv.org/abs/2408.02265)|null|
 |**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|null|
 |**2024-07-31**|**Open-Vocabulary Audio-Visual Semantic Segmentation**|Ruohao Guo et.al.|[2407.21721](http://arxiv.org/abs/2407.21721)|null|
