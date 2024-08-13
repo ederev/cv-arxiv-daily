@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|null|
+|**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|**[link](https://github.com/dahyun-kang/lazygrounding)**|
 |**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
 |**2024-08-09**|**Extracting Signal Electron Trajectories in the COMET Phase-I Cylindrical Drift Chamber Using Deep Learning**|Fumihiro Kaneko et.al.|[2408.04795](http://arxiv.org/abs/2408.04795)|null|
 |**2024-08-08**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593](http://arxiv.org/abs/2408.04593)|null|
@@ -942,7 +942,7 @@ layout: default
 |**2024-08-09**|**Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation**|Yifan Feng et.al.|[2408.04804](http://arxiv.org/abs/2408.04804)|**[link](https://github.com/imoonlab/hyper-yolo)**|
 |**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786](http://arxiv.org/abs/2408.04786)|null|
 |**2024-08-08**|**Data-Driven Pixel Control: Challenges and Prospects**|Saurabh Farkya et.al.|[2408.04767](http://arxiv.org/abs/2408.04767)|null|
-|**2024-08-08**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
+|**2024-08-10**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
 |**2024-08-07**|**Impact Analysis of Data Drift Towards The Development of Safety-Critical Automotive System**|Md Shahi Amran Hossain et.al.|[2408.04476](http://arxiv.org/abs/2408.04476)|null|
 |**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
 |**2024-08-08**|**Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection**|Shixuan Gao et.al.|[2408.04326](http://arxiv.org/abs/2408.04326)|null|
@@ -1881,7 +1881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|null|
+|**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|**[link](https://github.com/dahyun-kang/lazygrounding)**|
 |**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
 |**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
 |**2024-08-05**|**Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts**|Andong Tan et.al.|[2408.02265](http://arxiv.org/abs/2408.02265)|null|
