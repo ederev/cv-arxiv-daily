@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Correlation Weighted Prototype-based Self-Supervised One-Shot Segmentation of Medical Images**|Siladittya Manna et.al.|[2408.06235](http://arxiv.org/abs/2408.06235)|null|
+|**2024-08-12**|**A-BDD: Leveraging Data Augmentations for Safe Autonomous Driving in Adverse Weather and Lighting**|Felix Assion et.al.|[2408.06071](http://arxiv.org/abs/2408.06071)|null|
+|**2024-08-12**|**Enhancing 3D Transformer Segmentation Model for Medical Image with Token-level Representation Learning**|Xinrong Hu et.al.|[2408.05889](http://arxiv.org/abs/2408.05889)|null|
+|**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
+|**2024-08-11**|**MacFormer: Semantic Segmentation with Fine Object Boundaries**|Guoan Xu et.al.|[2408.05699](http://arxiv.org/abs/2408.05699)|null|
+|**2024-08-10**|**Multimodal generative semantic communication based on latent diffusion model**|Weiqi Fu et.al.|[2408.05455](http://arxiv.org/abs/2408.05455)|null|
 |**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|**[link](https://github.com/dahyun-kang/lazygrounding)**|
 |**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
 |**2024-08-09**|**Extracting Signal Electron Trajectories in the COMET Phase-I Cylindrical Drift Chamber Using Deep Learning**|Fumihiro Kaneko et.al.|[2408.04795](http://arxiv.org/abs/2408.04795)|null|
@@ -660,6 +666,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**Performance Evaluation of YOLOv8 Model Configurations, for Instance Segmentation of Strawberry Fruit Development Stages in an Open Field Environment**|Abdul-Razak Alhassan Gamani et.al.|[2408.05661](http://arxiv.org/abs/2408.05661)|null|
 |**2024-08-08**|**Embodied Uncertainty-Aware Object Segmentation**|Xiaolin Fang et.al.|[2408.04760](http://arxiv.org/abs/2408.04760)|null|
 |**2024-08-08**|**Robust Approximate Characterization of Single-Cell Heterogeneity in Microbial Growth**|Richard D. Paul et.al.|[2408.04501](http://arxiv.org/abs/2408.04501)|**[link](https://jugit.fz-juelich.de/ias-8/multi-stage-growth)**|
 |**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
@@ -937,6 +944,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Latent Disentanglement for Low Light Image Enhancement**|Zhihao Zheng et.al.|[2408.06245](http://arxiv.org/abs/2408.06245)|null|
+|**2024-08-12**|**MR3D-Net: Dynamic Multi-Resolution 3D Sparse Voxel Grid Fusion for LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2408.06137](http://arxiv.org/abs/2408.06137)|**[link](https://github.com/ekut-es/mr3d-net)**|
+|**2024-08-12**|**DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection**|Junjie Guo et.al.|[2408.06123](http://arxiv.org/abs/2408.06123)|null|
+|**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952](http://arxiv.org/abs/2408.05952)|null|
+|**2024-08-12**|**MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection**|Zitian Wang et.al.|[2408.05945](http://arxiv.org/abs/2408.05945)|null|
+|**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936](http://arxiv.org/abs/2408.05936)|null|
+|**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905](http://arxiv.org/abs/2408.05905)|null|
+|**2024-08-11**|**U-DECN: End-to-End Underwater Object Detection ConvNet with Improved DeNoising Training**|Zhuoyan Liu et.al.|[2408.05780](http://arxiv.org/abs/2408.05780)|**[link](https://github.com/lefteyex/u-decn)**|
+|**2024-08-11**|**FADE: A Dataset for Detecting Falling Objects around Buildings in Video**|Zhigang Tu et.al.|[2408.05750](http://arxiv.org/abs/2408.05750)|null|
+|**2024-08-11**|**Evaluating BM3D and NBNet: A Comprehensive Study of Image Denoising Across Multiple Datasets**|Ghazal Kaviani et.al.|[2408.05697](http://arxiv.org/abs/2408.05697)|null|
 |**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075](http://arxiv.org/abs/2408.05075)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
 |**2024-08-09**|**Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation**|Yifan Feng et.al.|[2408.04804](http://arxiv.org/abs/2408.04804)|**[link](https://github.com/imoonlab/hyper-yolo)**|
@@ -1881,13 +1898,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**An analysis of HOI: using a training-free method with multimodal visual foundation models when only the test set is available, without the training set**|Chaoyi Ai et.al.|[2408.05772](http://arxiv.org/abs/2408.05772)|null|
+|**2024-08-11**|**Efficient and Versatile Robust Fine-Tuning of Zero-shot Models**|Sungyeon Kim et.al.|[2408.05749](http://arxiv.org/abs/2408.05749)|null|
 |**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|**[link](https://github.com/dahyun-kang/lazygrounding)**|
 |**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
 |**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
 |**2024-08-05**|**Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts**|Andong Tan et.al.|[2408.02265](http://arxiv.org/abs/2408.02265)|null|
 |**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|null|
 |**2024-07-31**|**Open-Vocabulary Audio-Visual Semantic Segmentation**|Ruohao Guo et.al.|[2407.21721](http://arxiv.org/abs/2407.21721)|null|
-|**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|null|
+|**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|**[link](https://github.com/wkfdb/marvelovd)**|
 |**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034](http://arxiv.org/abs/2407.20034)|null|
 |**2024-07-24**|**DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation**|Qian Feng et.al.|[2407.17348](http://arxiv.org/abs/2407.17348)|null|
 |**2024-07-25**|**LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering**|Simon Boeder et.al.|[2407.17310](http://arxiv.org/abs/2407.17310)|null|
