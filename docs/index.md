@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -680,7 +680,7 @@ layout: default
 |**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
 |**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
 |**2024-08-15**|**5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks**|Dongshuo Yin et.al.|[2408.08345](http://arxiv.org/abs/2408.08345)|**[link](https://github.com/leiyi-hu/mona)**|
-|**2024-08-09**|**Assessment of Cell Nuclei AI Foundation Models in Kidney Pathology**|Junlin Guo et.al.|[2408.06381](http://arxiv.org/abs/2408.06381)|null|
+|**2024-08-09**|**Assessment of Cell Nuclei AI Foundation Models in Kidney Pathology**|Junlin Guo et.al.|[2408.06381](http://arxiv.org/abs/2408.06381)|**[link](https://github.com/junlinguo/cellvit-kidney)**|
 |**2024-08-13**|**Performance Evaluation of YOLOv8 Model Configurations, for Instance Segmentation of Strawberry Fruit Development Stages in an Open Field Environment**|Abdul-Razak Alhassan Gamani et.al.|[2408.05661](http://arxiv.org/abs/2408.05661)|null|
 |**2024-08-08**|**Embodied Uncertainty-Aware Object Segmentation**|Xiaolin Fang et.al.|[2408.04760](http://arxiv.org/abs/2408.04760)|null|
 |**2024-08-08**|**Robust Approximate Characterization of Single-Cell Heterogeneity in Microbial Growth**|Richard D. Paul et.al.|[2408.04501](http://arxiv.org/abs/2408.04501)|**[link](https://jugit.fz-juelich.de/ias-8/multi-stage-growth)**|
@@ -1937,7 +1937,7 @@ layout: default
 |**2024-08-15**|**Towards Flexible Visual Relationship Segmentation**|Fangrui Zhu et.al.|[2408.08305](http://arxiv.org/abs/2408.08305)|null|
 |**2024-08-15**|**VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps**|Senthil Hariharan Arul et.al.|[2408.08301](http://arxiv.org/abs/2408.08301)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
-|**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
+|**2024-08-18**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Fingerspelling within Sign Language Translation**|Garrett Tanzer et.al.|[2408.07065](http://arxiv.org/abs/2408.07065)|null|
 |**2024-08-11**|**An analysis of HOI: using a training-free method with multimodal visual foundation models when only the test set is available, without the training set**|Chaoyi Ai et.al.|[2408.05772](http://arxiv.org/abs/2408.05772)|null|
 |**2024-08-11**|**Efficient and Versatile Robust Fine-Tuning of Zero-shot Models**|Sungyeon Kim et.al.|[2408.05749](http://arxiv.org/abs/2408.05749)|null|
