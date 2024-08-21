@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054](http://arxiv.org/abs/2408.11054)|null|
+|**2024-08-20**|**CO2Wounds-V2: Extended Chronic Wounds Dataset From Leprosy Patients**|Karen Sanchez et.al.|[2408.10827](http://arxiv.org/abs/2408.10827)|null|
+|**2024-08-20**|**Rethinking Video Segmentation with Masked Video Consistency: Did the Model Learn as Intended?**|Chen Liang et.al.|[2408.10627](http://arxiv.org/abs/2408.10627)|null|
+|**2024-08-20**|**Subspace Prototype Guidance for Mitigating Class Imbalance in Point Cloud Semantic Segmentation**|Jiawei Han et.al.|[2408.10537](http://arxiv.org/abs/2408.10537)|**[link](https://github.com/Javion11/PointLiBR)**|
 |**2024-08-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al.|[2408.10181](http://arxiv.org/abs/2408.10181)|null|
 |**2024-08-19**|**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**|Emanuele Caruso et.al.|[2408.10031](http://arxiv.org/abs/2408.10031)|**[link](https://github.com/covisionlab/dynamic-label-injection)**|
 |**2024-08-19**|**Detecting Adversarial Attacks in Semantic Segmentation via Uncertainty Estimation: A Deep Analysis**|Kira Maag et.al.|[2408.10021](http://arxiv.org/abs/2408.10021)|null|
@@ -685,6 +689,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Vocabulary-Free 3D Instance Segmentation with Vision and Language Assistant**|Guofeng Mei et.al.|[2408.10652](http://arxiv.org/abs/2408.10652)|null|
+|**2024-08-20**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
+|**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292](http://arxiv.org/abs/2408.10292)|null|
 |**2024-08-19**|**3D-Aware Instance Segmentation and Tracking in Egocentric Videos**|Yash Bhalgat et.al.|[2408.09860](http://arxiv.org/abs/2408.09860)|null|
 |**2024-08-18**|**VrdONE: One-stage Video Visual Relation Detection**|Xinjie Jiang et.al.|[2408.09408](http://arxiv.org/abs/2408.09408)|**[link](https://github.com/lucaspk512/vrdone)**|
 |**2024-08-17**|**GoodSAM++: Bridging Domain and Capacity Gaps via Segment Anything Model for Panoramic Semantic Segmentation**|Weiming Zhang et.al.|[2408.09115](http://arxiv.org/abs/2408.09115)|null|
@@ -972,6 +979,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
+|**2024-08-20**|**Aligning Object Detector Bounding Boxes with Human Preference**|Ombretta Strafforello et.al.|[2408.10844](http://arxiv.org/abs/2408.10844)|null|
+|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
+|**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
+|**2024-08-20**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775](http://arxiv.org/abs/2408.10775)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760](http://arxiv.org/abs/2408.10760)|null|
+|**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531](http://arxiv.org/abs/2408.10531)|null|
+|**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292](http://arxiv.org/abs/2408.10292)|null|
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
 |**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800](http://arxiv.org/abs/2408.09800)|null|
@@ -1956,6 +1972,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding**|Youjun Zhao et.al.|[2408.11030](http://arxiv.org/abs/2408.11030)|**[link](https://github.com/youjunzhao/openscan)**|
+|**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
+|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
+|**2024-08-20**|**Vocabulary-Free 3D Instance Segmentation with Vision and Language Assistant**|Guofeng Mei et.al.|[2408.10652](http://arxiv.org/abs/2408.10652)|null|
+|**2024-08-20**|**SZTU-CMU at MER2024: Improving Emotion-LLaMA with Conv-Attention for Multimodal Emotion Recognition**|Zebang Cheng et.al.|[2408.10500](http://arxiv.org/abs/2408.10500)|**[link](https://github.com/zebangcheng/emotion-llama)**|
 |**2024-08-18**|**OVOSE: Open-Vocabulary Semantic Segmentation in Event-Based Cameras**|Muhammad Rameez Ur Rahman et.al.|[2408.09424](http://arxiv.org/abs/2408.09424)|**[link](https://github.com/ram95d/ovose)**|
 |**2024-08-17**|**Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community**|Jiancheng Pan et.al.|[2408.09110](http://arxiv.org/abs/2408.09110)|null|
 |**2024-08-16**|**From Lazy to Prolific: Tackling Missing Labels in Open Vocabulary Extreme Classification by Positive-Unlabeled Sequence Learning**|Haoran Ranran Zhang et.al.|[2408.08981](http://arxiv.org/abs/2408.08981)|null|
@@ -2204,6 +2225,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**The Brittleness of AI-Generated Image Watermarking Techniques: Examining Their Robustness Against Visual Paraphrasing Attacks**|Niyar R Barman et.al.|[2408.10446](http://arxiv.org/abs/2408.10446)|null|
 |**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650](http://arxiv.org/abs/2408.08650)|null|
 |**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037](http://arxiv.org/abs/2408.07037)|null|
 |**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502](http://arxiv.org/abs/2408.06502)|null|
