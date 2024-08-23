@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Scribbles for All: Benchmarking Scribble Supervised Segmentation Across Datasets**|Wolfgang Boettcher et.al.|[2408.12489](http://arxiv.org/abs/2408.12489)|null|
+|**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 |**2024-08-21**|**UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images**|Enze Zhu et.al.|[2408.11545](http://arxiv.org/abs/2408.11545)|null|
 |**2024-08-21**|**Exploring Scene Coherence for Semi-Supervised 3D Semantic Segmentation**|Chuandong Liu et.al.|[2408.11280](http://arxiv.org/abs/2408.11280)|null|
 |**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054](http://arxiv.org/abs/2408.11054)|null|
@@ -702,6 +704,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048](http://arxiv.org/abs/2408.12048)|**[link](https://github.com/iset/isethdrsensor)**|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
 |**2024-08-21**|**NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation**|Zhenye Lou et.al.|[2408.11787](http://arxiv.org/abs/2408.11787)|**[link](https://github.com/xq141839/nusegdg)**|
 |**2024-08-21**|**Open-Ended 3D Point Cloud Instance Segmentation**|Phuc D. A. Nguyen et.al.|[2408.11747](http://arxiv.org/abs/2408.11747)|null|
@@ -1000,6 +1003,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575](http://arxiv.org/abs/2408.12575)|null|
+|**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527](http://arxiv.org/abs/2408.12527)|**[link](https://github.com/imrl/umad)**|
+|**2024-08-22**|**Class-balanced Open-set Semi-supervised Object Detection for Medical Images**|Zhanyun Lu et.al.|[2408.12355](http://arxiv.org/abs/2408.12355)|null|
+|**2024-08-22**|**OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion**|Guoting Wei et.al.|[2408.12246](http://arxiv.org/abs/2408.12246)|null|
+|**2024-08-22**|**On the Credibility of Backdoor Attacks Against Object Detectors in the Physical World**|Bao Gia Doan et.al.|[2408.12122](http://arxiv.org/abs/2408.12122)|null|
+|**2024-08-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al.|[2408.11958](http://arxiv.org/abs/2408.11958)|null|
 |**2024-08-21**|**SBDet: A Symmetry-Breaking Object Detector via Relaxed Rotation-Equivariance**|Zhiqiang Wu et.al.|[2408.11760](http://arxiv.org/abs/2408.11760)|null|
 |**2024-08-21**|**Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection**|Liang Yao et.al.|[2408.11407](http://arxiv.org/abs/2408.11407)|null|
 |**2024-08-20**|**On the Potential of Open-Vocabulary Models for Object Detection in Unusual Street Scenes**|Sadia Ilyas et.al.|[2408.11221](http://arxiv.org/abs/2408.11221)|null|
@@ -2001,6 +2010,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion**|Guoting Wei et.al.|[2408.12246](http://arxiv.org/abs/2408.12246)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 |**2024-08-22**|**Video Emotion Open-vocabulary Recognition Based on Multimodal Large Language Model**|Mengying Ge et.al.|[2408.11286](http://arxiv.org/abs/2408.11286)|null|
