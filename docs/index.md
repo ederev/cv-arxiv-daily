@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
+|**2024-08-29**|**MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation**|Linyan Yang et.al.|[2408.16478](http://arxiv.org/abs/2408.16478)|null|
+|**2024-08-29**|**Multi-source Domain Adaptation for Panoramic Semantic Segmentation**|Jing Jiang et.al.|[2408.16469](http://arxiv.org/abs/2408.16469)|null|
+|**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen et.al.|[2408.16254](http://arxiv.org/abs/2408.16254)|null|
 |**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887](http://arxiv.org/abs/2408.15887)|null|
 |**2024-08-28**|**DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries**|Yu Yang et.al.|[2408.15813](http://arxiv.org/abs/2408.15813)|null|
 |**2024-08-28**|**TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation**|Junbao Zhou et.al.|[2408.15657](http://arxiv.org/abs/2408.15657)|**[link](https://github.com/junbao-zhou/track-no-forgetting)**|
@@ -711,6 +715,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Eigen-Cluster VIS: Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-28**|**InstanSeg: an embedding-based instance segmentation algorithm optimized for accurate, efficient and portable cell segmentation**|Thibaut Goldsborough et.al.|[2408.15954](http://arxiv.org/abs/2408.15954)|**[link](https://github.com/instanseg/instanseg)**|
 |**2024-08-28**|**DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries**|Yu Yang et.al.|[2408.15813](http://arxiv.org/abs/2408.15813)|null|
 |**2024-08-27**|**Knowledge Discovery in Optical Music Recognition: Enhancing Information Retrieval with Instance Segmentation**|Elona Shatri et.al.|[2408.15002](http://arxiv.org/abs/2408.15002)|null|
@@ -958,6 +963,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**A Simple and Generalist Approach for Panoptic Segmentation**|Nedyalko Prisadnikov et.al.|[2408.16504](http://arxiv.org/abs/2408.16504)|null|
 |**2024-08-28**|**DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries**|Yu Yang et.al.|[2408.15813](http://arxiv.org/abs/2408.15813)|null|
 |**2024-08-23**|**Image Segmentation in Foundation Model Era: A Survey**|Tianfei Zhou et.al.|[2408.12957](http://arxiv.org/abs/2408.12957)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928](http://arxiv.org/abs/2408.09928)|null|
@@ -1015,6 +1021,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
+|**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
+|**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
+|**2024-08-29**|**Weakly Supervised Object Detection for Automatic Tooth-marked Tongue Recognition**|Yongcun Zhang et.al.|[2408.16451](http://arxiv.org/abs/2408.16451)|**[link](https://github.com/yc-zh/wsvm)**|
+|**2024-08-29**|**Enhancing Sound Source Localization via False Negative Elimination**|Zengjie Song et.al.|[2408.16448](http://arxiv.org/abs/2408.16448)|**[link](https://github.com/zjsong/sacl)**|
+|**2024-08-29**|**High-yield large-scale suspended graphene membranes over closed cavities for sensor applications**|Sebastian Lukas et.al.|[2408.16408](http://arxiv.org/abs/2408.16408)|null|
+|**2024-08-29**|**FA-YOLO: Research On Efficient Feature Selection YOLO Improved Algorithm Based On FMDS and AGMF Modules**|Yukang Huo et.al.|[2408.16313](http://arxiv.org/abs/2408.16313)|null|
+|**2024-08-29**|**Anno-incomplete Multi-dataset Detection**|Yiran Xu et.al.|[2408.16247](http://arxiv.org/abs/2408.16247)|null|
+|**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
 |**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
 |**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
 |**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
@@ -2050,6 +2065,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding**|Kaijing Ma et.al.|[2408.16272](http://arxiv.org/abs/2408.16272)|null|
 |**2024-08-27**|**MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Yuanbing Zhu et.al.|[2408.14776](http://arxiv.org/abs/2408.14776)|null|
 |**2024-08-25**|**OpenNav: Efficient Open Vocabulary 3D Object Detection for Smart Wheelchair Navigation**|Muhammad Rameez ur Rahman et.al.|[2408.13936](http://arxiv.org/abs/2408.13936)|**[link](https://github.com/easywalk-prin/opennav)**|
 |**2024-08-22**|**OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion**|Guoting Wei et.al.|[2408.12246](http://arxiv.org/abs/2408.12246)|null|
