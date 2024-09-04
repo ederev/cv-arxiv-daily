@@ -2076,7 +2076,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422](http://arxiv.org/abs/2408.17422)|null|
+|**2024-09-03**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422](http://arxiv.org/abs/2408.17422)|null|
 |**2024-08-30**|**EMPOWER: Embodied Multi-role Open-vocabulary Planning with Online Grounding and Execution**|Francesco Argenziano et.al.|[2408.17379](http://arxiv.org/abs/2408.17379)|null|
 |**2024-08-29**|**Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding**|Kaijing Ma et.al.|[2408.16272](http://arxiv.org/abs/2408.16272)|null|
 |**2024-08-27**|**MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Yuanbing Zhu et.al.|[2408.14776](http://arxiv.org/abs/2408.14776)|null|
