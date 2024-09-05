@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -2343,7 +2343,7 @@ layout: default
 |**2024-08-29**|**Fluent and Accurate Image Captioning with a Self-Trained Reward Model**|Nicholas Moratelli et.al.|[2408.16827](http://arxiv.org/abs/2408.16827)|null|
 |**2024-08-29**|**See or Guess: Counterfactually Regularized Image Captioning**|Qian Cao et.al.|[2408.16809](http://arxiv.org/abs/2408.16809)|**[link](https://github.com/aman-4-real/see-or-guess)**|
 |**2024-08-28**|**Pixels to Prose: Understanding the art of Image Captioning**|Hrishikesh Singh et.al.|[2408.15714](http://arxiv.org/abs/2408.15714)|null|
-|**2024-08-28**|**Hand1000: Generating Realistic Hands from Text with Only 1,000 Images**|Haozhuo Zhang et.al.|[2408.15461](http://arxiv.org/abs/2408.15461)|null|
+|**2024-09-04**|**Hand1000: Generating Realistic Hands from Text with Only 1,000 Images**|Haozhuo Zhang et.al.|[2408.15461](http://arxiv.org/abs/2408.15461)|null|
 |**2024-08-26**|**Revisiting Image Captioning Training Paradigm via Direct CLIP-based Optimization**|Nicholas Moratelli et.al.|[2408.14547](http://arxiv.org/abs/2408.14547)|**[link](https://github.com/aimagelab/dico)**|
 |**2024-08-25**|**Shifted Window Fourier Transform And Retention For Image Captioning**|Jia Cheng Hu et.al.|[2408.13963](http://arxiv.org/abs/2408.13963)|null|
 |**2024-08-25**|**Bidirectional Awareness Induction in Autoregressive Seq2Seq Models**|Jia Cheng Hu et.al.|[2408.13959](http://arxiv.org/abs/2408.13959)|null|
