@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838](http://arxiv.org/abs/2409.02838)|null|
+|**2024-09-04**|**CLDA: Collaborative Learning for Enhanced Unsupervised Domain Adaptation**|Minhee Cho et.al.|[2409.02699](http://arxiv.org/abs/2409.02699)|null|
+|**2024-09-04**|**SG-MIM: Structured Knowledge Guided Efficient Pre-training for Dense Prediction**|Sumin Son et.al.|[2409.02513](http://arxiv.org/abs/2409.02513)|null|
+|**2024-09-03**|**K-Origins: Better Colour Quantification for Neural Networks**|Lewis Mason et.al.|[2409.02281](http://arxiv.org/abs/2409.02281)|null|
+|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/abs/2409.02045)|null|
+|**2024-09-03**|**Segmenting Object Affordances: Reproducibility and Sensitivity to Scale**|Tommaso Apicella et.al.|[2409.01814](http://arxiv.org/abs/2409.01814)|**[link](https://github.com/apicis/aff-seg)**|
+|**2024-09-03**|**Efficiently Expanding Receptive Fields: Local Split Attention and Parallel Aggregation for Enhanced Large-scale Point Cloud Semantic Segmentation**|Haodong Wang et.al.|[2409.01662](http://arxiv.org/abs/2409.01662)|null|
+|**2024-09-02**|**Semantic Segmentation from Image Labels by Reconstruction from Structured Decomposition**|Xuanrui Zeng et.al.|[2409.01472](http://arxiv.org/abs/2409.01472)|**[link](https://github.com/xuanrui-work/wsssbyrec)**|
+|**2024-09-02**|**SOOD-ImageNet: a Large-Scale Dataset for Semantic Out-Of-Distribution Image Classification and Semantic Segmentation**|Alberto Bacchin et.al.|[2409.01109](http://arxiv.org/abs/2409.01109)|**[link](https://github.com/bach05/SOODImageNet)**|
+|**2024-09-02**|**Towards Robust Online Domain Adaptive Semantic Segmentation under Adverse Weather Conditions**|Taorong Liu et.al.|[2409.01072](http://arxiv.org/abs/2409.01072)|null|
 |**2024-08-30**|**Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes**|Li Zhang et.al.|[2408.17421](http://arxiv.org/abs/2408.17421)|**[link](https://github.com/importzl/semantic_segmentation)**|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
 |**2024-08-30**|**Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training**|Zizheng Huang et.al.|[2408.17081](http://arxiv.org/abs/2408.17081)|**[link](https://github.com/huangzizheng01/shufflemamba)**|
@@ -719,6 +729,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838](http://arxiv.org/abs/2409.02838)|null|
+|**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567](http://arxiv.org/abs/2409.02567)|null|
+|**2024-09-03**|**MetaFood3D: Large 3D Food Object Dataset with Nutrition Values**|Yuhao Chen et.al.|[2409.01966](http://arxiv.org/abs/2409.01966)|null|
 |**2024-08-29**|**Eigen-Cluster VIS: Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-28**|**InstanSeg: an embedding-based instance segmentation algorithm optimized for accurate, efficient and portable cell segmentation**|Thibaut Goldsborough et.al.|[2408.15954](http://arxiv.org/abs/2408.15954)|**[link](https://github.com/instanseg/instanseg)**|
 |**2024-08-28**|**DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries**|Yu Yang et.al.|[2408.15813](http://arxiv.org/abs/2408.15813)|null|
@@ -1025,6 +1038,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Real-Time Dynamic Scale-Aware Fusion Detection Network: Take Road Damage Detection as an example**|Weichao Pan et.al.|[2409.02546](http://arxiv.org/abs/2409.02546)|null|
+|**2024-09-04**|**TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.|[2409.02490](http://arxiv.org/abs/2409.02490)|**[link](https://github.com/Fsoft-AIC/TP-GMOT)**|
+|**2024-09-04**|**Rapid Automatic Multiple Moving Objects Detection Method Based on Feature Extraction from Images with Non-sidereal Tracking**|Lei Wang et.al.|[2409.02405](http://arxiv.org/abs/2409.02405)|null|
+|**2024-09-04**|**Pluralistic Salient Object Detection**|Xuelu Feng et.al.|[2409.02368](http://arxiv.org/abs/2409.02368)|null|
+|**2024-09-03**|**Site Selection for the Second Flyeye Telescope: A Simulation Study for Optimizing Near-Earth Object Discovery**|D. Föhring et.al.|[2409.02329](http://arxiv.org/abs/2409.02329)|null|
+|**2024-09-03**|**K-Origins: Better Colour Quantification for Neural Networks**|Lewis Mason et.al.|[2409.02281](http://arxiv.org/abs/2409.02281)|null|
+|**2024-09-03**|**Evaluation and Comparison of Visual Language Models for Transportation Engineering Problems**|Sanjita Prajapati et.al.|[2409.02278](http://arxiv.org/abs/2409.02278)|null|
+|**2024-09-03**|**A Modern Take on Visual Relationship Reasoning for Grasp Planning**|Paolo Rabino et.al.|[2409.02035](http://arxiv.org/abs/2409.02035)|null|
+|**2024-09-03**|**Latent Distillation for Continual Object Detection at the Edge**|Francesco Pasti et.al.|[2409.01872](http://arxiv.org/abs/2409.01872)|**[link](https://github.com/pastifra/Continual_Nanodet)**|
+|**2024-09-03**|**Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach**|Salah Eddine Laidoudi et.al.|[2409.01871](http://arxiv.org/abs/2409.01871)|null|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
 |**2024-08-30**|**Hybrid Classification-Regression Adaptive Loss for Dense Object Detection**|Yanquan Huang et.al.|[2408.17182](http://arxiv.org/abs/2408.17182)|null|
 |**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|**[link](https://github.com/dlr-mi/utrack)**|
@@ -2076,6 +2099,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.|[2409.02490](http://arxiv.org/abs/2409.02490)|**[link](https://github.com/Fsoft-AIC/TP-GMOT)**|
 |**2024-09-03**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422](http://arxiv.org/abs/2408.17422)|null|
 |**2024-08-30**|**EMPOWER: Embodied Multi-role Open-vocabulary Planning with Online Grounding and Execution**|Francesco Argenziano et.al.|[2408.17379](http://arxiv.org/abs/2408.17379)|null|
 |**2024-08-29**|**Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding**|Kaijing Ma et.al.|[2408.16272](http://arxiv.org/abs/2408.16272)|null|
@@ -2339,6 +2363,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
+|**2024-09-02**|**CV-Probes: Studying the interplay of lexical and world knowledge in visually grounded verb understanding**|Ivana Beňová et.al.|[2409.01389](http://arxiv.org/abs/2409.01389)|null|
+|**2024-08-30**|**MultiMath: Bridging Visual and Mathematical Reasoning for Large Language Models**|Shuai Peng et.al.|[2409.00147](http://arxiv.org/abs/2409.00147)|**[link](https://github.com/pengshuai-rin/multimath)**|
 |**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
 |**2024-08-29**|**Fluent and Accurate Image Captioning with a Self-Trained Reward Model**|Nicholas Moratelli et.al.|[2408.16827](http://arxiv.org/abs/2408.16827)|null|
 |**2024-08-29**|**See or Guess: Counterfactually Regularized Image Captioning**|Qian Cao et.al.|[2408.16809](http://arxiv.org/abs/2408.16809)|**[link](https://github.com/aman-4-real/see-or-guess)**|
