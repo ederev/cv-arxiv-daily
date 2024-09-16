@@ -200,7 +200,7 @@
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
 |**2024-07-16**|**FoodMem: Near Real-time and Precise Food Video Segmentation**|Ahmad AlMughrabi et.al.|[2407.12121](http://arxiv.org/abs/2407.12121)|null|
 |**2024-07-16**|**Mitigating Background Shift in Class-Incremental Semantic Segmentation**|Gilhan Park et.al.|[2407.11859](http://arxiv.org/abs/2407.11859)|**[link](https://github.com/roadonep/eccv2024_mbs)**|
-|**2024-07-16**|**Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**|Juncheng Ma et.al.|[2407.11820](http://arxiv.org/abs/2407.11820)|null|
+|**2024-07-16**|**Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**|Juncheng Ma et.al.|[2407.11820](http://arxiv.org/abs/2407.11820)|**[link](https://github.com/GeWu-Lab/Stepping-Stones)**|
 |**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
 |**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743](http://arxiv.org/abs/2407.11743)|**[link](https://github.com/restor-foundation/tcd)**|
 |**2024-07-16**|**SFPNet: Sparse Focal Point Network for Semantic Segmentation on General LiDAR Point Clouds**|Yanbo Wang et.al.|[2407.11569](http://arxiv.org/abs/2407.11569)|**[link](https://github.com/Cavendish518/SFPNet)**|
@@ -352,7 +352,7 @@
 |**2024-06-03**|**LSKSANet: A Novel Architecture for Remote Sensing Image Semantic Segmentation Leveraging Large Selective Kernel and Sparse Attention Mechanism**|Miao Fu et.al.|[2406.01228](http://arxiv.org/abs/2406.01228)|null|
 |**2024-06-04**|**GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer**|Ding Jia et.al.|[2406.01210](http://arxiv.org/abs/2406.01210)|**[link](https://github.com/jiadingcn/geminifusion)**|
 |**2024-06-03**|**S-CycleGAN: Semantic Segmentation Enhanced CT-Ultrasound Image-to-Image Translation for Robotic Ultrasonography**|Yuhan Song et.al.|[2406.01191](http://arxiv.org/abs/2406.01191)|**[link](https://github.com/yhsong98/ct-us-i2i-translation)**|
-|**2024-06-02**|**Diffusion Features to Bridge Domain Gap for Semantic Segmentation**|Yuxiang Ji et.al.|[2406.00777](http://arxiv.org/abs/2406.00777)|null|
+|**2024-06-02**|**Diffusion Features to Bridge Domain Gap for Semantic Segmentation**|Yuxiang Ji et.al.|[2406.00777](http://arxiv.org/abs/2406.00777)|**[link](https://github.com/Yux1angJi/DIFF)**|
 |**2024-06-02**|**Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation**|Yunheng Li et.al.|[2406.00670](http://arxiv.org/abs/2406.00670)|**[link](https://github.com/hvision-nku/cascade-clip)**|
 |**2024-06-02**|**Semi-supervised Video Semantic Segmentation Using Unreliable Pseudo Labels for PVUW2024**|Biao Wu et.al.|[2406.00587](http://arxiv.org/abs/2406.00587)|null|
 |**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
@@ -1090,7 +1090,7 @@
 |---|---|---|---|---|
 |**2024-09-12**|**What is YOLOv9: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2409.07813](http://arxiv.org/abs/2409.07813)|null|
 |**2024-09-11**|**Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**|Layth Hamad et.al.|[2409.07623](http://arxiv.org/abs/2409.07623)|null|
-|**2024-09-11**|**ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**|Giorgos Savathrakis et.al.|[2409.07541](http://arxiv.org/abs/2409.07541)|null|
+|**2024-09-11**|**ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**|Giorgos Savathrakis et.al.|[2409.07541](http://arxiv.org/abs/2409.07541)|**[link](https://github.com/gsavathrakis/enact)**|
 |**2024-09-11**|**SCLNet: A Scale-Robust Complementary Learning Network for Object Detection in UAV Images**|Xuexue Li et.al.|[2409.07024](http://arxiv.org/abs/2409.07024)|null|
 |**2024-09-13**|**ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**|Xiaomin Lin et.al.|[2409.07003](http://arxiv.org/abs/2409.07003)|null|
 |**2024-09-11**|**Brain-Inspired Stepwise Patch Merging for Vision Transformers**|Yonghao Yu et.al.|[2409.06963](http://arxiv.org/abs/2409.06963)|null|
@@ -1106,7 +1106,7 @@
 |**2024-09-09**|**Renormalized Connection for Scale-preferred Object Detection in Satellite Imagery**|Fan Zhang et.al.|[2409.05624](http://arxiv.org/abs/2409.05624)|null|
 |**2024-09-09**|**LEROjD: Lidar Extended Radar-Only Object Detection**|Patrick Palmer et.al.|[2409.05564](http://arxiv.org/abs/2409.05564)|**[link](https://github.com/rst-tu-dortmund/lerojd)**|
 |**2024-09-09**|**Proto-OOD: Enhancing OOD Object Detection with Prototype Feature Similarity**|Junkun Chen et.al.|[2409.05466](http://arxiv.org/abs/2409.05466)|null|
-|**2024-09-09**|**Distribution Discrepancy and Feature Heterogeneity for Active 3D Object Detection**|Huang-Yu Chen et.al.|[2409.05425](http://arxiv.org/abs/2409.05425)|null|
+|**2024-09-09**|**Distribution Discrepancy and Feature Heterogeneity for Active 3D Object Detection**|Huang-Yu Chen et.al.|[2409.05425](http://arxiv.org/abs/2409.05425)|**[link](https://github.com/Coolshanlan/DDFH-active-3Ddet)**|
 |**2024-09-08**|**A Low-Computational Video Synopsis Framework with a Standard Dataset**|Ramtin Malekpour et.al.|[2409.05230](http://arxiv.org/abs/2409.05230)|**[link](https://github.com/ramtin-ma/videosynopsis-fgs)**|
 |**2024-09-08**|**Can OOD Object Detectors Learn from Foundation Models?**|Jiahui Liu et.al.|[2409.05162](http://arxiv.org/abs/2409.05162)|**[link](https://github.com/cvmi-lab/syncood)**|
 |**2024-09-08**|**Visual Grounding with Multi-modal Conditional Adaptation**|Ruilin Yao et.al.|[2409.04999](http://arxiv.org/abs/2409.04999)|**[link](https://github.com/mr-bigworth/mmca)**|
@@ -1333,7 +1333,7 @@
 |**2024-07-22**|**SS-SFR: Synthetic Scenes Spatial Frequency Response on Virtual KITTI and Degraded Automotive Simulations for Object Detection**|Daniel Jakab et.al.|[2407.15646](http://arxiv.org/abs/2407.15646)|null|
 |**2024-07-22**|**YOLO-pdd: A Novel Multi-scale PCB Defect Detection Method Using Deep Representations with Sequential Images**|Bowen Liu et.al.|[2407.15427](http://arxiv.org/abs/2407.15427)|null|
 |**2024-07-22**|**Learning High-resolution Vector Representation from Multi-Camera Images for 3D Object Detection**|Zhili Chen et.al.|[2407.15354](http://arxiv.org/abs/2407.15354)|**[link](https://github.com/zlichen/vectorformer)**|
-|**2024-07-22**|**Explore the LiDAR-Camera Dynamic Adjustment Fusion for 3D Object Detection**|Yiran Yang et.al.|[2407.15334](http://arxiv.org/abs/2407.15334)|null|
+|**2024-07-22**|**Explore the LiDAR-Camera Dynamic Adjustment Fusion for 3D Object Detection**|Yiran Yang et.al.|[2407.15334](http://arxiv.org/abs/2407.15334)|**[link](https://github.com/youngfly/Dynamic-Adjustment-Fusion)**|
 |**2024-07-21**|**Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection**|Kwanyong Park et.al.|[2407.15296](http://arxiv.org/abs/2407.15296)|null|
 |**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199](http://arxiv.org/abs/2407.15199)|**[link](https://github.com/cuppp1998/360_object_tracking)**|
 |**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|
@@ -1498,7 +1498,7 @@
 |**2024-06-15**|**Object Detection using Oriented Window Learning Vi-sion Transformer: Roadway Assets Recognition**|Taqwa Alhadidi et.al.|[2406.10712](http://arxiv.org/abs/2406.10712)|null|
 |**2024-06-14**|**EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models**|Julian Straub et.al.|[2406.10224](http://arxiv.org/abs/2406.10224)|null|
 |**2024-06-14**|**YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain**|Mujadded Al Rabbani Alif et.al.|[2406.10139](http://arxiv.org/abs/2406.10139)|null|
-|**2024-06-14**|**Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**|Mehar Khurana et.al.|[2406.10115](http://arxiv.org/abs/2406.10115)|null|
+|**2024-06-14**|**Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**|Mehar Khurana et.al.|[2406.10115](http://arxiv.org/abs/2406.10115)|**[link](https://github.com/meharkhurana03/cm3d)**|
 |**2024-06-14**|**Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**|Richard Boadu Antwi et.al.|[2406.09731](http://arxiv.org/abs/2406.09731)|null|
 |**2024-06-14**|**An alternate approach for estimating grain-growth kinetics**|Manoj Prabakar et.al.|[2406.09653](http://arxiv.org/abs/2406.09653)|**[link](https://github.com/theormets/Junction-based-Grain-Growth-Measurement)**|
 |**2024-06-13**|**Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**|Yansheng Li et.al.|[2406.09410](http://arxiv.org/abs/2406.09410)|**[link](https://github.com/yangxue0827/rsg-mmrotate)**|
@@ -1950,7 +1950,7 @@
 |**2024-03-07**|**CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection**|Gyusam Chang et.al.|[2403.03721](http://arxiv.org/abs/2403.03721)|null|
 |**2024-03-06**|**Adversarial Infrared Geometry: Using Geometry to Perform Adversarial Attack against Infrared Pedestrian Detectors**|Kalibinuer Tiliwalidi et.al.|[2403.03674](http://arxiv.org/abs/2403.03674)|null|
 |**2024-03-06**|**Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**|Wonhyeok Choi et.al.|[2403.03468](http://arxiv.org/abs/2403.03468)|null|
-|**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|null|
+|**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|**[link](https://github.com/AIS-Clemson/FLAME_SD)**|
 |**2024-03-06**|**Performance Evaluation of Semi-supervised Learning Frameworks for Multi-Class Weed Detection**|Jiajia Li et.al.|[2403.03390](http://arxiv.org/abs/2403.03390)|**[link](https://github.com/jiajiali04/semiweeds)**|
 |**2024-03-05**|**Detecting Concrete Visual Tokens for Multimodal Machine Translation**|Braeden Bowen et.al.|[2403.03075](http://arxiv.org/abs/2403.03075)|null|
 |**2024-03-05**|**Loss Design for Single-carrier Joint Communication and Neural Network-based Sensing**|Charlotte Muth et.al.|[2403.02929](http://arxiv.org/abs/2403.02929)|null|
@@ -1979,7 +1979,7 @@
 |**2024-02-29**|**Boosting Semi-Supervised Object Detection in Remote Sensing Images With Active Teaching**|Boxuan Zhang et.al.|[2402.18958](http://arxiv.org/abs/2402.18958)|null|
 |**2024-02-29**|**Edge Computing Enabled Real-Time Video Analysis via Adaptive Spatial-Temporal Semantic Filtering**|Xiang Chen et.al.|[2402.18927](http://arxiv.org/abs/2402.18927)|null|
 |**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|null|
-|**2024-02-29**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[2402.18864](http://arxiv.org/abs/2402.18864)|null|
+|**2024-02-29**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[2402.18864](http://arxiv.org/abs/2402.18864)|**[link](https://github.com/bardia-az/ppa-code)**|
 |**2024-02-29**|**Debiased Novel Category Discovering and Localization**|Juexiao Feng et.al.|[2402.18821](http://arxiv.org/abs/2402.18821)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
 |**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573](http://arxiv.org/abs/2402.18573)|null|
