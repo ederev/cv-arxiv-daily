@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**|Zechao Sun et.al.|[2409.08516](http://arxiv.org/abs/2409.08516)|null|
+|**2024-09-13**|**VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation**|Ezra MacDonald et.al.|[2409.08461](http://arxiv.org/abs/2409.08461)|**[link](https://github.com/macdonaldezra/VistaFormer)**|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
 |**2024-09-12**|**Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes**|Siyu Chen et.al.|[2409.07995](http://arxiv.org/abs/2409.07995)|null|
 |**2024-09-12**|**SURGIVID: Annotation-Efficient Surgical Video Object Discovery**|Çağhan Köksal et.al.|[2409.07801](http://arxiv.org/abs/2409.07801)|null|
@@ -765,6 +767,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**QueryCAD: Grounded Question Answering for CAD Models**|Claudius Kienle et.al.|[2409.08704](http://arxiv.org/abs/2409.08704)|null|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
 |**2024-09-12**|**UNIT: Unsupervised Online Instance Segmentation through Time**|Corentin Sautier et.al.|[2409.07887](http://arxiv.org/abs/2409.07887)|null|
 |**2024-09-11**|**Insight Any Instance: Promptable Instance Segmentation for Remote Sensing Images**|Xuexue Li et.al.|[2409.07022](http://arxiv.org/abs/2409.07022)|null|
@@ -1088,6 +1091,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
+|**2024-09-13**|**Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention**|Yihang Tao et.al.|[2409.08840](http://arxiv.org/abs/2409.08840)|null|
+|**2024-09-13**|**RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision**|Shuo Wang et.al.|[2409.08475](http://arxiv.org/abs/2409.08475)|null|
+|**2024-09-12**|**X-ray Fluoroscopy Guided Localization and Steering of Medical Microrobots through Virtual Enhancement**|Husnu Halid Alabay et.al.|[2409.08337](http://arxiv.org/abs/2409.08337)|null|
 |**2024-09-12**|**What is YOLOv9: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2409.07813](http://arxiv.org/abs/2409.07813)|null|
 |**2024-09-11**|**Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**|Layth Hamad et.al.|[2409.07623](http://arxiv.org/abs/2409.07623)|null|
 |**2024-09-11**|**ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**|Giorgos Savathrakis et.al.|[2409.07541](http://arxiv.org/abs/2409.07541)|**[link](https://github.com/gsavathrakis/enact)**|
@@ -2136,6 +2143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|null|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -2188,6 +2196,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**QueryCAD: Grounded Question Answering for CAD Models**|Claudius Kienle et.al.|[2409.08704](http://arxiv.org/abs/2409.08704)|null|
+|**2024-09-13**|**Anytime Continual Learning for Open Vocabulary Classification**|Zhen Zhu et.al.|[2409.08518](http://arxiv.org/abs/2409.08518)|**[link](https://github.com/jessemelpolio/anytimecl)**|
+|**2024-09-13**|**Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection**|Haoxuan Wang et.al.|[2409.08513](http://arxiv.org/abs/2409.08513)|**[link](https://github.com/Xuan-World/Mamba-YOLO-World)**|
+|**2024-09-13**|**Generalization Boosted Adapter for Open-Vocabulary Segmentation**|Wenhao Xu et.al.|[2409.08468](http://arxiv.org/abs/2409.08468)|null|
 |**2024-09-12**|**Bridging Discrete and Continuous: A Multimodal Strategy for Complex Emotion Detection**|Jiehui Jia et.al.|[2409.07901](http://arxiv.org/abs/2409.07901)|null|
 |**2024-09-12**|**Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Qinglong Cao et.al.|[2409.07683](http://arxiv.org/abs/2409.07683)|null|
 |**2024-09-09**|**MLLM-FL: Multimodal Large Language Model Assisted Federated Learning on Heterogeneous and Long-tailed Data**|Jianyi Zhang et.al.|[2409.06067](http://arxiv.org/abs/2409.06067)|null|
@@ -2459,6 +2471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-12**|**BLens: Contrastive Captioning of Binary Functions using Ensemble Embedding**|Tristan Benoit et.al.|[2409.07889](http://arxiv.org/abs/2409.07889)|null|
 |**2024-09-12**|**Bridging Paintings and Music -- Exploring Emotion based Music Generation through Paintings**|Tanisha Hisariya et.al.|[2409.07827](http://arxiv.org/abs/2409.07827)|null|
