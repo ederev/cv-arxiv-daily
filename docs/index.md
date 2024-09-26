@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**WasteGAN: Data Augmentation for Robotic Waste Sorting through Generative Adversarial Networks**|Alberto Bacchin et.al.|[2409.16999](http://arxiv.org/abs/2409.16999)|**[link](https://github.com/bach05/wastegan)**|
+|**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940](http://arxiv.org/abs/2409.16940)|null|
+|**2024-09-24**|**A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation**|Avisha Kumar et.al.|[2409.16441](http://arxiv.org/abs/2409.16441)|null|
+|**2024-09-24**|**Instance Segmentation of Reinforced Concrete Bridges with Synthetic Point Clouds**|Asad Ur Rahman et.al.|[2409.16381](http://arxiv.org/abs/2409.16381)|null|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|**[link](https://github.com/fieldsoftheworld/ftw-baselines)**|
+|**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213](http://arxiv.org/abs/2409.16213)|**[link](https://github.com/harry-rogers/psie)**|
+|**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846](http://arxiv.org/abs/2409.15846)|null|
+|**2024-09-24**|**DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation**|Soojin Jang et.al.|[2409.15801](http://arxiv.org/abs/2409.15801)|null|
+|**2024-09-24**|**Autonomous Hiking Trail Navigation via Semantic Segmentation and Geometric Analysis**|Camndon Reed et.al.|[2409.15671](http://arxiv.org/abs/2409.15671)|null|
+|**2024-09-23**|**ZeroSCD: Zero-Shot Street Scene Change Detection**|Shyam Sundar Kannan et.al.|[2409.15255](http://arxiv.org/abs/2409.15255)|null|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
 |**2024-09-17**|**MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping**|Amirreza Fateh et.al.|[2409.11316](http://arxiv.org/abs/2409.11316)|**[link](https://github.com/amirrezafateh/msdnet)**|
 |**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|**[link](https://github.com/cliffbb/oem-fewshot-challenge)**|
@@ -766,8 +776,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Instance Segmentation of Reinforced Concrete Bridges with Synthetic Point Clouds**|Asad Ur Rahman et.al.|[2409.16381](http://arxiv.org/abs/2409.16381)|null|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|**[link](https://github.com/fieldsoftheworld/ftw-baselines)**|
+|**2024-09-23**|**Adapting Segment Anything Model for Unseen Object Instance Segmentation**|Rui Cao et.al.|[2409.15481](http://arxiv.org/abs/2409.15481)|null|
+|**2024-09-22**|**SOS: Segment Object System for Open-World Instance Segmentation With Object Priors**|Christian Wilms et.al.|[2409.14627](http://arxiv.org/abs/2409.14627)|**[link](https://github.com/chwilms/sos)**|
+|**2024-09-22**|**Lidar Panoptic Segmentation in an Open World**|Anirudh S Chakravarthy et.al.|[2409.14273](http://arxiv.org/abs/2409.14273)|**[link](https://github.com/g-meghana-reddy/open-world-panoptic-segmentation)**|
+|**2024-09-21**|**Foundation Models for Amodal Video Instance Segmentation in Automated Driving**|Jasmin Breitenstein et.al.|[2409.14095](http://arxiv.org/abs/2409.14095)|**[link](https://github.com/ifnspaml/s-amodal)**|
+|**2024-09-21**|**GAInS: Gradient Anomaly-aware Biomedical Instance Segmentation**|Runsheng Liu et.al.|[2409.13988](http://arxiv.org/abs/2409.13988)|**[link](https://github.com/deepgains/gains)**|
 |**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111](http://arxiv.org/abs/2409.12111)|null|
-|**2024-09-18**|**Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments**|Gang Chen et.al.|[2409.11975](http://arxiv.org/abs/2409.11975)|null|
+|**2024-09-18**|**Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments**|Gang Chen et.al.|[2409.11975](http://arxiv.org/abs/2409.11975)|**[link](https://github.com/tud-amr/semantic_dsp_map)**|
 |**2024-09-16**|**Are Deep Learning Models Robust to Partial Object Occlusion in Visual Recognition Tasks?**|Kaleb Kassaw et.al.|[2409.10775](http://arxiv.org/abs/2409.10775)|null|
 |**2024-09-15**|**Resolving Inconsistent Semantics in Multi-Dataset Image Segmentation**|Qilong Zhangli et.al.|[2409.09893](http://arxiv.org/abs/2409.09893)|null|
 |**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
@@ -1032,10 +1049,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
+|**2024-09-24**|**Layer-wise Model Merging for Unsupervised Domain Adaptation in Segmentation Tasks**|Roberto Alcover-Couso et.al.|[2409.15813](http://arxiv.org/abs/2409.15813)|null|
+|**2024-09-22**|**Lidar Panoptic Segmentation in an Open World**|Anirudh S Chakravarthy et.al.|[2409.14273](http://arxiv.org/abs/2409.14273)|**[link](https://github.com/g-meghana-reddy/open-world-panoptic-segmentation)**|
+|**2024-09-21**|**@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology**|Xin Jiang et.al.|[2409.14215](http://arxiv.org/abs/2409.14215)|null|
+|**2024-09-19**|**COCO-Occ: A Benchmark for Occluded Panoptic Segmentation and Image Understanding**|Wenbo Wei et.al.|[2409.12760](http://arxiv.org/abs/2409.12760)|null|
 |**2024-09-18**|**Panoptic-Depth Forecasting**|Juana Valeria Hurtado et.al.|[2409.12008](http://arxiv.org/abs/2409.12008)|null|
 |**2024-09-15**|**Resolving Inconsistent Semantics in Multi-Dataset Image Segmentation**|Qilong Zhangli et.al.|[2409.09893](http://arxiv.org/abs/2409.09893)|null|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
 |**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625](http://arxiv.org/abs/2409.06625)|null|
+|**2024-09-20**|**EPRecon: An Efficient Framework for Real-Time Panoptic 3D Reconstruction from Monocular Video**|Zhen Zhou et.al.|[2409.01807](http://arxiv.org/abs/2409.01807)|**[link](https://github.com/zhen6618/eprecon)**|
 |**2024-08-29**|**A Simple and Generalist Approach for Panoptic Segmentation**|Nedyalko Prisadnikov et.al.|[2408.16504](http://arxiv.org/abs/2408.16504)|null|
 |**2024-08-28**|**DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries**|Yu Yang et.al.|[2408.15813](http://arxiv.org/abs/2408.15813)|null|
 |**2024-08-23**|**Image Segmentation in Foundation Model Era: A Survey**|Tianfei Zhou et.al.|[2408.12957](http://arxiv.org/abs/2408.12957)|null|
@@ -1094,6 +1117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**|Yongqi Xu et.al.|[2409.17093](http://arxiv.org/abs/2409.17093)|**[link](https://github.com/cheliosoops/bitq)**|
+|**2024-09-25**|**EventHDR: from Event to High-Speed HDR Videos and Beyond**|Yunhao Zou et.al.|[2409.17029](http://arxiv.org/abs/2409.17029)|null|
+|**2024-09-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al.|[2409.16821](http://arxiv.org/abs/2409.16821)|null|
+|**2024-09-25**|**Benchmarking Deep Learning Models for Object Detection on Edge Computing Devices**|Daghash K. Alqahtani et.al.|[2409.16808](http://arxiv.org/abs/2409.16808)|null|
+|**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
+|**2024-09-25**|**TSBP: Improving Object Detection in Histology Images via Test-time Self-guided Bounding-box Propagation**|Tingting Yang et.al.|[2409.16678](http://arxiv.org/abs/2409.16678)|**[link](https://github.com/jwhgdeu/tsbp)**|
+|**2024-09-25**|**Source-Free Domain Adaptation for YOLO Object Detection**|Simon Varailhon et.al.|[2409.16538](http://arxiv.org/abs/2409.16538)|null|
+|**2024-09-24**|**Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach**|Muhammad Mohsin et.al.|[2409.16496](http://arxiv.org/abs/2409.16496)|null|
+|**2024-09-24**|**A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation**|Avisha Kumar et.al.|[2409.16441](http://arxiv.org/abs/2409.16441)|null|
+|**2024-09-24**|**Tiny Robotics Dataset and Benchmark for Continual Object Detection**|Francesco Pasti et.al.|[2409.16215](http://arxiv.org/abs/2409.16215)|**[link](https://github.com/pastifra/TiROD_code)**|
 |**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111](http://arxiv.org/abs/2409.12111)|null|
 |**2024-09-18**|**Agglomerative Token Clustering**|Joakim Bruslund Haurum et.al.|[2409.11923](http://arxiv.org/abs/2409.11923)|null|
 |**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749](http://arxiv.org/abs/2409.11749)|null|
@@ -2167,6 +2200,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
+|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
@@ -2218,6 +2253,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
+|**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
+|**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|null|
+|**2024-09-24**|**A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding**|Abdulfattah Safa et.al.|[2409.15861](http://arxiv.org/abs/2409.15861)|**[link](https://github.com/gglab-ku/open-vocab-dialogue-understanding)**|
+|**2024-09-23**|**VaLID: Verification as Late Integration of Detections for LiDAR-Camera Fusion**|Vanshika Vats et.al.|[2409.15529](http://arxiv.org/abs/2409.15529)|null|
+|**2024-09-23**|**Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models**|Mike Zhang et.al.|[2409.15451](http://arxiv.org/abs/2409.15451)|null|
+|**2024-09-22**|**HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation**|Naoki Yokoyama et.al.|[2409.14296](http://arxiv.org/abs/2409.14296)|null|
+|**2024-09-21**|**CUS3D :CLIP-based Unsupervised 3D Segmentation via Object-level Denoise**|Fuyang Yu et.al.|[2409.13982](http://arxiv.org/abs/2409.13982)|null|
+|**2024-09-20**|**Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models**|Hao Cheng et.al.|[2409.13174](http://arxiv.org/abs/2409.13174)|null|
 |**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
 |**2024-09-18**|**One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation**|Finn Lukas Busch et.al.|[2409.11764](http://arxiv.org/abs/2409.11764)|null|
 |**2024-09-17**|**Learning Spatially-Aware Language and Audio Embedding**|Bhavika Devnani et.al.|[2409.11369](http://arxiv.org/abs/2409.11369)|null|
@@ -2500,6 +2545,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
+|**2024-09-23**|**Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning**|Siddharth Betala et.al.|[2409.15052](http://arxiv.org/abs/2409.15052)|null|
+|**2024-09-22**|**Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization**|Minyi Zhao et.al.|[2409.14484](http://arxiv.org/abs/2409.14484)|null|
+|**2024-09-21**|**@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology**|Xin Jiang et.al.|[2409.14215](http://arxiv.org/abs/2409.14215)|null|
+|**2024-09-20**|**YesBut: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models**|Abhilash Nandy et.al.|[2409.13592](http://arxiv.org/abs/2409.13592)|**[link](https://github.com/abhi1nandy2/yesbut_dataset)**|
+|**2024-09-20**|**FullAnno: A Data Engine for Enhancing Image Comprehension of MLLMs**|Jing Hao et.al.|[2409.13540](http://arxiv.org/abs/2409.13540)|null|
+|**2024-09-20**|**Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model**|Li Zhou et.al.|[2409.13407](http://arxiv.org/abs/2409.13407)|**[link](https://github.com/lizhou-cs/mglmm)**|
+|**2024-09-25**|**JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images**|Zhecan Wang et.al.|[2409.12953](http://arxiv.org/abs/2409.12953)|**[link](https://github.com/journeybench/journeybench)**|
+|**2024-09-19**|**Vision Language Models Can Parse Floor Plan Maps**|David DeFazio et.al.|[2409.12842](http://arxiv.org/abs/2409.12842)|null|
+|**2024-09-19**|**LLMs Can Check Their Own Results to Mitigate Hallucinations in Traffic Understanding Tasks**|Malsha Ashani Mahawatta Dona et.al.|[2409.12580](http://arxiv.org/abs/2409.12580)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**Playground v3: Improving Text-to-Image Alignment with Deep-Fusion Large Language Models**|Bingchen Liu et.al.|[2409.10695](http://arxiv.org/abs/2409.10695)|null|
