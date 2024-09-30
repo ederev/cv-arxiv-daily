@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
+|**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|null|
+|**2024-09-27**|**Reducing Semantic Ambiguity In Domain Adaptive Semantic Segmentation Via Probabilistic Prototypical Pixel Contrast**|Xiaoke Hao et.al.|[2409.18543](http://arxiv.org/abs/2409.18543)|**[link](https://github.com/darlinginthesv/probabilistic-prototypical-pixel-contrast)**|
+|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
 |**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[2409.17659](http://arxiv.org/abs/2409.17659)|null|
 |**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486](http://arxiv.org/abs/2409.17486)|null|
 |**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al.|[2409.17330](http://arxiv.org/abs/2409.17330)|null|
@@ -791,6 +795,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961](http://arxiv.org/abs/2409.18961)|null|
+|**2024-09-27**|**Search3D: Hierarchical Open-Vocabulary 3D Segmentation**|Ayca Takmaz et.al.|[2409.18431](http://arxiv.org/abs/2409.18431)|null|
+|**2024-09-26**|**Efficient Microscopic Image Instance Segmentation for Food Crystal Quality Control**|Xiaoyu Ji et.al.|[2409.18291](http://arxiv.org/abs/2409.18291)|null|
+|**2024-09-26**|**Amodal Instance Segmentation with Diffusion Shape Prior Estimation**|Minh Tran et.al.|[2409.18256](http://arxiv.org/abs/2409.18256)|null|
 |**2024-09-24**|**Instance Segmentation of Reinforced Concrete Bridges with Synthetic Point Clouds**|Asad Ur Rahman et.al.|[2409.16381](http://arxiv.org/abs/2409.16381)|null|
 |**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|**[link](https://github.com/fieldsoftheworld/ftw-baselines)**|
 |**2024-09-23**|**Adapting Segment Anything Model for Unseen Object Instance Segmentation**|Rui Cao et.al.|[2409.15481](http://arxiv.org/abs/2409.15481)|null|
@@ -1136,6 +1144,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Spectral Wavelet Dropout: Regularization in the Wavelet Domain**|Rinor Cakaj et.al.|[2409.18951](http://arxiv.org/abs/2409.18951)|null|
+|**2024-09-27**|**MCUBench: A Benchmark of Tiny Object Detectors on MCUs**|Sudhakar Sah et.al.|[2409.18866](http://arxiv.org/abs/2409.18866)|**[link](https://github.com/deeplite/deeplite-torch-zoo)**|
+|**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
+|**2024-09-27**|**A Novel Unified Architecture for Low-Shot Counting by Detection and Segmentation**|Jer Pelhan et.al.|[2409.18686](http://arxiv.org/abs/2409.18686)|null|
+|**2024-09-27**|**Query matching for spatio-temporal action detection with query-based object detector**|Shimon Hori et.al.|[2409.18408](http://arxiv.org/abs/2409.18408)|null|
+|**2024-09-26**|**Efficient Microscopic Image Instance Segmentation for Food Crystal Quality Control**|Xiaoyu Ji et.al.|[2409.18291](http://arxiv.org/abs/2409.18291)|null|
+|**2024-09-26**|**Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing**|Huthaifa I. Ashqar et.al.|[2409.18286](http://arxiv.org/abs/2409.18286)|null|
 |**2024-09-27**|**A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**|Aurel Pjetri et.al.|[2409.17851](http://arxiv.org/abs/2409.17851)|null|
 |**2024-09-26**|**Scene Understanding in Pick-and-Place Tasks: Analyzing Transformations Between Initial and Final Scenes**|Seraj Ghasemi et.al.|[2409.17720](http://arxiv.org/abs/2409.17720)|null|
 |**2024-09-26**|**SLO-Aware Task Offloading within Collaborative Vehicle Platoons**|Boris Sedlak et.al.|[2409.17667](http://arxiv.org/abs/2409.17667)|null|
@@ -2284,6 +2299,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Text2FX: Harnessing CLAP Embeddings for Text-Guided Audio Effects**|Annie Chu et.al.|[2409.18847](http://arxiv.org/abs/2409.18847)|null|
+|**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743](http://arxiv.org/abs/2409.18743)|null|
+|**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
+|**2024-09-27**|**Search3D: Hierarchical Open-Vocabulary 3D Segmentation**|Ayca Takmaz et.al.|[2409.18431](http://arxiv.org/abs/2409.18431)|null|
 |**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108](http://arxiv.org/abs/2409.18108)|null|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
@@ -2579,6 +2598,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**|Jihen Amara et.al.|[2409.18753](http://arxiv.org/abs/2409.18753)|null|
+|**2024-09-27**|**A TextGCN-Based Decoding Approach for Improving Remote Sensing Image Captioning**|Swadhin Das et.al.|[2409.18467](http://arxiv.org/abs/2409.18467)|null|
 |**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|null|
 |**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
 |**2024-09-23**|**Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning**|Siddharth Betala et.al.|[2409.15052](http://arxiv.org/abs/2409.15052)|null|
