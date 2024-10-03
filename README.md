@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,14 +24,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-30**|**AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation**|Boyu Han et.al.|[2409.20398](http://arxiv.org/abs/2409.20398)|null|
-|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|null|
+|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|**[link](https://github.com/TillmannRheude/SegHiResGrad_CAM)**|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
 |**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
 |**2024-09-30**|**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**|Heeseong Shin et.al.|[2409.19846](http://arxiv.org/abs/2409.19846)|null|
 |**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
-|**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|null|
+|**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|**[link](https://github.com/BAAI-Brain-Inspired-Group/OPEN-Vis-ControlSD)**|
 |**2024-09-27**|**Reducing Semantic Ambiguity In Domain Adaptive Semantic Segmentation Via Probabilistic Prototypical Pixel Contrast**|Xiaoke Hao et.al.|[2409.18543](http://arxiv.org/abs/2409.18543)|**[link](https://github.com/darlinginthesv/probabilistic-prototypical-pixel-contrast)**|
-|**2024-10-01**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
+|**2024-10-02**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
 |**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[2409.17659](http://arxiv.org/abs/2409.17659)|null|
 |**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486](http://arxiv.org/abs/2409.17486)|null|
 |**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al.|[2409.17330](http://arxiv.org/abs/2409.17330)|null|
@@ -794,7 +794,7 @@
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Instance Segmentation
 
@@ -1073,7 +1073,7 @@
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Panoptic Segmentation
 
@@ -1143,7 +1143,7 @@
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Object Detection
 
@@ -2252,7 +2252,7 @@
 |**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874](http://arxiv.org/abs/2401.11874)|**[link](https://github.com/microsoft/comphrdoc)**|
 |**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824](http://arxiv.org/abs/2401.11824)|**[link](https://github.com/klayand/pcka)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2309,7 +2309,7 @@
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Open-Vocabulary
 
@@ -2610,19 +2610,19 @@
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Image Captioning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-30**|**TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning**|Joshua Feinglass et.al.|[2409.19960](http://arxiv.org/abs/2409.19960)|null|
+|**2024-09-30**|**TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning**|Joshua Feinglass et.al.|[2409.19960](http://arxiv.org/abs/2409.19960)|**[link](https://github.com/JoshuaFeinglass/TROPE)**|
 |**2024-09-28**|**From Unimodal to Multimodal: Scaling up Projectors to Align Modalities**|Mayug Maniparambil et.al.|[2409.19425](http://arxiv.org/abs/2409.19425)|null|
 |**2024-09-28**|**DENEB: A Hallucination-Robust Automatic Evaluation Metric for Image Captioning**|Kazuki Matsuda et.al.|[2409.19255](http://arxiv.org/abs/2409.19255)|null|
 |**2024-09-28**|**TrojVLM: Backdoor Attack Against Vision Language Models**|Weimin Lyu et.al.|[2409.19232](http://arxiv.org/abs/2409.19232)|null|
 |**2024-09-27**|**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**|Jihen Amara et.al.|[2409.18753](http://arxiv.org/abs/2409.18753)|null|
 |**2024-10-01**|**A TextGCN-Based Decoding Approach for Improving Remote Sensing Image Captioning**|Swadhin Das et.al.|[2409.18467](http://arxiv.org/abs/2409.18467)|null|
-|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|null|
+|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|**[link](https://github.com/boreng0817/ifcap)**|
 |**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
 |**2024-09-23**|**Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning**|Siddharth Betala et.al.|[2409.15052](http://arxiv.org/abs/2409.15052)|null|
 |**2024-09-22**|**Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization**|Minyi Zhao et.al.|[2409.14484](http://arxiv.org/abs/2409.14484)|null|
@@ -2784,7 +2784,7 @@
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -15,14 +15,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation**|Boyu Han et.al.|[2409.20398](http://arxiv.org/abs/2409.20398)|null|
-|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|null|
+|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|**[link](https://github.com/TillmannRheude/SegHiResGrad_CAM)**|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
 |**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
 |**2024-09-30**|**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**|Heeseong Shin et.al.|[2409.19846](http://arxiv.org/abs/2409.19846)|null|
 |**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
-|**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|null|
+|**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|**[link](https://github.com/BAAI-Brain-Inspired-Group/OPEN-Vis-ControlSD)**|
 |**2024-09-27**|**Reducing Semantic Ambiguity In Domain Adaptive Semantic Segmentation Via Probabilistic Prototypical Pixel Contrast**|Xiaoke Hao et.al.|[2409.18543](http://arxiv.org/abs/2409.18543)|**[link](https://github.com/darlinginthesv/probabilistic-prototypical-pixel-contrast)**|
-|**2024-10-01**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
+|**2024-10-02**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
 |**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[2409.17659](http://arxiv.org/abs/2409.17659)|null|
 |**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486](http://arxiv.org/abs/2409.17486)|null|
 |**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al.|[2409.17330](http://arxiv.org/abs/2409.17330)|null|
@@ -2595,13 +2595,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-30**|**TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning**|Joshua Feinglass et.al.|[2409.19960](http://arxiv.org/abs/2409.19960)|null|
+|**2024-09-30**|**TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning**|Joshua Feinglass et.al.|[2409.19960](http://arxiv.org/abs/2409.19960)|**[link](https://github.com/JoshuaFeinglass/TROPE)**|
 |**2024-09-28**|**From Unimodal to Multimodal: Scaling up Projectors to Align Modalities**|Mayug Maniparambil et.al.|[2409.19425](http://arxiv.org/abs/2409.19425)|null|
 |**2024-09-28**|**DENEB: A Hallucination-Robust Automatic Evaluation Metric for Image Captioning**|Kazuki Matsuda et.al.|[2409.19255](http://arxiv.org/abs/2409.19255)|null|
 |**2024-09-28**|**TrojVLM: Backdoor Attack Against Vision Language Models**|Weimin Lyu et.al.|[2409.19232](http://arxiv.org/abs/2409.19232)|null|
 |**2024-09-27**|**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**|Jihen Amara et.al.|[2409.18753](http://arxiv.org/abs/2409.18753)|null|
 |**2024-10-01**|**A TextGCN-Based Decoding Approach for Improving Remote Sensing Image Captioning**|Swadhin Das et.al.|[2409.18467](http://arxiv.org/abs/2409.18467)|null|
-|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|null|
+|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|**[link](https://github.com/boreng0817/ifcap)**|
 |**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
 |**2024-09-23**|**Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning**|Siddharth Betala et.al.|[2409.15052](http://arxiv.org/abs/2409.15052)|null|
 |**2024-09-22**|**Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization**|Minyi Zhao et.al.|[2409.14484](http://arxiv.org/abs/2409.14484)|null|
