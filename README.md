@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-10-09**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
 |**2024-10-09**|**Learning from Spatio-temporal Correlation for Semi-Supervised LiDAR Semantic Segmentation**|Seungho Lee et.al.|[2410.06893](http://arxiv.org/abs/2410.06893)|null|
 |**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
-|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
 |**2024-10-09**|**Transesophageal Echocardiography Generation using Anatomical Models**|Emmanuel Oladokun et.al.|[2410.06781](http://arxiv.org/abs/2410.06781)|null|
 |**2024-10-09**|**Evaluating the Impact of Point Cloud Colorization on Semantic Segmentation Accuracy**|Qinfeng Zhu et.al.|[2410.06725](http://arxiv.org/abs/2410.06725)|null|
 |**2024-10-09**|**Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments**|Meng Yu et.al.|[2410.06626](http://arxiv.org/abs/2410.06626)|null|
@@ -824,13 +824,13 @@
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Instance Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
 |**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963](http://arxiv.org/abs/2410.05963)|null|
 |**2024-10-06**|**SynCo: Synthetic Hard Negatives in Contrastive Learning for Better Unsupervised Visual Representations**|Nikolaos Giakoumoglou et.al.|[2410.02401](http://arxiv.org/abs/2410.02401)|**[link](https://github.com/giakoumoglou/synco)**|
 |**2024-10-03**|**ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method**|Remco Royen et.al.|[2410.02352](http://arxiv.org/abs/2410.02352)|null|
@@ -1108,7 +1108,7 @@
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Panoptic Segmentation
 
@@ -1180,7 +1180,7 @@
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Object Detection
 
@@ -1188,7 +1188,7 @@
 |---|---|---|---|---|
 |**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842](http://arxiv.org/abs/2410.06842)|**[link](https://github.com/kyh433/suranet)**|
 |**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
-|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
 |**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516](http://arxiv.org/abs/2410.06516)|null|
 |**2024-10-08**|**Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions**|Mateus Karvat et.al.|[2410.06380](http://arxiv.org/abs/2410.06380)|null|
 |**2024-10-08**|**Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**|Sha Guo et.al.|[2410.06149](http://arxiv.org/abs/2410.06149)|null|
@@ -2322,7 +2322,7 @@
 |**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874](http://arxiv.org/abs/2401.11874)|**[link](https://github.com/microsoft/comphrdoc)**|
 |**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824](http://arxiv.org/abs/2401.11824)|**[link](https://github.com/klayand/pcka)**|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2383,7 +2383,7 @@
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Open-Vocabulary
 
@@ -2693,7 +2693,7 @@
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Image Captioning
 
@@ -2878,7 +2878,7 @@
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

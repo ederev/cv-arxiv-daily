@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -17,7 +17,7 @@ layout: default
 |**2024-10-09**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
 |**2024-10-09**|**Learning from Spatio-temporal Correlation for Semi-Supervised LiDAR Semantic Segmentation**|Seungho Lee et.al.|[2410.06893](http://arxiv.org/abs/2410.06893)|null|
 |**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
-|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
 |**2024-10-09**|**Transesophageal Echocardiography Generation using Anatomical Models**|Emmanuel Oladokun et.al.|[2410.06781](http://arxiv.org/abs/2410.06781)|null|
 |**2024-10-09**|**Evaluating the Impact of Point Cloud Colorization on Semantic Segmentation Accuracy**|Qinfeng Zhu et.al.|[2410.06725](http://arxiv.org/abs/2410.06725)|null|
 |**2024-10-09**|**Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments**|Meng Yu et.al.|[2410.06626](http://arxiv.org/abs/2410.06626)|null|
@@ -819,7 +819,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
 |**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963](http://arxiv.org/abs/2410.05963)|null|
 |**2024-10-06**|**SynCo: Synthetic Hard Negatives in Contrastive Learning for Better Unsupervised Visual Representations**|Nikolaos Giakoumoglou et.al.|[2410.02401](http://arxiv.org/abs/2410.02401)|**[link](https://github.com/giakoumoglou/synco)**|
 |**2024-10-03**|**ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method**|Remco Royen et.al.|[2410.02352](http://arxiv.org/abs/2410.02352)|null|
@@ -1173,7 +1173,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842](http://arxiv.org/abs/2410.06842)|**[link](https://github.com/kyh433/suranet)**|
 |**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
-|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
 |**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516](http://arxiv.org/abs/2410.06516)|null|
 |**2024-10-08**|**Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions**|Mateus Karvat et.al.|[2410.06380](http://arxiv.org/abs/2410.06380)|null|
 |**2024-10-08**|**Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**|Sha Guo et.al.|[2410.06149](http://arxiv.org/abs/2410.06149)|null|
