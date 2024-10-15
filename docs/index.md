@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Parallel Watershed Partitioning: GPU-Based Hierarchical Image Segmentation**|Varduhi Yeghiazaryan et.al.|[2410.08946](http://arxiv.org/abs/2410.08946)|null|
+|**2024-10-11**|**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei et.al.|[2410.08687](http://arxiv.org/abs/2410.08687)|null|
+|**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
+|**2024-10-10**|**Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?**|Samir Abou Haidar et.al.|[2410.08365](http://arxiv.org/abs/2410.08365)|null|
 |**2024-10-10**|**Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2410.08091](http://arxiv.org/abs/2410.08091)|null|
 |**2024-10-10**|**Shift and matching queries for video semantic segmentation**|Tsubasa Mizuno et.al.|[2410.07635](http://arxiv.org/abs/2410.07635)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
@@ -1175,6 +1179,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|null|
+|**2024-10-14**|**LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection**|Mingjia Li et.al.|[2410.08810](http://arxiv.org/abs/2410.08810)|null|
+|**2024-10-11**|**Hespi: A pipeline for automatically detecting information from hebarium specimen sheets**|Robert Turnbull et.al.|[2410.08740](http://arxiv.org/abs/2410.08740)|null|
+|**2024-10-11**|**MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation**|Qihang Yang et.al.|[2410.08739](http://arxiv.org/abs/2410.08739)|null|
+|**2024-10-11**|**Boosting Open-Vocabulary Object Detection by Handling Background Samples**|Ruizhe Zeng et.al.|[2410.08645](http://arxiv.org/abs/2410.08645)|null|
+|**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
+|**2024-10-11**|**VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking**|Zekun Qian et.al.|[2410.08529](http://arxiv.org/abs/2410.08529)|null|
+|**2024-10-10**|**Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?**|Samir Abou Haidar et.al.|[2410.08365](http://arxiv.org/abs/2410.08365)|null|
 |**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210](http://arxiv.org/abs/2410.08210)|null|
 |**2024-10-10**|**Dynamic Object Catching with Quadruped Robot Front Legs**|André Schakkal et.al.|[2410.08065](http://arxiv.org/abs/2410.08065)|null|
 |**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
@@ -2381,6 +2393,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Boosting Open-Vocabulary Object Detection by Handling Background Samples**|Ruizhe Zeng et.al.|[2410.08645](http://arxiv.org/abs/2410.08645)|null|
+|**2024-10-11**|**VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking**|Zekun Qian et.al.|[2410.08529](http://arxiv.org/abs/2410.08529)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
 |**2024-10-09**|**Structured Spatial Reasoning with Open Vocabulary Object Detectors**|Negar Nejatishahidin et.al.|[2410.07394](http://arxiv.org/abs/2410.07394)|null|
 |**2024-10-09**|**Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments**|Meng Yu et.al.|[2410.06626](http://arxiv.org/abs/2410.06626)|null|
@@ -2691,6 +2705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
 |**2024-10-09**|**Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts**|Fredrik K. Gustafsson et.al.|[2410.06723](http://arxiv.org/abs/2410.06723)|null|

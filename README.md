@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Parallel Watershed Partitioning: GPU-Based Hierarchical Image Segmentation**|Varduhi Yeghiazaryan et.al.|[2410.08946](http://arxiv.org/abs/2410.08946)|null|
+|**2024-10-11**|**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei et.al.|[2410.08687](http://arxiv.org/abs/2410.08687)|null|
+|**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
+|**2024-10-10**|**Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?**|Samir Abou Haidar et.al.|[2410.08365](http://arxiv.org/abs/2410.08365)|null|
 |**2024-10-10**|**Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2410.08091](http://arxiv.org/abs/2410.08091)|null|
 |**2024-10-10**|**Shift and matching queries for video semantic segmentation**|Tsubasa Mizuno et.al.|[2410.07635](http://arxiv.org/abs/2410.07635)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
@@ -827,7 +831,7 @@
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Instance Segmentation
 
@@ -1112,7 +1116,7 @@
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Panoptic Segmentation
 
@@ -1184,12 +1188,20 @@
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|null|
+|**2024-10-14**|**LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection**|Mingjia Li et.al.|[2410.08810](http://arxiv.org/abs/2410.08810)|null|
+|**2024-10-11**|**Hespi: A pipeline for automatically detecting information from hebarium specimen sheets**|Robert Turnbull et.al.|[2410.08740](http://arxiv.org/abs/2410.08740)|null|
+|**2024-10-11**|**MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation**|Qihang Yang et.al.|[2410.08739](http://arxiv.org/abs/2410.08739)|null|
+|**2024-10-11**|**Boosting Open-Vocabulary Object Detection by Handling Background Samples**|Ruizhe Zeng et.al.|[2410.08645](http://arxiv.org/abs/2410.08645)|null|
+|**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
+|**2024-10-11**|**VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking**|Zekun Qian et.al.|[2410.08529](http://arxiv.org/abs/2410.08529)|null|
+|**2024-10-10**|**Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?**|Samir Abou Haidar et.al.|[2410.08365](http://arxiv.org/abs/2410.08365)|null|
 |**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210](http://arxiv.org/abs/2410.08210)|null|
 |**2024-10-10**|**Dynamic Object Catching with Quadruped Robot Front Legs**|André Schakkal et.al.|[2410.08065](http://arxiv.org/abs/2410.08065)|null|
 |**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
@@ -2333,7 +2345,7 @@
 |**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874](http://arxiv.org/abs/2401.11874)|**[link](https://github.com/microsoft/comphrdoc)**|
 |**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824](http://arxiv.org/abs/2401.11824)|**[link](https://github.com/klayand/pcka)**|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2394,12 +2406,14 @@
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Open-Vocabulary
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Boosting Open-Vocabulary Object Detection by Handling Background Samples**|Ruizhe Zeng et.al.|[2410.08645](http://arxiv.org/abs/2410.08645)|null|
+|**2024-10-11**|**VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking**|Zekun Qian et.al.|[2410.08529](http://arxiv.org/abs/2410.08529)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
 |**2024-10-09**|**Structured Spatial Reasoning with Open Vocabulary Object Detectors**|Negar Nejatishahidin et.al.|[2410.07394](http://arxiv.org/abs/2410.07394)|null|
 |**2024-10-09**|**Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments**|Meng Yu et.al.|[2410.06626](http://arxiv.org/abs/2410.06626)|null|
@@ -2706,12 +2720,13 @@
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Image Captioning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
 |**2024-10-09**|**Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts**|Fredrik K. Gustafsson et.al.|[2410.06723](http://arxiv.org/abs/2410.06723)|null|
@@ -2892,7 +2907,7 @@
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
