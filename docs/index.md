@@ -22,7 +22,7 @@ layout: default
 |**2024-10-17**|**Adversarial Neural Networks in Medical Imaging Advancements and Challenges in Semantic Segmentation**|Houze Liu et.al.|[2410.13099](http://arxiv.org/abs/2410.13099)|null|
 |**2024-10-16**|**Task Consistent Prototype Learning for Incremental Few-shot Semantic Segmentation**|Wenbo Xu et.al.|[2410.13094](http://arxiv.org/abs/2410.13094)|null|
 |**2024-10-16**|**Risk Assessment for Autonomous Landing in Urban Environments using Semantic Segmentation**|Jesús Alejandro Loera-Ponce et.al.|[2410.12988](http://arxiv.org/abs/2410.12988)|null|
-|**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694](http://arxiv.org/abs/2410.12694)|null|
+|**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694](http://arxiv.org/abs/2410.12694)|**[link](https://github.com/function2-llx/mmmm)**|
 |**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641](http://arxiv.org/abs/2410.12641)|null|
 |**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
 |**2024-10-15**|**WeatherDG: LLM-assisted Procedural Weather Generation for Domain-Generalized Semantic Segmentation**|Chenghao Qian et.al.|[2410.12075](http://arxiv.org/abs/2410.12075)|null|
@@ -1217,8 +1217,8 @@ layout: default
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673](http://arxiv.org/abs/2410.12673)|null|
 |**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592](http://arxiv.org/abs/2410.12592)|null|
 |**2024-10-16**|**Feature Augmentation for Self-supervised Contrastive Learning: A Closer Look**|Yong Zhang et.al.|[2410.12396](http://arxiv.org/abs/2410.12396)|null|
-|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|null|
-|**2024-10-16**|**Context-Infused Visual Grounding for Art**|Selina Khan et.al.|[2410.12369](http://arxiv.org/abs/2410.12369)|null|
+|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|**[link](https://github.com/weiyangdaren/streamdsgn-pytorch)**|
+|**2024-10-16**|**Context-Infused Visual Grounding for Art**|Selina Khan et.al.|[2410.12369](http://arxiv.org/abs/2410.12369)|**[link](https://github.com/selinakhan/CIGAr)**|
 |**2024-10-16**|**Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**|Pengwei Liang et.al.|[2410.12274](http://arxiv.org/abs/2410.12274)|null|
 |**2024-10-16**|**Optimizing YOLOv5s Object Detection through Knowledge Distillation algorithm**|Guanming Huang et.al.|[2410.12259](http://arxiv.org/abs/2410.12259)|null|
 |**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
@@ -2780,7 +2780,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-17**|**Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant**|Haoran Hao et.al.|[2410.13360](http://arxiv.org/abs/2410.13360)|null|
+|**2024-10-17**|**Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant**|Haoran Hao et.al.|[2410.13360](http://arxiv.org/abs/2410.13360)|**[link](https://github.com/hoar012/rap-mllm)**|
 |**2024-10-17**|**Trust but Verify: Programmatic VLM Evaluation in the Wild**|Viraj Prabhu et.al.|[2410.13121](http://arxiv.org/abs/2410.13121)|null|
 |**2024-10-16**|**Hiding-in-Plain-Sight (HiPS) Attack on CLIP for Targetted Object Removal from Images**|Arka Daw et.al.|[2410.13010](http://arxiv.org/abs/2410.13010)|null|
 |**2024-10-15**|**Self-adaptive Multimodal Retrieval-Augmented Generation**|Wenjia Zhai et.al.|[2410.11321](http://arxiv.org/abs/2410.11321)|**[link](https://github.com/sam-rag/sam_rag)**|
