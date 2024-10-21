@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding**|Guangda Ji et.al.|[2410.13924](http://arxiv.org/abs/2410.13924)|null|
 |**2024-10-17**|**Multi-style conversion for semantic segmentation of lesions in fundus images by adversarial attacks**|Clément Playout et.al.|[2410.13822](http://arxiv.org/abs/2410.13822)|**[link](https://github.com/clementpla/multistyle_funduslesionsegmentation)**|
 |**2024-10-18**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-17**|**Day-Night Adaptation: An Innovative Source-free Adaptation Framework for Medical Image Segmentation**|Ziyang Chen et.al.|[2410.13472](http://arxiv.org/abs/2410.13472)|null|
@@ -851,6 +852,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Impact of imperfect annotations on CNN training and performance for instance segmentation and classification in digital pathology**|Laura Gálvez Jiménez et.al.|[2410.14365](http://arxiv.org/abs/2410.14365)|null|
 |**2024-10-16**|**SDI-Paste: Synthetic Dynamic Instance Copy-Paste for Video Instance Segmentation**|Sahir Shrestha et.al.|[2410.13565](http://arxiv.org/abs/2410.13565)|null|
 |**2024-10-17**|**LESS: Label-Efficient and Single-Stage Referring 3D Segmentation**|Xuexun Liu et.al.|[2410.13294](http://arxiv.org/abs/2410.13294)|null|
 |**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774](http://arxiv.org/abs/2410.11774)|null|
@@ -1211,6 +1213,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[2410.14612](http://arxiv.org/abs/2410.14612)|null|
+|**2024-10-18**|**Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech**|Shuwei He et.al.|[2410.14101](http://arxiv.org/abs/2410.14101)|**[link](https://github.com/ms2ku-vtts/ms2ku-vtts)**|
+|**2024-10-18**|**Enhancing In-vehicle Multiple Object Tracking Systems with Embeddable Ising Machines**|Kosuke Tatsumura et.al.|[2410.14093](http://arxiv.org/abs/2410.14093)|null|
 |**2024-10-17**|**Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**|Kristina Telegraph et.al.|[2410.13616](http://arxiv.org/abs/2410.13616)|null|
 |**2024-10-17**|**RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**|Kejun Ren et.al.|[2410.13532](http://arxiv.org/abs/2410.13532)|null|
 |**2024-10-16**|**Syn2Real Domain Generalization for Underwater Mine-like Object Detection Using Side-Scan Sonar**|Aayush Agrawal et.al.|[2410.12953](http://arxiv.org/abs/2410.12953)|null|
@@ -2399,6 +2404,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848](http://arxiv.org/abs/2410.11848)|null|
