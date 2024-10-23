@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
+|**2024-10-22**|**SERN: Simulation-Enhanced Realistic Navigation for Multi-Agent Robotic Systems in Contested Environments**|Jumman Hossain et.al.|[2410.16686](http://arxiv.org/abs/2410.16686)|null|
+|**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
+|**2024-10-21**|**GenGMM: Generalized Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2410.16485](http://arxiv.org/abs/2410.16485)|null|
 |**2024-10-21**|**LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training**|Thomas Kreutz et.al.|[2410.15833](http://arxiv.org/abs/2410.15833)|**[link](https://github.com/jensle97/lion-xa)**|
 |**2024-10-21**|**TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight**|Hyun-Kurl Jang et.al.|[2410.15674](http://arxiv.org/abs/2410.15674)|**[link](https://github.com/blue-531/talos)**|
 |**2024-10-21**|**Deep Learning and Machine Learning -- Object Detection and Semantic Segmentation: From Theory to Applications**|Jintao Ren et.al.|[2410.15584](http://arxiv.org/abs/2410.15584)|null|
@@ -869,6 +873,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
+|**2024-10-22**|**DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model**|Zhixiong Nan et.al.|[2410.16707](http://arxiv.org/abs/2410.16707)|null|
+|**2024-10-22**|**NucleiMix: Realistic Data Augmentation for Nuclei Instance Segmentation**|Jiamu Wang et.al.|[2410.16671](http://arxiv.org/abs/2410.16671)|null|
+|**2024-10-21**|**PlaneSAM: Multimodal Plane Instance Segmentation Using the Segment Anything Model**|Zhongchen Deng et.al.|[2410.16545](http://arxiv.org/abs/2410.16545)|null|
 |**2024-10-21**|**Integrated Image-Text Based on Semi-supervised Learning for Small Sample Instance Segmentation**|Ruting Chi et.al.|[2410.16063](http://arxiv.org/abs/2410.16063)|null|
 |**2024-10-20**|**Improving 3D Medical Image Segmentation at Boundary Regions using Local Self-attention and Global Volume Mixing**|Daniya Najiha Abdul Kareem et.al.|[2410.15360](http://arxiv.org/abs/2410.15360)|null|
 |**2024-10-18**|**Impact of imperfect annotations on CNN training and performance for instance segmentation and classification in digital pathology**|Laura Gálvez Jiménez et.al.|[2410.14365](http://arxiv.org/abs/2410.14365)|null|
@@ -1236,6 +1244,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
+|**2024-10-22**|**YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**|Junzhou Chen et.al.|[2410.17144](http://arxiv.org/abs/2410.17144)|null|
+|**2024-10-22**|**FlightAR: AR Flight Assistance Interface with Multiple Video Streams and Object Detection Aimed at Immersive Drone Control**|Oleg Sautenkov et.al.|[2410.16943](http://arxiv.org/abs/2410.16943)|null|
+|**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
+|**2024-10-22**|**DSORT-MCU: Detecting Small Objects in Real-Time on Microcontroller Units**|Liam Boyle et.al.|[2410.16769](http://arxiv.org/abs/2410.16769)|null|
+|**2024-10-22**|**DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model**|Zhixiong Nan et.al.|[2410.16707](http://arxiv.org/abs/2410.16707)|null|
+|**2024-10-22**|**Fire and Smoke Detection with Burning Intensity Representation**|Xiaoyi Han et.al.|[2410.16642](http://arxiv.org/abs/2410.16642)|**[link](https://github.com/xiaoyihan6/fsdmethod)**|
 |**2024-10-21**|**Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models**|Yufei Zhan et.al.|[2410.16163](http://arxiv.org/abs/2410.16163)|**[link](https://github.com/jefferyzhan/griffon)**|
 |**2024-10-21**|**Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**|Nikos Sakellariou et.al.|[2410.16089](http://arxiv.org/abs/2410.16089)|null|
 |**2024-10-21**|**Few-shot target-driven instance detection based on open-vocabulary object detection models**|Ben Crulis et.al.|[2410.16028](http://arxiv.org/abs/2410.16028)|null|
@@ -2506,6 +2521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Do Audio-Language Models Understand Linguistic Variations?**|Ramaneswaran Selvakumar et.al.|[2410.16505](http://arxiv.org/abs/2410.16505)|null|
 |**2024-10-21**|**Few-shot target-driven instance detection based on open-vocabulary object detection models**|Ben Crulis et.al.|[2410.16028](http://arxiv.org/abs/2410.16028)|null|
 |**2024-10-20**|**Scene Graph Generation with Role-Playing Large Language Models**|Guikun Chen et.al.|[2410.15364](http://arxiv.org/abs/2410.15364)|null|
 |**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|null|
@@ -2829,6 +2845,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|null|
+|**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
+|**2024-10-21**|**VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use**|Zhehao Zhang et.al.|[2410.16400](http://arxiv.org/abs/2410.16400)|null|
 |**2024-10-21**|**Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models**|Yufei Zhan et.al.|[2410.16163](http://arxiv.org/abs/2410.16163)|**[link](https://github.com/jefferyzhan/griffon)**|
 |**2024-10-21**|**MI-VisionShot: Few-shot adaptation of vision-language models for slide-level classification of histopathological images**|Pablo Meseguer et.al.|[2410.15881](http://arxiv.org/abs/2410.15881)|null|
 |**2024-10-21**|**An Efficient System for Automatic Map Storytelling -- A Case Study on Historical Maps**|Ziyi Liu et.al.|[2410.15780](http://arxiv.org/abs/2410.15780)|**[link](https://github.com/claudaff/automatic-map-storytelling)**|
