@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Towards Safer Planetary Exploration: A Hybrid Architecture for Terrain Traversability Analysis in Mars Rovers**|Achille Chiuchiarelli et.al.|[2410.17738](http://arxiv.org/abs/2410.17738)|null|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
 |**2024-10-22**|**SERN: Simulation-Enhanced Realistic Navigation for Multi-Agent Robotic Systems in Contested Environments**|Jumman Hossain et.al.|[2410.16686](http://arxiv.org/abs/2410.16686)|null|
 |**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
@@ -873,6 +874,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
 |**2024-10-22**|**DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model**|Zhixiong Nan et.al.|[2410.16707](http://arxiv.org/abs/2410.16707)|null|
 |**2024-10-22**|**NucleiMix: Realistic Data Augmentation for Nuclei Instance Segmentation**|Jiamu Wang et.al.|[2410.16671](http://arxiv.org/abs/2410.16671)|null|
@@ -1169,6 +1171,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
 |**2024-10-16**|**Configurable Embodied Data Generation for Class-Agnostic RGB-D Video Segmentation**|Anthony Opipari et.al.|[2410.12995](http://arxiv.org/abs/2410.12995)|null|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
 |**2024-10-14**|**PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**|Runsong Zhu et.al.|[2410.10659](http://arxiv.org/abs/2410.10659)|**[link](https://github.com/runsong123/pcf-lift)**|
@@ -1244,6 +1247,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
+|**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[2410.17734](http://arxiv.org/abs/2410.17734)|null|
+|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
+|**2024-10-23**|**PlantCamo: Plant Camouflage Detection**|Jinyu Yang et.al.|[2410.17598](http://arxiv.org/abs/2410.17598)|**[link](https://github.com/yjybuaa/plantcamo)**|
+|**2024-10-23**|**OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking**|Haiji Liang et.al.|[2410.17534](http://arxiv.org/abs/2410.17534)|**[link](https://github.com/coo1sea/ovt-b-dataset)**|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
 |**2024-10-22**|**YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**|Junzhou Chen et.al.|[2410.17144](http://arxiv.org/abs/2410.17144)|null|
 |**2024-10-22**|**FlightAR: AR Flight Assistance Interface with Multiple Video Streams and Object Detection Aimed at Immersive Drone Control**|Oleg Sautenkov et.al.|[2410.16943](http://arxiv.org/abs/2410.16943)|null|
@@ -2521,6 +2529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking**|Haiji Liang et.al.|[2410.17534](http://arxiv.org/abs/2410.17534)|**[link](https://github.com/coo1sea/ovt-b-dataset)**|
 |**2024-10-21**|**Do Audio-Language Models Understand Linguistic Variations?**|Ramaneswaran Selvakumar et.al.|[2410.16505](http://arxiv.org/abs/2410.16505)|null|
 |**2024-10-21**|**Few-shot target-driven instance detection based on open-vocabulary object detection models**|Ben Crulis et.al.|[2410.16028](http://arxiv.org/abs/2410.16028)|null|
 |**2024-10-20**|**Scene Graph Generation with Role-Playing Large Language Models**|Guikun Chen et.al.|[2410.15364](http://arxiv.org/abs/2410.15364)|null|
@@ -2845,6 +2854,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning**|Zhiwei Hao et.al.|[2410.17779](http://arxiv.org/abs/2410.17779)|**[link](https://github.com/hao840/adem-vl)**|
 |**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|null|
 |**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
 |**2024-10-21**|**VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use**|Zhehao Zhang et.al.|[2410.16400](http://arxiv.org/abs/2410.16400)|null|
