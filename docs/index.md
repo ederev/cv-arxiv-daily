@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Federated Black-Box Adaptation for Semantic Segmentation**|Jay N. Paranjape et.al.|[2410.24181](http://arxiv.org/abs/2410.24181)|null|
-|**2024-10-31**|**COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes**|Muhammad Ali et.al.|[2410.24139](http://arxiv.org/abs/2410.24139)|null|
+|**2024-10-31**|**COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes**|Muhammad Ali et.al.|[2410.24139](http://arxiv.org/abs/2410.24139)|**[link](https://github.com/techmn/cosnet)**|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/abs/2410.23905)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-30**|**S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving**|Maciej K. Wozniak et.al.|[2410.23085](http://arxiv.org/abs/2410.23085)|null|
 |**2024-10-31**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Ziyang Gong et.al.|[2410.22629](http://arxiv.org/abs/2410.22629)|**[link](https://github.com/cuzyoung/crossearth)**|
@@ -2896,7 +2896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|null|
+|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP**|Chen Huang et.al.|[2410.23698](http://arxiv.org/abs/2410.23698)|null|
 |**2024-10-30**|**Multilingual Vision-Language Pre-training for the Remote Sensing Domain**|João Daniel Silva et.al.|[2410.23370](http://arxiv.org/abs/2410.23370)|null|
 |**2024-10-28**|**Large Language Model Benchmarks in Medical Tasks**|Lawrence K. Q. Yan et.al.|[2410.21348](http://arxiv.org/abs/2410.21348)|null|
