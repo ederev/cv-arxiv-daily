@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
+|**2024-11-07**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
 |**2024-11-06**|**Generalize or Detect? Towards Robust Semantic Segmentation Under Multiple Distribution Shifts**|Zhitong Gao et.al.|[2411.03829](http://arxiv.org/abs/2411.03829)|**[link](https://github.com/gaozhitong/multishiftseg)**|
 |**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
 |**2024-11-05**|**Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation**|Zhiling Yue et.al.|[2411.03551](http://arxiv.org/abs/2411.03551)|null|
@@ -1293,6 +1295,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**On the Inherent Robustness of One-Stage Object Detection against Out-of-Distribution Data**|Aitor Martinez-Seras et.al.|[2411.04586](http://arxiv.org/abs/2411.04586)|null|
+|**2024-11-07**|**l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion**|Gargi Panda et.al.|[2411.04519](http://arxiv.org/abs/2411.04519)|null|
+|**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501](http://arxiv.org/abs/2411.04501)|null|
+|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348](http://arxiv.org/abs/2411.04348)|null|
+|**2024-11-07**|**GazeGen: Gaze-Driven User Interaction for Visual Content Generation**|He-Yen Hsieh et.al.|[2411.04335](http://arxiv.org/abs/2411.04335)|null|
 |**2024-11-06**|**Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.03728](http://arxiv.org/abs/2411.03728)|**[link](https://github.com/joshualpf/alignsal)**|
 |**2024-11-06**|**Estimation of Psychosocial Work Environment Exposures Through Video Object Detection. Proof of Concept Using CCTV Footage**|Claus D. Hansen et.al.|[2411.03724](http://arxiv.org/abs/2411.03724)|null|
 |**2024-11-05**|**An Application-Agnostic Automatic Target Recognition System Using Vision Language Models**|Anthony Palladino et.al.|[2411.03491](http://arxiv.org/abs/2411.03491)|null|
@@ -2634,6 +2642,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
 |**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
 |**2024-11-05**|**An Application-Agnostic Automatic Target Recognition System Using Vision Language Models**|Anthony Palladino et.al.|[2411.03491](http://arxiv.org/abs/2411.03491)|null|
 |**2024-11-04**|**Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation**|Yan Li et.al.|[2411.02057](http://arxiv.org/abs/2411.02057)|**[link](https://github.com/lizzy8587/castdet)**|
@@ -2967,6 +2976,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-02**|**Designing a Robust Radiology Report Generation System**|Sonit Singh et.al.|[2411.01153](http://arxiv.org/abs/2411.01153)|null|
 |**2024-11-05**|**MACE: Leveraging Audio for Evaluating Audio Captioning Systems**|Satvik Dixit et.al.|[2411.00321](http://arxiv.org/abs/2411.00321)|null|
