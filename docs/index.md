@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387](http://arxiv.org/abs/2411.09387)|null|
+|**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
+|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101](http://arxiv.org/abs/2411.09101)|null|
+|**2024-11-13**|**CoMiX: Cross-Modal Fusion with Deformable Convolutions for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2411.09023](http://arxiv.org/abs/2411.09023)|null|
 |**2024-11-14**|**Masked Image Modeling Boosting Semi-Supervised Semantic Segmentation**|Yangyang Li et.al.|[2411.08756](http://arxiv.org/abs/2411.08756)|null|
 |**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592](http://arxiv.org/abs/2411.08592)|null|
 |**2024-11-12**|**Isometric Transformations for Image Augmentation in Mueller Matrix Polarimetry**|Christopher Hahne et.al.|[2411.07918](http://arxiv.org/abs/2411.07918)|**[link](https://github.com/hahnec/polar_augment)**|
@@ -914,6 +918,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101](http://arxiv.org/abs/2411.09101)|null|
 |**2024-11-13**|**UIFormer: A Unified Transformer-based Framework for Incremental Few-Shot Object Detection and Instance Segmentation**|Chengyuan Zhang et.al.|[2411.08569](http://arxiv.org/abs/2411.08569)|null|
 |**2024-11-13**|**Detection and classification of radio sources with deep learning**|S. Riggi et.al.|[2411.08519](http://arxiv.org/abs/2411.08519)|null|
 |**2024-11-12**|**Horticultural Temporal Fruit Monitoring via 3D Instance Segmentation and Re-Identification using Point Clouds**|Daniel Fusaro et.al.|[2411.07799](http://arxiv.org/abs/2411.07799)|**[link](https://github.com/prbonn/iris3d)**|
@@ -1296,6 +1301,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604](http://arxiv.org/abs/2411.09604)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
+|**2024-11-14**|**Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction**|Chen-Long Duan et.al.|[2411.09453](http://arxiv.org/abs/2411.09453)|null|
+|**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387](http://arxiv.org/abs/2411.09387)|null|
+|**2024-11-14**|**DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines**|Junqi Liu et.al.|[2411.09308](http://arxiv.org/abs/2411.09308)|null|
+|**2024-11-14**|**Cross-Modal Consistency in Multimodal Large Language Models**|Xiang Zhang et.al.|[2411.09273](http://arxiv.org/abs/2411.09273)|null|
+|**2024-11-14**|**LEAP:D - A Novel Prompt-based Approach for Domain-Generalized Aerial Object Detection**|Chanyeong Park et.al.|[2411.09180](http://arxiv.org/abs/2411.09180)|null|
+|**2024-11-13**|**Multimodal Object Detection using Depth and Image Data for Manufacturing Parts**|Nazanin Mahjourian et.al.|[2411.09062](http://arxiv.org/abs/2411.09062)|null|
+|**2024-11-13**|**DART-LLM: Dependency-Aware Multi-Robot Task Decomposition and Execution using Large Language Models**|Yongdong Wang et.al.|[2411.09022](http://arxiv.org/abs/2411.09022)|null|
 |**2024-11-13**|**UIFormer: A Unified Transformer-based Framework for Incremental Few-Shot Object Detection and Instance Segmentation**|Chengyuan Zhang et.al.|[2411.08569](http://arxiv.org/abs/2411.08569)|null|
 |**2024-11-13**|**Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**|Anton Kuznietsov et.al.|[2411.08482](http://arxiv.org/abs/2411.08482)|null|
 |**2024-11-13**|**V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**|Xun Huang et.al.|[2411.08402](http://arxiv.org/abs/2411.08402)|**[link](https://github.com/ylwhxht/v2x-r)**|
@@ -2658,6 +2671,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
 |**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
@@ -2991,6 +3005,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301](http://arxiv.org/abs/2411.09301)|**[link](https://github.com/NJU-LHRS/LHRS-Bot)**|
+|**2024-11-14**|**LLV-FSR: Exploiting Large Language-Vision Prior for Face Super-resolution**|Chenyang Wang et.al.|[2411.09293](http://arxiv.org/abs/2411.09293)|null|
+|**2024-11-14**|**Cross-Modal Consistency in Multimodal Large Language Models**|Xiang Zhang et.al.|[2411.09273](http://arxiv.org/abs/2411.09273)|null|
+|**2024-11-13**|**Bridging the Visual Gap: Fine-Tuning Multimodal Models with Knowledge-Adapted Captions**|Moran Yanuka et.al.|[2411.09018](http://arxiv.org/abs/2411.09018)|null|
 |**2024-11-12**|**Grounded Video Caption Generation**|Evangelos Kazakos et.al.|[2411.07584](http://arxiv.org/abs/2411.07584)|null|
 |**2024-11-12**|**BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**|Anas Awadalla et.al.|[2411.07461](http://arxiv.org/abs/2411.07461)|null|
 |**2024-11-12**|**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**|Yuanbo Wen et.al.|[2411.07445](http://arxiv.org/abs/2411.07445)|null|
