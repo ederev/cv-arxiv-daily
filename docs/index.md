@@ -14,11 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang et.al.|[2411.12615](http://arxiv.org/abs/2411.12615)|null|
+|**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602](http://arxiv.org/abs/2411.12602)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
+|**2024-11-19**|**ADV2E: Bridging the Gap Between Analogue Circuit and Discrete Frames in the Video-to-Events Simulator**|Xiao Jiang et.al.|[2411.12250](http://arxiv.org/abs/2411.12250)|null|
+|**2024-11-18**|**ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements**|M. Arda Aydın et.al.|[2411.12044](http://arxiv.org/abs/2411.12044)|**[link](https://github.com/m-arda-aydn/itaclip)**|
+|**2024-11-18**|**Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei Miandashti et.al.|[2411.11935](http://arxiv.org/abs/2411.11935)|null|
 |**2024-11-18**|**MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models**|Harshita Sharma et.al.|[2411.11362](http://arxiv.org/abs/2411.11362)|null|
 |**2024-11-18**|**Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications**|Scarlett Raine et.al.|[2411.11287](http://arxiv.org/abs/2411.11287)|null|
 |**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
 |**2024-11-16**|**Automatic Discovery and Assessment of Interpretable Systematic Errors in Semantic Segmentation**|Jaisidh Singh et.al.|[2411.10845](http://arxiv.org/abs/2411.10845)|null|
-|**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|null|
+|**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|**[link](https://github.com/BMDS-ETH/SpineSegDiff)**|
 |**2024-11-15**|**Y-MAP-Net: Real-time depth, normals, segmentation, multi-label captioning and 2D human pose in RGB images**|Ammar Qammaz et.al.|[2411.10334](http://arxiv.org/abs/2411.10334)|null|
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
 |**2024-11-14**|**OneNet: A Channel-Wise 1D Convolutional U-Net**|Sanghyun Byun et.al.|[2411.09838](http://arxiv.org/abs/2411.09838)|**[link](https://github.com/shbyun080/onenet)**|
@@ -1312,6 +1317,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
+|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
+|**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
+|**2024-11-18**|**Scaling Deep Learning Research with Kubernetes on the NRP Nautilus HyperCluster**|J. Alex Hurt et.al.|[2411.12038](http://arxiv.org/abs/2411.12038)|null|
 |**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826](http://arxiv.org/abs/2411.11826)|null|
 |**2024-11-18**|**WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images**|Lars Nieradzik et.al.|[2411.11738](http://arxiv.org/abs/2411.11738)|null|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
@@ -2626,6 +2635,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-11-04**|**KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**|Jie Yang et.al.|[2411.01846](http://arxiv.org/abs/2411.01846)|null|
 |**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906](http://arxiv.org/abs/2410.23906)|null|
@@ -2694,6 +2704,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping**|Teli Ma et.al.|[2411.12286](http://arxiv.org/abs/2411.12286)|null|
+|**2024-11-18**|**ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements**|M. Arda Aydın et.al.|[2411.12044](http://arxiv.org/abs/2411.12044)|**[link](https://github.com/m-arda-aydn/itaclip)**|
 |**2024-11-18**|**Towards Open-Vocabulary Audio-Visual Event Localization**|Jinxing Zhou et.al.|[2411.11278](http://arxiv.org/abs/2411.11278)|null|
 |**2024-11-17**|**Exploiting VLM Localizability and Semantics for Open Vocabulary Action Detection**|Wentao Bao et.al.|[2411.10922](http://arxiv.org/abs/2411.10922)|null|
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
@@ -3031,6 +3043,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**AI Flow at the Network Edge**|Jiawei Shao et.al.|[2411.12469](http://arxiv.org/abs/2411.12469)|null|
 |**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758](http://arxiv.org/abs/2411.11758)|null|
 |**2024-11-17**|**MolParser: End-to-end Visual Recognition of Molecule Structures in the Wild**|Xi Fang et.al.|[2411.11098](http://arxiv.org/abs/2411.11098)|null|
 |**2024-11-17**|**Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning**|Wenke Huang et.al.|[2411.10928](http://arxiv.org/abs/2411.10928)|null|
