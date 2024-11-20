@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -18,7 +18,7 @@ layout: default
 |**2024-11-18**|**Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications**|Scarlett Raine et.al.|[2411.11287](http://arxiv.org/abs/2411.11287)|null|
 |**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
 |**2024-11-16**|**Automatic Discovery and Assessment of Interpretable Systematic Errors in Semantic Segmentation**|Jaisidh Singh et.al.|[2411.10845](http://arxiv.org/abs/2411.10845)|null|
-|**2024-11-16**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|null|
+|**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|null|
 |**2024-11-15**|**Y-MAP-Net: Real-time depth, normals, segmentation, multi-label captioning and 2D human pose in RGB images**|Ammar Qammaz et.al.|[2411.10334](http://arxiv.org/abs/2411.10334)|null|
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
 |**2024-11-14**|**OneNet: A Channel-Wise 1D Convolutional U-Net**|Sanghyun Byun et.al.|[2411.09838](http://arxiv.org/abs/2411.09838)|**[link](https://github.com/shbyun080/onenet)**|
@@ -1316,7 +1316,7 @@ layout: default
 |**2024-11-18**|**WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images**|Lars Nieradzik et.al.|[2411.11738](http://arxiv.org/abs/2411.11738)|null|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-18**|**SL-YOLO: A Stronger and Lighter Drone Target Detection Model**|Defan Chen et.al.|[2411.11477](http://arxiv.org/abs/2411.11477)|null|
-|**2024-11-16**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
+|**2024-11-19**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
 |**2024-11-15**|**Vision Eagle Attention: A New Lens for Advancing Image Classification**|Mahmudul Hasan et.al.|[2411.10564](http://arxiv.org/abs/2411.10564)|**[link](https://github.com/MahmudulHasan11085/Vision-Eagle-Attention)**|
 |**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357](http://arxiv.org/abs/2411.10357)|null|
 |**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
@@ -2699,7 +2699,7 @@ layout: default
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
-|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|**[link](https://github.com/hello-robot/stretch_ai)**|
 |**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
 |**2024-11-05**|**An Application-Agnostic Automatic Target Recognition System Using Vision Language Models**|Anthony Palladino et.al.|[2411.03491](http://arxiv.org/abs/2411.03491)|null|
 |**2024-11-04**|**Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation**|Yan Li et.al.|[2411.02057](http://arxiv.org/abs/2411.02057)|**[link](https://github.com/lizzy8587/castdet)**|
