@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**|Niharika Hegde et.al.|[2411.17610](http://arxiv.org/abs/2411.17610)|null|
+|**2024-11-26**|**Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2411.17543](http://arxiv.org/abs/2411.17543)|null|
+|**2024-11-26**|**Box for Mask and Mask for Box: weak losses for multi-task partially supervised learning**|Hoàng-Ân Lê et.al.|[2411.17536](http://arxiv.org/abs/2411.17536)|**[link](https://github.com/lhoangan/multas)**|
+|**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
+|**2024-11-26**|**MRIFE: A Mask-Recovering and Interactive-Feature-Enhancing Semantic Segmentation Network For Relic Landslide Detection**|Juefei He et.al.|[2411.17167](http://arxiv.org/abs/2411.17167)|null|
+|**2024-11-26**|**Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**|Chanyoung Kim et.al.|[2411.17150](http://arxiv.org/abs/2411.17150)|null|
+|**2024-11-26**|**ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction**|Chang Li et.al.|[2411.17088](http://arxiv.org/abs/2411.17088)|null|
+|**2024-11-26**|**SCASeg: Strip Cross-Attention for Efficient Semantic Segmentation**|Guoan Xu et.al.|[2411.17061](http://arxiv.org/abs/2411.17061)|null|
 |**2024-11-25**|**Deformable Mamba for Wide Field of View Segmentation**|Jie Hu et.al.|[2411.16481](http://arxiv.org/abs/2411.16481)|**[link](https://github.com/jiehu1996/deformablemamba)**|
 |**2024-11-25**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|Manuel Schwonberg et.al.|[2411.16407](http://arxiv.org/abs/2411.16407)|null|
 |**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|null|
@@ -949,6 +957,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**A Bilayer Segmentation-Recombination Network for Accurate Segmentation of Overlapping C. elegans**|Mengqian Dinga et.al.|[2411.17557](http://arxiv.org/abs/2411.17557)|null|
+|**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
+|**2024-11-26**|**Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps**|Xue Xia et.al.|[2411.17425](http://arxiv.org/abs/2411.17425)|null|
+|**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-11-26**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
 |**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|null|
 |**2024-11-25**|**Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking**|Phuc Nguyen et.al.|[2411.16183](http://arxiv.org/abs/2411.16183)|null|
@@ -1265,7 +1277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219](http://arxiv.org/abs/2411.16219)|null|
+|**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219](http://arxiv.org/abs/2411.16219)|**[link](https://github.com/manuelknott/banana-defect-segmentation)**|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[2411.11466](http://arxiv.org/abs/2411.11466)|null|
 |**2024-11-08**|**Agricultural Landscape Understanding At Country-Scale**|Radhika Dua et.al.|[2411.05359](http://arxiv.org/abs/2411.05359)|null|
 |**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
@@ -1342,6 +1354,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Box for Mask and Mask for Box: weak losses for multi-task partially supervised learning**|Hoàng-Ân Lê et.al.|[2411.17536](http://arxiv.org/abs/2411.17536)|**[link](https://github.com/lhoangan/multas)**|
+|**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
+|**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432](http://arxiv.org/abs/2411.17432)|null|
+|**2024-11-26**|**DGNN-YOLO: Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance**|Shahriar Soudeep et.al.|[2411.17251](http://arxiv.org/abs/2411.17251)|null|
+|**2024-11-26**|**Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation**|Craig Iaboni et.al.|[2411.17006](http://arxiv.org/abs/2411.17006)|**[link](https://github.com/radlab-sketch/Event-SNN-Resources)**|
+|**2024-11-25**|**Online Episodic Memory Visual Query Localization with Egocentric Streaming Object Memory**|Zaira Manigrasso et.al.|[2411.16934](http://arxiv.org/abs/2411.16934)|null|
+|**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833](http://arxiv.org/abs/2411.16833)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
 |**2024-11-25**|**Imperceptible Adversarial Examples in the Physical World**|Weilin Xu et.al.|[2411.16622](http://arxiv.org/abs/2411.16622)|null|
 |**2024-11-25**|**STDWeb: Simple Transient Detection pipeline for the Web**|Sergey Karpov et.al.|[2411.16470](http://arxiv.org/abs/2411.16470)|null|
 |**2024-11-25**|**Machine Learning for the Digital Typhoon Dataset: Extensions to Multiple Basins and New Developments in Representations and Tasks**|Asanobu Kitamoto et.al.|[2411.16421](http://arxiv.org/abs/2411.16421)|**[link](https://github.com/kitamoto-lab/digital-typhoon)**|
@@ -2757,12 +2776,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-25**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
+|**2024-11-26**|**Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**|Chanyoung Kim et.al.|[2411.17150](http://arxiv.org/abs/2411.17150)|null|
+|**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833](http://arxiv.org/abs/2411.16833)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
+|**2024-11-26**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
 |**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
 |**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|null|
 |**2024-11-25**|**Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking**|Phuc Nguyen et.al.|[2411.16183](http://arxiv.org/abs/2411.16183)|null|
 |**2024-11-25**|**Language Driven Occupancy Prediction**|Zhu Yu et.al.|[2411.16072](http://arxiv.org/abs/2411.16072)|**[link](https://github.com/pkqbajng/locc)**|
-|**2024-11-24**|**Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation**|Sule Bai et.al.|[2411.15869](http://arxiv.org/abs/2411.15869)|null|
+|**2024-11-24**|**Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation**|Sule Bai et.al.|[2411.15869](http://arxiv.org/abs/2411.15869)|**[link](https://github.com/sulebai/sc-clip)**|
 |**2024-11-24**|**ResCLIP: Residual Attention for Training-free Dense Vision-language Inference**|Yuhang Yang et.al.|[2411.15851](http://arxiv.org/abs/2411.15851)|**[link](https://github.com/yvhangyang/resclip)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657](http://arxiv.org/abs/2411.15657)|null|
 |**2024-11-23**|**Fine-Grained Open-Vocabulary Object Recognition via User-Guided Segmentation**|Jinwoo Ahn et.al.|[2411.15620](http://arxiv.org/abs/2411.15620)|null|
