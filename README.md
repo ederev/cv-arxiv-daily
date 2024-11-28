@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814](http://arxiv.org/abs/2411.17814)|null|
+|**2024-11-26**|**Efficient Multi-modal Large Language Models via Visual Token Grouping**|Minbin Huang et.al.|[2411.17773](http://arxiv.org/abs/2411.17773)|null|
 |**2024-11-26**|**Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**|Niharika Hegde et.al.|[2411.17610](http://arxiv.org/abs/2411.17610)|null|
 |**2024-11-26**|**Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2411.17543](http://arxiv.org/abs/2411.17543)|null|
 |**2024-11-26**|**Box for Mask and Mask for Box: weak losses for multi-task partially supervised learning**|Hoàng-Ân Lê et.al.|[2411.17536](http://arxiv.org/abs/2411.17536)|**[link](https://github.com/lhoangan/multas)**|
@@ -1369,6 +1371,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|null|
+|**2024-11-27**|**Deep Fourier-embedded Network for Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|**[link](https://github.com/joshualpf/dfenet)**|
+|**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288](http://arxiv.org/abs/2411.18288)|null|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
+|**2024-11-27**|**RPEE-HEADS: A Novel Benchmark for Pedestrian Head Detection in Crowd Videos**|Mohamad Abubaker et.al.|[2411.18164](http://arxiv.org/abs/2411.18164)|null|
+|**2024-11-27**|**ROICtrl: Boosting Instance Control for Visual Generation**|Yuchao Gu et.al.|[2411.17949](http://arxiv.org/abs/2411.17949)|null|
 |**2024-11-26**|**Box for Mask and Mask for Box: weak losses for multi-task partially supervised learning**|Hoàng-Ân Lê et.al.|[2411.17536](http://arxiv.org/abs/2411.17536)|**[link](https://github.com/lhoangan/multas)**|
 |**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
 |**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432](http://arxiv.org/abs/2411.17432)|null|
@@ -2795,6 +2803,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
+|**2024-11-27**|**GLS: Geometry-aware 3D Language Gaussian Splatting**|Jiaxiong Qiu et.al.|[2411.18066](http://arxiv.org/abs/2411.18066)|**[link](https://github.com/jiaxiongq/gls)**|
+|**2024-11-26**|**OpenAD: Open-World Autonomous Driving Benchmark for 3D Object Detection**|Zhongyu Xia et.al.|[2411.17761](http://arxiv.org/abs/2411.17761)|null|
 |**2024-11-26**|**Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**|Chanyoung Kim et.al.|[2411.17150](http://arxiv.org/abs/2411.17150)|null|
 |**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833](http://arxiv.org/abs/2411.16833)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
 |**2024-11-26**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
@@ -3154,6 +3165,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Efficient Multi-modal Large Language Models via Visual Token Grouping**|Minbin Huang et.al.|[2411.17773](http://arxiv.org/abs/2411.17773)|null|
 |**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
 |**2024-11-25**|**Debiasing Classifiers by Amplifying Bias with Latent Diffusion and Large Language Models**|Donggeun Ko et.al.|[2411.16079](http://arxiv.org/abs/2411.16079)|null|
 |**2024-11-24**|**Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks**|Peng Xie et.al.|[2411.15720](http://arxiv.org/abs/2411.15720)|null|
