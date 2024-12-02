@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**LDA-AQU: Adaptive Query-guided Upsampling via Local Deformable Attention**|Zewen Du et.al.|[2411.19585](http://arxiv.org/abs/2411.19585)|**[link](https://github.com/duzw9311/lda-aqu)**|
+|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|null|
+|**2024-11-29**|**Retrieval-guided Cross-view Image Synthesis**|Hongji Yang et.al.|[2411.19510](http://arxiv.org/abs/2411.19510)|null|
+|**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289](http://arxiv.org/abs/2411.19289)|null|
+|**2024-11-28**|**MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers**|Jongseong Bae et.al.|[2411.18995](http://arxiv.org/abs/2411.18995)|null|
+|**2024-11-28**|**Textured As-Is BIM via GIS-informed Point Cloud Segmentation**|Mohamed S. H. Alabassy et.al.|[2411.18898](http://arxiv.org/abs/2411.18898)|null|
+|**2024-11-27**|**The Last Mile to Supervised Performance: Semi-Supervised Domain Adaptation for Semantic Segmentation**|Daniel Morales-Brotons et.al.|[2411.18728](http://arxiv.org/abs/2411.18728)|null|
+|**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662](http://arxiv.org/abs/2411.18662)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
 |**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814](http://arxiv.org/abs/2411.17814)|null|
 |**2024-11-26**|**Efficient Multi-modal Large Language Models via Visual Token Grouping**|Minbin Huang et.al.|[2411.17773](http://arxiv.org/abs/2411.17773)|null|
 |**2024-11-26**|**Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**|Niharika Hegde et.al.|[2411.17610](http://arxiv.org/abs/2411.17610)|null|
@@ -959,6 +967,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**LDA-AQU: Adaptive Query-guided Upsampling via Local Deformable Attention**|Zewen Du et.al.|[2411.19585](http://arxiv.org/abs/2411.19585)|**[link](https://github.com/duzw9311/lda-aqu)**|
+|**2024-11-28**|**InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception**|Haijie Li et.al.|[2411.19235](http://arxiv.org/abs/2411.19235)|null|
 |**2024-11-26**|**A Bilayer Segmentation-Recombination Network for Accurate Segmentation of Overlapping C. elegans**|Mengqian Dinga et.al.|[2411.17557](http://arxiv.org/abs/2411.17557)|null|
 |**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
 |**2024-11-26**|**Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps**|Xue Xia et.al.|[2411.17425](http://arxiv.org/abs/2411.17425)|null|
@@ -1279,6 +1289,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**LDA-AQU: Adaptive Query-guided Upsampling via Local Deformable Attention**|Zewen Du et.al.|[2411.19585](http://arxiv.org/abs/2411.19585)|**[link](https://github.com/duzw9311/lda-aqu)**|
 |**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219](http://arxiv.org/abs/2411.16219)|**[link](https://github.com/manuelknott/banana-defect-segmentation)**|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[2411.11466](http://arxiv.org/abs/2411.11466)|null|
 |**2024-11-08**|**Agricultural Landscape Understanding At Country-Scale**|Radhika Dua et.al.|[2411.05359](http://arxiv.org/abs/2411.05359)|null|
@@ -1356,6 +1367,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
+|**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
+|**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
+|**2024-11-29**|**LDA-AQU: Adaptive Query-guided Upsampling via Local Deformable Attention**|Zewen Du et.al.|[2411.19585](http://arxiv.org/abs/2411.19585)|**[link](https://github.com/duzw9311/lda-aqu)**|
+|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|null|
+|**2024-11-28**|**Automatic Prompt Generation and Grounding Object Detection for Zero-Shot Image Anomaly Detection**|Tsun-Hin Cheung et.al.|[2411.19220](http://arxiv.org/abs/2411.19220)|null|
+|**2024-11-28**|**Co-Learning: Towards Semi-Supervised Object Detection with Road-side Cameras**|Jicheng Yuan et.al.|[2411.19143](http://arxiv.org/abs/2411.19143)|null|
+|**2024-11-28**|**On Moving Object Segmentation from Monocular Video with Transformers**|Christian Homeyer et.al.|[2411.19141](http://arxiv.org/abs/2411.19141)|null|
+|**2024-11-28**|**Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection**|Junwei Feng et.al.|[2411.19071](http://arxiv.org/abs/2411.19071)|null|
+|**2024-11-28**|**MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers**|Jongseong Bae et.al.|[2411.18995](http://arxiv.org/abs/2411.18995)|null|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|**[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)**|
 |**2024-11-27**|**Deep Fourier-embedded Network for Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|**[link](https://github.com/joshualpf/dfenet)**|
 |**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288](http://arxiv.org/abs/2411.18288)|**[link](https://github.com/cpboost/double-co-detr)**|
@@ -2784,6 +2805,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding**|Yawen Shao et.al.|[2411.19626](http://arxiv.org/abs/2411.19626)|null|
+|**2024-11-28**|**Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**|Luca Barsellotti et.al.|[2411.19331](http://arxiv.org/abs/2411.19331)|null|
+|**2024-11-28**|**InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception**|Haijie Li et.al.|[2411.19235](http://arxiv.org/abs/2411.19235)|null|
 |**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
 |**2024-11-27**|**GLS: Geometry-aware 3D Language Gaussian Splatting**|Jiaxiong Qiu et.al.|[2411.18066](http://arxiv.org/abs/2411.18066)|**[link](https://github.com/jiaxiongq/gls)**|
 |**2024-11-26**|**OpenAD: Open-World Autonomous Driving Benchmark for 3D Object Detection**|Zhongyu Xia et.al.|[2411.17761](http://arxiv.org/abs/2411.17761)|**[link](https://github.com/VDIGPKU/OpenAD)**|
@@ -3144,6 +3168,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**On Domain-Specific Post-Training for Multimodal Large Language Models**|Daixuan Cheng et.al.|[2411.19930](http://arxiv.org/abs/2411.19930)|null|
+|**2024-11-27**|**Active Data Curation Effectively Distills Large-Scale Multimodal Models**|Vishaal Udandarao et.al.|[2411.18674](http://arxiv.org/abs/2411.18674)|null|
 |**2024-11-26**|**Efficient Multi-modal Large Language Models via Visual Token Grouping**|Minbin Huang et.al.|[2411.17773](http://arxiv.org/abs/2411.17773)|null|
 |**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
 |**2024-11-25**|**Debiasing Classifiers by Amplifying Bias with Latent Diffusion and Large Language Models**|Donggeun Ko et.al.|[2411.16079](http://arxiv.org/abs/2411.16079)|null|
