@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -2833,13 +2833,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-03**|**Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance**|Jing Zeng et.al.|[2412.02249](http://arxiv.org/abs/2412.02249)|null|
-|**2024-12-03**|**SparseLGS: Sparse View Language Embedded Gaussian Splatting**|Jun Hu et.al.|[2412.02245](http://arxiv.org/abs/2412.02245)|null|
+|**2024-12-04**|**SparseLGS: Sparse View Language Embedded Gaussian Splatting**|Jun Hu et.al.|[2412.02245](http://arxiv.org/abs/2412.02245)|null|
 |**2024-12-03**|**SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images**|Junqiu Yu et.al.|[2412.02140](http://arxiv.org/abs/2412.02140)|null|
 |**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539](http://arxiv.org/abs/2412.01539)|null|
 |**2024-12-02**|**TACO: Training-free Sound Prompted Segmentation via Deep Audio-visual CO-factorization**|Hugo Malard et.al.|[2412.01488](http://arxiv.org/abs/2412.01488)|null|
 |**2024-11-30**|**Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training**|Haicheng Wang et.al.|[2412.00440](http://arxiv.org/abs/2412.00440)|null|
 |**2024-11-30**|**LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation**|Huadong Tang et.al.|[2412.00364](http://arxiv.org/abs/2412.00364)|null|
-|**2024-11-29**|**ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model**|Kunyang Han et.al.|[2412.00153](http://arxiv.org/abs/2412.00153)|null|
+|**2024-12-04**|**ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model**|Kunyang Han et.al.|[2412.00153](http://arxiv.org/abs/2412.00153)|null|
 |**2024-11-29**|**GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding**|Yawen Shao et.al.|[2411.19626](http://arxiv.org/abs/2411.19626)|null|
 |**2024-11-28**|**Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**|Luca Barsellotti et.al.|[2411.19331](http://arxiv.org/abs/2411.19331)|null|
 |**2024-11-28**|**InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception**|Haijie Li et.al.|[2411.19235](http://arxiv.org/abs/2411.19235)|null|
