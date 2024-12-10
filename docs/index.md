@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|
+|**2024-12-09**|**Active Learning with Context Sampling and One-vs-Rest Entropy for Semantic Segmentation**|Fei Wu et.al.|[2412.06470](http://arxiv.org/abs/2412.06470)|null|
+|**2024-12-09**|**GCUNet: A GNN-Based Contextual Learning Network for Tertiary Lymphoid Structure Semantic Segmentation in Whole Slide Image**|Lei Su et.al.|[2412.06129](http://arxiv.org/abs/2412.06129)|null|
+|**2024-12-08**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969](http://arxiv.org/abs/2412.05969)|null|
+|**2024-12-08**|**CSG: A Context-Semantic Guided Diffusion Approach in De Novo Musculoskeletal Ultrasound Image Generation**|Elay Dahan et.al.|[2412.05833](http://arxiv.org/abs/2412.05833)|null|
+|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
+|**2024-12-06**|**FogROS2-FT: Fault Tolerant Cloud Robotics**|Kaiyuan Chen et.al.|[2412.05408](http://arxiv.org/abs/2412.05408)|null|
+|**2024-12-06**|**Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images**|Junno Yun et.al.|[2412.05341](http://arxiv.org/abs/2412.05341)|null|
 |**2024-12-05**|**Assessing and Learning Alignment of Unimodal Vision and Language Models**|Le Zhang et.al.|[2412.04616](http://arxiv.org/abs/2412.04616)|null|
 |**2024-12-05**|**A Hitchhiker's Guide to Understanding Performances of Two-Class Classifiers**|Anaïs Halin et.al.|[2412.04377](http://arxiv.org/abs/2412.04377)|null|
 |**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
@@ -994,10 +1002,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Open-Vocabulary High-Resolution 3D (OVHR3D) Data Segmentation and Annotation Framework**|Jiuyi Xu et.al.|[2412.06268](http://arxiv.org/abs/2412.06268)|null|
+|**2024-12-07**|**Integrating YOLO11 and Convolution Block Attention Module for Multi-Season Segmentation of Tree Trunks and Branches in Commercial Apple Orchards**|Ranjan Sapkota et.al.|[2412.05728](http://arxiv.org/abs/2412.05728)|null|
 |**2024-12-06**|**DreamColour: Controllable Video Colour Editing without Training**|Chaitat Utintu et.al.|[2412.05180](http://arxiv.org/abs/2412.05180)|null|
 |**2024-12-05**|**Towards Real-Time Open-Vocabulary Video Instance Segmentation**|Bin Yan et.al.|[2412.04434](http://arxiv.org/abs/2412.04434)|null|
 |**2024-12-03**|**Vision Transformers for Weakly-Supervised Microorganism Enumeration**|Javier Ureña Santiago et.al.|[2412.02250](http://arxiv.org/abs/2412.02250)|**[link](https://github.com/JavierUrenaPhDProjects/artificial_fluorescent_dataset)**|
-|**2024-12-02**|**3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting**|Ziyang Yan et.al.|[2412.01583](http://arxiv.org/abs/2412.01583)|null|
+|**2024-12-09**|**3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting**|Ziyang Yan et.al.|[2412.01583](http://arxiv.org/abs/2412.01583)|null|
 |**2024-12-02**|**Holistic Understanding of 3D Scenes as Universal Scene Description**|Anna-Maria Halacheva et.al.|[2412.01398](http://arxiv.org/abs/2412.01398)|null|
 |**2024-12-02**|**A2VIS: Amodal-Aware Approach to Video Instance Segmentation**|Minh Tran et.al.|[2412.01147](http://arxiv.org/abs/2412.01147)|null|
 |**2024-12-01**|**Token Cropr: Faster ViTs for Quite a Few Tasks**|Benjamin Bergner et.al.|[2412.00965](http://arxiv.org/abs/2412.00965)|**[link](https://github.com/benbergner/cropr)**|
@@ -1403,6 +1413,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**FlexEvent: Event Camera Object Detection at Arbitrary Frequencies**|Dongyue Lu et.al.|[2412.06708](http://arxiv.org/abs/2412.06708)|null|
+|**2024-12-09**|**EMOv2: Pushing 5M Vision Model Frontier**|Jiangning Zhang et.al.|[2412.06674](http://arxiv.org/abs/2412.06674)|**[link](https://github.com/zhangzjn/emov2)**|
+|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
+|**2024-12-09**|**Self-Paced Learning Strategy with Easy Sample Prior Based on Confidence for the Flying Bird Object Detection Model Training**|Zi-Wei Sun et.al.|[2412.06306](http://arxiv.org/abs/2412.06306)|null|
+|**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
+|**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
+|**2024-12-09**|**A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**|Jaden Mu et.al.|[2412.06215](http://arxiv.org/abs/2412.06215)|null|
+|**2024-12-09**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
+|**2024-12-08**|**Tiny Object Detection with Single Point Supervision**|Haoran Zhu et.al.|[2412.05837](http://arxiv.org/abs/2412.05837)|null|
+|**2024-12-07**|**Rethinking Annotation for Object Detection: Is Annotating Small-size Instances Worth Its Cost?**|Yusuke Hosoya et.al.|[2412.05611](http://arxiv.org/abs/2412.05611)|null|
 |**2024-12-06**|**From classical techniques to convolution-based models: A review of object detection algorithms**|Fnu Neha et.al.|[2412.05252](http://arxiv.org/abs/2412.05252)|null|
 |**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[2412.05154](http://arxiv.org/abs/2412.05154)|**[link](https://github.com/ghostish/objectcentricocccompletion)**|
 |**2024-12-06**|**DEYOLO: Dual-Feature-Enhancement YOLO for Cross-Modality Object Detection**|Yishuo Chen et.al.|[2412.04931](http://arxiv.org/abs/2412.04931)|**[link](https://github.com/chips96/deyolo)**|
@@ -2804,6 +2824,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
+|**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
@@ -2876,6 +2899,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations**|Mingjie Xu et.al.|[2412.06322](http://arxiv.org/abs/2412.06322)|**[link](https://github.com/endlinc/llava-spacesgg)**|
+|**2024-12-09**|**Open-Vocabulary High-Resolution 3D (OVHR3D) Data Segmentation and Annotation Framework**|Jiuyi Xu et.al.|[2412.06268](http://arxiv.org/abs/2412.06268)|null|
+|**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
+|**2024-12-09**|**Category-Adaptive Cross-Modal Semantic Refinement and Transfer for Open-Vocabulary Multi-Label Recognition**|Haijing Liu et.al.|[2412.06190](http://arxiv.org/abs/2412.06190)|null|
+|**2024-12-06**|**COOOL: Challenge Of Out-Of-Label A Novel Benchmark for Autonomous Driving**|Ali K. AlShami et.al.|[2412.05462](http://arxiv.org/abs/2412.05462)|null|
 |**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925](http://arxiv.org/abs/2412.04925)|null|
 |**2024-12-05**|**Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation**|Yongkang Li et.al.|[2412.04533](http://arxiv.org/abs/2412.04533)|**[link](https://github.com/hustvl/maskadapter)**|
 |**2024-12-05**|**Towards Real-Time Open-Vocabulary Video Instance Segmentation**|Bin Yan et.al.|[2412.04434](http://arxiv.org/abs/2412.04434)|null|
@@ -3254,6 +3282,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|
+|**2024-12-08**|**Exploring Multi-Grained Concept Annotations for Multimodal Large Language Models**|Xiao Xu et.al.|[2412.05939](http://arxiv.org/abs/2412.05939)|null|
+|**2024-12-07**|**HMGIE: Hierarchical and Multi-Grained Inconsistency Evaluation for Vision-Language Data Cleansing**|Zihao Zhu et.al.|[2412.05685](http://arxiv.org/abs/2412.05685)|null|
 |**2024-12-06**|**CompCap: Improving Multimodal Large Language Models with Composite Captions**|Xiaohui Chen et.al.|[2412.05243](http://arxiv.org/abs/2412.05243)|null|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**Automated Medical Report Generation for ECG Data: Bridging Medical Text and Signal Processing with Deep Learning**|Amnon Bleich et.al.|[2412.04067](http://arxiv.org/abs/2412.04067)|null|
