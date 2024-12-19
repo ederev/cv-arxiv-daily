@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1041,7 +1041,7 @@ layout: default
 |**2024-12-14**|**RapidNet: Multi-Level Dilated Convolution Based Mobile Backbone**|Mustafa Munir et.al.|[2412.10995](http://arxiv.org/abs/2412.10995)|**[link](https://github.com/mmunir127/rapidnet-official)**|
 |**2024-12-12**|**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**|Jan-Lucas Uslu et.al.|[2412.09333](http://arxiv.org/abs/2412.09333)|null|
 |**2024-12-12**|**STEAM: Squeeze and Transform Enhanced Attention Module**|Rishabh Sabharwal et.al.|[2412.09023](http://arxiv.org/abs/2412.09023)|null|
-|**2024-12-09**|**Open-Vocabulary High-Resolution 3D (OVHR3D) Data Segmentation and Annotation Framework**|Jiuyi Xu et.al.|[2412.06268](http://arxiv.org/abs/2412.06268)|null|
+|**2024-12-18**|**Open-Vocabulary High-Resolution 3D (OVHR3D) Data Segmentation and Annotation Framework**|Jiuyi Xu et.al.|[2412.06268](http://arxiv.org/abs/2412.06268)|null|
 |**2024-12-07**|**Integrating YOLO11 and Convolution Block Attention Module for Multi-Season Segmentation of Tree Trunks and Branches in Commercial Apple Orchards**|Ranjan Sapkota et.al.|[2412.05728](http://arxiv.org/abs/2412.05728)|null|
 |**2024-12-06**|**DreamColour: Controllable Video Colour Editing without Training**|Chaitat Utintu et.al.|[2412.05180](http://arxiv.org/abs/2412.05180)|null|
 |**2024-12-05**|**Towards Real-Time Open-Vocabulary Video Instance Segmentation**|Bin Yan et.al.|[2412.04434](http://arxiv.org/abs/2412.04434)|null|
