@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data**|Xinwei Ju et.al.|[2412.16078](http://arxiv.org/abs/2412.16078)|null|
+|**2024-12-20**|**Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge Transfer**|Xinyue Chen et.al.|[2412.15835](http://arxiv.org/abs/2412.15835)|**[link](https://github.com/hhhhedy/gfss-ekt)**|
 |**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|**[link](https://github.com/andrade-miranda/girafe)**|
 |**2024-12-19**|**PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation**|Shoumeng Qiu et.al.|[2412.14821](http://arxiv.org/abs/2412.14821)|**[link](https://github.com/skyshoumeng/pc-bev)**|
 |**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587](http://arxiv.org/abs/2412.14587)|null|
@@ -1484,6 +1486,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
+|**2024-12-20**|**MR-GDINO: Efficient Open-World Continual Object Detection**|Bowen Dong et.al.|[2412.15979](http://arxiv.org/abs/2412.15979)|**[link](https://github.com/dongsky/mr-gdino)**|
+|**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595](http://arxiv.org/abs/2412.15595)|null|
+|**2024-12-19**|**Exploring Machine Learning Engineering for Object Detection and Tracking by Unmanned Aerial Vehicle (UAV)**|Aneesha Guna et.al.|[2412.15347](http://arxiv.org/abs/2412.15347)|null|
 |**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150](http://arxiv.org/abs/2412.15150)|null|
 |**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
@@ -3432,6 +3438,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Reframing Image Difference Captioning with BLIP2IDC and Synthetic Augmentation**|Gautier Evennou et.al.|[2412.15939](http://arxiv.org/abs/2412.15939)|null|
+|**2024-12-20**|**Beyond Human Data: Aligning Multimodal Large Language Models by Iterative Self-Evolution**|Wentao Tan et.al.|[2412.15650](http://arxiv.org/abs/2412.15650)|null|
+|**2024-12-20**|**Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage**|Saehyung Lee et.al.|[2412.15484](http://arxiv.org/abs/2412.15484)|null|
+|**2024-12-19**|**Dataset Augmentation by Mixing Visual Concepts**|Abdullah Al Rahat et.al.|[2412.15358](http://arxiv.org/abs/2412.15358)|null|
 |**2024-12-19**|**UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency**|Enis Simsar et.al.|[2412.15216](http://arxiv.org/abs/2412.15216)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
 |**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[2412.14660](http://arxiv.org/abs/2412.14660)|**[link](https://github.com/hfutml/calibration-mllm)**|
