@@ -27,7 +27,7 @@ layout: default
 |**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
 |**2024-12-21**|**IV-tuning: Parameter-Efficient Transfer Learning for Infrared-Visible Tasks**|Yaming Zhang et.al.|[2412.16654](http://arxiv.org/abs/2412.16654)|**[link](https://github.com/yummy198913/iv-tuning)**|
 |**2024-12-21**|**V"Mean"ba: Visual State Space Models only need 1 hidden dimension**|Tien-Yu Chi et.al.|[2412.16602](http://arxiv.org/abs/2412.16602)|null|
-|**2024-12-20**|**SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data**|Xinwei Ju et.al.|[2412.16078](http://arxiv.org/abs/2412.16078)|null|
+|**2024-12-20**|**SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data**|Xinwei Ju et.al.|[2412.16078](http://arxiv.org/abs/2412.16078)|**[link](https://github.com/surgical-vision/segcol_challenge)**|
 |**2024-12-20**|**Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge Transfer**|Xinyue Chen et.al.|[2412.15835](http://arxiv.org/abs/2412.15835)|**[link](https://github.com/hhhhedy/gfss-ekt)**|
 |**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|**[link](https://github.com/andrade-miranda/girafe)**|
 |**2024-12-19**|**PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation**|Shoumeng Qiu et.al.|[2412.14821](http://arxiv.org/abs/2412.14821)|**[link](https://github.com/skyshoumeng/pc-bev)**|
@@ -947,7 +947,7 @@ layout: default
 |**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
 |**2024-03-08**|**Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels**|Zhuohong Li et.al.|[2403.02746](http://arxiv.org/abs/2403.02746)|**[link](https://github.com/lizhuohong/paraformer)**|
 |**2024-03-05**|**FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**|Jiawei Hou et.al.|[2403.02710](http://arxiv.org/abs/2403.02710)|null|
-|**2024-03-05**|**Deep Common Feature Mining for Efficient Video Semantic Segmentation**|Yaoyan Zheng et.al.|[2403.02689](http://arxiv.org/abs/2403.02689)|null|
+|**2024-03-05**|**Deep Common Feature Mining for Efficient Video Semantic Segmentation**|Yaoyan Zheng et.al.|[2403.02689](http://arxiv.org/abs/2403.02689)|**[link](https://github.com/buaahugegun/dcfm)**|
 |**2024-03-04**|**Self-Supervised Facial Representation Learning with Facial Region Awareness**|Zheng Gao et.al.|[2403.02138](http://arxiv.org/abs/2403.02138)|null|
 |**2024-03-04**|**Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey**|Lingyan Ran et.al.|[2403.01909](http://arxiv.org/abs/2403.01909)|null|
 |**2024-03-04**|**Map-aided annotation for pole base detection**|Benjamin Missaoui et.al.|[2403.01868](http://arxiv.org/abs/2403.01868)|null|
@@ -2653,7 +2653,7 @@ layout: default
 |**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888](http://arxiv.org/abs/2403.19888)|null|
 |**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|**[link](https://github.com/naver-ai/rdnet)**|
 |**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|**[link](https://github.com/zhenyuw16/uni3detr)**|
-|**2024-03-28**|**Sparse Generation: Making Pseudo Labels Sparse for weakly supervision with points**|Tian Ma et.al.|[2403.19306](http://arxiv.org/abs/2403.19306)|null|
+|**2024-03-28**|**Sparse Generation: Making Pseudo Labels Sparse for weakly supervision with points**|Tian Ma et.al.|[2403.19306](http://arxiv.org/abs/2403.19306)|**[link](https://github.com/trumpetertimes/sparse-generation)**|
 |**2024-03-28**|**CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection**|Mikhail Kennerley et.al.|[2403.19278](http://arxiv.org/abs/2403.19278)|**[link](https://github.com/mecarill/cat)**|
 |**2024-03-28**|**Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration**|Louie Søs Meyer et.al.|[2403.19174](http://arxiv.org/abs/2403.19174)|null|
 |**2024-03-28**|**CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**|Lingjun Zhao et.al.|[2403.19104](http://arxiv.org/abs/2403.19104)|null|
@@ -2778,7 +2778,7 @@ layout: default
 |**2024-03-08**|**VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model**|Junsu Kim et.al.|[2403.05346](http://arxiv.org/abs/2403.05346)|null|
 |**2024-03-08**|**Improving the Successful Robotic Grasp Detection Using Convolutional Neural Networks**|Hamed Hosseini et.al.|[2403.05211](http://arxiv.org/abs/2403.05211)|null|
 |**2024-03-08**|**LanePtrNet: Revisiting Lane Detection as Point Voting and Grouping on Curves**|Jiayan Cao et.al.|[2403.05155](http://arxiv.org/abs/2403.05155)|null|
-|**2024-03-08**|**RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features**|Geonho Bang et.al.|[2403.05061](http://arxiv.org/abs/2403.05061)|null|
+|**2024-03-08**|**RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features**|Geonho Bang et.al.|[2403.05061](http://arxiv.org/abs/2403.05061)|**[link](https://github.com/geonhobang/RadarDistill)**|
 |**2024-03-08**|**ActFormer: Scalable Collaborative Perception via Active Queries**|Suozhi Huang et.al.|[2403.04968](http://arxiv.org/abs/2403.04968)|null|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|**[link](https://github.com/fanyihua0309/friendnet)**|
 |**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306](http://arxiv.org/abs/2403.04306)|null|
@@ -3064,7 +3064,7 @@ layout: default
 |**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-12-18**|**RelationField: Relate Anything in Radiance Fields**|Sebastian Koch et.al.|[2412.13652](http://arxiv.org/abs/2412.13652)|null|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
-|**2024-12-16**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|null|
+|**2024-12-16**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|**[link](https://github.com/hvision-nku/maskclippp)**|
 |**2024-12-11**|**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**|Yihan Cao et.al.|[2412.10439](http://arxiv.org/abs/2412.10439)|null|
 |**2024-12-13**|**Prompt-Guided Mask Proposal for Two-Stage Open-Vocabulary Segmentation**|Yu-Jhe Li et.al.|[2412.10292](http://arxiv.org/abs/2412.10292)|null|
 |**2024-12-13**|**SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians**|Siyun Liang et.al.|[2412.10231](http://arxiv.org/abs/2412.10231)|null|
@@ -3349,7 +3349,7 @@ layout: default
 |**2024-04-12**|**Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation**|Sina Hajimiri et.al.|[2404.08181](http://arxiv.org/abs/2404.08181)|**[link](https://github.com/sinahmr/naclip)**|
 |**2024-04-11**|**Transferable and Principled Efficiency for Open-Vocabulary Segmentation**|Jingxuan Xu et.al.|[2404.07448](http://arxiv.org/abs/2404.07448)|**[link](https://github.com/xujxyang/opentrans)**|
 |**2024-04-10**|**O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation**|Muer Tie et.al.|[2404.06836](http://arxiv.org/abs/2404.06836)|null|
-|**2024-04-09**|**GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation**|Mukul Khanna et.al.|[2404.06609](http://arxiv.org/abs/2404.06609)|null|
+|**2024-04-09**|**GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation**|Mukul Khanna et.al.|[2404.06609](http://arxiv.org/abs/2404.06609)|**[link](https://github.com/Ram81/goat-bench)**|
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-10**|**Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**|Ting Lei et.al.|[2404.06194](http://arxiv.org/abs/2404.06194)|**[link](https://github.com/ltttpku/cmd-se-release)**|
 |**2024-04-08**|**Retrieval-Augmented Open-Vocabulary Object Detection**|Jooyeon Kim et.al.|[2404.05687](http://arxiv.org/abs/2404.05687)|**[link](https://github.com/mlvlab/RALF)**|
