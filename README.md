@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**HisynSeg: Weakly-Supervised Histopathological Image Segmentation via Image-Mixing Synthesis and Consistency Regularization**|Zijie Fang et.al.|[2412.20924](http://arxiv.org/abs/2412.20924)|null|
+|**2024-12-30**|**LiDAR-Camera Fusion for Video Panoptic Segmentation without Video Training**|Fardin Ayar et.al.|[2412.20881](http://arxiv.org/abs/2412.20881)|null|
+|**2024-12-29**|**Image Augmentation Agent for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.20439](http://arxiv.org/abs/2412.20439)|null|
 |**2024-12-27**|**Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP**|Zhongxing Xu et.al.|[2412.19650](http://arxiv.org/abs/2412.19650)|null|
 |**2024-12-27**|**An Actionable Hierarchical Scene Representation Enhancing Autonomous Inspection Missions in Unknown Environments**|Vignesh Kottayam Viswanathan et.al.|[2412.19582](http://arxiv.org/abs/2412.19582)|null|
 |**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|null|
@@ -1416,6 +1419,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**LiDAR-Camera Fusion for Video Panoptic Segmentation without Video Training**|Fardin Ayar et.al.|[2412.20881](http://arxiv.org/abs/2412.20881)|null|
 |**2024-12-25**|**Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model**|Yi-Chia Chen et.al.|[2412.18917](http://arxiv.org/abs/2412.18917)|**[link](https://github.com/ai-application-and-integration-lab/omtseg)**|
 |**2024-12-17**|**Open-World Panoptic Segmentation**|Matteo Sodano et.al.|[2412.12740](http://arxiv.org/abs/2412.12740)|null|
 |**2024-12-15**|**Volumetric Mapping with Panoptic Refinement via Kernel Density Estimation for Mobile Robots**|Khang Nguyen et.al.|[2412.11241](http://arxiv.org/abs/2412.11241)|**[link](https://github.com/mkhangg/refined_panoptic_mapping)**|
@@ -1504,6 +1508,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
+|**2024-12-30**|**Humanoid Robot RHP Friends: Seamless Combination of Autonomous and Teleoperated Tasks in a Nursing Context**|Mehdi Benallegue et.al.|[2412.20770](http://arxiv.org/abs/2412.20770)|null|
+|**2024-12-30**|**Solar Filaments Detection using Active Contours Without Edges**|Sanmoy Bandyopadhyay et.al.|[2412.20749](http://arxiv.org/abs/2412.20749)|null|
+|**2024-12-30**|**Open-Set Object Detection By Aligning Known Class Representations**|Hiran Sarkar et.al.|[2412.20701](http://arxiv.org/abs/2412.20701)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|null|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
+|**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
+|**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370](http://arxiv.org/abs/2412.20370)|null|
+|**2024-12-28**|**Plastic Waste Classification Using Deep Learning: Insights from the WaDaBa Dataset**|Suman Kunwar et.al.|[2412.20232](http://arxiv.org/abs/2412.20232)|null|
+|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|null|
 |**2024-12-27**|**Chimera: A Block-Based Neural Architecture Search Framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2412.19646](http://arxiv.org/abs/2412.19646)|null|
 |**2024-12-27**|**Optimizing Helmet Detection with Hybrid YOLO Pipelines: A Detailed Analysis**|Vaikunth M et.al.|[2412.19467](http://arxiv.org/abs/2412.19467)|null|
 |**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165](http://arxiv.org/abs/2412.19165)|null|
@@ -3085,6 +3099,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Phoneme-Level Contrastive Learning for User-Defined Keyword Spotting with Flexible Enrollment**|Li Kewei et.al.|[2412.20805](http://arxiv.org/abs/2412.20805)|null|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
+|**2024-12-29**|**GliLem: Leveraging GliNER for Contextualized Lemmatization in Estonian**|Aleksei Dorkin et.al.|[2412.20597](http://arxiv.org/abs/2412.20597)|null|
 |**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|null|
 |**2024-12-26**|**PlanLLM: Video Procedure Planning with Refinable Large Language Models**|Dejie Yang et.al.|[2412.19139](http://arxiv.org/abs/2412.19139)|**[link](https://github.com/idejie/planllm)**|
 |**2024-12-26**|**Task Success Prediction and Open-Vocabulary Object Manipulation**|Motonari Kambara et.al.|[2412.19112](http://arxiv.org/abs/2412.19112)|null|
@@ -3497,7 +3514,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-26**|**ViPCap: Retrieval Text-Based Visual Prompts for Lightweight Image Captioning**|Taewhan Kim et.al.|[2412.19289](http://arxiv.org/abs/2412.19289)|**[link](https://github.com/taewhankim/vipcap)**|
+|**2024-12-30**|**Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**|Junxiao Xue et.al.|[2412.20927](http://arxiv.org/abs/2412.20927)|null|
+|**2024-12-27**|**ErgoChat: a Visual Query System for the Ergonomic Risk Assessment of Construction Workers**|Chao Fan et.al.|[2412.19954](http://arxiv.org/abs/2412.19954)|null|
+|**2024-12-30**|**ViPCap: Retrieval Text-Based Visual Prompts for Lightweight Image Captioning**|Taewhan Kim et.al.|[2412.19289](http://arxiv.org/abs/2412.19289)|**[link](https://github.com/taewhankim/vipcap)**|
 |**2024-12-23**|**Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**|Priyaranjan Pattnayak et.al.|[2412.17759](http://arxiv.org/abs/2412.17759)|null|
 |**2024-12-23**|**GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning**|Teja Krishna Cherukuri et.al.|[2412.17251](http://arxiv.org/abs/2412.17251)|null|
 |**2024-12-21**|**SilVar: Speech Driven Multimodal Model for Reasoning Visual Question Answering and Object Localization**|Tan-Hanh Pham et.al.|[2412.16771](http://arxiv.org/abs/2412.16771)|null|
