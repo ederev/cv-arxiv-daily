@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -19,7 +19,7 @@ layout: default
 |**2024-12-29**|**Image Augmentation Agent for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.20439](http://arxiv.org/abs/2412.20439)|null|
 |**2024-12-27**|**Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP**|Zhongxing Xu et.al.|[2412.19650](http://arxiv.org/abs/2412.19650)|null|
 |**2024-12-27**|**An Actionable Hierarchical Scene Representation Enhancing Autonomous Inspection Missions in Unknown Environments**|Vignesh Kottayam Viswanathan et.al.|[2412.19582](http://arxiv.org/abs/2412.19582)|null|
-|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|null|
+|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|**[link](https://github.com/yecy749/gsnet)**|
 |**2024-12-26**|**Impact of color and mixing proportion of synthetic point clouds on semantic segmentation**|Shaojie Zhou et.al.|[2412.19145](http://arxiv.org/abs/2412.19145)|null|
 |**2024-12-24**|**AdaCo: Overcoming Visual Foundation Model Noise in 3D Semantic Segmentation via Adaptive Label Correction**|Pufan Zou et.al.|[2412.18255](http://arxiv.org/abs/2412.18255)|null|
 |**2024-12-25**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178](http://arxiv.org/abs/2412.18178)|**[link](https://github.com/yangliu9208/visiongru)**|
@@ -1497,7 +1497,7 @@ layout: default
 |**2024-12-30**|**Humanoid Robot RHP Friends: Seamless Combination of Autonomous and Teleoperated Tasks in a Nursing Context**|Mehdi Benallegue et.al.|[2412.20770](http://arxiv.org/abs/2412.20770)|null|
 |**2024-12-30**|**Solar Filaments Detection using Active Contours Without Edges**|Sanmoy Bandyopadhyay et.al.|[2412.20749](http://arxiv.org/abs/2412.20749)|null|
 |**2024-12-30**|**Open-Set Object Detection By Aligning Known Class Representations**|Hiran Sarkar et.al.|[2412.20701](http://arxiv.org/abs/2412.20701)|null|
-|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|**[link](https://github.com/zcablii/sm3det)**|
 |**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
 |**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
 |**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370](http://arxiv.org/abs/2412.20370)|null|
@@ -3083,7 +3083,7 @@ layout: default
 |**2024-12-30**|**Phoneme-Level Contrastive Learning for User-Defined Keyword Spotting with Flexible Enrollment**|Li Kewei et.al.|[2412.20805](http://arxiv.org/abs/2412.20805)|null|
 |**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
 |**2024-12-29**|**GliLem: Leveraging GliNER for Contextualized Lemmatization in Estonian**|Aleksei Dorkin et.al.|[2412.20597](http://arxiv.org/abs/2412.20597)|null|
-|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|null|
+|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|**[link](https://github.com/yecy749/gsnet)**|
 |**2024-12-26**|**PlanLLM: Video Procedure Planning with Refinable Large Language Models**|Dejie Yang et.al.|[2412.19139](http://arxiv.org/abs/2412.19139)|**[link](https://github.com/idejie/planllm)**|
 |**2024-12-26**|**Task Success Prediction and Open-Vocabulary Object Manipulation**|Motonari Kambara et.al.|[2412.19112](http://arxiv.org/abs/2412.19112)|null|
 |**2024-12-26**|**Relation-aware Hierarchical Prompt for Open-vocabulary Scene Graph Generation**|Tao Liu et.al.|[2412.19021](http://arxiv.org/abs/2412.19021)|null|
