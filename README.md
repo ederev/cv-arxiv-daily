@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation**|Ulindu De Silva et.al.|[2501.04696](http://arxiv.org/abs/2501.04696)|**[link](https://github.com/ulindup/segtto)**|
 |**2025-01-07**|**Superpixel Boundary Correction for Weakly-Supervised Semantic Segmentation on Histopathology Images**|Hongyi Wu et.al.|[2501.03891](http://arxiv.org/abs/2501.03891)|null|
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765](http://arxiv.org/abs/2501.03765)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
 |**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937](http://arxiv.org/abs/2501.02937)|null|
@@ -1089,6 +1090,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Rapid Automated Mapping of Clouds on Titan With Instance Segmentation**|Zachary Yahn et.al.|[2501.04459](http://arxiv.org/abs/2501.04459)|**[link](https://github.com/zacharyyahn/titancloudssegmentation)**|
 |**2025-01-07**|**AutoFish: Dataset and Benchmark for Fine-grained Analysis of Fish**|Stefan Hein Bengtson et.al.|[2501.03767](http://arxiv.org/abs/2501.03767)|null|
 |**2025-01-03**|**Dedicated Inference Engine and Binary-Weight Neural Networks for Lightweight Instance Segmentation**|Tse-Wei Chen et.al.|[2501.01841](http://arxiv.org/abs/2501.01841)|null|
 |**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/box-is)**|
@@ -1530,6 +1532,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He et.al.|[2501.04582](http://arxiv.org/abs/2501.04582)|null|
+|**2025-01-08**|**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**|Xin Zhang et.al.|[2501.04440](http://arxiv.org/abs/2501.04440)|**[link](https://github.com/zhasion/rsar)**|
+|**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[2501.04373](http://arxiv.org/abs/2501.04373)|null|
+|**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302](http://arxiv.org/abs/2501.04302)|null|
+|**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213](http://arxiv.org/abs/2501.04213)|null|
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
 |**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836](http://arxiv.org/abs/2501.03836)|null|
@@ -3141,6 +3148,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation**|Ulindu De Silva et.al.|[2501.04696](http://arxiv.org/abs/2501.04696)|**[link](https://github.com/ulindup/segtto)**|
+|**2025-01-08**|**OpenIN: Open-Vocabulary Instance-Oriented Navigation in Dynamic Domestic Environments**|Yujie Tang et.al.|[2501.04279](http://arxiv.org/abs/2501.04279)|null|
 |**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841](http://arxiv.org/abs/2501.03841)|null|
 |**2025-01-03**|**DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data**|Yuanpeng Tu et.al.|[2501.02048](http://arxiv.org/abs/2501.02048)|null|
 |**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366](http://arxiv.org/abs/2501.01366)|null|
@@ -3563,6 +3572,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**|Uri Berger et.al.|[2501.04513](http://arxiv.org/abs/2501.04513)|null|
 |**2025-01-08**|**Evaluating Image Caption via Cycle-consistent Text-to-Image Generation**|Tianyu Cui et.al.|[2501.03567](http://arxiv.org/abs/2501.03567)|null|
 |**2025-01-05**|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park et.al.|[2501.02669](http://arxiv.org/abs/2501.02669)|**[link](https://github.com/princeton-pli/vlm_s2h)**|
 |**2025-01-05**|**Decoding fMRI Data into Captions using Prefix Language Modeling**|Vyacheslav Shen et.al.|[2501.02570](http://arxiv.org/abs/2501.02570)|null|
