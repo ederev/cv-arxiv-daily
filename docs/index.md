@@ -382,7 +382,7 @@ layout: default
 |**2024-08-30**|**Transient Fault Tolerant Semantic Segmentation for Autonomous Driving**|Leonardo Iurada et.al.|[2408.16952](http://arxiv.org/abs/2408.16952)|**[link](https://github.com/iurada/neutron-segmentation)**|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|**[link](https://github.com/vimslab/sodawidenetplusplus)**|
 |**2024-08-29**|**MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation**|Linyan Yang et.al.|[2408.16478](http://arxiv.org/abs/2408.16478)|null|
-|**2024-08-29**|**Multi-source Domain Adaptation for Panoramic Semantic Segmentation**|Jing Jiang et.al.|[2408.16469](http://arxiv.org/abs/2408.16469)|null|
+|**2024-08-29**|**Multi-source Domain Adaptation for Panoramic Semantic Segmentation**|Jing Jiang et.al.|[2408.16469](http://arxiv.org/abs/2408.16469)|**[link](https://github.com/jingjiang02/dta4pass)**|
 |**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen et.al.|[2408.16254](http://arxiv.org/abs/2408.16254)|null|
 |**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887](http://arxiv.org/abs/2408.15887)|null|
 |**2024-08-28**|**DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries**|Yu Yang et.al.|[2408.15813](http://arxiv.org/abs/2408.15813)|null|
@@ -1484,7 +1484,7 @@ layout: default
 |**2024-05-29**|**A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**|Niclas Vödisch et.al.|[2405.19035](http://arxiv.org/abs/2405.19035)|**[link](https://github.com/robot-learning-freiburg/PASTEL)**|
 |**2024-05-23**|**Efficient Robot Learning for Perception and Mapping**|Niclas Vödisch et.al.|[2405.14688](http://arxiv.org/abs/2405.14688)|null|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
-|**2024-05-16**|**An Integrated Framework for Multi-Granular Explanation of Video Summarization**|Konstantinos Tsigos et.al.|[2405.10082](http://arxiv.org/abs/2405.10082)|null|
+|**2024-05-16**|**An Integrated Framework for Multi-Granular Explanation of Video Summarization**|Konstantinos Tsigos et.al.|[2405.10082](http://arxiv.org/abs/2405.10082)|**[link](https://github.com/idt-iti/xai-video-summaries)**|
 |**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|**[link](https://github.com/chenhaomingbob/csc)**|
 |**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177](http://arxiv.org/abs/2405.02177)|**[link](https://github.com/iit-dlslab/panoptic-slam)**|
 |**2024-04-28**|**Panoptic Segmentation and Labelling of Lumbar Spine Vertebrae using Modified Attention Unet**|Rikathi Pal et.al.|[2404.18291](http://arxiv.org/abs/2404.18291)|null|
@@ -1538,12 +1538,12 @@ layout: default
 |**2025-01-07**|**Anomaly Triplet-Net: Progress Recognition Model Using Deep Metric Learning Considering Occlusion for Manual Assembly Work**|Takumi Kitsukawa et.al.|[2501.03533](http://arxiv.org/abs/2501.03533)|null|
 |**2025-01-05**|**Multispectral Pedestrian Detection with Sparsely Annotated Label**|Chan Lee et.al.|[2501.02640](http://arxiv.org/abs/2501.02640)|null|
 |**2025-01-05**|**Generalization-Enhanced Few-Shot Object Detection in Remote Sensing**|Hui Lin et.al.|[2501.02474](http://arxiv.org/abs/2501.02474)|**[link](https://github.com/leenamx/ge-fsod)**|
-|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
+|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|**[link](https://github.com/wangsch10/v2x-dgpe)**|
 |**2025-01-04**|**Accurate Crop Yield Estimation of Blueberries using Deep Learning and Smart Drones**|Hieu D. Nguyen et.al.|[2501.02344](http://arxiv.org/abs/2501.02344)|null|
-|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314](http://arxiv.org/abs/2501.02314)|null|
+|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314](http://arxiv.org/abs/2501.02314)|**[link](https://github.com/pay246-git468/radarnext)**|
 |**2025-01-03**|**A Separable Self-attention Inspired by the State Space Model for Computer Vision**|Juntao Zhang et.al.|[2501.02040](http://arxiv.org/abs/2501.02040)|**[link](https://github.com/yws-wxs/vminet)**|
-|**2025-01-03**|**UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery**|Huaxiang Zhang et.al.|[2501.01855](http://arxiv.org/abs/2501.01855)|null|
-|**2025-01-03**|**Dual Mutual Learning Network with Global-local Awareness for RGB-D Salient Object Detection**|Kang Yi et.al.|[2501.01648](http://arxiv.org/abs/2501.01648)|null|
+|**2025-01-03**|**UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery**|Huaxiang Zhang et.al.|[2501.01855](http://arxiv.org/abs/2501.01855)|**[link](https://github.com/valiantdiligent/uav-detr)**|
+|**2025-01-03**|**Dual Mutual Learning Network with Global-local Awareness for RGB-D Salient Object Detection**|Kang Yi et.al.|[2501.01648](http://arxiv.org/abs/2501.01648)|**[link](https://github.com/kingkung2016/gl-dmnet)**|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|**[link](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)**|
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
 |**2025-01-01**|**A Novel Approach using CapsNet and Deep Belief Network for Detection and Identification of Oral Leukopenia**|Hirthik Mathesh GV et.al.|[2501.00876](http://arxiv.org/abs/2501.00876)|null|
@@ -1571,7 +1571,7 @@ layout: default
 |**2024-12-25**|**Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors**|Pham Phuc et.al.|[2412.18815](http://arxiv.org/abs/2412.18815)|**[link](https://github.com/anonymous20210106/attack_detector)**|
 |**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778](http://arxiv.org/abs/2412.18778)|null|
 |**2024-12-24**|**Sampling Bag of Views for Open-Vocabulary Object Detection**|Hojun Choi et.al.|[2412.18273](http://arxiv.org/abs/2412.18273)|null|
-|**2024-12-24**|**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**|Jiaqi Wu et.al.|[2412.18230](http://arxiv.org/abs/2412.18230)|null|
+|**2024-12-24**|**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**|Jiaqi Wu et.al.|[2412.18230](http://arxiv.org/abs/2412.18230)|**[link](https://github.com/word-ky/Edge-TOOLBOX)**|
 |**2024-12-24**|**Spectrum-oriented Point-supervised Saliency Detector for Hyperspectral Images**|Peifu Liu et.al.|[2412.18112](http://arxiv.org/abs/2412.18112)|**[link](https://github.com/laprf/spsd)**|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
 |**2024-12-24**|**COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection**|Chang Liu et.al.|[2412.18076](http://arxiv.org/abs/2412.18076)|null|
@@ -2177,7 +2177,7 @@ layout: default
 |**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
 |**2024-08-07**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/abs/2408.03677)|**[link](https://github.com/ylwhxht/l4dr)**|
 |**2024-08-07**|**Designing Extremely Memory-Efficient CNNs for On-device Vision Tasks**|Jaewook Lee et.al.|[2408.03663](http://arxiv.org/abs/2408.03663)|null|
-|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|**[link](https://github.com/Zhourobotics/Query-3DGS-LLM)**|
 |**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
 |**2024-08-06**|**AI Foundation Models in Remote Sensing: A Survey**|Siqi Lu et.al.|[2408.03464](http://arxiv.org/abs/2408.03464)|null|
 |**2024-08-06**|**Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods**|Fazli Wahid et.al.|[2408.03393](http://arxiv.org/abs/2408.03393)|null|
@@ -2191,7 +2191,7 @@ layout: default
 |**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843](http://arxiv.org/abs/2408.01843)|null|
 |**2024-08-03**|**Domain penalisation for improved Out-of-Distribution Generalisation**|Shuvam Jena et.al.|[2408.01746](http://arxiv.org/abs/2408.01746)|null|
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
-|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
+|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|**[link](https://github.com/rederoth/aiconic_scandy)**|
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
 |**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
 |**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
@@ -2902,7 +2902,7 @@ layout: default
 |**2024-02-29**|**Theoretically Achieving Continuous Representation of Oriented Bounding Boxes**|Zikai Xiao et.al.|[2402.18975](http://arxiv.org/abs/2402.18975)|**[link](https://github.com/Jittor/JDet)**|
 |**2024-02-29**|**Boosting Semi-Supervised Object Detection in Remote Sensing Images With Active Teaching**|Boxuan Zhang et.al.|[2402.18958](http://arxiv.org/abs/2402.18958)|null|
 |**2024-02-29**|**Edge Computing Enabled Real-Time Video Analysis via Adaptive Spatial-Temporal Semantic Filtering**|Xiang Chen et.al.|[2402.18927](http://arxiv.org/abs/2402.18927)|null|
-|**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|null|
+|**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|**[link](https://github.com/linuxsino/senet)**|
 |**2024-02-29**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[2402.18864](http://arxiv.org/abs/2402.18864)|**[link](https://github.com/bardia-az/ppa-code)**|
 |**2024-02-29**|**Debiased Novel Category Discovering and Localization**|Juexiao Feng et.al.|[2402.18821](http://arxiv.org/abs/2402.18821)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
@@ -3270,7 +3270,7 @@ layout: default
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
-|**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|null|
+|**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|**[link](https://github.com/utn-blei/cloudtrack)**|
 |**2024-09-24**|**A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding**|Abdulfattah Safa et.al.|[2409.15861](http://arxiv.org/abs/2409.15861)|**[link](https://github.com/gglab-ku/open-vocab-dialogue-understanding)**|
 |**2024-09-23**|**VaLID: Verification as Late Integration of Detections for LiDAR-Camera Fusion**|Vanshika Vats et.al.|[2409.15529](http://arxiv.org/abs/2409.15529)|null|
 |**2024-09-23**|**Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models**|Mike Zhang et.al.|[2409.15451](http://arxiv.org/abs/2409.15451)|null|
@@ -3324,7 +3324,7 @@ layout: default
 |**2024-08-11**|**Efficient and Versatile Robust Fine-Tuning of Zero-shot Models**|Sungyeon Kim et.al.|[2408.05749](http://arxiv.org/abs/2408.05749)|null|
 |**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|**[link](https://github.com/dahyun-kang/lazygrounding)**|
 |**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
-|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|**[link](https://github.com/Zhourobotics/Query-3DGS-LLM)**|
 |**2024-08-05**|**Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts**|Andong Tan et.al.|[2408.02265](http://arxiv.org/abs/2408.02265)|null|
 |**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|**[link](https://github.com/jiaosiyu1999/MAFT-Plus)**|
 |**2024-07-31**|**Open-Vocabulary Audio-Visual Semantic Segmentation**|Ruohao Guo et.al.|[2407.21721](http://arxiv.org/abs/2407.21721)|null|
@@ -3582,7 +3582,7 @@ layout: default
 |**2024-12-18**|**Descriptive Caption Enhancement with Visual Specialists for Multimodal Perception**|Yanpeng Sun et.al.|[2412.14233](http://arxiv.org/abs/2412.14233)|**[link](https://github.com/syp2ysy/dce)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
 |**2024-12-18**|**JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**|Taein Son et.al.|[2412.13708](http://arxiv.org/abs/2412.13708)|**[link](https://github.com/taeiin/aaai2025-jovale)**|
-|**2024-12-19**|**Typhoon 2: A Family of Open Text and Multimodal Thai Large Language Models**|Kunat Pipatanakul et.al.|[2412.13702](http://arxiv.org/abs/2412.13702)|null|
+|**2024-12-19**|**Typhoon 2: A Family of Open Text and Multimodal Thai Large Language Models**|Kunat Pipatanakul et.al.|[2412.13702](http://arxiv.org/abs/2412.13702)|**[link](https://github.com/scb-10x/typhoon2-audio)**|
 |**2024-12-17**|**MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants**|Hritik Bansal et.al.|[2412.12661](http://arxiv.org/abs/2412.12661)|**[link](https://github.com/Hritikbansal/medmax)**|
 |**2024-12-16**|**PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension**|Kun Ouyang et.al.|[2412.11906](http://arxiv.org/abs/2412.11906)|null|
 |**2024-12-16**|**UnMA-CapSumT: Unified and Multi-Head Attention-driven Caption Summarization Transformer**|Dhruv Sharma et.al.|[2412.11836](http://arxiv.org/abs/2412.11836)|null|
@@ -3611,7 +3611,7 @@ layout: default
 |**2024-11-29**|**On Domain-Specific Post-Training for Multimodal Large Language Models**|Daixuan Cheng et.al.|[2411.19930](http://arxiv.org/abs/2411.19930)|null|
 |**2024-11-27**|**Active Data Curation Effectively Distills Large-Scale Multimodal Models**|Vishaal Udandarao et.al.|[2411.18674](http://arxiv.org/abs/2411.18674)|null|
 |**2024-12-02**|**Efficient Multi-modal Large Language Models via Visual Token Grouping**|Minbin Huang et.al.|[2411.17773](http://arxiv.org/abs/2411.17773)|null|
-|**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
+|**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|**[link](https://github.com/uc-cdis/label-boosted-RAG-for-RRG)**|
 |**2024-11-25**|**Debiasing Classifiers by Amplifying Bias with Latent Diffusion and Large Language Models**|Donggeun Ko et.al.|[2411.16079](http://arxiv.org/abs/2411.16079)|null|
 |**2024-11-24**|**Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks**|Peng Xie et.al.|[2411.15720](http://arxiv.org/abs/2411.15720)|null|
 |**2024-11-23**|**FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation**|Trong Thang Pham et.al.|[2411.15413](http://arxiv.org/abs/2411.15413)|**[link](https://github.com/uark-aicv/fg-cxr)**|
