@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia et.al.|[2501.12824](http://arxiv.org/abs/2501.12824)|null|
+|**2025-01-19**|**Comparative Analysis of Hand-Crafted and Machine-Driven Histopathological Features for Prostate Cancer Classification and Segmentation**|Feda Bolus Al Baqain et.al.|[2501.12415](http://arxiv.org/abs/2501.12415)|null|
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|null|
 |**2025-01-21**|**A margin-based replacement for cross-entropy loss**|Michael W. Spratling et.al.|[2501.12191](http://arxiv.org/abs/2501.12191)|null|
 |**2025-01-20**|**MedicoSAM: Towards foundation models for medical image segmentation**|Anwai Archit et.al.|[2501.11734](http://arxiv.org/abs/2501.11734)|null|
@@ -1557,6 +1559,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Large-image Object Detection for Fine-grained Recognition of Punches Patterns in Medieval Panel Painting**|Josh Bruegger et.al.|[2501.12489](http://arxiv.org/abs/2501.12489)|**[link](https://github.com/marcozullich/punches-object-detection)**|
+|**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482](http://arxiv.org/abs/2501.12482)|null|
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|null|
 |**2025-01-21**|**DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains**|Junyu Xia et.al.|[2501.12235](http://arxiv.org/abs/2501.12235)|null|
 |**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169](http://arxiv.org/abs/2501.12169)|null|
@@ -3224,6 +3228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**|Kaiyu Li et.al.|[2501.12931](http://arxiv.org/abs/2501.12931)|null|
 |**2025-01-20**|**Noise-Agnostic Multitask Whisper Training for Reducing False Alarm Errors in Call-for-Help Detection**|Myeonghoon Ryu et.al.|[2501.11631](http://arxiv.org/abs/2501.11631)|null|
 |**2025-01-16**|**Fine-Grained Image-Text Correspondence with Cost Aggregation for Open-Vocabulary Part Segmentation**|Jiho Choi et.al.|[2501.09688](http://arxiv.org/abs/2501.09688)|null|
 |**2025-01-16**|**Are Open-Vocabulary Models Ready for Detection of MEP Elements on Construction Sites**|Abdalwhab Abdalwhab et.al.|[2501.09267](http://arxiv.org/abs/2501.09267)|null|
