@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**|Jules Sanchez et.al.|[2501.14605](http://arxiv.org/abs/2501.14605)|null|
+|**2025-01-23**|**ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection**|Luqi Zhang et.al.|[2501.14004](http://arxiv.org/abs/2501.14004)|**[link](https://github.com/zhangluqi0209/me-cpt)**|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Where Do You Go? Pedestrian Trajectory Prediction using Scene Features**|Mohammad Ali Rezaei et.al.|[2501.13848](http://arxiv.org/abs/2501.13848)|null|
 |**2025-01-23**|**Overcoming Support Dilution for Robust Few-shot Semantic Segmentation**|Wailing Tang et.al.|[2501.13529](http://arxiv.org/abs/2501.13529)|null|
@@ -1129,6 +1131,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al.|[2501.14149](http://arxiv.org/abs/2501.14149)|null|
+|**2025-01-21**|**LiCAR: pseudo-RGB LiDAR image for CAR segmentation**|Ignacio de Loyola Páez-Ubieta et.al.|[2501.13960](http://arxiv.org/abs/2501.13960)|null|
 |**2025-01-21**|**Foreign object segmentation in chest x-rays through anatomy-guided shape insertion**|Constantin Seibold et.al.|[2501.12022](http://arxiv.org/abs/2501.12022)|null|
 |**2025-01-21**|**Data-driven Detection and Evaluation of Damages in Concrete Structures: Using Deep Learning and Computer Vision**|Saeid Ataei et.al.|[2501.11836](http://arxiv.org/abs/2501.11836)|null|
 |**2025-01-20**|**Advancing Oyster Phenotype Segmentation with Multi-Network Ensemble and Multi-Scale mechanism**|Wenli Yang et.al.|[2501.11203](http://arxiv.org/abs/2501.11203)|null|
@@ -1581,6 +1585,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**TD-RD: A Top-Down Benchmark with Real-Time Framework for Road Damage Detection**|Xi Xiao et.al.|[2501.14302](http://arxiv.org/abs/2501.14302)|null|
+|**2025-01-23**|**Efficient Precision Control in Object Detection Models for Enhanced and Reliable Ovarian Follicle Counting**|Vincent Blot et.al.|[2501.14036](http://arxiv.org/abs/2501.14036)|null|
+|**2025-01-23**|**Enhanced PEC-YOLO for Detecting Improper Safety Gear Wearing Among Power Line Workers**|Chen Zuguo et.al.|[2501.13981](http://arxiv.org/abs/2501.13981)|null|
 |**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/abs/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|
 |**2025-01-23**|**First Lessons Learned of an Artificial Intelligence Robotic System for Autonomous Coarse Waste Recycling Using Multispectral Imaging-Based Methods**|Timo Lange et.al.|[2501.13855](http://arxiv.org/abs/2501.13855)|null|
 |**2025-01-23**|**Integrating Causality with Neurochaos Learning: Proposed Approach and Research Agenda**|Nanjangud C. Narendra et.al.|[2501.13763](http://arxiv.org/abs/2501.13763)|null|
@@ -3261,6 +3268,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147](http://arxiv.org/abs/2501.14147)|null|
+|**2025-01-23**|**LLM-guided Instance-level Image Manipulation with Diffusion U-Net Cross-Attention Maps**|Andrey Palaev et.al.|[2501.14046](http://arxiv.org/abs/2501.14046)|**[link](https://github.com/palandr123/diffusionu-netllm)**|
 |**2025-01-22**|**DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**|Kaiyu Li et.al.|[2501.12931](http://arxiv.org/abs/2501.12931)|null|
 |**2025-01-20**|**Noise-Agnostic Multitask Whisper Training for Reducing False Alarm Errors in Call-for-Help Detection**|Myeonghoon Ryu et.al.|[2501.11631](http://arxiv.org/abs/2501.11631)|null|
 |**2025-01-16**|**Fine-Grained Image-Text Correspondence with Cost Aggregation for Open-Vocabulary Part Segmentation**|Jiho Choi et.al.|[2501.09688](http://arxiv.org/abs/2501.09688)|null|
