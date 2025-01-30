@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-28**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
+|**2025-01-29**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
 |**2025-01-28**|**AdaSemSeg: An Adaptive Few-shot Semantic Segmentation of Seismic Facies**|Surojit Saha et.al.|[2501.16760](http://arxiv.org/abs/2501.16760)|null|
 |**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754](http://arxiv.org/abs/2501.16754)|null|
 |**2025-01-27**|**Cross-Domain Semantic Segmentation with Large Language Model-Assisted Descriptor Generation**|Philip Hughes et.al.|[2501.16467](http://arxiv.org/abs/2501.16467)|null|
@@ -3278,8 +3278,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-28**|**Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection**|Xiangyu Gao et.al.|[2501.16981](http://arxiv.org/abs/2501.16981)|null|
-|**2025-01-28**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
-|**2025-01-27**|**Generating customized prompts for Zero-Shot Rare Event Medical Image Classification using LLM**|Payal Kamboj et.al.|[2501.16481](http://arxiv.org/abs/2501.16481)|null|
+|**2025-01-29**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
+|**2025-01-27**|**Generating customized prompts for Zero-Shot Rare Event Medical Image Classification using LLM**|Payal Kamboj et.al.|[2501.16481](http://arxiv.org/abs/2501.16481)|**[link](https://github.com/payalkamboj/cupkl)**|
 |**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147](http://arxiv.org/abs/2501.14147)|null|
 |**2025-01-23**|**LLM-guided Instance-level Image Manipulation with Diffusion U-Net Cross-Attention Maps**|Andrey Palaev et.al.|[2501.14046](http://arxiv.org/abs/2501.14046)|**[link](https://github.com/palandr123/diffusionu-netllm)**|
 |**2025-01-22**|**DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**|Kaiyu Li et.al.|[2501.12931](http://arxiv.org/abs/2501.12931)|null|
