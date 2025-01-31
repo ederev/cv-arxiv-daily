@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1131,7 +1131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-29**|**ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer**|Weiwei yao et.al.|[2501.17688](http://arxiv.org/abs/2501.17688)|null|
+|**2025-01-30**|**ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer**|Weiwei Yao et.al.|[2501.17688](http://arxiv.org/abs/2501.17688)|null|
 |**2025-01-27**|**D-PLS: Decoupled Semantic Segmentation for 4D-Panoptic-LiDAR-Segmentation**|Maik Steinhauser et.al.|[2501.15870](http://arxiv.org/abs/2501.15870)|null|
 |**2025-01-26**|**iFormer: Integrating ConvNet and Transformer for Mobile Application**|Chuanyang Zheng et.al.|[2501.15369](http://arxiv.org/abs/2501.15369)|**[link](https://github.com/chuanyangzheng/iformer)**|
 |**2025-01-24**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al.|[2501.14149](http://arxiv.org/abs/2501.14149)|null|
@@ -1585,7 +1585,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-29**|**Detection of Oscillation-like Patterns in Eclipsing Binary Light Curves using Neural Network-based Object Detection Algorithms**|Burak Ulaş et.al.|[2501.17538](http://arxiv.org/abs/2501.17538)|null|
-|**2025-01-29**|**Assessing the Capability of YOLO- and Transformer-based Object Detectors for Real-time Weed Detection**|Alicia Allmendinger et.al.|[2501.17387](http://arxiv.org/abs/2501.17387)|null|
+|**2025-01-30**|**Assessing the Capability of YOLO- and Transformer-based Object Detectors for Real-time Weed Detection**|Alicia Allmendinger et.al.|[2501.17387](http://arxiv.org/abs/2501.17387)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
 |**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053](http://arxiv.org/abs/2501.17053)|null|
 |**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028](http://arxiv.org/abs/2501.17028)|null|
