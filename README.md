@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Transfer Risk Map: Mitigating Pixel-level Negative Transfer in Medical Segmentation**|Shutong Duan et.al.|[2502.02340](http://arxiv.org/abs/2502.02340)|null|
+|**2025-02-04**|**UNIP: Rethinking Pre-trained Attention Patterns for Infrared Semantic Segmentation**|Tao Zhang et.al.|[2502.02257](http://arxiv.org/abs/2502.02257)|null|
+|**2025-02-04**|**Deep Ensemble approach for Enhancing Brain Tumor Segmentation in Resource-Limited Settings**|Jeremiah Fadugba et.al.|[2502.02179](http://arxiv.org/abs/2502.02179)|null|
+|**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
+|**2025-02-03**|**Deep Unfolding Multi-modal Image Fusion Network via Attribution Analysis**|Haowen Bai et.al.|[2502.01467](http://arxiv.org/abs/2502.01467)|null|
+|**2025-02-03**|**Temporal-consistent CAMs for Weakly Supervised Video Segmentation in Waste Sorting**|Andrea Marelli et.al.|[2502.01455](http://arxiv.org/abs/2502.01455)|null|
+|**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
+|**2025-02-03**|**FSPGD: Rethinking Black-box Attacks on Semantic Segmentation**|Eun-Sol Park et.al.|[2502.01262](http://arxiv.org/abs/2502.01262)|null|
+|**2025-02-03**|**Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models**|Tongkun Liu et.al.|[2502.01216](http://arxiv.org/abs/2502.01216)|null|
+|**2025-02-02**|**SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation**|Mingyu Yang et.al.|[2502.00960](http://arxiv.org/abs/2502.00960)|null|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274](http://arxiv.org/abs/2501.19274)|null|
 |**2025-01-31**|**Medical Semantic Segmentation with Diffusion Pretrain**|David Li et.al.|[2501.19265](http://arxiv.org/abs/2501.19265)|null|
 |**2025-01-31**|**ContextFormer: Redefining Efficiency in Semantic Segmentation**|Mian Muhammad Naeem Abid et.al.|[2501.19255](http://arxiv.org/abs/2501.19255)|null|
@@ -1150,6 +1160,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548](http://arxiv.org/abs/2502.02548)|null|
+|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471](http://arxiv.org/abs/2502.02471)|null|
+|**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
+|**2025-02-01**|**Segment Anything for Histopathology**|Titus Griebel et.al.|[2502.00408](http://arxiv.org/abs/2502.00408)|null|
+|**2025-01-31**|**Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation**|Rohan Chacko et.al.|[2502.00173](http://arxiv.org/abs/2502.00173)|null|
 |**2025-01-30**|**INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation**|Jian Hu et.al.|[2501.18753](http://arxiv.org/abs/2501.18753)|null|
 |**2025-01-25**|**Vision Aided Channel Prediction for Vehicular Communications: A Case Study of Received Power Prediction Using RGB Images**|Xuejian Zhang et.al.|[2501.18618](http://arxiv.org/abs/2501.18618)|null|
 |**2025-01-30**|**Tuning Vision Foundation Model via Test-Time Prompt-Guided Training for VFSS Segmentations**|Chengxi Zeng et.al.|[2501.18474](http://arxiv.org/abs/2501.18474)|null|
@@ -1518,6 +1533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation**|Xueqing Deng et.al.|[2502.02589](http://arxiv.org/abs/2502.02589)|null|
 |**2025-01-31**|**Improving vision-language alignment with graph spiking hybrid Networks**|Siyu Zhang et.al.|[2501.19069](http://arxiv.org/abs/2501.19069)|null|
 |**2025-01-23**|**Pix2Cap-COCO: Advancing Visual Comprehension via Pixel-Level Captioning**|Zuyao You et.al.|[2501.13893](http://arxiv.org/abs/2501.13893)|**[link](https://github.com/geshang777/pix2cap)**|
 |**2025-01-03**|**DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data**|Yuanpeng Tu et.al.|[2501.02048](http://arxiv.org/abs/2501.02048)|null|
@@ -1611,6 +1627,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
+|**2025-02-04**|**Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**|Huiqun Huang et.al.|[2502.02537](http://arxiv.org/abs/2502.02537)|null|
+|**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[2502.02322](http://arxiv.org/abs/2502.02322)|null|
+|**2025-02-04**|**From Fog to Failure: How Dehazing Can Harm Clear Image Object Detection**|Ashutosh Kumar et.al.|[2502.02027](http://arxiv.org/abs/2502.02027)|null|
+|**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
+|**2025-02-04**|**INTACT: Inducing Noise Tolerance through Adversarial Curriculum Training for LiDAR-based Safety-Critical Perception and Autonomy**|Nastaran Darabi et.al.|[2502.01896](http://arxiv.org/abs/2502.01896)|null|
+|**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894](http://arxiv.org/abs/2502.01894)|null|
+|**2025-02-03**|**Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection**|Reza Sadeghian et.al.|[2502.01856](http://arxiv.org/abs/2502.01856)|null|
+|**2025-02-03**|**GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection**|Jeffri Murrugarra-LLerena et.al.|[2502.01565](http://arxiv.org/abs/2502.01565)|null|
+|**2025-02-03**|**Human Body Restoration with One-Step Diffusion Model and A New Benchmark**|Jue Gong et.al.|[2502.01411](http://arxiv.org/abs/2502.01411)|null|
 |**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274](http://arxiv.org/abs/2501.19274)|null|
 |**2025-01-31**|**Early Diagnosis and Severity Assessment of Weligama Coconut Leaf Wilt Disease and Coconut Caterpillar Infestation using Deep Learning-based Image Processing Techniques**|Samitha Vidhanaarachchi et.al.|[2501.18835](http://arxiv.org/abs/2501.18835)|null|
@@ -3326,6 +3352,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling**|Xiaowen Qiu et.al.|[2502.02590](http://arxiv.org/abs/2502.02590)|null|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
+|**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548](http://arxiv.org/abs/2502.02548)|null|
+|**2025-02-03**|**From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment**|Yilin Wu et.al.|[2502.01828](http://arxiv.org/abs/2502.01828)|null|
 |**2025-01-31**|**A Survey on Class-Agnostic Counting: Advancements from Reference-Based to Open-World Text-Guided Approaches**|Luca Ciampi et.al.|[2501.19184](http://arxiv.org/abs/2501.19184)|null|
 |**2025-02-03**|**Contrast-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment**|Song-Lin Lv et.al.|[2501.19060](http://arxiv.org/abs/2501.19060)|null|
 |**2025-01-31**|**LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**|Shenghao Fu et.al.|[2501.18954](http://arxiv.org/abs/2501.18954)|**[link](https://github.com/isee-laboratory/llmdet)**|
@@ -3767,6 +3797,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation**|Xueqing Deng et.al.|[2502.02589](http://arxiv.org/abs/2502.02589)|null|
+|**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|null|
+|**2025-02-03**|**Visual Attention Never Fades: Selective Progressive Attention ReCalibration for Detailed Image Captioning in Multimodal Large Language Models**|Mingi Jung et.al.|[2502.01419](http://arxiv.org/abs/2502.01419)|null|
+|**2025-02-03**|**COVE: COntext and VEracity prediction for out-of-context images**|Jonathan Tonglet et.al.|[2502.01194](http://arxiv.org/abs/2502.01194)|null|
+|**2025-02-02**|**BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts**|Divya Jyoti Bajpai et.al.|[2502.00745](http://arxiv.org/abs/2502.00745)|null|
 |**2025-01-30**|**MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding**|Yuxin Zuo et.al.|[2501.18362](http://arxiv.org/abs/2501.18362)|null|
 |**2025-01-28**|**Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement**|Kei Katsumata et.al.|[2501.17022](http://arxiv.org/abs/2501.17022)|**[link](https://github.com/keio-smilab24/mmig)**|
 |**2025-01-26**|**OCSU: Optical Chemical Structure Understanding for Molecule-centric Scientific Discovery**|Siqi Fan et.al.|[2501.15415](http://arxiv.org/abs/2501.15415)|null|
