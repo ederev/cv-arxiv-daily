@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation**|Xiao Yu et.al.|[2502.04870](http://arxiv.org/abs/2502.04870)|null|
+|**2025-02-05**|**DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**|Luciano Baresi et.al.|[2502.04378](http://arxiv.org/abs/2502.04378)|null|
 |**2025-02-06**|**Adaptive Margin Contrastive Learning for Ambiguity-aware 3D Semantic Segmentation**|Yang Chen et.al.|[2502.04111](http://arxiv.org/abs/2502.04111)|null|
 |**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
 |**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[2502.03813](http://arxiv.org/abs/2502.03813)|null|
@@ -1167,6 +1169,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
 |**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139](http://arxiv.org/abs/2502.04139)|null|
 |**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
 |**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266](http://arxiv.org/abs/2502.03266)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
@@ -1637,6 +1640,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**LP-DETR: Layer-wise Progressive Relations for Object Detection**|Zhengjian Kang et.al.|[2502.05147](http://arxiv.org/abs/2502.05147)|null|
+|**2025-02-07**|**Counting Fish with Temporal Representations of Sonar Video**|Kai Van Brunt et.al.|[2502.05129](http://arxiv.org/abs/2502.05129)|null|
+|**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
+|**2025-02-07**|**MHAF-YOLO: Multi-Branch Heterogeneous Auxiliary Fusion YOLO for accurate object detection**|Zhiqiang Yang et.al.|[2502.04656](http://arxiv.org/abs/2502.04656)|null|
+|**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
+|**2025-02-06**|**An Optimized YOLOv5 Based Approach For Real-time Vehicle Detection At Road Intersections Using Fisheye Cameras**|Md. Jahin Alam et.al.|[2502.04566](http://arxiv.org/abs/2502.04566)|null|
+|**2025-02-06**|**OneTrack-M: A multitask approach to transformer-based MOT models**|Luiz C. S. de Araujo et.al.|[2502.04478](http://arxiv.org/abs/2502.04478)|null|
 |**2025-02-07**|**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**|Yi Yu et.al.|[2502.04268](http://arxiv.org/abs/2502.04268)|null|
 |**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244](http://arxiv.org/abs/2502.04244)|null|
 |**2025-02-06**|**YOLOv4: A Breakthrough in Real-Time Object Detection**|Athulya Sundaresan Geetha et.al.|[2502.04161](http://arxiv.org/abs/2502.04161)|null|
@@ -3821,8 +3831,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Decoder-Only LLMs are Better Controllers for Diffusion Models**|Ziyi Dong et.al.|[2502.04412](http://arxiv.org/abs/2502.04412)|null|
+|**2025-02-05**|**TexLiDAR: Automated Text Understanding for Panoramic LiDAR Data**|Naor Cohen et.al.|[2502.04385](http://arxiv.org/abs/2502.04385)|null|
+|**2025-02-04**|**Exploring Spatial Language Grounding Through Referring Expressions**|Akshar Tumu et.al.|[2502.04359](http://arxiv.org/abs/2502.04359)|null|
 |**2025-02-06**|**Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents**|Ilia Karmanov et.al.|[2502.04223](http://arxiv.org/abs/2502.04223)|null|
-|**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
+|**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation**|Lin Li et.al.|[2502.03856](http://arxiv.org/abs/2502.03856)|null|
 |**2025-02-04**|**COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation**|Xueqing Deng et.al.|[2502.02589](http://arxiv.org/abs/2502.02589)|null|
 |**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|null|
