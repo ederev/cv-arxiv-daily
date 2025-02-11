@@ -23,6 +23,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756](http://arxiv.org/abs/2502.06756)|null|
+|**2025-02-10**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Matteo Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|null|
+|**2025-02-10**|**Unsupervised deep learning for semantic segmentation of multispectral LiDAR forest point clouds**|Lassi Ruoppa et.al.|[2502.06227](http://arxiv.org/abs/2502.06227)|null|
+|**2025-02-09**|**Traveling Waves Integrate Spatial Information Into Spectral Representations**|Mozes Jacobs et.al.|[2502.06034](http://arxiv.org/abs/2502.06034)|null|
+|**2025-02-09**|**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**|Shubham Kumar Nigam et.al.|[2502.05836](http://arxiv.org/abs/2502.05836)|null|
+|**2025-02-08**|**Convolutional Neural Network Segmentation for Satellite Imagery Data to Identify Landforms Using U-Net Architecture**|Mitul Goswami et.al.|[2502.05476](http://arxiv.org/abs/2502.05476)|null|
+|**2025-02-08**|**LMS-Net: A Learned Mumford-Shah Network For Few-Shot Medical Image Segmentation**|Shengdong Zhang et.al.|[2502.05473](http://arxiv.org/abs/2502.05473)|null|
+|**2025-02-08**|**A Novel Convolutional-Free Method for 3D Medical Imaging Segmentation**|Canxuan Gang et.al.|[2502.05396](http://arxiv.org/abs/2502.05396)|null|
 |**2025-02-07**|**IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation**|Xiao Yu et.al.|[2502.04870](http://arxiv.org/abs/2502.04870)|null|
 |**2025-02-05**|**DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**|Luciano Baresi et.al.|[2502.04378](http://arxiv.org/abs/2502.04378)|null|
 |**2025-02-06**|**Adaptive Margin Contrastive Learning for Ambiguity-aware 3D Semantic Segmentation**|Yang Chen et.al.|[2502.04111](http://arxiv.org/abs/2502.04111)|null|
@@ -1169,6 +1177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593](http://arxiv.org/abs/2502.06593)|null|
+|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
 |**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139](http://arxiv.org/abs/2502.04139)|null|
 |**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
@@ -1640,6 +1650,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**AgilePilot: DRL-Based Drone Agent for Real-Time Motion Planning in Dynamic Environments by Leveraging Object Detection**|Roohan Ahmed Khan et.al.|[2502.06725](http://arxiv.org/abs/2502.06725)|null|
+|**2025-02-10**|**EdgeMLBalancer: A Self-Adaptive Approach for Dynamic Model Switching on Resource-Constrained Edge Devices**|Akhila Matathammal et.al.|[2502.06493](http://arxiv.org/abs/2502.06493)|null|
+|**2025-02-10**|**Enhancing Document Key Information Localization Through Data Augmentation**|Yue Dai et.al.|[2502.06132](http://arxiv.org/abs/2502.06132)|null|
+|**2025-02-10**|**Improved YOLOv5s model for key components detection of power transmission lines**|Chen Chen et.al.|[2502.06127](http://arxiv.org/abs/2502.06127)|null|
+|**2025-02-10**|**A Novel Multi-Teacher Knowledge Distillation for Real-Time Object Detection using 4D Radar**|Seung-Hyun Song et.al.|[2502.06114](http://arxiv.org/abs/2502.06114)|null|
+|**2025-02-09**|**Training-free Anomaly Event Detection via LLM-guided Symbolic Pattern Discovery**|Yuhui Zeng et.al.|[2502.05843](http://arxiv.org/abs/2502.05843)|null|
+|**2025-02-08**|**Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector**|Qirui Wu et.al.|[2502.05540](http://arxiv.org/abs/2502.05540)|null|
 |**2025-02-07**|**LP-DETR: Layer-wise Progressive Relations for Object Detection**|Zhengjian Kang et.al.|[2502.05147](http://arxiv.org/abs/2502.05147)|null|
 |**2025-02-07**|**Counting Fish with Temporal Representations of Sonar Video**|Kai Van Brunt et.al.|[2502.05129](http://arxiv.org/abs/2502.05129)|null|
 |**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
@@ -3390,7 +3407,7 @@
 |**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
 |**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548](http://arxiv.org/abs/2502.02548)|null|
 |**2025-02-03**|**From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment**|Yilin Wu et.al.|[2502.01828](http://arxiv.org/abs/2502.01828)|null|
-|**2025-01-31**|**A Survey on Class-Agnostic Counting: Advancements from Reference-Based to Open-World Text-Guided Approaches**|Luca Ciampi et.al.|[2501.19184](http://arxiv.org/abs/2501.19184)|null|
+|**2025-02-10**|**A Survey on Class-Agnostic Counting: Advancements from Reference-Based to Open-World Text-Guided Approaches**|Luca Ciampi et.al.|[2501.19184](http://arxiv.org/abs/2501.19184)|null|
 |**2025-02-05**|**Contrast-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment**|Song-Lin Lv et.al.|[2501.19060](http://arxiv.org/abs/2501.19060)|null|
 |**2025-01-31**|**LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**|Shenghao Fu et.al.|[2501.18954](http://arxiv.org/abs/2501.18954)|**[link](https://github.com/isee-laboratory/llmdet)**|
 |**2025-01-29**|**Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation**|Lin Chen et.al.|[2501.17642](http://arxiv.org/abs/2501.17642)|null|
@@ -3831,6 +3848,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?**|Gonçalo Gomes et.al.|[2502.06600](http://arxiv.org/abs/2502.06600)|null|
 |**2025-02-06**|**Decoder-Only LLMs are Better Controllers for Diffusion Models**|Ziyi Dong et.al.|[2502.04412](http://arxiv.org/abs/2502.04412)|null|
 |**2025-02-05**|**TexLiDAR: Automated Text Understanding for Panoramic LiDAR Data**|Naor Cohen et.al.|[2502.04385](http://arxiv.org/abs/2502.04385)|null|
 |**2025-02-04**|**Exploring Spatial Language Grounding Through Referring Expressions**|Akshar Tumu et.al.|[2502.04359](http://arxiv.org/abs/2502.04359)|null|
