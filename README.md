@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1171,20 +1171,20 @@
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Instance Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593](http://arxiv.org/abs/2502.06593)|null|
-|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
+|**2025-02-11**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
 |**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139](http://arxiv.org/abs/2502.04139)|null|
 |**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
 |**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266](http://arxiv.org/abs/2502.03266)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
 |**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548](http://arxiv.org/abs/2502.02548)|null|
-|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471](http://arxiv.org/abs/2502.02471)|null|
+|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471](http://arxiv.org/abs/2502.02471)|**[link](https://github.com/Vadori/CytoArk)**|
 |**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
 |**2025-02-01**|**Segment Anything for Histopathology**|Titus Griebel et.al.|[2502.00408](http://arxiv.org/abs/2502.00408)|**[link](https://github.com/computational-cell-analytics/patho-sam)**|
 |**2025-01-31**|**Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation**|Rohan Chacko et.al.|[2502.00173](http://arxiv.org/abs/2502.00173)|null|
@@ -1550,7 +1550,7 @@
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Panoptic Segmentation
 
@@ -1644,7 +1644,7 @@
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Object Detection
 
@@ -3307,7 +3307,7 @@
 |**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874](http://arxiv.org/abs/2401.11874)|**[link](https://github.com/microsoft/comphrdoc)**|
 |**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824](http://arxiv.org/abs/2401.11824)|**[link](https://github.com/klayand/pcka)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -3396,7 +3396,7 @@
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Open-Vocabulary
 
@@ -3406,7 +3406,7 @@
 |**2025-02-04**|**Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling**|Xiaowen Qiu et.al.|[2502.02590](http://arxiv.org/abs/2502.02590)|null|
 |**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
 |**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548](http://arxiv.org/abs/2502.02548)|null|
-|**2025-02-03**|**From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment**|Yilin Wu et.al.|[2502.01828](http://arxiv.org/abs/2502.01828)|null|
+|**2025-02-11**|**From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment**|Yilin Wu et.al.|[2502.01828](http://arxiv.org/abs/2502.01828)|null|
 |**2025-02-10**|**A Survey on Class-Agnostic Counting: Advancements from Reference-Based to Open-World Text-Guided Approaches**|Luca Ciampi et.al.|[2501.19184](http://arxiv.org/abs/2501.19184)|null|
 |**2025-02-05**|**Contrast-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment**|Song-Lin Lv et.al.|[2501.19060](http://arxiv.org/abs/2501.19060)|null|
 |**2025-01-31**|**LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**|Shenghao Fu et.al.|[2501.18954](http://arxiv.org/abs/2501.18954)|**[link](https://github.com/isee-laboratory/llmdet)**|
@@ -3842,7 +3842,7 @@
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Image Captioning
 
@@ -3856,7 +3856,7 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation**|Lin Li et.al.|[2502.03856](http://arxiv.org/abs/2502.03856)|null|
 |**2025-02-04**|**COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation**|Xueqing Deng et.al.|[2502.02589](http://arxiv.org/abs/2502.02589)|null|
-|**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|null|
+|**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|**[link](https://github.com/hashmatshadab/robust-llava)**|
 |**2025-02-03**|**Visual Attention Never Fades: Selective Progressive Attention ReCalibration for Detailed Image Captioning in Multimodal Large Language Models**|Mingi Jung et.al.|[2502.01419](http://arxiv.org/abs/2502.01419)|null|
 |**2025-02-03**|**COVE: COntext and VEracity prediction for out-of-context images**|Jonathan Tonglet et.al.|[2502.01194](http://arxiv.org/abs/2502.01194)|null|
 |**2025-02-02**|**BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts**|Divya Jyoti Bajpai et.al.|[2502.00745](http://arxiv.org/abs/2502.00745)|null|
@@ -4155,7 +4155,7 @@
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
