@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756](http://arxiv.org/abs/2502.06756)|null|
 |**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|null|
 |**2025-02-10**|**Unsupervised deep learning for semantic segmentation of multispectral LiDAR forest point clouds**|Lassi Ruoppa et.al.|[2502.06227](http://arxiv.org/abs/2502.06227)|null|
-|**2025-02-09**|**Traveling Waves Integrate Spatial Information Into Spectral Representations**|Mozes Jacobs et.al.|[2502.06034](http://arxiv.org/abs/2502.06034)|null|
+|**2025-02-12**|**Traveling Waves Integrate Spatial Information Into Spectral Representations**|Mozes Jacobs et.al.|[2502.06034](http://arxiv.org/abs/2502.06034)|null|
 |**2025-02-09**|**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**|Shubham Kumar Nigam et.al.|[2502.05836](http://arxiv.org/abs/2502.05836)|null|
 |**2025-02-08**|**Convolutional Neural Network Segmentation for Satellite Imagery Data to Identify Landforms Using U-Net Architecture**|Mitul Goswami et.al.|[2502.05476](http://arxiv.org/abs/2502.05476)|null|
 |**2025-02-08**|**LMS-Net: A Learned Mumford-Shah Network For Few-Shot Medical Image Segmentation**|Shengdong Zhang et.al.|[2502.05473](http://arxiv.org/abs/2502.05473)|null|
@@ -1175,7 +1175,7 @@
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Instance Segmentation
 
@@ -1555,7 +1555,7 @@
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Panoptic Segmentation
 
@@ -1649,7 +1649,7 @@
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Object Detection
 
@@ -1663,7 +1663,7 @@
 |**2025-02-11**|**Visual-based spatial audio generation system for multi-speaker environments**|Xiaojing Liu et.al.|[2502.07538](http://arxiv.org/abs/2502.07538)|null|
 |**2025-02-11**|**Quantitative Analysis of Objects in Prisoner Artworks**|Thea Christoffersen et.al.|[2502.07440](http://arxiv.org/abs/2502.07440)|null|
 |**2025-02-11**|**Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving**|Novendra Setyawan et.al.|[2502.07417](http://arxiv.org/abs/2502.07417)|null|
-|**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351](http://arxiv.org/abs/2502.07351)|null|
+|**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351](http://arxiv.org/abs/2502.07351)|**[link](https://github.com/ai-chen-lab/mtoie)**|
 |**2025-02-11**|**SparseFormer: Detecting Objects in HRW Shots via Sparse Vision Transformer**|Wenxi Li et.al.|[2502.07216](http://arxiv.org/abs/2502.07216)|null|
 |**2025-02-11**|**Dense Object Detection Based on De-homogenized Queries**|Yueming Huang et.al.|[2502.07194](http://arxiv.org/abs/2502.07194)|null|
 |**2025-02-11**|**Foreign-Object Detection in High-Voltage Transmission Line Based on Improved YOLOv8m**|Zhenyue Wang et.al.|[2502.07175](http://arxiv.org/abs/2502.07175)|null|
@@ -3326,7 +3326,7 @@
 |**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874](http://arxiv.org/abs/2401.11874)|**[link](https://github.com/microsoft/comphrdoc)**|
 |**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824](http://arxiv.org/abs/2401.11824)|**[link](https://github.com/klayand/pcka)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -3415,7 +3415,7 @@
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Open-Vocabulary
 
@@ -3862,7 +3862,7 @@
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Image Captioning
 
@@ -3872,7 +3872,7 @@
 |**2025-02-10**|**Generative Distribution Prediction: A Unified Approach to Multimodal Learning**|Xinyu Tian et.al.|[2502.07090](http://arxiv.org/abs/2502.07090)|null|
 |**2025-02-10**|**Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?**|Gonçalo Gomes et.al.|[2502.06600](http://arxiv.org/abs/2502.06600)|null|
 |**2025-02-06**|**Decoder-Only LLMs are Better Controllers for Diffusion Models**|Ziyi Dong et.al.|[2502.04412](http://arxiv.org/abs/2502.04412)|null|
-|**2025-02-05**|**TexLiDAR: Automated Text Understanding for Panoramic LiDAR Data**|Naor Cohen et.al.|[2502.04385](http://arxiv.org/abs/2502.04385)|null|
+|**2025-02-05**|**TexLiDAR: Automated Text Understanding for Panoramic LiDAR Data**|Naor Cohen et.al.|[2502.04385](http://arxiv.org/abs/2502.04385)|**[link](https://github.com/AIROTAU/TexLiDAR)**|
 |**2025-02-04**|**Exploring Spatial Language Grounding Through Referring Expressions**|Akshar Tumu et.al.|[2502.04359](http://arxiv.org/abs/2502.04359)|null|
 |**2025-02-06**|**Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents**|Ilia Karmanov et.al.|[2502.04223](http://arxiv.org/abs/2502.04223)|null|
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
@@ -4177,7 +4177,7 @@
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
