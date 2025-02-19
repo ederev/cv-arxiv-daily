@@ -23,12 +23,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
+|**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
 |**2025-02-17**|**From Open-Vocabulary to Vocabulary-Free Semantic Segmentation**|Klara Reichard et.al.|[2502.11891](http://arxiv.org/abs/2502.11891)|null|
 |**2025-02-16**|**Detecting Cadastral Boundary from Satellite Images Using U-Net model**|Neda Rahimpour Anaraki et.al.|[2502.11044](http://arxiv.org/abs/2502.11044)|null|
 |**2025-02-15**|**NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**|Shutong Zhang et.al.|[2502.10720](http://arxiv.org/abs/2502.10720)|null|
 |**2025-02-15**|**Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation using A Novel Dataset**|Muhammad Ashad Kabir et.al.|[2502.10652](http://arxiv.org/abs/2502.10652)|null|
 |**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|null|
-|**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
+|**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|**[link](https://github.com/frapez1/SQ-GAN)**|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-17**|**Memory-based Ensemble Learning in CMR Semantic Segmentation**|Yiwei Liu et.al.|[2502.09269](http://arxiv.org/abs/2502.09269)|**[link](https://github.com/LEw1sin/Uncertainty-Ensemble)**|
 |**2025-02-13**|**Latents of latents to delineate pixels: hybrid Matryoshka autoencoder-to-U-Net pairing for segmenting large medical images in GPU-poor and low-data regimes**|Tahir Syed et.al.|[2502.08988](http://arxiv.org/abs/2502.08988)|null|
@@ -1190,6 +1192,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**WeedsGalore: A Multispectral and Multitemporal UAV-based Dataset for Crop and Weed Segmentation in Agricultural Maize Fields**|Ekin Celikkan et.al.|[2502.13103](http://arxiv.org/abs/2502.13103)|null|
+|**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
 |**2025-02-16**|**Leveraging Multimodal-LLMs Assisted by Instance Segmentation for Intelligent Traffic Monitoring**|Murat Arda Onsu et.al.|[2502.11304](http://arxiv.org/abs/2502.11304)|null|
 |**2025-02-18**|**FrGNet: A fourier-guided weakly-supervised framework for nuclear instance segmentation**|Peng Ling et.al.|[2502.09874](http://arxiv.org/abs/2502.09874)|null|
 |**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608](http://arxiv.org/abs/2502.09608)|null|
@@ -1668,6 +1672,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
+|**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
+|**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
+|**2025-02-18**|**Gaseous Object Detection**|Kailai Zhou et.al.|[2502.12415](http://arxiv.org/abs/2502.12415)|null|
 |**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027](http://arxiv.org/abs/2502.12027)|null|
 |**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178](http://arxiv.org/abs/2502.11178)|null|
 |**2025-02-15**|**CLoCKDistill: Consistent Location-and-Context-aware Knowledge Distillation for DETRs**|Qizhen Lan et.al.|[2502.10683](http://arxiv.org/abs/2502.10683)|null|
@@ -3443,6 +3451,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|null|
 |**2025-02-17**|**From Open-Vocabulary to Vocabulary-Free Semantic Segmentation**|Klara Reichard et.al.|[2502.11891](http://arxiv.org/abs/2502.11891)|null|
 |**2025-02-15**|**Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model**|Weilin Sun et.al.|[2502.10675](http://arxiv.org/abs/2502.10675)|null|
 |**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377](http://arxiv.org/abs/2502.10377)|null|
