@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-02-25**|**CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**|Rui Liu et.al.|[2502.17821](http://arxiv.org/abs/2502.17821)|null|
 |**2025-02-25**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
 |**2025-02-25**|**VPNeXt -- Rethinking Dense Decoding for Plain Vision Transformer**|Xikai Tang et.al.|[2502.16654](http://arxiv.org/abs/2502.16654)|null|
@@ -1696,6 +1698,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195](http://arxiv.org/abs/2502.18195)|null|
+|**2025-02-25**|**Progressive Local Alignment for Medical Multimodal Pre-training**|Huimin Yan et.al.|[2502.18047](http://arxiv.org/abs/2502.18047)|null|
+|**2025-02-25**|**Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads**|Istiaq Ahmed Fahad et.al.|[2502.17843](http://arxiv.org/abs/2502.17843)|null|
+|**2025-02-24**|**Semi-Supervised Weed Detection in Vegetable Fields: In-domain and Cross-domain Experiments**|Boyang Deng et.al.|[2502.17673](http://arxiv.org/abs/2502.17673)|null|
 |**2025-02-24**|**Experimental validation of UAV search and detection system in real wilderness environment**|Stella Dumenčić et.al.|[2502.17372](http://arxiv.org/abs/2502.17372)|null|
 |**2025-02-24**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039](http://arxiv.org/abs/2502.17039)|null|
 |**2025-02-23**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488](http://arxiv.org/abs/2502.16488)|null|
