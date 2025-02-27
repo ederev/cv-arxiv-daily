@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1690,7 +1690,7 @@ layout: default
 |**2025-02-24**|**Experimental validation of UAV search and detection system in real wilderness environment**|Stella Dumenčić et.al.|[2502.17372](http://arxiv.org/abs/2502.17372)|null|
 |**2025-02-24**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039](http://arxiv.org/abs/2502.17039)|null|
 |**2025-02-23**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488](http://arxiv.org/abs/2502.16488)|null|
-|**2025-02-23**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
+|**2025-02-26**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
 |**2025-02-23**|**Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment**|Zeyu Shangguan et.al.|[2502.16469](http://arxiv.org/abs/2502.16469)|null|
 |**2025-02-23**|**Deep learning approaches to surgical video segmentation and object detection: A Scoping Review**|Devanish N. Kamtam et.al.|[2502.16459](http://arxiv.org/abs/2502.16459)|null|
 |**2025-02-22**|**FeatSharp: Your Vision Model Features, Sharper**|Mike Ranzinger et.al.|[2502.16025](http://arxiv.org/abs/2502.16025)|null|
@@ -3483,7 +3483,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652](http://arxiv.org/abs/2502.16652)|null|
 |**2025-02-23**|**OpenVox: Real-time Instance-level Open-vocabulary Probabilistic Voxel Representation**|Yinan Deng et.al.|[2502.16528](http://arxiv.org/abs/2502.16528)|null|
-|**2025-02-23**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
+|**2025-02-26**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
 |**2025-02-24**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309](http://arxiv.org/abs/2502.15309)|**[link](https://github.com/geluzhou/dynamic-gsg)**|
 |**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
 |**2025-02-20**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|**[link](https://github.com/tsinghua-fib-lab/CityEQA)**|
