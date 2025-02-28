@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -3942,7 +3942,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-26**|**FungalZSL: Zero-Shot Fungal Classification with Image Captioning Using a Synthetic Data Approach**|Anju Rani et.al.|[2502.19038](http://arxiv.org/abs/2502.19038)|null|
 |**2025-02-26**|**Beyond RNNs: Benchmarking Attention-Based Image Captioning Models**|Hemanth Teja Yanambakkam et.al.|[2502.18734](http://arxiv.org/abs/2502.18734)|null|
-|**2025-02-24**|**Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts**|Zhenghao Liu et.al.|[2502.17297](http://arxiv.org/abs/2502.17297)|null|
+|**2025-02-24**|**Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts**|Zhenghao Liu et.al.|[2502.17297](http://arxiv.org/abs/2502.17297)|**[link](https://github.com/neuir/m2rag)**|
 |**2025-02-24**|**Exploring Causes and Mitigation of Hallucinations in Large Vision Language Models**|Yaqi Sun et.al.|[2502.16842](http://arxiv.org/abs/2502.16842)|null|
 |**2025-02-24**|**Are Large Language Models Good Data Preprocessors?**|Elyas Meguellati et.al.|[2502.16790](http://arxiv.org/abs/2502.16790)|null|
 |**2025-02-23**|**Fine-Grained Video Captioning through Scene Graph Consolidation**|Sanghyeok Chu et.al.|[2502.16427](http://arxiv.org/abs/2502.16427)|null|
