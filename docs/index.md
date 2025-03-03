@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -21,7 +21,7 @@ layout: default
 |**2025-02-27**|**Learning Mask Invariant Mutual Information for Masked Image Modeling**|Tao Huang et.al.|[2502.19718](http://arxiv.org/abs/2502.19718)|null|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
 |**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982](http://arxiv.org/abs/2502.18982)|null|
-|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-02-28**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-25**|**CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**|Rui Liu et.al.|[2502.17821](http://arxiv.org/abs/2502.17821)|null|
 |**2025-02-25**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
@@ -1211,7 +1211,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving**|Guangfeng Jiang et.al.|[2502.19698](http://arxiv.org/abs/2502.19698)|null|
+|**2025-02-28**|**You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving**|Guangfeng Jiang et.al.|[2502.19698](http://arxiv.org/abs/2502.19698)|null|
 |**2025-02-24**|**CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation**|Vishal Thengane et.al.|[2502.17429](http://arxiv.org/abs/2502.17429)|**[link](https://github.com/vgthengane/climb3d)**|
 |**2025-02-23**|**OpenVox: Real-time Instance-level Open-vocabulary Probabilistic Voxel Representation**|Yinan Deng et.al.|[2502.16528](http://arxiv.org/abs/2502.16528)|null|
 |**2025-02-18**|**WeedsGalore: A Multispectral and Multitemporal UAV-based Dataset for Crop and Weed Segmentation in Agricultural Maize Fields**|Ekin Celikkan et.al.|[2502.13103](http://arxiv.org/abs/2502.13103)|**[link](https://github.com/gfz/weedsgalore)**|
