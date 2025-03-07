@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
+|**2025-03-06**|**PointsToWood: A deep learning framework for complete canopy leaf-wood segmentation of TLS data across diverse European forests**|Harry J. F. Owen et.al.|[2503.04420](http://arxiv.org/abs/2503.04420)|null|
+|**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
+|**2025-03-06**|**MASTER: Multimodal Segmentation with Text Prompts**|Fuyang Liu et.al.|[2503.04199](http://arxiv.org/abs/2503.04199)|null|
+|**2025-03-06**|**Towards Intelligent Transportation with Pedestrians and Vehicles In-the-Loop: A Surveillance Video-Assisted Federated Digital Twin Framework**|Xiaolong Li et.al.|[2503.04170](http://arxiv.org/abs/2503.04170)|null|
+|**2025-03-06**|**H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision**|Yunxiao Shi et.al.|[2503.04059](http://arxiv.org/abs/2503.04059)|null|
+|**2025-03-06**|**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**|Xihan Wang et.al.|[2503.04034](http://arxiv.org/abs/2503.04034)|null|
+|**2025-03-06**|**DSV-LFS: Unifying LLM-Driven Semantic Cues with Visual Features for Robust Few-Shot Segmentation**|Amin Karimi et.al.|[2503.04006](http://arxiv.org/abs/2503.04006)|null|
+|**2025-03-05**|**COARSE: Collaborative Pseudo-Labeling with Coarse Real Labels for Off-Road Semantic Segmentation**|Aurelio Noca et.al.|[2503.03947](http://arxiv.org/abs/2503.03947)|null|
+|**2025-03-05**|**SurgiSAM2: Fine-tuning a foundational model for surgical video anatomy segmentation and detection**|Devanish N. Kamtam et.al.|[2503.03942](http://arxiv.org/abs/2503.03942)|null|
 |**2025-03-05**|**Golden Cudgel Network for Real-Time Semantic Segmentation**|Guoyu Yang et.al.|[2503.03325](http://arxiv.org/abs/2503.03325)|null|
 |**2025-03-05**|**Label-Efficient LiDAR Semantic Segmentation with 2D-3D Vision Transformer Adapters**|Julia Hindel et.al.|[2503.03299](http://arxiv.org/abs/2503.03299)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100](http://arxiv.org/abs/2503.03100)|null|
@@ -1730,6 +1740,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
+|**2025-03-06**|**A lightweight model FDM-YOLO for small target improvement based on YOLOv8**|Xuerui Zhang et.al.|[2503.04452](http://arxiv.org/abs/2503.04452)|null|
+|**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308](http://arxiv.org/abs/2503.04308)|null|
+|**2025-03-06**|**CA-W3D: Leveraging Context-Aware Knowledge for Weakly Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2503.04154](http://arxiv.org/abs/2503.04154)|null|
+|**2025-03-06**|**Robust Computer-Vision based Construction Site Detection for Assistive-Technology Applications**|Junchi Feng et.al.|[2503.04139](http://arxiv.org/abs/2503.04139)|null|
+|**2025-03-06**|**Fractional Correspondence Framework in Detection Transformer**|Masoumeh Zareapoor et.al.|[2503.04107](http://arxiv.org/abs/2503.04107)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
 |**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548](http://arxiv.org/abs/2503.03548)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
@@ -3468,6 +3487,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
 |**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
@@ -3563,6 +3583,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308](http://arxiv.org/abs/2503.04308)|null|
+|**2025-03-06**|**CA-W3D: Leveraging Context-Aware Knowledge for Weakly Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2503.04154](http://arxiv.org/abs/2503.04154)|null|
+|**2025-03-06**|**Robust Computer-Vision based Construction Site Detection for Assistive-Technology Applications**|Junchi Feng et.al.|[2503.04139](http://arxiv.org/abs/2503.04139)|null|
 |**2025-03-03**|**OVAMOS: A Framework for Open-Vocabulary Multi-Object Search in Unknown Environments**|Qianwei Wang et.al.|[2503.02106](http://arxiv.org/abs/2503.02106)|null|
 |**2025-03-03**|**Visual-RFT: Visual Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2503.01785](http://arxiv.org/abs/2503.01785)|**[link](https://github.com/liuziyu77/visual-rft)**|
 |**2025-03-03**|**RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation**|Haichao Liu et.al.|[2503.01616](http://arxiv.org/abs/2503.01616)|null|
@@ -4030,6 +4053,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**A Benchmark for Multi-Lingual Vision-Language Learning in Remote Sensing Image Captioning**|Qing Zhou et.al.|[2503.04592](http://arxiv.org/abs/2503.04592)|null|
+|**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543](http://arxiv.org/abs/2503.04543)|null|
 |**2025-03-05**|**Variance-Aware Loss Scheduling for Multimodal Alignment in Low-Data Settings**|Sneh Pillai et.al.|[2503.03202](http://arxiv.org/abs/2503.03202)|null|
 |**2025-03-04**|**Are Large Vision Language Models Good Game Players?**|Xinyu Wang et.al.|[2503.02358](http://arxiv.org/abs/2503.02358)|null|
 |**2025-03-03**|**AC-Lite : A Lightweight Image Captioning Model for Low-Resource Assamese Language**|Pankaj Choudhury et.al.|[2503.01453](http://arxiv.org/abs/2503.01453)|null|
