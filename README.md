@@ -82,7 +82,7 @@
 |**2025-02-16**|**Detecting Cadastral Boundary from Satellite Images Using U-Net model**|Neda Rahimpour Anaraki et.al.|[2502.11044](http://arxiv.org/abs/2502.11044)|null|
 |**2025-02-15**|**NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**|Shutong Zhang et.al.|[2502.10720](http://arxiv.org/abs/2502.10720)|null|
 |**2025-02-15**|**Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation using A Novel Dataset**|Muhammad Ashad Kabir et.al.|[2502.10652](http://arxiv.org/abs/2502.10652)|null|
-|**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|null|
+|**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|**[link](https://github.com/stmharry/dental-pano-ai)**|
 |**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|**[link](https://github.com/frapez1/SQ-GAN)**|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-17**|**Memory-based Ensemble Learning in CMR Semantic Segmentation**|Yiwei Liu et.al.|[2502.09269](http://arxiv.org/abs/2502.09269)|**[link](https://github.com/LEw1sin/Uncertainty-Ensemble)**|
@@ -500,7 +500,7 @@
 |**2024-09-15**|**Semantic2D: A Semantic Dataset for 2D Lidar Semantic Segmentation**|Zhanteng Xie et.al.|[2409.09899](http://arxiv.org/abs/2409.09899)|null|
 |**2024-09-15**|**Resolving Inconsistent Semantics in Multi-Dataset Image Segmentation**|Qilong Zhangli et.al.|[2409.09893](http://arxiv.org/abs/2409.09893)|null|
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726](http://arxiv.org/abs/2409.09726)|null|
-|**2024-09-14**|**Multi-Scale Grouped Prototypes for Interpretable Semantic Segmentation**|Hugo Porta et.al.|[2409.09497](http://arxiv.org/abs/2409.09497)|null|
+|**2024-09-14**|**Multi-Scale Grouped Prototypes for Interpretable Semantic Segmentation**|Hugo Porta et.al.|[2409.09497](http://arxiv.org/abs/2409.09497)|**[link](https://github.com/eceo-epfl/scaleprotoseg)**|
 |**2024-09-13**|**AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**|Zechao Sun et.al.|[2409.08516](http://arxiv.org/abs/2409.08516)|null|
 |**2024-09-13**|**VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation**|Ezra MacDonald et.al.|[2409.08461](http://arxiv.org/abs/2409.08461)|**[link](https://github.com/macdonaldezra/VistaFormer)**|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
@@ -1044,7 +1044,7 @@
 |**2024-03-26**|**Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**|Kazi Shahriar Sanjid et.al.|[2403.17432](http://arxiv.org/abs/2403.17432)|null|
 |**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/abs/2403.17009)|**[link](https://github.com/ywyeli/place3d)**|
 |**2024-03-25**|**DreamLIP: Language-Image Pre-training with Long Captions**|Kecheng Zheng et.al.|[2403.17007](http://arxiv.org/abs/2403.17007)|**[link](https://github.com/zyf0619sjtu/DreamLIP)**|
-|**2024-03-25**|**TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation**|Quang-Huy Che et.al.|[2403.16958](http://arxiv.org/abs/2403.16958)|null|
+|**2024-03-25**|**TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation**|Quang-Huy Che et.al.|[2403.16958](http://arxiv.org/abs/2403.16958)|**[link](https://github.com/chequanghuy/TwinLiteNetPlus)**|
 |**2024-03-25**|**HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation**|Linglin Jing et.al.|[2403.16788](http://arxiv.org/abs/2403.16788)|null|
 |**2024-03-25**|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|Aysim Toker et.al.|[2403.16605](http://arxiv.org/abs/2403.16605)|null|
 |**2024-03-25**|**Self-Supervised Learning for Medical Image Data with Anatomy-Oriented Imaging Planes**|Tianwei Zhang et.al.|[2403.16499](http://arxiv.org/abs/2403.16499)|null|
@@ -1767,7 +1767,7 @@
 |**2025-03-03**|**Evaluating Stenosis Detection with Grounding DINO, YOLO, and DINO-DETR**|Muhammad Musab Ansari et.al.|[2503.01601](http://arxiv.org/abs/2503.01601)|null|
 |**2025-02-28**|**The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection**|Rishi Mukherjee et.al.|[2502.20651](http://arxiv.org/abs/2502.20651)|null|
 |**2025-02-28**|**RTGen: Real-Time Generative Detection Transformer**|Chi Ruan et.al.|[2502.20622](http://arxiv.org/abs/2502.20622)|null|
-|**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|null|
+|**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|**[link](https://github.com/zhefan-xu/lv-dot)**|
 |**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316](http://arxiv.org/abs/2502.20316)|null|
 |**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087](http://arxiv.org/abs/2502.20087)|**[link](https://github.com/lmmmeng/overlock)**|
 |**2025-02-27**|**Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps**|Tianxiao Gao et.al.|[2502.20054](http://arxiv.org/abs/2502.20054)|null|
@@ -1805,8 +1805,8 @@
 |**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178](http://arxiv.org/abs/2502.11178)|**[link](https://github.com/enesdoruk/davimnet)**|
 |**2025-02-15**|**CLoCKDistill: Consistent Location-and-Context-aware Knowledge Distillation for DETRs**|Qizhen Lan et.al.|[2502.10683](http://arxiv.org/abs/2502.10683)|null|
 |**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392](http://arxiv.org/abs/2502.10392)|**[link](https://github.com/gwxuan/tsp3d)**|
-|**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|null|
-|**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|null|
+|**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|**[link](https://github.com/omar9008-eng/Object-Detection-Tracking-2025)**|
+|**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|**[link](https://github.com/stmharry/dental-pano-ai)**|
 |**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608](http://arxiv.org/abs/2502.09608)|null|
 |**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471](http://arxiv.org/abs/2502.09471)|**[link](https://github.com/yuyi1005/whollywood)**|
 |**2025-02-13**|**Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection**|Yan Zhang et.al.|[2502.09311](http://arxiv.org/abs/2502.09311)|null|
@@ -3647,7 +3647,7 @@
 |**2024-12-26**|**Relation-aware Hierarchical Prompt for Open-vocabulary Scene Graph Generation**|Tao Liu et.al.|[2412.19021](http://arxiv.org/abs/2412.19021)|null|
 |**2024-12-25**|**Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model**|Yi-Chia Chen et.al.|[2412.18917](http://arxiv.org/abs/2412.18917)|**[link](https://github.com/ai-application-and-integration-lab/omtseg)**|
 |**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806](http://arxiv.org/abs/2412.18806)|null|
-|**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
+|**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|**[link](https://github.com/efc-robot/mr-cographs)**|
 |**2024-12-24**|**Sampling Bag of Views for Open-Vocabulary Object Detection**|Hojun Choi et.al.|[2412.18273](http://arxiv.org/abs/2412.18273)|null|
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-24**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635](http://arxiv.org/abs/2412.17635)|null|
@@ -4097,7 +4097,7 @@
 |**2025-02-04**|**COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation**|Xueqing Deng et.al.|[2502.02589](http://arxiv.org/abs/2502.02589)|null|
 |**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|**[link](https://github.com/hashmatshadab/robust-llava)**|
 |**2025-02-03**|**Visual Attention Never Fades: Selective Progressive Attention ReCalibration for Detailed Image Captioning in Multimodal Large Language Models**|Mingi Jung et.al.|[2502.01419](http://arxiv.org/abs/2502.01419)|null|
-|**2025-02-03**|**COVE: COntext and VEracity prediction for out-of-context images**|Jonathan Tonglet et.al.|[2502.01194](http://arxiv.org/abs/2502.01194)|null|
+|**2025-02-03**|**COVE: COntext and VEracity prediction for out-of-context images**|Jonathan Tonglet et.al.|[2502.01194](http://arxiv.org/abs/2502.01194)|**[link](https://github.com/ukplab/naacl2025-cove)**|
 |**2025-02-02**|**BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts**|Divya Jyoti Bajpai et.al.|[2502.00745](http://arxiv.org/abs/2502.00745)|null|
 |**2025-01-30**|**MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding**|Yuxin Zuo et.al.|[2501.18362](http://arxiv.org/abs/2501.18362)|null|
 |**2025-01-28**|**Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement**|Kei Katsumata et.al.|[2501.17022](http://arxiv.org/abs/2501.17022)|**[link](https://github.com/keio-smilab24/mmig)**|
