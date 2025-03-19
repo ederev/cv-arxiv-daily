@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1785,7 +1785,7 @@ layout: default
 |**2025-03-15**|**An Efficient Deep Learning-Based Approach to Automating Invoice Document Validation**|Aziz Amari et.al.|[2503.12267](http://arxiv.org/abs/2503.12267)|null|
 |**2025-03-15**|**Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing**|Boyu Chen et.al.|[2503.12249](http://arxiv.org/abs/2503.12249)|null|
 |**2025-03-15**|**SFMNet: Sparse Focal Modulation for 3D Object Detection**|Oren Shrout et.al.|[2503.12093](http://arxiv.org/abs/2503.12093)|null|
-|**2025-03-15**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
+|**2025-03-18**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
 |**2025-03-14**|**Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning**|Tianyi Zhao et.al.|[2503.11780](http://arxiv.org/abs/2503.11780)|null|
 |**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538](http://arxiv.org/abs/2503.11538)|null|
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
@@ -3681,7 +3681,7 @@ layout: default
 |**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345](http://arxiv.org/abs/2503.11345)|null|
 |**2025-03-14**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|null|
 |**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
-|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|null|
+|**2025-03-18**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|**[link](https://github.com/jinyanglii/ovtr)**|
 |**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546](http://arxiv.org/abs/2503.10546)|null|
 |**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|null|
 |**2025-03-13**|**MouseGPT: A Large-scale Vision-Language Model for Mouse Behavior Analysis**|Teng Xu et.al.|[2503.10212](http://arxiv.org/abs/2503.10212)|null|
@@ -4170,7 +4170,7 @@ layout: default
 |**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
 |**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490](http://arxiv.org/abs/2503.12490)|null|
 |**2025-03-16**|**CapArena: Benchmarking and Analyzing Detailed Image Captioning in the LLM Era**|Kanzhi Cheng et.al.|[2503.12329](http://arxiv.org/abs/2503.12329)|null|
-|**2025-03-16**|**Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs**|Xiaoying Zhang et.al.|[2503.12303](http://arxiv.org/abs/2503.12303)|null|
+|**2025-03-18**|**Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs**|Xiaoying Zhang et.al.|[2503.12303](http://arxiv.org/abs/2503.12303)|**[link](https://github.com/thunlp/SICOG)**|
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
 |**2025-03-14**|**RONA: Pragmatically Diverse Image Captioning with Coherence Relations**|Aashish Anantha Ramakrishnan et.al.|[2503.10997](http://arxiv.org/abs/2503.10997)|null|
 |**2025-03-13**|**Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification**|Nathaniel Lesperance et.al.|[2503.10886](http://arxiv.org/abs/2503.10886)|null|
