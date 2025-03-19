@@ -23,13 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
+|**2025-03-18**|**Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation**|Xinliang Zhang et.al.|[2503.13895](http://arxiv.org/abs/2503.13895)|null|
+|**2025-03-17**|**Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization**|Hao Li et.al.|[2503.13617](http://arxiv.org/abs/2503.13617)|null|
 |**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188](http://arxiv.org/abs/2503.13188)|null|
 |**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
 |**2025-03-17**|**Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation**|Yanlin Xiang et.al.|[2503.12853](http://arxiv.org/abs/2503.12853)|null|
 |**2025-03-17**|**LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation**|Chang Liu et.al.|[2503.12780](http://arxiv.org/abs/2503.12780)|null|
 |**2025-03-17**|**TransDiff: Diffusion-Based Method for Manipulating Transparent Objects Using a Single RGB-D Image**|Haoxiao Wang et.al.|[2503.12779](http://arxiv.org/abs/2503.12779)|null|
 |**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
-|**2025-03-16**|**BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis**|Weiguang Zhao et.al.|[2503.12539](http://arxiv.org/abs/2503.12539)|null|
+|**2025-03-16**|**BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis**|Weiguang Zhao et.al.|[2503.12539](http://arxiv.org/abs/2503.12539)|**[link](https://github.com/weiguangzhao/BFANet)**|
 |**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535](http://arxiv.org/abs/2503.12535)|null|
 |**2025-03-16**|**Shape Bias and Robustness Evaluation via Cue Decomposition for Image Classification and Segmentation**|Edgar Heinert et.al.|[2503.12453](http://arxiv.org/abs/2503.12453)|null|
 |**2025-03-17**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439](http://arxiv.org/abs/2503.11439)|null|
@@ -1278,6 +1281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**|Runsong Zhu et.al.|[2503.14029](http://arxiv.org/abs/2503.14029)|null|
 |**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203](http://arxiv.org/abs/2503.13203)|null|
 |**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188](http://arxiv.org/abs/2503.13188)|null|
 |**2025-03-17**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439](http://arxiv.org/abs/2503.11439)|null|
@@ -1689,6 +1693,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint**|Zhenlong Yuan et.al.|[2503.13721](http://arxiv.org/abs/2503.13721)|null|
 |**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203](http://arxiv.org/abs/2503.13203)|null|
 |**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188](http://arxiv.org/abs/2503.13188)|null|
 |**2025-03-15**|**Cracking the PUMA Challenge in 24 Hours with CellViT++ and nnU-Net**|Negar Shahamiri et.al.|[2503.12269](http://arxiv.org/abs/2503.12269)|null|
@@ -1792,6 +1797,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
+|**2025-03-18**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
+|**2025-03-18**|**Shift, Scale and Rotation Invariant Multiple Object Detection using Balanced Joint Transform Correlator**|Xi Shen et.al.|[2503.14034](http://arxiv.org/abs/2503.14034)|null|
+|**2025-03-18**|**LEGNet: Lightweight Edge-Gaussian Driven Network for Low-Quality Remote Sensing Image Object Detection**|Wei Lu et.al.|[2503.14012](http://arxiv.org/abs/2503.14012)|null|
+|**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951](http://arxiv.org/abs/2503.13951)|null|
+|**2025-03-18**|**Is Discretization Fusion All You Need for Collaborative Perception?**|Kang Yang et.al.|[2503.13946](http://arxiv.org/abs/2503.13946)|null|
+|**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
+|**2025-03-18**|**HSOD-BIT-V2: A New Challenging Benchmarkfor Hyperspectral Salient Object Detection**|Yuhao Qiu et.al.|[2503.13906](http://arxiv.org/abs/2503.13906)|null|
+|**2025-03-18**|**TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection**|Qiang Qi et.al.|[2503.13903](http://arxiv.org/abs/2503.13903)|null|
+|**2025-03-18**|**YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction**|Ziyu Lin et.al.|[2503.13883](http://arxiv.org/abs/2503.13883)|null|
 |**2025-03-17**|**Beyond RGB: Adaptive Parallel Processing for RAW Object Detection**|Shani Gamrian et.al.|[2503.13163](http://arxiv.org/abs/2503.13163)|null|
 |**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982](http://arxiv.org/abs/2503.12982)|null|
 |**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914](http://arxiv.org/abs/2503.12914)|null|
@@ -3592,6 +3607,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
@@ -3693,6 +3709,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation**|Yang Zhou et.al.|[2503.13794](http://arxiv.org/abs/2503.13794)|null|
+|**2025-03-17**|**Adapting to the Unknown: Training-Free Audio-Visual Event Perception with Dynamic Thresholds**|Eitan Shaar et.al.|[2503.13693](http://arxiv.org/abs/2503.13693)|null|
 |**2025-03-17**|**MindEye-OmniAssist: A Gaze-Driven LLM-Enhanced Assistive Robot System for Implicit Intention Recognition and Task Execution**|Zejia Zhang et.al.|[2503.13250](http://arxiv.org/abs/2503.13250)|null|
 |**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490](http://arxiv.org/abs/2503.12490)|null|
 |**2025-03-15**|**LIAM: Multimodal Transformer for Language Instructions, Images, Actions and Semantic Maps**|Yihao Wang et.al.|[2503.12230](http://arxiv.org/abs/2503.12230)|null|
