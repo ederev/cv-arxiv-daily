@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1782,7 +1782,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
+|**2025-03-19**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
 |**2025-03-18**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
 |**2025-03-18**|**Shift, Scale and Rotation Invariant Multiple Object Detection using Balanced Joint Transform Correlator**|Xi Shen et.al.|[2503.14034](http://arxiv.org/abs/2503.14034)|null|
 |**2025-03-18**|**LEGNet: Lightweight Edge-Gaussian Driven Network for Low-Quality Remote Sensing Image Object Detection**|Wei Lu et.al.|[2503.14012](http://arxiv.org/abs/2503.14012)|null|
@@ -4188,7 +4188,7 @@ layout: default
 |**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
 |**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490](http://arxiv.org/abs/2503.12490)|null|
 |**2025-03-16**|**CapArena: Benchmarking and Analyzing Detailed Image Captioning in the LLM Era**|Kanzhi Cheng et.al.|[2503.12329](http://arxiv.org/abs/2503.12329)|null|
-|**2025-03-18**|**Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs**|Xiaoying Zhang et.al.|[2503.12303](http://arxiv.org/abs/2503.12303)|**[link](https://github.com/thunlp/SICOG)**|
+|**2025-03-19**|**Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs**|Xiaoying Zhang et.al.|[2503.12303](http://arxiv.org/abs/2503.12303)|**[link](https://github.com/thunlp/SICOG)**|
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
 |**2025-03-14**|**RONA: Pragmatically Diverse Image Captioning with Coherence Relations**|Aashish Anantha Ramakrishnan et.al.|[2503.10997](http://arxiv.org/abs/2503.10997)|null|
 |**2025-03-13**|**Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification**|Nathaniel Lesperance et.al.|[2503.10886](http://arxiv.org/abs/2503.10886)|null|
