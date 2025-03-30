@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-03-26**|**Exploiting Temporal State Space Sharing for Video Semantic Segmentation**|Syed Ariff Syed Hesham et.al.|[2503.20824](http://arxiv.org/abs/2503.20824)|null|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
-|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
+|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|**[link](https://github.com/vladan-stojnic/lposs)**|
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
 |**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
 |**2025-03-25**|**Exploring Textual Semantics Diversity for Image Transmission in Semantic Communication Systems using Visual Language Model**|Peishan Huang et.al.|[2503.19386](http://arxiv.org/abs/2503.19386)|null|
@@ -1310,7 +1310,7 @@
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Instance Segmentation
 
@@ -1731,7 +1731,7 @@
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Panoptic Segmentation
 
@@ -1838,7 +1838,7 @@
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Object Detection
 
@@ -3691,7 +3691,7 @@
 |**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874](http://arxiv.org/abs/2401.11874)|**[link](https://github.com/microsoft/comphrdoc)**|
 |**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824](http://arxiv.org/abs/2401.11824)|**[link](https://github.com/klayand/pcka)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -3794,7 +3794,7 @@
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Open-Vocabulary
 
@@ -3807,7 +3807,7 @@
 |**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682](http://arxiv.org/abs/2503.20682)|null|
 |**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118](http://arxiv.org/abs/2503.20118)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
-|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
+|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|**[link](https://github.com/vladan-stojnic/lposs)**|
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
 |**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
 |**2025-03-24**|**Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces**|Chenyangguang Zhang et.al.|[2503.19199](http://arxiv.org/abs/2503.19199)|null|
@@ -4314,7 +4314,7 @@
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Image Captioning
 
@@ -4693,7 +4693,7 @@
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -21,7 +21,7 @@ layout: default
 |**2025-03-26**|**Exploiting Temporal State Space Sharing for Video Semantic Segmentation**|Syed Ariff Syed Hesham et.al.|[2503.20824](http://arxiv.org/abs/2503.20824)|null|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
-|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
+|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|**[link](https://github.com/vladan-stojnic/lposs)**|
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
 |**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
 |**2025-03-25**|**Exploring Textual Semantics Diversity for Image Transmission in Semantic Communication Systems using Visual Language Model**|Peishan Huang et.al.|[2503.19386](http://arxiv.org/abs/2503.19386)|null|
@@ -3788,7 +3788,7 @@ layout: default
 |**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682](http://arxiv.org/abs/2503.20682)|null|
 |**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118](http://arxiv.org/abs/2503.20118)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
-|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
+|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|**[link](https://github.com/vladan-stojnic/lposs)**|
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
 |**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
 |**2025-03-24**|**Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces**|Chenyangguang Zhang et.al.|[2503.19199](http://arxiv.org/abs/2503.19199)|null|
