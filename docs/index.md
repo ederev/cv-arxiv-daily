@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -4341,7 +4341,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
-|**2025-03-31**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
+|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
 |**2025-03-31**|**Context-Independent OCR with Multimodal LLMs: Effects of Image Resolution and Visual Complexity**|Kotaro Inoue et.al.|[2503.23667](http://arxiv.org/abs/2503.23667)|null|
 |**2025-03-30**|**Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning**|Maofu Liu et.al.|[2503.23453](http://arxiv.org/abs/2503.23453)|null|
 |**2025-03-29**|**Identifying Multi-modal Knowledge Neurons in Pretrained Transformers via Two-stage Filtering**|Yugen Sato et.al.|[2503.22941](http://arxiv.org/abs/2503.22941)|null|
