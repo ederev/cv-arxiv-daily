@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
 |**2025-04-03**|**Semantic segmentation of forest stands using deep learning**|Håkon Næss Sandum et.al.|[2504.02471](http://arxiv.org/abs/2504.02471)|null|
 |**2025-04-03**|**Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation**|Changshuo Wang et.al.|[2504.02454](http://arxiv.org/abs/2504.02454)|null|
@@ -1885,6 +1886,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563](http://arxiv.org/abs/2504.03563)|null|
+|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438](http://arxiv.org/abs/2504.03438)|null|
+|**2025-04-04**|**Infrared bubble recognition in the Milky Way and beyond using deep learning**|Shimpei Nishimoto et.al.|[2504.03367](http://arxiv.org/abs/2504.03367)|null|
+|**2025-04-04**|**Real-Time Roadway Obstacle Detection for Electric Scooters Using Deep Learning and Multi-Sensor Fusion**|Zeyang Zheng et.al.|[2504.03171](http://arxiv.org/abs/2504.03171)|null|
+|**2025-04-04**|**Finding the Reflection Point: Unpadding Images to Remove Data Augmentation Artifacts in Large Open Source Image Datasets for Machine Learning**|Lucas Choi et.al.|[2504.03168](http://arxiv.org/abs/2504.03168)|null|
+|**2025-04-03**|**LiDAR-based Object Detection with Real-time Voice Specifications**|Anurag Kulkarni et.al.|[2504.02920](http://arxiv.org/abs/2504.02920)|null|
 |**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
 |**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558](http://arxiv.org/abs/2504.02558)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
@@ -3877,6 +3884,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254](http://arxiv.org/abs/2504.03254)|null|
+|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096](http://arxiv.org/abs/2504.03096)|null|
+|**2025-04-01**|**OpenFACADES: An Open Framework for Architectural Caption and Attribute Data Enrichment via Street View Imagery**|Xiucheng Liang et.al.|[2504.02866](http://arxiv.org/abs/2504.02866)|null|
 |**2025-04-03**|**Refining CLIP's Spatial Awareness: A Visual-Centric Perspective**|Congpei Qiu et.al.|[2504.02328](http://arxiv.org/abs/2504.02328)|null|
 |**2025-04-01**|**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**|Abdelrahman Elskhawy et.al.|[2504.00844](http://arxiv.org/abs/2504.00844)|null|
 |**2025-04-01**|**Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**|Zilong Huang et.al.|[2504.00387](http://arxiv.org/abs/2504.00387)|null|
@@ -4403,6 +4413,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**MORAL: A Multimodal Reinforcement Learning Framework for Decision Making in Autonomous Laboratories**|Natalie Tirabassi et.al.|[2504.03153](http://arxiv.org/abs/2504.03153)|null|
+|**2025-04-03**|**Hummus: A Dataset of Humorous Multimodal Metaphor Use**|Xiaoyu Tong et.al.|[2504.02983](http://arxiv.org/abs/2504.02983)|null|
 |**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823](http://arxiv.org/abs/2504.02823)|null|
 |**2025-04-03**|**Group-based Distinctive Image Captioning with Memory Difference Encoding and Attention**|Jiuniu Wang et.al.|[2504.02496](http://arxiv.org/abs/2504.02496)|null|
 |**2025-04-01**|**A Conformal Risk Control Framework for Granular Word Assessment and Uncertainty Calibration of CLIPScore Quality Estimates**|Gonçalo Gomes et.al.|[2504.01225](http://arxiv.org/abs/2504.01225)|null|
