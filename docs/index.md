@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|null|
+|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
+|**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123](http://arxiv.org/abs/2504.10123)|null|
+|**2025-04-14**|**DUDA: Distilled Unsupervised Domain Adaptation for Lightweight Semantic Segmentation**|Beomseok Kang et.al.|[2504.09814](http://arxiv.org/abs/2504.09814)|null|
+|**2025-04-14**|**IGL-DT: Iterative Global-Local Feature Learning with Dual-Teacher Semantic Segmentation Framework under Limited Annotation Scheme**|Dinh Dai Quan Tran et.al.|[2504.09797](http://arxiv.org/abs/2504.09797)|null|
+|**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796](http://arxiv.org/abs/2504.09796)|null|
+|**2025-04-12**|**Evolved Hierarchical Masking for Self-Supervised Learning**|Zhanzhou Feng et.al.|[2504.09155](http://arxiv.org/abs/2504.09155)|null|
+|**2025-04-11**|**Data-Importance-Aware Power Allocation for Adaptive Real-Time Communication in Computer Vision Applications**|Chunmei Xu et.al.|[2504.08922](http://arxiv.org/abs/2504.08922)|null|
 |**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704](http://arxiv.org/abs/2504.08704)|null|
 |**2025-04-11**|**SN-LiDAR: Semantic Neural Fields for Novel Space-time View LiDAR Synthesis**|Yi Chen et.al.|[2504.08361](http://arxiv.org/abs/2504.08361)|null|
 |**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
@@ -1901,6 +1909,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
+|**2025-04-14**|**Balancing Stability and Plasticity in Pretrained Detector: A Dual-Path Framework for Incremental Object Detection**|Songze Li et.al.|[2504.10214](http://arxiv.org/abs/2504.10214)|null|
+|**2025-04-14**|**WildLive: Near Real-time Visual Wildlife Tracking onboard UAVs**|Nguyen Ngoc Dat et.al.|[2504.10165](http://arxiv.org/abs/2504.10165)|null|
+|**2025-04-14**|**COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts**|Jiansheng Li et.al.|[2504.10158](http://arxiv.org/abs/2504.10158)|null|
+|**2025-04-14**|**Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware**|Muhammad Fasih Tariq et.al.|[2504.09900](http://arxiv.org/abs/2504.09900)|null|
+|**2025-04-14**|**Density-based Object Detection in Crowded Scenes**|Chenyang Zhao et.al.|[2504.09819](http://arxiv.org/abs/2504.09819)|null|
+|**2025-04-13**|**Uncertainty Guided Refinement for Fine-Grained Salient Object Detection**|Yao Yuan et.al.|[2504.09666](http://arxiv.org/abs/2504.09666)|**[link](https://github.com/I2-Multimedia-Lab/UGRAN)**|
+|**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506](http://arxiv.org/abs/2504.09506)|null|
+|**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|null|
+|**2025-04-13**|**InfoBound: A Provable Information-Bounds Inspired Framework for Both OoD Generalization and OoD Detection**|Lin Zhu et.al.|[2504.09448](http://arxiv.org/abs/2504.09448)|null|
 |**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655](http://arxiv.org/abs/2504.08655)|null|
 |**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
@@ -3935,6 +3953,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|null|
+|**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Peizheng Li et.al.|[2504.10117](http://arxiv.org/abs/2504.10117)|null|
+|**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|null|
+|**2025-04-12**|**AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images**|Saikat Dutta et.al.|[2504.09203](http://arxiv.org/abs/2504.09203)|null|
 |**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603](http://arxiv.org/abs/2504.08603)|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581](http://arxiv.org/abs/2504.08581)|null|
 |**2025-04-10**|**RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability**|Jonggwon Park et.al.|[2504.07416](http://arxiv.org/abs/2504.07416)|null|
@@ -4470,6 +4492,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-13**|**A Survey on Efficient Vision-Language Models**|Gaurav Shinde et.al.|[2504.09724](http://arxiv.org/abs/2504.09724)|null|
+|**2025-04-13**|**Metropolis-Hastings Captioning Game: Knowledge Fusion of Vision Language Models via Decentralized Bayesian Inference**|Yuta Matsui et.al.|[2504.09620](http://arxiv.org/abs/2504.09620)|null|
+|**2025-04-13**|**DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning**|Yining Zhao et.al.|[2504.09598](http://arxiv.org/abs/2504.09598)|null|
+|**2025-04-13**|**AeroLite: Tag-Guided Lightweight Generation of Aerial Image Captions**|Xing Zi et.al.|[2504.09528](http://arxiv.org/abs/2504.09528)|null|
 |**2025-04-11**|**AstroLLaVA: towards the unification of astronomical data and natural language**|Sharaf Zaman et.al.|[2504.08583](http://arxiv.org/abs/2504.08583)|null|
 |**2025-04-11**|**Embodied Image Captioning: Self-supervised Learning Agents for Spatially Coherent Image Descriptions**|Tommaso Galliena et.al.|[2504.08531](http://arxiv.org/abs/2504.08531)|null|
 |**2025-04-10**|**Impact of Language Guidance: A Reproducibility Study**|Cherish Puniani et.al.|[2504.08140](http://arxiv.org/abs/2504.08140)|null|
