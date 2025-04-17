@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121](http://arxiv.org/abs/2504.12121)|null|
 |**2025-04-15**|**PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation**|Bo-Cheng Hu et.al.|[2504.10986](http://arxiv.org/abs/2504.10986)|null|
 |**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
 |**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
@@ -1368,6 +1369,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Single-shot Star-convex Polygon-based Instance Segmentation for Spatially-correlated Biomedical Objects**|Trina De et.al.|[2504.12078](http://arxiv.org/abs/2504.12078)|null|
+|**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893](http://arxiv.org/abs/2504.11893)|null|
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
 |**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
 |**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813](http://arxiv.org/abs/2504.07813)|null|
@@ -1915,6 +1918,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169](http://arxiv.org/abs/2504.12169)|null|
+|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167](http://arxiv.org/abs/2504.12167)|null|
+|**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045](http://arxiv.org/abs/2504.12045)|null|
+|**2025-04-16**|**A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions**|Rahima Khanam et.al.|[2504.11995](http://arxiv.org/abs/2504.11995)|null|
+|**2025-04-16**|**Multimodal Spatio-temporal Graph Learning for Alignment-free RGBT Video Object Detection**|Qishun Wang et.al.|[2504.11779](http://arxiv.org/abs/2504.11779)|null|
 |**2025-04-15**|**Multi-level Cellular Automata for FLIM networks**|Felipe Crispim Salvagnini et.al.|[2504.11406](http://arxiv.org/abs/2504.11406)|null|
 |**2025-04-15**|**CFIS-YOLO: A Lightweight Multi-Scale Fusion Network for Edge-Deployable Wood Defect Detection**|Jincheng Kang et.al.|[2504.11305](http://arxiv.org/abs/2504.11305)|null|
 |**2025-04-15**|**Flyweight FLIM Networks for Salient Object Detection in Biomedical Images**|Leonardo M. Joao et.al.|[2504.11112](http://arxiv.org/abs/2504.11112)|null|
@@ -3971,6 +3979,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893](http://arxiv.org/abs/2504.11893)|null|
 |**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|null|
 |**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Peizheng Li et.al.|[2504.10117](http://arxiv.org/abs/2504.10117)|null|
 |**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|null|
@@ -4510,6 +4519,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**TADACap: Time-series Adaptive Domain-Aware Captioning**|Elizabeth Fons et.al.|[2504.11441](http://arxiv.org/abs/2504.11441)|null|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
 |**2025-04-14**|**Foundation Models for Remote Sensing: An Analysis of MLLMs for Object Localization**|Darryl Hannan et.al.|[2504.10727](http://arxiv.org/abs/2504.10727)|null|
