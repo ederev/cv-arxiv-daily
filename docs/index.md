@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1371,7 +1371,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-16**|**Single-shot Star-convex Polygon-based Instance Segmentation for Spatially-correlated Biomedical Objects**|Trina De et.al.|[2504.12078](http://arxiv.org/abs/2504.12078)|null|
 |**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893](http://arxiv.org/abs/2504.11893)|null|
-|**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
+|**2025-04-17**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
 |**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
 |**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813](http://arxiv.org/abs/2504.07813)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
