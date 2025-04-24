@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
+|**2025-04-22**|**DINOv2-powered Few-Shot Semantic Segmentation: A Unified Framework via Cross-Model Distillation and 4D Correlation Mining**|Wei Zhuo et.al.|[2504.15669](http://arxiv.org/abs/2504.15669)|null|
 |**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795](http://arxiv.org/abs/2504.14795)|**[link](https://github.com/pfnet-research/bayesian_spatialcorr)**|
 |**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
 |**2025-04-19**|**Segment Any Crack: Deep Semantic Segmentation Adaptation for Crack Detection**|Ghodsiyeh Rostami et.al.|[2504.14138](http://arxiv.org/abs/2504.14138)|null|
@@ -1936,6 +1938,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
+|**2025-04-22**|**You Sense Only Once Beneath: Ultra-Light Real-Time Underwater Object Detection**|Jun Dong et.al.|[2504.15694](http://arxiv.org/abs/2504.15694)|null|
+|**2025-04-22**|**A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities**|Md Abdul Baset Sarker et.al.|[2504.15654](http://arxiv.org/abs/2504.15654)|null|
+|**2025-04-21**|**Context Aware Grounded Teacher for Source Free Object Detection**|Tajamul Ashraf et.al.|[2504.15404](http://arxiv.org/abs/2504.15404)|null|
 |**2025-04-21**|**SuoiAI: Building a Dataset for Aquatic Invertebrates in Vietnam**|Tue Vo et.al.|[2504.15252](http://arxiv.org/abs/2504.15252)|null|
 |**2025-04-21**|**An Efficient Aerial Image Detection with Variable Receptive Fields**|Liu Wenbin et.al.|[2504.15165](http://arxiv.org/abs/2504.15165)|null|
 |**2025-04-19**|**Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization**|Nazia Aslam et.al.|[2504.14301](http://arxiv.org/abs/2504.14301)|null|
@@ -4555,6 +4562,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Vision language models are unreliable at trivial spatial cognition**|Sangeet Khemlani et.al.|[2504.16061](http://arxiv.org/abs/2504.16061)|null|
+|**2025-04-22**|**InstaRevive: One-Step Image Enhancement via Dynamic Score Matching**|Yixuan Zhu et.al.|[2504.15513](http://arxiv.org/abs/2504.15513)|null|
 |**2025-04-21**|**Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning**|Yassir Benhammou et.al.|[2504.15199](http://arxiv.org/abs/2504.15199)|null|
 |**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[2504.14526](http://arxiv.org/abs/2504.14526)|**[link](https://github.com/tong-zeng/dvbench)**|
 |**2025-04-14**|**Building Trustworthy Multimodal AI: A Review of Fairness, Transparency, and Ethics in Vision-Language Tasks**|Mohammad Saleha et.al.|[2504.13199](http://arxiv.org/abs/2504.13199)|null|
