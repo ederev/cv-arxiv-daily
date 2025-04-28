@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**A Data-Centric Approach to 3D Semantic Segmentation of Railway Scenes**|Nicolas Münger et.al.|[2504.18213](http://arxiv.org/abs/2504.18213)|null|
+|**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
+|**2025-04-25**|**What is the Added Value of UDA in the VFM Era?**|Brunó B. Englert et.al.|[2504.18190](http://arxiv.org/abs/2504.18190)|null|
+|**2025-04-25**|**Back to Fundamentals: Low-Level Visual Features Guided Progressive Token Pruning**|Yuanbing Ouyang et.al.|[2504.17996](http://arxiv.org/abs/2504.17996)|null|
+|**2025-04-24**|**Virtual Roads, Smarter Safety: A Digital Twin Framework for Mixed Autonomous Traffic Safety Analysis**|Hao Zhang et.al.|[2504.17968](http://arxiv.org/abs/2504.17968)|null|
+|**2025-04-24**|**Masked strategies for images with small objects**|H. Martin Gillis et.al.|[2504.17935](http://arxiv.org/abs/2504.17935)|null|
 |**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582](http://arxiv.org/abs/2504.17582)|null|
 |**2025-04-23**|**SemanticSugarBeets: A Multi-Task Framework and Dataset for Inspecting Harvest and Storage Characteristics of Sugar Beets**|Gerardus Croonen et.al.|[2504.16684](http://arxiv.org/abs/2504.16684)|null|
 |**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612](http://arxiv.org/abs/2504.16612)|null|
@@ -1944,6 +1950,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
+|**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278](http://arxiv.org/abs/2504.18278)|null|
+|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203](http://arxiv.org/abs/2504.18203)|null|
+|**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
+|**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|null|
+|**2025-04-25**|**MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View**|Liugang Lu et.al.|[2504.18136](http://arxiv.org/abs/2504.18136)|null|
+|**2025-04-25**|**Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057](http://arxiv.org/abs/2504.18057)|null|
+|**2025-04-25**|**Direct sampling method to retrieve small objects from two-dimensional limited-aperture scattered field data**|Won-Kwang Park et.al.|[2504.18036](http://arxiv.org/abs/2504.18036)|null|
 |**2025-04-24**|**DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks**|Yinqi Li et.al.|[2504.17253](http://arxiv.org/abs/2504.17253)|**[link](https://github.com/LiYinqi/DIVE)**|
 |**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
 |**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179](http://arxiv.org/abs/2504.17179)|null|
