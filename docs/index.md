@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**SRMF: A Data Augmentation and Multimodal Fusion Approach for Long-Tail UHR Satellite Image Segmentation**|Yulong Guo et.al.|[2504.19839](http://arxiv.org/abs/2504.19839)|null|
+|**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706](http://arxiv.org/abs/2504.19706)|null|
+|**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
+|**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409](http://arxiv.org/abs/2504.19409)|null|
+|**2025-04-27**|**DeepSPG: Exploring Deep Semantic Prior Guidance for Low-light Image Enhancement with Multimodal Learning**|Jialang Lu et.al.|[2504.19127](http://arxiv.org/abs/2504.19127)|null|
+|**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939](http://arxiv.org/abs/2504.18939)|null|
 |**2025-04-25**|**A Data-Centric Approach to 3D Semantic Segmentation of Railway Scenes**|Nicolas Münger et.al.|[2504.18213](http://arxiv.org/abs/2504.18213)|null|
 |**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
 |**2025-04-25**|**What is the Added Value of UDA in the VFM Era?**|Brunó B. Englert et.al.|[2504.18190](http://arxiv.org/abs/2504.18190)|null|
@@ -1397,6 +1403,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
+|**2025-04-28**|**SubGrapher: Visual Fingerprinting of Chemical Structures**|Lucas Morin et.al.|[2504.19695](http://arxiv.org/abs/2504.19695)|null|
+|**2025-04-28**|**BARIS: Boundary-Aware Refinement with Environmental Degradation Priors for Robust Underwater Instance Segmentation**|Pin-Chi Pan et.al.|[2504.19643](http://arxiv.org/abs/2504.19643)|null|
+|**2025-04-27**|**OpenFusion++: An Open-vocabulary Real-time Scene Understanding System**|Xiaofeng Jin et.al.|[2504.19266](http://arxiv.org/abs/2504.19266)|null|
+|**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
 |**2025-04-23**|**Scene-Aware Location Modeling for Data Augmentation in Automotive Object Detection**|Jens Petersen et.al.|[2504.17076](http://arxiv.org/abs/2504.17076)|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
 |**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
@@ -1950,6 +1961,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032](http://arxiv.org/abs/2504.20032)|null|
+|**2025-04-28**|**Lossy Source Coding with Focal Loss**|Alex Dytso et.al.|[2504.19913](http://arxiv.org/abs/2504.19913)|null|
+|**2025-04-28**|**Neural network task specialization via domain constraining**|Roman Malashin et.al.|[2504.19592](http://arxiv.org/abs/2504.19592)|null|
+|**2025-04-28**|**GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability**|Sehyeong Jo et.al.|[2504.19414](http://arxiv.org/abs/2504.19414)|null|
+|**2025-04-27**|**Improving Small Drone Detection Through Multi-Scale Processing and Data Augmentation**|Rayson Laroca et.al.|[2504.19347](http://arxiv.org/abs/2504.19347)|null|
+|**2025-04-27**|**ODExAI: A Comprehensive Object Detection Explainable AI Evaluation**|Loc Phuc Truong Nguyen et.al.|[2504.19249](http://arxiv.org/abs/2504.19249)|null|
+|**2025-04-27**|**Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction**|Xiaoran Xu et.al.|[2504.19086](http://arxiv.org/abs/2504.19086)|null|
+|**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939](http://arxiv.org/abs/2504.18939)|null|
+|**2025-04-25**|**Dream-Box: Object-wise Outlier Generation for Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2504.18746](http://arxiv.org/abs/2504.18746)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
@@ -3945,6 +3966,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
@@ -4052,6 +4074,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
+|**2025-04-28**|**MER 2025: When Affective Computing Meets Large Language Models**|Zheng Lian et.al.|[2504.19423](http://arxiv.org/abs/2504.19423)|null|
+|**2025-04-27**|**OpenFusion++: An Open-vocabulary Real-time Scene Understanding System**|Xiaofeng Jin et.al.|[2504.19266](http://arxiv.org/abs/2504.19266)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
 |**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
 |**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
 |**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153](http://arxiv.org/abs/2504.13153)|**[link](https://github.com/atrovast/thgs)**|
