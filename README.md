@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185](http://arxiv.org/abs/2505.06185)|null|
 |**2025-05-09**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049](http://arxiv.org/abs/2505.05049)|**[link](https://github.com/GreenAutoML4FAS/UncertainSAM)**|
 |**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023](http://arxiv.org/abs/2505.05023)|null|
 |**2025-05-07**|**Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?**|Shashank Agnihotri et.al.|[2505.04835](http://arxiv.org/abs/2505.04835)|**[link](https://github.com/shashankskagnihotri/benchmarking_robustness)**|
@@ -2011,6 +2012,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
+|**2025-05-09**|**Artificial intelligence pioneers the double-strangeness factory**|Yan He et.al.|[2505.05802](http://arxiv.org/abs/2505.05802)|null|
+|**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741](http://arxiv.org/abs/2505.05741)|null|
+|**2025-05-09**|**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**|Ho-Joong Kim et.al.|[2505.05711](http://arxiv.org/abs/2505.05711)|**[link](https://github.com/dotori-hj/digit)**|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
 |**2025-05-08**|**PaniCar: Securing the Perception of Advanced Driving Assistance Systems Against Emergency Vehicle Lighting**|Elad Feldman et.al.|[2505.05183](http://arxiv.org/abs/2505.05183)|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
@@ -4172,6 +4177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**VR-RAG: Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models**|Faizan Farooq Khan et.al.|[2505.05635](http://arxiv.org/abs/2505.05635)|null|
 |**2025-05-08**|**FLAM: Frame-Wise Language-Audio Modeling**|Yusong Wu et.al.|[2505.05335](http://arxiv.org/abs/2505.05335)|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
 |**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
@@ -4733,6 +4739,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020](http://arxiv.org/abs/2505.06020)|null|
+|**2025-05-09**|**Towards Developmentally Plausible Rewards: Communicative Success as a Learning Signal for Interactive Language Models**|Lennart Stöpler et.al.|[2505.05970](http://arxiv.org/abs/2505.05970)|null|
+|**2025-05-09**|**Describe Anything in Medical Images**|Xi Xiao et.al.|[2505.05804](http://arxiv.org/abs/2505.05804)|null|
 |**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Fei Zhao et.al.|[2505.03420](http://arxiv.org/abs/2505.03420)|null|
 |**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334](http://arxiv.org/abs/2505.03334)|null|
 |**2025-05-04**|**Compositional Image-Text Matching and Retrieval by Grounding Entities**|Madhukar Reddy Vongala et.al.|[2505.02278](http://arxiv.org/abs/2505.02278)|null|
