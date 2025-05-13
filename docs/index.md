@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766](http://arxiv.org/abs/2505.07766)|null|
+|**2025-05-12**|**Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation**|Negin Ghamsarian et.al.|[2505.07691](http://arxiv.org/abs/2505.07691)|null|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071](http://arxiv.org/abs/2505.07071)|**[link](https://github.com/liu-zihang/samsr)**|
+|**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050](http://arxiv.org/abs/2505.07050)|null|
+|**2025-05-11**|**Technical Report for ICRA 2025 GOOSE 2D Semantic Segmentation Challenge: Leveraging Color Shift Correction, RoPE-Swin Backbone, and Quantile-based Label Denoising Strategy for Robust Outdoor Scene Understanding**|Chih-Chung Hsu et.al.|[2505.06991](http://arxiv.org/abs/2505.06991)|null|
+|**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[2505.06951](http://arxiv.org/abs/2505.06951)|null|
+|**2025-05-10**|**Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization**|Xu Zheng et.al.|[2505.06635](http://arxiv.org/abs/2505.06635)|null|
+|**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
 |**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185](http://arxiv.org/abs/2505.06185)|null|
 |**2025-05-09**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049](http://arxiv.org/abs/2505.05049)|**[link](https://github.com/GreenAutoML4FAS/UncertainSAM)**|
 |**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023](http://arxiv.org/abs/2505.05023)|null|
@@ -1997,6 +2006,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715](http://arxiv.org/abs/2505.07715)|null|
+|**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556](http://arxiv.org/abs/2505.07556)|null|
+|**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398](http://arxiv.org/abs/2505.07398)|null|
+|**2025-05-12**|**Language-Driven Dual Style Mixing for Single-Domain Generalized Object Detection**|Hongda Qin et.al.|[2505.07219](http://arxiv.org/abs/2505.07219)|**[link](https://github.com/qinhongda8/ldds)**|
+|**2025-05-11**|**Differentiable NMS via Sinkhorn Matching for End-to-End Fabric Defect Detection**|Zhengyang Lu et.al.|[2505.07040](http://arxiv.org/abs/2505.07040)|null|
+|**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
+|**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|null|
+|**2025-05-10**|**Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search**|XiaoTong Gu et.al.|[2505.06694](http://arxiv.org/abs/2505.06694)|null|
+|**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|null|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
 |**2025-05-09**|**Artificial intelligence pioneers the double-strangeness factory**|Yan He et.al.|[2505.05802](http://arxiv.org/abs/2505.05802)|null|
 |**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741](http://arxiv.org/abs/2505.05741)|null|
@@ -4044,6 +4062,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
+|**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
@@ -4158,6 +4178,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
+|**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|null|
+|**2025-05-10**|**Causal Prompt Calibration Guided Segment Anything Model for Open-Vocabulary Multi-Entity Segmentation**|Jingyao Wang et.al.|[2505.06524](http://arxiv.org/abs/2505.06524)|null|
+|**2025-05-06**|**Show or Tell? A Benchmark To Evaluate Visual and Textual Prompts in Semantic Segmentation**|Gabriele Rosi et.al.|[2505.06280](http://arxiv.org/abs/2505.06280)|**[link](https://github.com/FocoosAI/ShowOrTell)**|
 |**2025-05-08**|**VR-RAG: Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models**|Faizan Farooq Khan et.al.|[2505.05635](http://arxiv.org/abs/2505.05635)|null|
 |**2025-05-08**|**FLAM: Frame-Wise Language-Audio Modeling**|Yusong Wu et.al.|[2505.05335](http://arxiv.org/abs/2505.05335)|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
@@ -4718,6 +4742,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019](http://arxiv.org/abs/2505.07019)|null|
+|**2025-05-09**|**A Grounded Memory System For Smart Personal Assistants**|Felix Ocker et.al.|[2505.06328](http://arxiv.org/abs/2505.06328)|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020](http://arxiv.org/abs/2505.06020)|null|
 |**2025-05-09**|**Towards Developmentally Plausible Rewards: Communicative Success as a Learning Signal for Interactive Language Models**|Lennart Stöpler et.al.|[2505.05970](http://arxiv.org/abs/2505.05970)|null|
 |**2025-05-09**|**Describe Anything in Medical Images**|Xi Xiao et.al.|[2505.05804](http://arxiv.org/abs/2505.05804)|null|
