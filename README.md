@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589](http://arxiv.org/abs/2505.08589)|null|
+|**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525](http://arxiv.org/abs/2505.08525)|null|
+|**2025-05-13**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445](http://arxiv.org/abs/2505.08445)|null|
+|**2025-05-13**|**GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI**|Lei Su et.al.|[2505.08430](http://arxiv.org/abs/2505.08430)|null|
 |**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766](http://arxiv.org/abs/2505.07766)|null|
 |**2025-05-12**|**Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation**|Negin Ghamsarian et.al.|[2505.07691](http://arxiv.org/abs/2505.07691)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
@@ -1447,6 +1451,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537](http://arxiv.org/abs/2505.08537)|null|
+|**2025-05-12**|**Vision Foundation Model Embedding-Based Semantic Anomaly Detection**|Max Peter Ronecker et.al.|[2505.07998](http://arxiv.org/abs/2505.07998)|null|
 |**2025-05-08**|**CottonSim: Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo**|Thevathayarajh Thayananthan et.al.|[2505.05317](http://arxiv.org/abs/2505.05317)|null|
 |**2025-05-08**|**RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization**|Shengchun Xiong et.al.|[2505.05073](http://arxiv.org/abs/2505.05073)|null|
 |**2025-05-08**|**Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model**|Navin Ranjan et.al.|[2505.04861](http://arxiv.org/abs/2505.04861)|null|
@@ -2021,6 +2027,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
+|**2025-05-13**|**Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections**|Xiao Ni et.al.|[2505.08568](http://arxiv.org/abs/2505.08568)|**[link](https://github.com/leon2014dresden/yolo-thermal)**|
+|**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
+|**2025-05-13**|**HMPNet: A Feature Aggregation Architecture for Maritime Object Detection from a Shipborne Perspective**|Yu Zhang et.al.|[2505.08231](http://arxiv.org/abs/2505.08231)|**[link](https://github.com/tustailab/hmpnet)**|
+|**2025-05-13**|**Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**|Unai Gurbindo et.al.|[2505.08228](http://arxiv.org/abs/2505.08228)|null|
+|**2025-05-13**|**MoKD: Multi-Task Optimization for Knowledge Distillation**|Zeeshan Hayder et.al.|[2505.08170](http://arxiv.org/abs/2505.08170)|null|
 |**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715](http://arxiv.org/abs/2505.07715)|null|
 |**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556](http://arxiv.org/abs/2505.07556)|null|
 |**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398](http://arxiv.org/abs/2505.07398)|null|
@@ -4079,6 +4091,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
@@ -4197,6 +4210,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
 |**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|**[link](https://github.com/wangyongqi558/METOR)**|
 |**2025-05-10**|**Causal Prompt Calibration Guided Segment Anything Model for Open-Vocabulary Multi-Entity Segmentation**|Jingyao Wang et.al.|[2505.06524](http://arxiv.org/abs/2505.06524)|**[link](https://github.com/WangJingyao07/CPC-SAM)**|
