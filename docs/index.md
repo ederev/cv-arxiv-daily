@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization**|Xiaoyang Yu et.al.|[2505.09385](http://arxiv.org/abs/2505.09385)|null|
+|**2025-05-14**|**MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning**|Bin-Bin Gao et.al.|[2505.09265](http://arxiv.org/abs/2505.09265)|null|
 |**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589](http://arxiv.org/abs/2505.08589)|null|
 |**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525](http://arxiv.org/abs/2505.08525)|null|
 |**2025-05-13**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445](http://arxiv.org/abs/2505.08445)|null|
@@ -2012,6 +2014,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422](http://arxiv.org/abs/2505.09422)|null|
+|**2025-05-14**|**A drone that learns to efficiently find objects in agricultural fields: from simulation to the real world**|Rick van Essen et.al.|[2505.09278](http://arxiv.org/abs/2505.09278)|null|
+|**2025-05-14**|**DRRNet: Macro-Micro Feature Fusion and Dual Reverse Refinement for Camouflaged Object Detection**|Jianlin Sun et.al.|[2505.09168](http://arxiv.org/abs/2505.09168)|**[link](https://github.com/jerrysunning/drrnet)**|
+|**2025-05-14**|**Beyond General Prompts: Automated Prompt Refinement using Contrastive Class Alignment Scores for Disambiguating Objects in Vision-Language Models**|Lucas Choi et.al.|[2505.09139](http://arxiv.org/abs/2505.09139)|null|
+|**2025-05-14**|**Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance**|Guoying Liang et.al.|[2505.09123](http://arxiv.org/abs/2505.09123)|null|
+|**2025-05-13**|**Robustness Analysis against Adversarial Patch Attacks in Fully Unmanned Stores**|Hyunsik Na et.al.|[2505.08835](http://arxiv.org/abs/2505.08835)|null|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-14**|**Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections**|Xiao Ni et.al.|[2505.08568](http://arxiv.org/abs/2505.08568)|**[link](https://github.com/leon2014dresden/yolo-thermal)**|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
@@ -4756,6 +4764,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-10**|**Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models**|Zizhao Hu et.al.|[2505.08803](http://arxiv.org/abs/2505.08803)|null|
 |**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019](http://arxiv.org/abs/2505.07019)|null|
 |**2025-05-09**|**A Grounded Memory System For Smart Personal Assistants**|Felix Ocker et.al.|[2505.06328](http://arxiv.org/abs/2505.06328)|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020](http://arxiv.org/abs/2505.06020)|null|
