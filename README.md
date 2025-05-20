@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1452,7 +1452,7 @@
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Instance Segmentation
 
@@ -1466,7 +1466,7 @@
 |**2025-05-08**|**RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization**|Shengchun Xiong et.al.|[2505.05073](http://arxiv.org/abs/2505.05073)|null|
 |**2025-05-08**|**Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model**|Navin Ranjan et.al.|[2505.04861](http://arxiv.org/abs/2505.04861)|null|
 |**2025-05-07**|**Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer**|Sainath Dey et.al.|[2505.04740](http://arxiv.org/abs/2505.04740)|null|
-|**2025-05-13**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
+|**2025-05-16**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 |**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
 |**2025-05-03**|**A Novel WaveInst-based Network for Tree Trunk Structure Extraction and Pattern Analysis in Forest Inventory**|Chenyang Fan et.al.|[2505.01656](http://arxiv.org/abs/2505.01656)|null|
 |**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385](http://arxiv.org/abs/2505.01385)|null|
@@ -1918,7 +1918,7 @@
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787](http://arxiv.org/abs/2401.08787)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Panoptic Segmentation
 
@@ -2030,7 +2030,7 @@
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Object Detection
 
@@ -4109,7 +4109,7 @@
 |**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874](http://arxiv.org/abs/2401.11874)|**[link](https://github.com/microsoft/comphrdoc)**|
 |**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824](http://arxiv.org/abs/2401.11824)|**[link](https://github.com/klayand/pcka)**|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -4229,7 +4229,7 @@
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Open-Vocabulary
 
@@ -4796,14 +4796,14 @@
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Image Captioning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|null|
-|**2025-05-15**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
+|**2025-05-19**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2025-05-10**|**Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models**|Zizhao Hu et.al.|[2505.08803](http://arxiv.org/abs/2505.08803)|null|
 |**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019](http://arxiv.org/abs/2505.07019)|**[link](https://huggingface.co/enalis/scold)**|
@@ -5226,7 +5226,7 @@
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

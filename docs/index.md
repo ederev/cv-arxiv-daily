@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1455,7 +1455,7 @@ layout: default
 |**2025-05-08**|**RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization**|Shengchun Xiong et.al.|[2505.05073](http://arxiv.org/abs/2505.05073)|null|
 |**2025-05-08**|**Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model**|Navin Ranjan et.al.|[2505.04861](http://arxiv.org/abs/2505.04861)|null|
 |**2025-05-07**|**Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer**|Sainath Dey et.al.|[2505.04740](http://arxiv.org/abs/2505.04740)|null|
-|**2025-05-13**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
+|**2025-05-16**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 |**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
 |**2025-05-03**|**A Novel WaveInst-based Network for Tree Trunk Structure Extraction and Pattern Analysis in Forest Inventory**|Chenyang Fan et.al.|[2505.01656](http://arxiv.org/abs/2505.01656)|null|
 |**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385](http://arxiv.org/abs/2505.01385)|null|
@@ -4782,7 +4782,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|null|
-|**2025-05-15**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
+|**2025-05-19**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2025-05-10**|**Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models**|Zizhao Hu et.al.|[2505.08803](http://arxiv.org/abs/2505.08803)|null|
 |**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019](http://arxiv.org/abs/2505.07019)|**[link](https://huggingface.co/enalis/scold)**|
