@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Robust Multimodal Segmentation with Representation Regularization and Hybrid Prototype Distillation**|Jiaqi Tan et.al.|[2505.12861](http://arxiv.org/abs/2505.12861)|**[link](https://github.com/robustseg/robustseg)**|
+|**2025-05-18**|**Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction**|Sijie Zhao et.al.|[2505.12280](http://arxiv.org/abs/2505.12280)|**[link](https://github.com/walking-shadow/official_tssun)**|
+|**2025-05-17**|**EarthSynth: Generating Informative Earth Observation with Diffusion Models**|Jiancheng Pan et.al.|[2505.12108](http://arxiv.org/abs/2505.12108)|null|
+|**2025-05-17**|**Technical Report for ICRA 2025 GOOSE 2D Semantic Segmentation Challenge: Boosting Off-Road Segmentation via Photometric Distortion and Exponential Moving Average**|Wonjune Kim et.al.|[2505.11769](http://arxiv.org/abs/2505.11769)|null|
+|**2025-05-16**|**DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation**|Ziyu Zhao et.al.|[2505.11676](http://arxiv.org/abs/2505.11676)|null|
 |**2025-05-16**|**Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation**|David Minkwan Kim et.al.|[2505.10781](http://arxiv.org/abs/2505.10781)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
@@ -1447,6 +1452,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174](http://arxiv.org/abs/2505.13174)|null|
+|**2025-05-19**|**Industry-focused Synthetic Segmentation Pre-training**|Shinichi Mae et.al.|[2505.13099](http://arxiv.org/abs/2505.13099)|null|
+|**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789](http://arxiv.org/abs/2505.12789)|null|
+|**2025-05-17**|**SoftPQ: Robust Instance Segmentation Evaluation via Soft Matching and Tunable Thresholds**|Ranit Karmakar et.al.|[2505.12155](http://arxiv.org/abs/2505.12155)|**[link](https://github.com/rkarmaka/SoftPQ)**|
 |**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439](http://arxiv.org/abs/2505.11439)|null|
 |**2025-05-16**|**Pseudo-Label Quality Decoupling and Correction for Semi-Supervised Instance Segmentation**|Jianghang Lin et.al.|[2505.11075](http://arxiv.org/abs/2505.11075)|null|
 |**2025-05-14**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537](http://arxiv.org/abs/2505.08537)|null|
@@ -2021,6 +2030,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection**|Xiao Wang et.al.|[2505.12908](http://arxiv.org/abs/2505.12908)|**[link](https://github.com/event-ahu/openevdet)**|
+|**2025-05-19**|**Rethinking Features-Fused-Pyramid-Neck for Object Detection**|Hulin Li et.al.|[2505.12820](http://arxiv.org/abs/2505.12820)|**[link](https://github.com/alanli1997/rethinking-fpn)**|
+|**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789](http://arxiv.org/abs/2505.12789)|null|
+|**2025-05-19**|**LiDAR MOT-DETR: A LiDAR-based Two-Stage Transformer for 3D Multiple Object Tracking**|Martha Teiko Teye et.al.|[2505.12753](http://arxiv.org/abs/2505.12753)|null|
+|**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715](http://arxiv.org/abs/2505.12715)|null|
+|**2025-05-17**|**EarthSynth: Generating Informative Earth Observation with Diffusion Models**|Jiancheng Pan et.al.|[2505.12108](http://arxiv.org/abs/2505.12108)|null|
+|**2025-05-17**|**Experimental Study on Automatically Assembling Custom Catering Packages With a 3-DOF Delta Robot Using Deep Learning Methods**|Reihaneh Yourdkhani et.al.|[2505.11879](http://arxiv.org/abs/2505.11879)|null|
 |**2025-05-16**|**Improving Object Detection Performance through YOLOv8: A Comprehensive Training and Evaluation Study**|Rana Poureskandar et.al.|[2505.11424](http://arxiv.org/abs/2505.11424)|null|
 |**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
 |**2025-05-16**|**M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**|Chao Wang et.al.|[2505.10931](http://arxiv.org/abs/2505.10931)|null|
@@ -4098,6 +4114,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
+|**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
@@ -4216,6 +4234,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
+|**2025-05-17**|**GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation**|Teli Ma et.al.|[2505.11865](http://arxiv.org/abs/2505.11865)|null|
+|**2025-05-16**|**DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation**|Ziyu Zhao et.al.|[2505.11676](http://arxiv.org/abs/2505.11676)|null|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
 |**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|**[link](https://github.com/wangyongqi558/METOR)**|
@@ -4781,6 +4802,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding**|Xuefei Sun et.al.|[2505.12194](http://arxiv.org/abs/2505.12194)|null|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|null|
 |**2025-05-19**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
