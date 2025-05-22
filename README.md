@@ -23,6 +23,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
+|**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545](http://arxiv.org/abs/2505.15545)|**[link](https://github.com/andrewcaunes/ia4markings)**|
+|**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491](http://arxiv.org/abs/2505.15491)|null|
+|**2025-05-21**|**From Pixels to Images: Deep Learning Advances in Remote Sensing Image Semantic Segmentation**|Quanwei Liu et.al.|[2505.15147](http://arxiv.org/abs/2505.15147)|null|
+|**2025-05-20**|**Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning**|Amine Elhafsi et.al.|[2505.14938](http://arxiv.org/abs/2505.14938)|null|
+|**2025-05-20**|**LOD1 3D City Model from LiDAR: The Impact of Segmentation Accuracy on Quality of Urban 3D Modeling and Morphology Extraction**|Fatemeh Chajaei et.al.|[2505.14747](http://arxiv.org/abs/2505.14747)|null|
 |**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583](http://arxiv.org/abs/2505.14583)|null|
 |**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511](http://arxiv.org/abs/2505.14511)|null|
 |**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
@@ -1470,6 +1476,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581](http://arxiv.org/abs/2505.15581)|**[link](https://github.com/liamlian0727/uiis10k)**|
+|**2025-05-21**|**gen2seg: Generative Models Enable Generalizable Instance Segmentation**|Om Khangaonkar et.al.|[2505.15263](http://arxiv.org/abs/2505.15263)|null|
 |**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583](http://arxiv.org/abs/2505.14583)|null|
 |**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239](http://arxiv.org/abs/2505.14239)|null|
 |**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174](http://arxiv.org/abs/2505.13174)|null|
@@ -2054,6 +2062,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628](http://arxiv.org/abs/2505.15628)|**[link](https://github.com/ykotseruba/snap)**|
+|**2025-05-21**|**Detection of Underwater Multi-Targets Based on Self-Supervised Learning and Deformable Path Aggregation Feature Pyramid Network**|Chang Liu et.al.|[2505.15518](http://arxiv.org/abs/2505.15518)|null|
+|**2025-05-21**|**RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation**|Naman Patel et.al.|[2505.15373](http://arxiv.org/abs/2505.15373)|null|
+|**2025-05-21**|**Multispectral Detection Transformer with Infrared-Centric Sensor Fusion**|Seongmin Hwang et.al.|[2505.15137](http://arxiv.org/abs/2505.15137)|null|
 |**2025-05-20**|**SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation**|Yuyang Dong et.al.|[2505.14381](http://arxiv.org/abs/2505.14381)|null|
 |**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239](http://arxiv.org/abs/2505.14239)|null|
 |**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
@@ -4270,6 +4282,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
+|**2025-05-21**|**RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation**|Naman Patel et.al.|[2505.15373](http://arxiv.org/abs/2505.15373)|null|
 |**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
 |**2025-05-17**|**GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation**|Teli Ma et.al.|[2505.11865](http://arxiv.org/abs/2505.11865)|null|
 |**2025-05-16**|**DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation**|Ziyu Zhao et.al.|[2505.11676](http://arxiv.org/abs/2505.11676)|null|
@@ -4840,6 +4854,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Explainable embeddings with Distance Explainer**|Christiaan Meijer et.al.|[2505.15516](http://arxiv.org/abs/2505.15516)|null|
+|**2025-05-21**|**Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models**|Jiaying Wu et.al.|[2505.15489](http://arxiv.org/abs/2505.15489)|null|
+|**2025-05-20**|**MedBLIP: Fine-tuning BLIP for Medical Image Captioning**|Manshi Limbu et.al.|[2505.14726](http://arxiv.org/abs/2505.14726)|null|
 |**2025-05-20**|**RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding**|Jiaang Li et.al.|[2505.14462](http://arxiv.org/abs/2505.14462)|**[link](https://github.com/yfyuan01/ravenea)**|
 |**2025-05-20**|**Aligning Attention Distribution to Information Flow for Hallucination Mitigation in Large Vision-Language Models**|Jianfei Zhao et.al.|[2505.14257](http://arxiv.org/abs/2505.14257)|null|
 |**2025-05-19**|**Sat2Sound: A Unified Framework for Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2505.13777](http://arxiv.org/abs/2505.13777)|null|
