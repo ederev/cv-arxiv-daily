@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
+|**2025-06-04**|**OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation**|Aditya Gandhamal et.al.|[2506.03706](http://arxiv.org/abs/2506.03706)|null|
+|**2025-06-04**|**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation**|Jialei Chen et.al.|[2506.03675](http://arxiv.org/abs/2506.03675)|null|
+|**2025-06-03**|**Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery**|Pengyu Chen et.al.|[2506.03388](http://arxiv.org/abs/2506.03388)|null|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
@@ -2123,6 +2127,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|null|
+|**2025-06-04**|**FSHNet: Fully Sparse Hybrid Network for 3D Object Detection**|Shuai Liu et.al.|[2506.03714](http://arxiv.org/abs/2506.03714)|null|
+|**2025-06-04**|**How PARTs assemble into wholes: Learning the relative composition of images**|Melika Ayoughi et.al.|[2506.03682](http://arxiv.org/abs/2506.03682)|null|
+|**2025-06-04**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654](http://arxiv.org/abs/2506.03654)|null|
+|**2025-06-04**|**DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network**|Chong Hyun Lee et.al.|[2506.03571](http://arxiv.org/abs/2506.03571)|null|
+|**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
 |**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
@@ -4404,6 +4414,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
+|**2025-06-04**|**OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation**|Aditya Gandhamal et.al.|[2506.03706](http://arxiv.org/abs/2506.03706)|null|
 |**2025-06-03**|**Tru-POMDP: Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs**|Wenjing Tang et.al.|[2506.02860](http://arxiv.org/abs/2506.02860)|null|
 |**2025-06-03**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization**|Geonyoung Lee et.al.|[2506.02858](http://arxiv.org/abs/2506.02858)|null|
 |**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
@@ -4999,6 +5011,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
 |**2025-06-03**|**SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning**|Zhengyuan Liu et.al.|[2506.02412](http://arxiv.org/abs/2506.02412)|null|
 |**2025-06-01**|**HSCR: Hierarchical Self-Contrastive Rewarding for Aligning Medical Vision Language Models**|Songtao Jiang et.al.|[2506.00805](http://arxiv.org/abs/2506.00805)|null|
