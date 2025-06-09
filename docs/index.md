@@ -33,7 +33,7 @@ layout: default
 |**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
 |**2025-05-30**|**Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors**|Peiran Xu et.al.|[2505.24103](http://arxiv.org/abs/2505.24103)|null|
 |**2025-05-29**|**MaskAdapt: Unsupervised Geometry-Aware Domain Adaptation Using Multimodal Contextual Learning and RGB-Depth Masking**|Numair Nadeem et.al.|[2505.24026](http://arxiv.org/abs/2505.24026)|null|
-|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
+|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|**[link](https://github.com/CrashedBboy/SGGIC)**|
 |**2025-05-29**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926](http://arxiv.org/abs/2505.23926)|null|
 |**2025-05-29**|**TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models**|Yao Xiao et.al.|[2505.23769](http://arxiv.org/abs/2505.23769)|**[link](https://github.com/avaxiao/TextRegion)**|
 |**2025-05-29**|**Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation**|Georgios Voulgaris et.al.|[2505.23597](http://arxiv.org/abs/2505.23597)|null|
@@ -49,7 +49,7 @@ layout: default
 |**2025-05-28**|**A Survey on Training-free Open-Vocabulary Semantic Segmentation**|Naomi Kombol et.al.|[2505.22209](http://arxiv.org/abs/2505.22209)|null|
 |**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
 |**2025-05-28**|**LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**|Chenfeng Wei et.al.|[2505.21914](http://arxiv.org/abs/2505.21914)|null|
-|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
+|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|**[link](https://github.com/dosowiechi/mlmp)**|
 |**2025-05-27**|**Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning**|Nikos Giannakakis et.al.|[2505.20962](http://arxiv.org/abs/2505.20962)|null|
 |**2025-05-27**|**DSOcc: Leveraging Depth Awareness and Semantic Aid to Boost Camera-Based 3D Semantic Occupancy Prediction**|Naiyu Fang et.al.|[2505.20951](http://arxiv.org/abs/2505.20951)|null|
 |**2025-05-26**|**Vision-Based Risk Aware Emergency Landing for UAVs in Complex Urban Environments**|Julio de la Torre-Vanegas et.al.|[2505.20423](http://arxiv.org/abs/2505.20423)|null|
@@ -67,7 +67,7 @@ layout: default
 |**2025-05-23**|**EMRA-proxy: Enhancing Multi-Class Region Semantic Segmentation in Remote Sensing Images with Attention Proxy**|Yichun Yu et.al.|[2505.17665](http://arxiv.org/abs/2505.17665)|null|
 |**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
-|**2025-05-25**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
+|**2025-05-25**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|**[link](https://github.com/alpha-innovator/novelseek)**|
 |**2025-05-22**|**TextureSAM: Towards a Texture Aware Foundation Model for Segmentation**|Inbal Cohen et.al.|[2505.16540](http://arxiv.org/abs/2505.16540)|null|
 |**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|**[link](https://github.com/echigot/cactif)**|
 |**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
@@ -187,7 +187,7 @@ layout: default
 |**2025-04-10**|**Distilling Knowledge from Heterogeneous Architectures for Semantic Segmentation**|Yanglin Huang et.al.|[2504.07691](http://arxiv.org/abs/2504.07691)|null|
 |**2025-04-10**|**RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability**|Jonggwon Park et.al.|[2504.07416](http://arxiv.org/abs/2504.07416)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
-|**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|null|
+|**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|**[link](https://github.com/ReijiSoftmaxSaito/ADSI)**|
 |**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Hritam Basak et.al.|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
 |**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|**[link](https://github.com/visionxlab/earth-adapter)**|
 |**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185](http://arxiv.org/abs/2504.06185)|null|
@@ -1531,7 +1531,7 @@ layout: default
 |**2025-05-29**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
 |**2025-05-24**|**ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts**|Shiu-hong Kao et.al.|[2505.18561](http://arxiv.org/abs/2505.18561)|**[link](https://github.com/danielshkao/thinkvideo)**|
 |**2025-05-22**|**Detailed Evaluation of Modern Machine Learning Approaches for Optic Plastics Sorting**|Vaishali Maheshkar et.al.|[2505.16513](http://arxiv.org/abs/2505.16513)|null|
-|**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|null|
+|**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|**[link](https://github.com/dengq7/sketchy-3dis)**|
 |**2025-05-22**|**RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition**|Yechan Park et.al.|[2505.16165](http://arxiv.org/abs/2505.16165)|**[link](https://github.com/pyc5714/re-trip)**|
 |**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581](http://arxiv.org/abs/2505.15581)|**[link](https://github.com/liamlian0727/uiis10k)**|
 |**2025-05-21**|**gen2seg: Generative Models Enable Generalizable Instance Segmentation**|Om Khangaonkar et.al.|[2505.15263](http://arxiv.org/abs/2505.15263)|null|
@@ -2179,7 +2179,7 @@ layout: default
 |**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|**[link](https://github.com/shashankskagnihotri/benchmarking_reliability_generalization)**|
 |**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
 |**2025-05-23**|**Adaptive Semantic Token Communication for Transformer-based Edge Inference**|Alessio Devoto et.al.|[2505.17604](http://arxiv.org/abs/2505.17604)|**[link](https://github.com/jaryp/adaptivesemantictokencommunication)**|
-|**2025-05-23**|**OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**|Jiangning Zhu et.al.|[2505.17473](http://arxiv.org/abs/2505.17473)|null|
+|**2025-05-23**|**OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**|Jiangning Zhu et.al.|[2505.17473](http://arxiv.org/abs/2505.17473)|**[link](https://github.com/orionbench/orionbench)**|
 |**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
 |**2025-05-23**|**Optimizing YOLOv8 for Parking Space Detection: Comparative Analysis of Custom YOLOv8 Architecture**|Apar Pokhrel et.al.|[2505.17364](http://arxiv.org/abs/2505.17364)|null|
 |**2025-05-22**|**Extending Dataset Pruning to Object Detection: A Variance-based Approach**|Ryota Yagi et.al.|[2505.17245](http://arxiv.org/abs/2505.17245)|null|
@@ -2359,7 +2359,7 @@ layout: default
 |**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
 |**2025-04-10**|**Multi-Task Learning with Multi-Annotation Triplet Loss for Improved Object Detection**|Meilun Zhou et.al.|[2504.08054](http://arxiv.org/abs/2504.08054)|**[link](https://github.com/gatorsense/matl)**|
-|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|**[link](https://github.com/OpenDriveLab/DetAny3D)**|
 |**2025-04-11**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
 |**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813](http://arxiv.org/abs/2504.07813)|null|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
@@ -2471,7 +2471,7 @@ layout: default
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-20**|**Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection**|Jiangyi Wang et.al.|[2503.16125](http://arxiv.org/abs/2503.16125)|null|
 |**2025-03-20**|**Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution**|Wanshu Fan et.al.|[2503.16056](http://arxiv.org/abs/2503.16056)|**[link](https://github.com/fanamber831/sgglc-net)**|
-|**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
+|**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|**[link](https://github.com/InfLoop111/DCA)**|
 |**2025-03-19**|**Test-Time Backdoor Detection for Object Detection Models**|Hangtao Zhang et.al.|[2503.15293](http://arxiv.org/abs/2503.15293)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**UltraFlwr -- An Efficient Federated Medical and Surgical Object Detection Framework**|Yang Li et.al.|[2503.15161](http://arxiv.org/abs/2503.15161)|**[link](https://github.com/kcl-bmeis/ultraflwr)**|
@@ -2560,7 +2560,7 @@ layout: default
 |**2025-03-04**|**Robust detection of overlapping bioacoustic sound events**|Louis Mahon et.al.|[2503.02389](http://arxiv.org/abs/2503.02389)|null|
 |**2025-03-04**|**YOLO-PRO: Enhancing Instance-Specific Object Detection with Full-Channel Global Self-Attention**|Lin Huang et.al.|[2503.02348](http://arxiv.org/abs/2503.02348)|null|
 |**2025-03-04**|**SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images**|Gargi Panda et.al.|[2503.02270](http://arxiv.org/abs/2503.02270)|null|
-|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|**[link](https://github.com/heboyong/Generalized-Diffusion-Detector)**|
 |**2025-03-03**|**Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection**|Milin Patel et.al.|[2503.02087](http://arxiv.org/abs/2503.02087)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-03**|**Visual-RFT: Visual Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2503.01785](http://arxiv.org/abs/2503.01785)|**[link](https://github.com/liuziyu77/visual-rft)**|
 |**2025-03-03**|**Enhancing Object Detection Accuracy in Underwater Sonar Images through Deep Learning-based Denoising**|Ziyu Wang et.al.|[2503.01655](http://arxiv.org/abs/2503.01655)|null|
@@ -2829,7 +2829,7 @@ layout: default
 |**2024-12-17**|**Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings**|Paolo Gabriel et.al.|[2412.13152](http://arxiv.org/abs/2412.13152)|**[link](https://github.com/lookdeep/ai-norms-2024)**|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
 |**2024-12-17**|**What is YOLOv6? A Deep Insight into the Object Detection Model**|Athulya Sundaresan Geetha et.al.|[2412.13006](http://arxiv.org/abs/2412.13006)|null|
-|**2024-12-17**|**Differential Alignment for Domain Adaptive Object Detection**|Xinyu He et.al.|[2412.12830](http://arxiv.org/abs/2412.12830)|null|
+|**2024-12-17**|**Differential Alignment for Domain Adaptive Object Detection**|Xinyu He et.al.|[2412.12830](http://arxiv.org/abs/2412.12830)|**[link](https://github.com/estrellaxyu/differential-alignment-for-daod)**|
 |**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
 |**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725](http://arxiv.org/abs/2412.12725)|null|
 |**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
@@ -4420,14 +4420,14 @@ layout: default
 |**2025-06-02**|**WoMAP: World Models For Embodied Open-Vocabulary Object Localization**|Tenny Yin et.al.|[2506.01600](http://arxiv.org/abs/2506.01600)|null|
 |**2025-06-01**|**EEG2TEXT-CN: An Exploratory Study of Open-Vocabulary Chinese Text-EEG Alignment via Large Language Model and Contrastive Learning on ChineseEEG**|Jacky Tai-Yu Lu et.al.|[2506.00854](http://arxiv.org/abs/2506.00854)|null|
 |**2025-05-31**|**Test-time Vocabulary Adaptation for Language-driven Object Detection**|Mingxuan Liu et.al.|[2506.00333](http://arxiv.org/abs/2506.00333)|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-30**|**un $^2$ CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP**|Yinqi Li et.al.|[2505.24517](http://arxiv.org/abs/2505.24517)|null|
 |**2025-05-29**|**DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models**|Chenbin Pan et.al.|[2505.24025](http://arxiv.org/abs/2505.24025)|null|
 |**2025-05-29**|**TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models**|Yao Xiao et.al.|[2505.23769](http://arxiv.org/abs/2505.23769)|**[link](https://github.com/avaxiao/TextRegion)**|
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704](http://arxiv.org/abs/2505.23704)|**[link](https://github.com/hamadya/cldtracker)**|
 |**2025-06-01**|**Stairway to Success: Zero-Shot Floor-Aware Object-Goal Navigation via LLM-Driven Coarse-to-Fine Exploration**|Zeying Gong et.al.|[2505.23019](http://arxiv.org/abs/2505.23019)|null|
 |**2025-05-28**|**A Survey on Training-free Open-Vocabulary Semantic Segmentation**|Naomi Kombol et.al.|[2505.22209](http://arxiv.org/abs/2505.22209)|null|
-|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
+|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|**[link](https://github.com/dosowiechi/mlmp)**|
 |**2025-05-26**|**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**|Zuyao Chen et.al.|[2505.20106](http://arxiv.org/abs/2505.20106)|null|
 |**2025-05-26**|**What You Perceive Is What You Conceive: A Cognition-Inspired Framework for Open Vocabulary Image Segmentation**|Jianghang Lin et.al.|[2505.19569](http://arxiv.org/abs/2505.19569)|null|
 |**2025-05-26**|**LlamaSeg: Image Segmentation via Autoregressive Mask Generation**|Jiru Deng et.al.|[2505.19422](http://arxiv.org/abs/2505.19422)|null|
