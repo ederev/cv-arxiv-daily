@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -2119,7 +2119,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092](http://arxiv.org/abs/2506.05092)|null|
-|**2025-06-05**|**Bridging Annotation Gaps: Transferring Labels to Align Object Detection Datasets**|Mikhail Kennerley et.al.|[2506.04737](http://arxiv.org/abs/2506.04737)|null|
+|**2025-06-06**|**Bridging Annotation Gaps: Transferring Labels to Align Object Detection Datasets**|Mikhail Kennerley et.al.|[2506.04737](http://arxiv.org/abs/2506.04737)|null|
 |**2025-06-05**|**Gen-n-Val: Agentic Image Data Generation and Validation**|Jing-En Huang et.al.|[2506.04676](http://arxiv.org/abs/2506.04676)|null|
 |**2025-06-05**|**VoxDet: Rethinking 3D Semantic Occupancy Prediction as Dense Object Detection**|Wuyang Li et.al.|[2506.04623](http://arxiv.org/abs/2506.04623)|null|
 |**2025-06-04**|**FALO: Fast and Accurate LiDAR 3D Object Detection on Resource-Constrained Devices**|Shizhong Han et.al.|[2506.04499](http://arxiv.org/abs/2506.04499)|null|
