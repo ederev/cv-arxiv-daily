@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**A $^2$ LC: Active and Automated Label Correction for Semantic Segmentation**|Youjin Jeon et.al.|[2506.11599](http://arxiv.org/abs/2506.11599)|null|
+|**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356](http://arxiv.org/abs/2506.11356)|null|
 |**2025-06-12**|**Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes**|Masahiro Yasuda et.al.|[2506.10676](http://arxiv.org/abs/2506.10676)|null|
 |**2025-06-12**|**Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models**|Francisco Caetano et.al.|[2506.10634](http://arxiv.org/abs/2506.10634)|null|
 |**2025-06-12**|**Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration**|Jun Wang et.al.|[2506.10573](http://arxiv.org/abs/2506.10573)|null|
@@ -1562,6 +1564,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**O2Former:Direction-Aware and Multi-Scale Query Enhancement for SAR Ship Instance Segmentation**|F. Gao et.al.|[2506.11913](http://arxiv.org/abs/2506.11913)|null|
+|**2025-06-13**|**Prohibited Items Segmentation via Occlusion-aware Bilayer Modeling**|Yunhan Ren et.al.|[2506.11661](http://arxiv.org/abs/2506.11661)|null|
+|**2025-06-13**|**OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots**|Juno Kim et.al.|[2506.11585](http://arxiv.org/abs/2506.11585)|null|
+|**2025-06-10**|**Image-Based Method For Measuring And Classification Of Iron Ore Pellets Using Star-Convex Polygons**|Artem Solomko et.al.|[2506.11126](http://arxiv.org/abs/2506.11126)|null|
 |**2025-06-12**|**ALBERT: Advanced Localization and Bidirectional Encoder Representations from Transformers for Automotive Damage Evaluation**|Teerapong Panboonyuen et.al.|[2506.10524](http://arxiv.org/abs/2506.10524)|null|
 |**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784](http://arxiv.org/abs/2506.09784)|null|
 |**2025-06-11**|**The Four Color Theorem for Cell Instance Segmentation**|Ye Zhang et.al.|[2506.09724](http://arxiv.org/abs/2506.09724)|**[link](https://github.com/zhangye-zoe/fcis)**|
@@ -2169,6 +2175,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
+|**2025-06-13**|**GPLQ: A General, Practical, and Lightning QAT Method for Vision Transformers**|Guang Liang et.al.|[2506.11784](http://arxiv.org/abs/2506.11784)|null|
+|**2025-06-12**|**Teaching in adverse scenes: a statistically feedback-driven threshold and mask adjustment teacher-student framework for object detection in UAV images under adverse scenes**|Hongyu Chen et.al.|[2506.11175](http://arxiv.org/abs/2506.11175)|null|
 |**2025-06-12**|**Discrete Lorenz Attractors in 3D Sinusoidal Maps**|Sishu Shankar Muni et.al.|[2506.10788](http://arxiv.org/abs/2506.10788)|null|
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712](http://arxiv.org/abs/2506.10712)|null|
 |**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|null|
@@ -4494,6 +4504,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
+|**2025-06-13**|**OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots**|Juno Kim et.al.|[2506.11585](http://arxiv.org/abs/2506.11585)|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
 |**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[2506.09881](http://arxiv.org/abs/2506.09881)|**[link](https://github.com/anonymouse-9c53tp182bvz/vireo)**|
 |**2025-06-13**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li et.al.|[2506.09565](http://arxiv.org/abs/2506.09565)|null|
