@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -2170,7 +2170,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
-|**2025-06-16**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657](http://arxiv.org/abs/2506.13657)|**[link](https://github.com/dipayan1109033/edu-video-visual-detection)**|
+|**2025-06-17**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657](http://arxiv.org/abs/2506.13657)|**[link](https://github.com/dipayan1109033/edu-video-visual-detection)**|
 |**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505](http://arxiv.org/abs/2506.13505)|null|
 |**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440](http://arxiv.org/abs/2506.13440)|null|
 |**2025-06-16**|**Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots**|Jaehong Oh et.al.|[2506.13149](http://arxiv.org/abs/2506.13149)|null|
@@ -5121,7 +5121,7 @@ layout: default
 |**2025-06-11**|**A Manually Annotated Image-Caption Dataset for Detecting Children in the Wild**|Klim Kireev et.al.|[2506.10117](http://arxiv.org/abs/2506.10117)|null|
 |**2025-06-11**|**Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning**|Yuting Li et.al.|[2506.09736](http://arxiv.org/abs/2506.09736)|**[link](https://github.com/hiyouga/easyr1)**|
 |**2025-06-11**|**A Novel Lightweight Transformer with Edge-Aware Fusion for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2506.09429](http://arxiv.org/abs/2506.09429)|null|
-|**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
+|**2025-06-17**|**An Open-Source Software Toolkit & Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
 |**2025-06-10**|**Edit Flows: Flow Matching with Edit Operations**|Marton Havasi et.al.|[2506.09018](http://arxiv.org/abs/2506.09018)|null|
 |**2025-06-10**|**DiscoVLA: Discrepancy Reduction in Vision, Language, and Alignment for Parameter-Efficient Video-Text Retrieval**|Leqi Shen et.al.|[2506.08887](http://arxiv.org/abs/2506.08887)|**[link](https://github.com/lunarshen/dsicovla)**|
 |**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592](http://arxiv.org/abs/2506.08592)|**[link](https://github.com/lxucs/capretrieval)**|
