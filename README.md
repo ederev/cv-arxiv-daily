@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[2506.18682](http://arxiv.org/abs/2506.18682)|null|
+|**2025-06-22**|**OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model**|Shuaiyu Chen et.al.|[2506.18006](http://arxiv.org/abs/2506.18006)|null|
+|**2025-06-22**|**Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation**|Xiaodong Guo et.al.|[2506.17869](http://arxiv.org/abs/2506.17869)|null|
 |**2025-06-20**|**ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**|Binbin Xiang et.al.|[2506.16991](http://arxiv.org/abs/2506.16991)|null|
 |**2025-06-19**|**From Semantic To Instance: A Semi-Self-Supervised Learning Approach**|Keyhan Najafian et.al.|[2506.16563](http://arxiv.org/abs/2506.16563)|null|
 |**2025-06-19**|**Structured Semantic 3D Reconstruction (S23DR) Challenge 2025 -- Winning solution**|Jan Skvrna et.al.|[2506.16421](http://arxiv.org/abs/2506.16421)|null|
@@ -1582,6 +1585,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Jet Reconstruction with Mamba Networks in Collider Events**|Jinmian Li et.al.|[2506.18336](http://arxiv.org/abs/2506.18336)|null|
+|**2025-06-22**|**Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation**|Jiahao Lu et.al.|[2506.17891](http://arxiv.org/abs/2506.17891)|null|
 |**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|null|
 |**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940](http://arxiv.org/abs/2506.16940)|null|
 |**2025-06-19**|**From Semantic To Instance: A Semi-Self-Supervised Learning Approach**|Keyhan Najafian et.al.|[2506.16563](http://arxiv.org/abs/2506.16563)|null|
@@ -2201,6 +2206,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds**|Mauricio Byrd Victorica et.al.|[2506.18591](http://arxiv.org/abs/2506.18591)|null|
+|**2025-06-23**|**Improvement on LiDAR-Camera Calibration Using Square Targets**|Zhongyuan Li et.al.|[2506.18294](http://arxiv.org/abs/2506.18294)|null|
+|**2025-06-23**|**Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle**|Jagadeswara PKV Pothuri et.al.|[2506.18264](http://arxiv.org/abs/2506.18264)|null|
+|**2025-06-23**|**Ground tracking for improved landmine detection in a GPR system**|Li Tang et.al.|[2506.18258](http://arxiv.org/abs/2506.18258)|null|
+|**2025-06-23**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-22**|**Unfolding the Past: A Comprehensive Deep Learning Approach to Analyzing Incunabula Pages**|Klaudia Ropel et.al.|[2506.18069](http://arxiv.org/abs/2506.18069)|null|
+|**2025-06-21**|**YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception**|Mengqi Lei et.al.|[2506.17733](http://arxiv.org/abs/2506.17733)|null|
+|**2025-06-21**|**CSDN: A Context-Gated Self-Adaptive Detection Network for Real-Time Object Detection**|Wei Haolin et.al.|[2506.17679](http://arxiv.org/abs/2506.17679)|null|
+|**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Mihir Godbole et.al.|[2506.17590](http://arxiv.org/abs/2506.17590)|null|
 |**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186](http://arxiv.org/abs/2506.17186)|null|
 |**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
 |**2025-06-20**|**Cross-modal Offset-guided Dynamic Alignment and Fusion for Weakly Aligned UAV Object Detection**|Liu Zongzhen et.al.|[2506.16737](http://arxiv.org/abs/2506.16737)|null|
@@ -4555,6 +4569,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Context Biasing for Pronunciations-Orthography Mismatch in Automatic Speech Recognition**|Christian Huber et.al.|[2506.18703](http://arxiv.org/abs/2506.18703)|null|
+|**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Mihir Godbole et.al.|[2506.17590](http://arxiv.org/abs/2506.17590)|null|
+|**2025-06-21**|**Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations**|Zhihao Yuan et.al.|[2506.17545](http://arxiv.org/abs/2506.17545)|null|
+|**2025-06-19**|**Reflective VLM Planning for Dual-Arm Desktop Cleaning: Bridging Open-Vocabulary Perception and Precise Manipulation**|Yufan Liu et.al.|[2506.17328](http://arxiv.org/abs/2506.17328)|null|
 |**2025-06-19**|**Stepping Out of Similar Semantic Space for Open-Vocabulary Segmentation**|Yong Liu et.al.|[2506.16058](http://arxiv.org/abs/2506.16058)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
 |**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402](http://arxiv.org/abs/2506.15402)|null|
@@ -5174,6 +5192,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**OpenEvents V1: Large-Scale Benchmark Dataset for Multimodal Event Grounding**|Hieu Nguyen et.al.|[2506.18372](http://arxiv.org/abs/2506.18372)|null|
+|**2025-06-23**|**RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models**|Yeongtak Oh et.al.|[2506.18369](http://arxiv.org/abs/2506.18369)|null|
+|**2025-06-23**|**ReFrame: Rectification Framework for Image Explaining Architectures**|Debjyoti Das Adhikary et.al.|[2506.18272](http://arxiv.org/abs/2506.18272)|null|
+|**2025-06-22**|**PostAlign: Multimodal Grounding as a Corrective Lens for MLLMs**|Yixuan Wu et.al.|[2506.17901](http://arxiv.org/abs/2506.17901)|null|
+|**2025-06-21**|**MDSAM:Memory-Driven Sparse Attention Matrix for LVLMs Hallucination Mitigation**|Shuaiye Lu et.al.|[2506.17664](http://arxiv.org/abs/2506.17664)|null|
 |**2025-06-12**|**HalLoc: Token-level Localization of Hallucinations for Vision Language Models**|Eunkyu Park et.al.|[2506.10286](http://arxiv.org/abs/2506.10286)|null|
 |**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Xiyao Wang et.al.|[2506.10128](http://arxiv.org/abs/2506.10128)|**[link](https://github.com/si0wang/vicrit)**|
 |**2025-06-11**|**A Manually Annotated Image-Caption Dataset for Detecting Children in the Wild**|Klim Kireev et.al.|[2506.10117](http://arxiv.org/abs/2506.10117)|null|
