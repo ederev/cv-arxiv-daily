@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464](http://arxiv.org/abs/2506.20464)|null|
-|**2025-06-25**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
+|**2025-06-26**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**A Global-Local Cross-Attention Network for Ultra-high Resolution Remote Sensing Image Semantic Segmentation**|Chen Yi et.al.|[2506.19406](http://arxiv.org/abs/2506.19406)|null|
 |**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
@@ -2205,7 +2205,7 @@ layout: default
 |**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
 |**2025-06-25**|**Integrated optomechanical ultrasonic sensors with nano-Pascal-level sensitivity**|Xuening Cao et.al.|[2506.20219](http://arxiv.org/abs/2506.20219)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
-|**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
+|**2025-06-26**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
 |**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620](http://arxiv.org/abs/2506.19620)|null|
 |**2025-06-24**|**USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2506.19472](http://arxiv.org/abs/2506.19472)|null|
 |**2025-06-23**|**SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds**|Mauricio Byrd Victorica et.al.|[2506.18591](http://arxiv.org/abs/2506.18591)|null|
