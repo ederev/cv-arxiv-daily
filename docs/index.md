@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
+|**2025-06-30**|**Deep Learning-Based Semantic Segmentation for Real-Time Kidney Imaging and Measurements with Augmented Reality-Assisted Ultrasound**|Gijs Luijten et.al.|[2506.23721](http://arxiv.org/abs/2506.23721)|null|
+|**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
+|**2025-06-30**|**Interactive Interface For Semantic Segmentation Dataset Synthesis**|Ngoc-Do Tran et.al.|[2506.23470](http://arxiv.org/abs/2506.23470)|null|
+|**2025-06-30**|**Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation**|Dewen Zeng et.al.|[2506.23460](http://arxiv.org/abs/2506.23460)|null|
+|**2025-06-29**|**Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement**|Siyuan Chai et.al.|[2506.23353](http://arxiv.org/abs/2506.23353)|null|
+|**2025-06-29**|**FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method**|Quang-Huy Che et.al.|[2506.23323](http://arxiv.org/abs/2506.23323)|null|
+|**2025-06-29**|**BPD-Neo: An MRI Dataset for Lung-Trachea Segmentation with Clinical Data for Neonatal Bronchopulmonary Dysplasia**|Rachit Saluja et.al.|[2506.23305](http://arxiv.org/abs/2506.23305)|null|
+|**2025-06-29**|**High-quality Pseudo-labeling for Point Cloud Segmentation with Scene-level Annotation**|Lunhao Duan et.al.|[2506.23227](http://arxiv.org/abs/2506.23227)|null|
+|**2025-06-28**|**Probabilistic Prototype Calibration of Vision-Language Models for Generalized Few-shot Semantic Segmentation**|Jie Liu et.al.|[2506.22979](http://arxiv.org/abs/2506.22979)|null|
 |**2025-06-27**|**Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2506.22032](http://arxiv.org/abs/2506.22032)|null|
 |**2025-06-27**|**TASeg: Text-aware RGB-T Semantic Segmentation based on Fine-tuning Vision Foundation Models**|Meng Yu et.al.|[2506.21975](http://arxiv.org/abs/2506.21975)|null|
 |**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945](http://arxiv.org/abs/2506.21945)|null|
@@ -1591,6 +1601,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
 |**2025-06-24**|**USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2506.19472](http://arxiv.org/abs/2506.19472)|null|
 |**2025-06-23**|**Jet Reconstruction with Mamba Networks in Collider Events**|Jinmian Li et.al.|[2506.18336](http://arxiv.org/abs/2506.18336)|null|
 |**2025-06-22**|**Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation**|Jiahao Lu et.al.|[2506.17891](http://arxiv.org/abs/2506.17891)|null|
@@ -2211,6 +2222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
+|**2025-06-30**|**Visual Textualization for Image Prompted Object Detection**|Yongjian Wu et.al.|[2506.23785](http://arxiv.org/abs/2506.23785)|null|
+|**2025-06-30**|**PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection**|Xiao Li et.al.|[2506.23581](http://arxiv.org/abs/2506.23581)|null|
+|**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
+|**2025-06-30**|**OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving**|Mingqian Ji et.al.|[2506.23565](http://arxiv.org/abs/2506.23565)|null|
+|**2025-06-30**|**From Sight to Insight: Unleashing Eye-Tracking in Weakly Supervised Video Salient Object Detection**|Qi Qin et.al.|[2506.23519](http://arxiv.org/abs/2506.23519)|null|
+|**2025-06-30**|**Improve Underwater Object Detection through YOLOv12 Architecture and Physics-informed Augmentation**|Tinh Nguyen et.al.|[2506.23505](http://arxiv.org/abs/2506.23505)|null|
+|**2025-06-29**|**Detecting What Matters: A Novel Approach for Out-of-Distribution 3D Object Detection in Autonomous Vehicles**|Menna Taha et.al.|[2506.23426](http://arxiv.org/abs/2506.23426)|null|
+|**2025-06-29**|**Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement**|Siyuan Chai et.al.|[2506.23353](http://arxiv.org/abs/2506.23353)|null|
+|**2025-06-29**|**GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields**|Shunsuke Yasuki et.al.|[2506.23352](http://arxiv.org/abs/2506.23352)|null|
 |**2025-06-27**|**Attention-disentangled Uniform Orthogonal Feature Space Optimization for Few-shot Object Detection**|Taijin Zhao et.al.|[2506.22161](http://arxiv.org/abs/2506.22161)|null|
 |**2025-06-27**|**Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration**|Noora Sassali et.al.|[2506.22116](http://arxiv.org/abs/2506.22116)|null|
 |**2025-06-27**|**CERBERUS: Crack Evaluation & Recognition Benchmark for Engineering Reliability & Urban Stability**|Justin Reinman et.al.|[2506.21909](http://arxiv.org/abs/2506.21909)|null|
@@ -4594,6 +4615,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Can We Challenge Open-Vocabulary Object Detectors with Generated Content in Street Scenes?**|Annika Mütze et.al.|[2506.23751](http://arxiv.org/abs/2506.23751)|null|
+|**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
+|**2025-06-29**|**FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method**|Quang-Huy Che et.al.|[2506.23323](http://arxiv.org/abs/2506.23323)|null|
+|**2025-06-28**|**Unleashing the Multi-View Fusion Potential: Noise Correction in VLM for Open-Vocabulary 3D Scene Understanding**|Xingyilang Yin et.al.|[2506.22817](http://arxiv.org/abs/2506.22817)|null|
+|**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
 |**2025-06-27**|**Embodied Domain Adaptation for Object Detection**|Xiangyu Shi et.al.|[2506.21860](http://arxiv.org/abs/2506.21860)|null|
 |**2025-06-27**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
 |**2025-06-27**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
@@ -5222,6 +5248,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations**|Hyunjong Kim et.al.|[2506.24016](http://arxiv.org/abs/2506.24016)|null|
+|**2025-06-29**|**MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional Multimodal Embeddings**|Haonan Chen et.al.|[2506.23115](http://arxiv.org/abs/2506.23115)|null|
+|**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
 |**2025-06-27**|**On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling**|Stanley Wu et.al.|[2506.21874](http://arxiv.org/abs/2506.21874)|null|
 |**2025-06-19**|**Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding**|Varun Mannam et.al.|[2506.21604](http://arxiv.org/abs/2506.21604)|null|
 |**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848](http://arxiv.org/abs/2506.19848)|null|
