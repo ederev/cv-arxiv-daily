@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -5254,7 +5254,7 @@ layout: default
 |**2025-06-27**|**On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling**|Stanley Wu et.al.|[2506.21874](http://arxiv.org/abs/2506.21874)|null|
 |**2025-06-19**|**Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding**|Varun Mannam et.al.|[2506.21604](http://arxiv.org/abs/2506.21604)|null|
 |**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848](http://arxiv.org/abs/2506.19848)|null|
-|**2025-06-24**|**Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**|Runwei Guan et.al.|[2506.19288](http://arxiv.org/abs/2506.19288)|null|
+|**2025-07-01**|**Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**|Runwei Guan et.al.|[2506.19288](http://arxiv.org/abs/2506.19288)|null|
 |**2025-06-23**|**OpenEvents V1: Large-Scale Benchmark Dataset for Multimodal Event Grounding**|Hieu Nguyen et.al.|[2506.18372](http://arxiv.org/abs/2506.18372)|null|
 |**2025-06-23**|**RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models**|Yeongtak Oh et.al.|[2506.18369](http://arxiv.org/abs/2506.18369)|null|
 |**2025-06-23**|**ReFrame: Rectification Framework for Image Explaining Architectures**|Debjyoti Das Adhikary et.al.|[2506.18272](http://arxiv.org/abs/2506.18272)|null|
