@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
+|**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
+|**2025-07-03**|**MedFormer: Hierarchical Medical Vision Transformer with Content-Aware Dual Sparse Selection Attention**|Zunhui Xia et.al.|[2507.02488](http://arxiv.org/abs/2507.02488)|null|
+|**2025-07-03**|**Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis**|Byung Hyun Lee et.al.|[2507.02395](http://arxiv.org/abs/2507.02395)|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
 |**2025-07-02**|**A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**|Hao Wang et.al.|[2507.01573](http://arxiv.org/abs/2507.01573)|null|
 |**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698](http://arxiv.org/abs/2507.00698)|null|
@@ -1619,6 +1623,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
+|**2025-07-03**|**Perception Activator: An intuitive and portable framework for brain cognitive exploration**|Le Xu et.al.|[2507.02311](http://arxiv.org/abs/2507.02311)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
 |**2025-07-02**|**NOCTIS: Novel Object Cyclic Threshold based Instance Segmentation**|Max Gandyra et.al.|[2507.01463](http://arxiv.org/abs/2507.01463)|null|
 |**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698](http://arxiv.org/abs/2507.00698)|null|
@@ -2249,6 +2255,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al.|[2507.02751](http://arxiv.org/abs/2507.02751)|null|
+|**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
+|**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2507.02454](http://arxiv.org/abs/2507.02454)|null|
+|**2025-07-03**|**A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion**|Maryem Fadili et.al.|[2507.02430](http://arxiv.org/abs/2507.02430)|null|
+|**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393](http://arxiv.org/abs/2507.02393)|null|
+|**2025-07-03**|**Two-Steps Neural Networks for an Automated Cerebrovascular Landmark Detection**|Rafic Nader et.al.|[2507.02349](http://arxiv.org/abs/2507.02349)|null|
+|**2025-07-03**|**Perception Activator: An intuitive and portable framework for brain cognitive exploration**|Le Xu et.al.|[2507.02311](http://arxiv.org/abs/2507.02311)|null|
+|**2025-07-03**|**Understanding Trade offs When Conditioning Synthetic Data**|Brandon Trabucco et.al.|[2507.02217](http://arxiv.org/abs/2507.02217)|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
 |**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
 |**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182](http://arxiv.org/abs/2507.01182)|null|
@@ -4656,6 +4670,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
 |**2025-07-01**|**VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting**|Keiko Nagami et.al.|[2507.01125](http://arxiv.org/abs/2507.01125)|null|
 |**2025-06-30**|**Diffusion-Based Image Augmentation for Semantic Segmentation in Outdoor Robotics**|Peter Mortimer et.al.|[2507.00153](http://arxiv.org/abs/2507.00153)|null|
 |**2025-06-30**|**Can We Challenge Open-Vocabulary Object Detectors with Generated Content in Street Scenes?**|Annika Mütze et.al.|[2506.23751](http://arxiv.org/abs/2506.23751)|null|
