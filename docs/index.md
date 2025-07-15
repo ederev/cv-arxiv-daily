@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -1635,7 +1635,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-11**|**SurfDist: Interpretable Three-Dimensional Instance Segmentation Using Curved Surface Patches**|Jackson Borchardt et.al.|[2507.08223](http://arxiv.org/abs/2507.08223)|null|
 |**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972](http://arxiv.org/abs/2507.06972)|null|
-|**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
+|**2025-07-14**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
 |**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627](http://arxiv.org/abs/2507.05627)|null|
 |**2025-07-07**|**RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis**|Songxiao Yang et.al.|[2507.05193](http://arxiv.org/abs/2507.05193)|null|
