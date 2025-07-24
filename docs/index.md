@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Exploring Spatial Diversity for Region-based Active Learning**|Lile Cai et.al.|[2507.17367](http://arxiv.org/abs/2507.17367)|null|
+|**2025-07-23**|**Exploring Active Learning for Semiconductor Defect Segmentation**|Lile Cai et.al.|[2507.17359](http://arxiv.org/abs/2507.17359)|null|
+|**2025-07-23**|**Swin-TUNA : A Novel PEFT Approach for Accurate Food Image Segmentation**|Haotian Chen et.al.|[2507.17347](http://arxiv.org/abs/2507.17347)|null|
+|**2025-07-23**|**On Temporal Guidance and Iterative Refinement in Audio Source Separation**|Tobias Morocutti et.al.|[2507.17297](http://arxiv.org/abs/2507.17297)|null|
+|**2025-07-23**|**ScSAM: Debiasing Morphology and Distributional Variability in Subcellular Semantic Segmentation**|Bo Fang et.al.|[2507.17149](http://arxiv.org/abs/2507.17149)|null|
 |**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
 |**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624](http://arxiv.org/abs/2507.16624)|null|
 |**2025-07-22**|**Semantic Segmentation for Preoperative Planning in Transcatheter Aortic Valve Replacement**|Cedric Zöllner et.al.|[2507.16573](http://arxiv.org/abs/2507.16573)|null|
@@ -2317,6 +2322,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Perspective-Invariant 3D Object Detection**|Ao Liang et.al.|[2507.17665](http://arxiv.org/abs/2507.17665)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**Illicit object detection in X-ray imaging using deep learning techniques: A comparative evaluation**|Jorgen Cani et.al.|[2507.17508](http://arxiv.org/abs/2507.17508)|null|
+|**2025-07-23**|**Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection**|Yehao Lu et.al.|[2507.17436](http://arxiv.org/abs/2507.17436)|null|
+|**2025-07-23**|**SFUOD: Source-Free Unknown Object Detection**|Keon-Hee Park et.al.|[2507.17373](http://arxiv.org/abs/2507.17373)|null|
+|**2025-07-23**|**Optimizing Delivery Logistics: Enhancing Speed and Safety with Drone Technology**|Maharshi Shastri et.al.|[2507.17253](http://arxiv.org/abs/2507.17253)|null|
+|**2025-07-23**|**A Low-Cost Machine Learning Approach for Timber Diameter Estimation**|Fatemeh Hasanzadeh Fard et.al.|[2507.17219](http://arxiv.org/abs/2507.17219)|null|
+|**2025-07-22**|**Few-Shot Learning in Video and 3D Object Detection: A Survey**|Md Meftahul Ferdaus et.al.|[2507.17079](http://arxiv.org/abs/2507.17079)|null|
+|**2025-07-22**|**Transformer Based Building Boundary Reconstruction using Attraction Field Maps**|Muhammad Kamran et.al.|[2507.17038](http://arxiv.org/abs/2507.17038)|null|
 |**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
 |**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
 |**2025-07-22**|**Benchmarking pig detection and tracking under diverse and challenging conditions**|Jonathan Henrich et.al.|[2507.16639](http://arxiv.org/abs/2507.16639)|null|
@@ -4682,6 +4696,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits**|Chao He et.al.|[2507.17327](http://arxiv.org/abs/2507.17327)|null|
+|**2025-07-21**|**Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**|Mohamed Adjel et.al.|[2507.16850](http://arxiv.org/abs/2507.16850)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
@@ -4813,6 +4829,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection**|Yehao Lu et.al.|[2507.17436](http://arxiv.org/abs/2507.17436)|null|
+|**2025-07-23**|**Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models**|Shen Tan et.al.|[2507.17379](http://arxiv.org/abs/2507.17379)|null|
 |**2025-07-22**|**Detect Any Sound: Open-Vocabulary Sound Event Detection with Multi-Modal Queries**|Pengfei Cai et.al.|[2507.16343](http://arxiv.org/abs/2507.16343)|null|
 |**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Ruijie Zhu et.al.|[2507.15454](http://arxiv.org/abs/2507.15454)|null|
 |**2025-07-19**|**From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition**|Chen Cai et.al.|[2507.14686](http://arxiv.org/abs/2507.14686)|null|
