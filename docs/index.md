@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Segmentation
@@ -17,11 +17,11 @@ layout: default
 |**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
 |**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624](http://arxiv.org/abs/2507.16624)|null|
 |**2025-07-22**|**Semantic Segmentation for Preoperative Planning in Transcatheter Aortic Valve Replacement**|Cedric Zöllner et.al.|[2507.16573](http://arxiv.org/abs/2507.16573)|null|
-|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
+|**2025-07-23**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
 |**2025-07-22**|**AMMNet: An Asymmetric Multi-Modal Network for Remote Sensing Semantic Segmentation**|Hui Ye et.al.|[2507.16158](http://arxiv.org/abs/2507.16158)|null|
 |**2025-07-21**|**Improved Semantic Segmentation from Ultra-Low-Resolution RGB Images Applied to Privacy-Preserving Object-Goal Navigation**|Xuying Huang et.al.|[2507.16034](http://arxiv.org/abs/2507.16034)|null|
 |**2025-07-21**|**ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**|Danhui Chen et.al.|[2507.15803](http://arxiv.org/abs/2507.15803)|null|
-|**2025-07-21**|**Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond**|Huiyu Zhai et.al.|[2507.15401](http://arxiv.org/abs/2507.15401)|null|
+|**2025-07-23**|**Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond**|Huiyu Zhai et.al.|[2507.15401](http://arxiv.org/abs/2507.15401)|null|
 |**2025-07-20**|**A Novel Downsampling Strategy Based on Information Complementarity for Medical Image Segmentation**|Wenbo Yue et.al.|[2507.14790](http://arxiv.org/abs/2507.14790)|null|
 |**2025-07-19**|**GTPBD: A Fine-Grained Global Terraced Parcel and Boundary Dataset**|Zhiwei Zhang et.al.|[2507.14697](http://arxiv.org/abs/2507.14697)|null|
 |**2025-07-19**|**Artificial Intelligence in the Food Industry: Food Waste Estimation based on Computer Vision, a Brief Case Study in a University Dining Hall**|Shayan Rokhva et.al.|[2507.14662](http://arxiv.org/abs/2507.14662)|null|
@@ -1668,8 +1668,8 @@ layout: default
 |**2025-07-20**|**Towards Geometric and Textural Consistency 3D Scene Generation via Single Image-guided Model Generation and Layout Optimization**|Xiang Tang et.al.|[2507.14841](http://arxiv.org/abs/2507.14841)|null|
 |**2025-07-17**|**SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2507.12857](http://arxiv.org/abs/2507.12857)|null|
 |**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093](http://arxiv.org/abs/2507.12093)|null|
-|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
-|**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
+|**2025-07-23**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-23**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
 |**2025-07-15**|**Tomato Multi-Angle Multi-Pose Dataset for Fine-Grained Phenotyping**|Yujie Zhang et.al.|[2507.11279](http://arxiv.org/abs/2507.11279)|null|
 |**2025-07-14**|**rt-RISeg: Real-Time Model-Free Robot Interactive Segmentation for Active Instance-Level Object Understanding**|Howard H. Qian et.al.|[2507.10776](http://arxiv.org/abs/2507.10776)|null|
 |**2025-07-13**|**MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**|Ofir Gordon et.al.|[2507.09616](http://arxiv.org/abs/2507.09616)|null|
@@ -2193,7 +2193,7 @@ layout: default
 |**2025-07-22**|**Advancing Visual Large Language Model for Multi-granular Versatile Perception**|Wentao Xiang et.al.|[2507.16213](http://arxiv.org/abs/2507.16213)|null|
 |**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Ruijie Zhu et.al.|[2507.15454](http://arxiv.org/abs/2507.15454)|null|
 |**2025-07-18**|**Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images**|Jiaqi Lv et.al.|[2507.13974](http://arxiv.org/abs/2507.13974)|null|
-|**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
+|**2025-07-23**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
 |**2025-07-14**|**DEARLi: Decoupled Enhancement of Recognition and Localization for Semi-supervised Panoptic Segmentation**|Ivan Martinović et.al.|[2507.10118](http://arxiv.org/abs/2507.10118)|null|
 |**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
 |**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
